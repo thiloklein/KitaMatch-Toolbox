@@ -8,7 +8,7 @@ nav_order: 1
 # Rechtlicher Rahmen
 {: .no_toc }
 
-## Table of contents
+## Inhalt
 {: .no_toc .text-delta }
 
 1. TOC
