@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Einführung
+title: Startseite
 nav_order: 1
 permalink: /
 ---
 
-## Einführung
+## Übersicht
 
 ...
