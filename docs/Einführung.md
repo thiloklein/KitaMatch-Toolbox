@@ -20,7 +20,7 @@ Mit dem Ziel einer gerechteren und schnelleren Kitaplatzvergabe hat das ZEW – 
 
 ## Motivation
 
-In den meisten deutschen Städten ist die Vergabe von freien Plätzen in Kindertagesstätten und der Kindertagespflege weitgehend unkoordiniert. Dies bedeutet, dass Kitas kein einheitliches, transparentes Verfahren nutzen, und Eltern wiederum oft strategisch abwägen müssen, ob und wann sie sich in einer bestimmten Kita anmelden bzw. dieser zusagen. Diese unkoordinierten Verfahren haben allgemein folgende negative Eigenschaften (Herzog/Klein 2017).
+In den meisten deutschen Städten ist die Vergabe von freien Plätzen in Kindertagesstätten und der Kindertagespflege weitgehend unkoordiniert. Dies bedeutet, dass viele Kitas kein einheitliches, transparentes Verfahren nutzen, und Eltern wiederum oft strategisch abwägen müssen, ob und wann sie sich in einer bestimmten Kita anmelden bzw. dieser zusagen. Diese unkoordinierten Verfahren haben allgemein folgende negative Eigenschaften (Herzog/Klein 2017).
 
 -	Kriterientreue: Von der Stadt festgelegte, verbindliche Sozialkriterien für die Platzvergabe werden nachweisbar verletzt.
 - Strategiesicherheit: Die notwendigen strategischen Abwägungen bei der Angabe der Wunscheinrichtungen und der Platzwahl werden zurzeit von vielen Eltern als „Pokerspiel“ wahrgenommen.
