@@ -8,7 +8,7 @@ nav_order: 2
 # Kriterienkatalog erstellen
 {: .no_toc }
 
-## Table of contents
+## Inhalt
 {: .no_toc .text-delta }
 
 1. TOC
