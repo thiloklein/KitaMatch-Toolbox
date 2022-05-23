@@ -17,8 +17,8 @@ remote_theme: just-the-docs/just-the-docs
 # in the templates via {{ site.myvariable }}.
 title: KitaMatch-Toolbox
 description: Dokumentation für die KitaMatch Software
-baseurl: "/KitaMatch-Toolbox" # the subpath of your site, e.g. /blog
-url: "http://klein.uk" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/KitaMatch-Toolbox" # the subpath of your site, e.g. /blog
+url: "http://kitamatch.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
