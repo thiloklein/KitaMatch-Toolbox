@@ -8,6 +8,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+plugins:
+  - jekyll-remote-theme
+  
 remote_theme: just-the-docs/just-the-docs
 
 # Site settings
