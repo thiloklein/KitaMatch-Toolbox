@@ -21,4 +21,3 @@ permalink: /docs/Andere-Themen/Rechtlicher-Rahmen
 ## Font stack
 
 By default, Just the Docs uses a native system font stack for sans-serif fonts:
-{: .fs-6 .fw-300 }
