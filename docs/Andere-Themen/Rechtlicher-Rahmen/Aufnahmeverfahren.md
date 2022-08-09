@@ -2,6 +2,7 @@
 layout: default
 title: Aufnahmeverfahren
 parent: Rechtlicher Rahmen
+grand_parent: Andere Themen
 nav_order: 1
 ---
 
