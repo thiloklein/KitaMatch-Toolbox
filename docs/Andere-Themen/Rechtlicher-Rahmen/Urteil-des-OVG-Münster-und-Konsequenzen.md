@@ -2,6 +2,7 @@
 layout: default
 title: Urteil des OVG Münster und Konsequenzen
 parent: Rechtlicher Rahmen
+grand_parent: Andere Themen
 nav_order: 2
 ---
 
