@@ -2,6 +2,7 @@
 layout: default
 title: DSGVO
 parent: Rechtlicher Rahmen
+grand_parent: Andere Themen
 nav_order: 3
 ---
 
