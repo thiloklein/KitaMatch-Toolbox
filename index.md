@@ -16,8 +16,10 @@ permalink: /
 <b>Just a small image with a caption</b>
 
 
-<center>![small-image.jpg](assets/images/small-image.jpg)</center>
-<br>
-<center> <b>Just a small image with a caption</b> </center>
+<center>
+  ![small-image.jpg](assets/images/small-image.jpg)
+  <br>
+  <b>Just a small image with a caption</b> 
+</center>
 
 
