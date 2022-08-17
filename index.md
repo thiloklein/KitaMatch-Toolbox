@@ -9,6 +9,8 @@ permalink: /
 
 ...
 
+---
+
 ### Bilder hinzufügen
 
 ![small-image.jpg](assets/images/small-image.jpg)
@@ -28,6 +30,7 @@ permalink: /
 <br>
 <b>Centering multiple images and changing  the size</b>
 
+---
 
 ### Fußnoten
 
@@ -35,4 +38,14 @@ Im Fließtext [^1] können Sie ganz einfach Fußnoten [^2] unterbringen.
 
 [^1]: Hier finden Sie den Text zu der Fußnote.
 [^2]: **Fußnoten** selbst können auch *formatiert* werden.
+
+---
+
+### Links
+
+[Hyperlink](http://www.kreis-soest.de/familie_soziales/familie/betreuung/kita/kita_karte.php) oder [Interner Link](Verzeichnis angeben)
+
+
+
+
 
