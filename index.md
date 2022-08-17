@@ -8,3 +8,9 @@ permalink: /
 ## Startseite
 
 ...
+
+### Bilder hinzufügen
+
+![small-image.jpg](assets/images/small-image.jpg)
+<b>Just a small image with a caption</b>
+
