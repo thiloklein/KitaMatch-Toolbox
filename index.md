@@ -45,7 +45,7 @@ Im Fließtext [^1] können Sie ganz einfach Fußnoten [^2] unterbringen.
 
 [Hyperlink](http://www.kreis-soest.de/familie_soziales/familie/betreuung/kita/kita_karte.php) oder [Interner Link](Verzeichnis angeben)
 
-
+---
 
 
 
