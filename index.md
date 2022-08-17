@@ -22,3 +22,8 @@ permalink: /
 <b>Just a small image with a caption</b>
 
 
+{:style="text-align:center;"}
+![small-image.jpg](assets/images/small-image.jpg)
+![small-image.jpg](assets/images/small-image.jpg)
+<br>
+<b>Centering multiple images</b>
