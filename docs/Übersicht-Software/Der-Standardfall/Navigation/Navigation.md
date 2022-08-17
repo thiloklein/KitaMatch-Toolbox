@@ -2,7 +2,6 @@
 layout: default
 title: Navigation
 parent: Der Standardfall
-grand_parent: Übersicht Software
 nav_order: 4
 has_children: true
 ---
