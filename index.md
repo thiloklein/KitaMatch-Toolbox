@@ -23,7 +23,7 @@ permalink: /
 
 
 {:style="text-align:center;"}
-![small-image.jpg](assets/images/small-image.jpg){:width=50% height=50%}
-![small-image.jpg](assets/images/small-image.jpg){:width=50% height=50%}
+![small-image.jpg](assets/images/small-image.jpg){:height="36px" width="36px"}
+![small-image.jpg](assets/images/small-image.jpg){:height="36px" width="36px"}
 <br>
-<b>Centering multiple images</b>
+<b>Centering multiple images and changing  the size</b>
