@@ -19,7 +19,7 @@ permalink: /
 {:style="text-align:center;"}
 ![small-image.jpg](assets/images/small-image.jpg)
 <br>
-<b>Just a small image with a caption</b>
+<b>Centering image and caption</b>
 
 
 {:style="text-align:center;"}
@@ -29,10 +29,10 @@ permalink: /
 <b>Centering multiple images and changing  the size</b>
 
 
-###Fußnoten
+### Fußnoten
 
 Im Fließtext [^1] können Sie ganz einfach Fußnoten [^2] unterbringen.
 
 [^1]: Hier finden Sie den Text zu der Fußnote.
 [^2]: **Fußnoten** selbst können auch *formatiert* werden.
-Und diese umfassen sogar mehrere Zeilen.
+
