@@ -12,12 +12,12 @@ permalink: /
 ### Bilder hinzufügen
 
 ![small-image.jpg](assets/images/small-image.jpg)
-:--:
+<br>
 <b>Just a small image with a caption</b>
 
 
-->![small-image.jpg](assets/images/small-image.jpg)<-
-:--:
--> <b>Just a small image with a caption</b> <-
+<center>![small-image.jpg](assets/images/small-image.jpg)</center>
+<br>
+<center> <b>Just a small image with a caption</b> </center>
 
 
