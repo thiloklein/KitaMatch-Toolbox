@@ -3,7 +3,6 @@ layout: default
 title: Zuteilung
 parent: Navigation
 grand_parent: Der Standardfall
-grand_grand_parent: Übersicht Software
 nav_order: 1
 ---
 
