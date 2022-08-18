@@ -3,6 +3,7 @@ layout: default
 title: Navigation
 parent: Der Standardfall
 grand_parent: Übersicht Software
+has_children: true
 nav_order: 4
 ---
 
