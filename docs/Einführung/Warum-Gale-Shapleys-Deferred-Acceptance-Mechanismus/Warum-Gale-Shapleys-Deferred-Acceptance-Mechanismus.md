@@ -60,6 +60,7 @@ Für das Funktionieren des Mechanismus werden deshalb drei Angaben der Beteiligt
 
     Prioritäten der Kitas bilden das Gegenstück zu den Rankings der Bewerber. Je höher die Priorität eines Bewerbers/Kindes an einer bestimmten Kita, desto besser seine Chancen in dieser Kita einen Platz zu bekommen. Zum Beispiel, wenn eine Kita nur einen Platz für mehrere Bewerber hat, dann erhält das Kind mit der höchsten Priorität (= höchsten Punktezahl dem Prioritätenkatalog folgend) den Betreuungsplatz. Wie bei den Rankings der Bewerber kann grundsätzlich jede Kita eine eigene Prioritätsreihenfolge haben.
 
+  Weitere Infos zum Kriterienkatalog finden Sie weiter unten bzw. im Kapitel 3.2. <mark>(Link hinzufügen)</mark>
 
 - Für jede Kita die **Anzahl an verfügbaren Betreuungsplätzen**:
 
@@ -68,30 +69,30 @@ Für das Funktionieren des Mechanismus werden deshalb drei Angaben der Beteiligt
 
 Als nächstes wird der Ablauf des Deferred-Acceptance Mechanismus  beschrieben. Da dem Mechanismus ein Algorithmus unterliegt, wird der Ablauf schematisch in Schritten aufgezeigt.
  
-**(Kita-Anbieten) Deferred-Acceptance Mechanismus**[^2]: 
+**Deferred-Acceptance Mechanismus**[^2]: 
 
 **Schritt 1**.
 
-1 **Kita Angebote**: 
+(1) **Kita Angebote**: 
 
   Kitas machen für jeden ihrer Plätze ein Angebot an einen Bewerber — und zwar beginnend mit den höchst priorisierten der Reihe nach folgend.
 
-2 **Bewerber Annahmen**: 
+(2) **Bewerber Annahmen**: 
 
   Bewerber, die mindestens ein Angebot erhalten haben,  nehmen das beste Angebot vorläufig an und geben den anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben, eine definitive Absage. 
  
  
 **Schritt k>1**.
 
-1 **Kita Angebote**: 
+(1) **Kita Angebote**: 
 
-  Kitas, die mindestens eine Absage erhalten haben, machen neue Angebote für jede Absage --- außer sie haben keine Bewerber mehr, denen sie ein Angebot unterbreiten möchten. Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein weiteres Angebot.
+  Kitas, die mindestens eine Absage erhalten haben, machen ein neues Angebot pro Absage --- außer sie haben keine Bewerber mehr, denen sie ein Angebot unterbreiten möchten. Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein weiteres Angebot.
 
-2 **Bewerber Annahmen**: 
+(2) **Bewerber Annahmen**: 
 
   Bewerbern welche zusätzlich Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Danach erteilen sie allen anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben,  eine definitive Absage.
 
-3 **Ende**: 
+(3) **Ende**: 
 
   Falls kein einziges neues Angebot gemacht wurde, ist eine finale Zuteilung erreicht. Bewerber haben einen Kitaplatz bei der Kita, deren Angebot sie zuletzt vorläufig gehalten haben — vorläufige Annahmen werden jetzt zu definitiven Annahmen. Bewerbern, die kein Angebot halten, gehen leer aus.
 
@@ -99,7 +100,7 @@ Als nächstes wird der Ablauf des Deferred-Acceptance Mechanismus  beschrieben. 
 
 ## Semi-Dezentraler Deferred Acceptance Mechanismus für KITAMATCH
 
-**Zentrale Durchführung**: Normalerweise wird der Deferred Acceptance Mechanismus zentral durchgeführt. D.h. Prioritäten der Kitas und Präferenzen/Rankings der Bewerber werden zentral gesammelt, und anschließend wird eine Zuteilung via Deferred Acceptance Mechanismus direkt ermittelt.
+**Zentrale Durchführung**: Eigentlich wird der Deferred Acceptance Mechanismus zentral durchgeführt. D.h. Prioritäten der Kitas und Präferenzen/Rankings der Bewerber werden zentral gesammelt, und anschließend wird eine Zuteilung via Deferred Acceptance Mechanismus direkt ermittelt.
 
 **Semi-Zentrale Durchführung**: Die koordinierte Vergabe von Kitaplätzen wird semi-zentral durchgeführt. In diesem Fall werden die Präferenzen/Rankings der Bewerber zentral gesammelt, aber die Kitas nehmen dezentralisiert an der Vergabe teil, d.h. sie durchlaufen jeden Schritt der Vergabe. In diesem Zusammenhang hat sich das ZEW mit dem deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Städten in Nordrhein-Westfalen und Rheinland-Pfalz auf das Kita-Anbieten-Deferred-Acceptance Verfahren geeinigt — dies ist das Verfahre, das grundlegend der Kita-Software unterliegt, und funktioniert wie folgt:
 
@@ -109,26 +110,26 @@ Als nächstes wird der Ablauf des Deferred-Acceptance Mechanismus  beschrieben. 
 
 **Schritt 1.**
 
-1 Gemäß ihrer vorsortierten Liste machen Kitas für jeden ihrer Plätze ein Angebot an einen Bewerber — und zwar generell beginnend mit den höchst priorisierten der Reihe nach folgend. 
+(1) Gemäß ihrer vorsortierten Liste machen Kitas für jeden ihrer Plätze ein Angebot an einen Bewerber — und zwar generell beginnend mit den höchst priorisierten der Reihe nach folgend. 
 
 **Dezentral: Aufgrund der semi-dezentralen Natur des Verfahrens haben Kitas jedoch die Flexibilität, bei Bedarf von dem Kriterienkatalog/Prioritäten abzuweichen.**
 
 **Wichtig: Weicht eine Kita vom Kriterienkatalog ab, sollte dies begründet werden.** 
 
-2 Bewerber nehmen ein Angebot vorläufig an und geben den anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben, eine definitive Absage. Zentralisiert: Dies geschieht automatisch  über die hinterlegten Präferenzen.
+(2) Bewerber nehmen ein Angebot vorläufig an und geben den anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben, eine definitive Absage. Zentralisiert: Dies geschieht automatisch  über die hinterlegten Präferenzen.
 
 
 **Schritt k>1.**
 
-1 Kitas, die mindestens eine Absage erhalten haben machen neue Angebote für jede Absage. Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein     weiteres Angebot. 
+(1) Kitas, die mindestens eine Absage erhalten haben, machen ein neues Angebot pro Absage. Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein     weiteres Angebot. 
 
 **Dezentral: Auch in jedem dieser Schritte können Kitas bei Bedarf von dem Kriterienkatalog/Prioritäten abweichen.**
 
-2 Bewerber, welche zusätzlich Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Dann erteilen sie allen anderen Kitas eine definitive Absage. 
+(2) Bewerber, welche zusätzlich Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Dann erteilen sie allen anderen Kitas eine definitive Absage. 
 
 Zentralisiert: Dies geschieht automatisch über die hinterlegten Präferenzen.
 
-3 Falls kein einziges neues Angebot gemacht wurde, ist eine finale Zuteilung erreicht:
+(3) Falls kein einziges neues Angebot gemacht wurde, ist eine finale Zuteilung erreicht:
 Bewerber haben einen Kitaplatz bei der Kita, deren Angebot sie halten. Bewerber, die kein Angebot halten, bleiben zunächst unversorgt.
 
 
@@ -147,9 +148,9 @@ Als nächstes werden die theoretischen  Merkmale und Stärken des Deferred-Accep
 
 Jede Kita, die von einem Bewerber — nennen wir ihn ,,Bewerber A” — höher gerankt wurde als die ihm zugeteilte Kita, ist
 
-1 voll belegt und
+(1) voll belegt und
 
-2 jeder dort (bei einer von ,,Bewerber A” höher gerankten Kita) zugeteilte Bewerber hat eine höhere Priorität als ,,Bewerber A”.
+(2) jeder dort (bei einer von ,,Bewerber A” höher gerankten Kita) zugeteilte Bewerber hat eine höhere Priorität als ,,Bewerber A”.
 
  
 **Kita-Sicht**:
@@ -160,11 +161,28 @@ Jeder Bewerber, der nicht einer Kita zugeteilt wurde —nennen wir sie ,,Kita B�
 
 Bewerber Strategie-Sicherheit hat zwei Komponenten.
 
-1 Immun gegen Verkürzen der Rankingliste: Ein Bewerber kann unter keinen Umständen eine bessere Kita zugeteilt bekommen, wenn sie weniger Kitas aufgelistet.
+(1) Immun gegen Verkürzen der Rankingliste: Ein Bewerber kann unter keinen Umständen eine bessere Kita zugeteilt bekommen, wenn sie weniger Kitas aufgelistet.
 
-2 Immun gegen  Ändern der Rankingliste: Ein Bewerber kann unter keinen Umständen eine bessere Kita zugeteilt bekommen, wenn er die Reihenfolge der aufgelisteten Kitas ändert (besser wird nach der originalen Reihenfolge definiert).
+(2) Immun gegen  Ändern der Rankingliste: Ein Bewerber kann unter keinen Umständen eine bessere Kita zugeteilt bekommen, wenn er die Reihenfolge der aufgelisteten Kitas ändert (besser wird nach der originalen Reihenfolge definiert).
 
 Der (Kita-Anbieter) Deferred-Acceptance ist immun gegen  Ändern der Rankingliste, aber nicht gegen Verkürzen. In der Praxis ist es aber das Risiko des Verkürzens der Rangliste — keiner Kita zugeteilt werden — viel höher als der potenzielle Gewinn bei einer erfolgreichen Manipulation. Aus praktischer Sicht ist es deshalb in jedem Falls für Bewerber von Vorteil ihre Präferenzen/Rankings wahrheitsgetreu anzugeben.
+
+- Mehr Transparenz durch die Kriterienkatalog als Matchinggrundlage
+
+  Das Matching funktioniert - so gut wie die Kriterien formuliert und konkret sind. 
+
+  Dem Matching liegen Bewerberlisten zugrunde, die u.a. die Namen der angemeldeten Kinder und Angaben über die geltenden Aufnahmekriterien beinhalten. Diese Kriterien werden im Vorfeld von den beteiligten Kitaleitungen bzw. FB KTP zu einem Kriterienkatalog zusammengefasst und gemäß § 10 VI KiBiz vom Rat der jeweiligen Kita bzw. KTP verabschiedet: „Der Rat der Kindertageseinrichtung besteht aus Vertreterinnen und Vertretern des Trägers, des Personals und des Elternbeirates. Aufgaben sind insbesondere [...] die Vereinbarung von Kriterien für die Aufnahme von Kindern in die Einrichtung.“
+
+  Die Kitaleitung (i.d.R. der Erstwunscheinrichtung) entscheidet also bei jedem angemeldeten Kind, das die Einrichtung auf Priorität 1 gesetzt hat, ob das jeweilige Kriterium des Kriterienkatalogs auf das Kind zutrifft oder nicht. Dafür ist es wichtig, dass die Verantwortliche genügend Informationen vorliegen hat, um eine solche Entscheidung vornehmen zu können. Diese Infos können beispielsweise über ein Anmeldeportal oder im Elterngespräch gesammelt werden. 
+
+  Darüber hinaus ist es wichtig, dass die Kriterien klar und eindeutig formuliert sind. Insbesondere die Träger (oftmals in der Praxis Kitaleitungen) sollten sich einig sein, welche Kriterien gemeint sind und was sie unter welchem Begriff tatsächlich verstehen. Ein einheitliches Begriffsverständnis ist dabei unabdingbar. 
+
+  ➔ Wichtig
+
+  - Klare und eindeutige Formulierungen von Aufnahmekriterien
+  - Idealerweise ein von allen beteiligten Kitaleitungen bzw. FB KTP erarbeiteter und akzeptierter Kriterienkatalog
+  - Genügend Informationen über das jeweilige angemeldete Kind
+
 
 
 ---
@@ -178,25 +196,25 @@ Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise drei v
 
 Beim First-Preference-First Mechanismus machen Bewerber Angebote an die Kitas, welche direkt angenommen (oder abgelehnt) werden müssen --- dies kann sowohl zu Instabilitäten führen als auch strategische Abwägungen erfordern:
 
-1. In der ersten Runde machen Lea und Kai beide ein Angebot an Kita 1, da dies ihre „Wunschkita“ ist. Bei Kita 1 hat Lea eine höhere Priorität als Kai --- da Kita 1    nur einen Platz zur Verfügung hat (wie alle Kitas) bekommt Lea eine Zusage (grüner Pfeil) und Kai eine Absage (roter Pfeil). Mia bewirbt sich bei Kita 2 und        bekommt auch direkt eine Zusage (grüner Pfeil).
+(1) In der ersten Runde machen Lea und Kai beide ein Angebot an Kita 1, da dies ihre „Wunschkita“ ist. Bei Kita 1 hat Lea eine höhere Priorität als Kai --- da Kita 1    nur einen Platz zur Verfügung hat (wie alle Kitas) bekommt Lea eine Zusage (grüner Pfeil) und Kai eine Absage (roter Pfeil). Mia bewirbt sich bei Kita 2 und        bekommt auch direkt eine Zusage (grüner Pfeil).
 
 Abbildung 1: 
 
-![first-preference-first-1.jpg](../../assets/images/first-preference-first-1.jpg)
+![B1.jpg](../../assets/images/B1.jpg)
 
 
-2. In der zweiten Runde macht Kai seiner Zweitwahlkita ein Angebot, welches abgelehnt wird, da bereits in der vorherigen Runde Mias Angebot direkt angenommen wurde. 
+(2) In der zweiten Runde macht Kai seiner Zweitwahlkita ein Angebot, welches abgelehnt wird, da bereits in der vorherigen Runde Mias Angebot direkt angenommen wurde. 
 
 Abbildung 2: 
 
-![first-preference-first-2.jpg](../../assets/images/first-preference-first-2.jpg)
+![B2.jpg](../../assets/images/B2.jpg)
 
 
-3. In der dritten Runde macht Kai noch der letzten Kita ein Angebot, welches direkt angenommen wird. 
+(3) In der dritten Runde macht Kai noch der letzten Kita ein Angebot, welches direkt angenommen wird. 
 
 Abbildung 3: 
 
-![first-preference-first-3.jpg](../../assets/images/first-preference-first-3.jpg)
+![B3.jpg](../../assets/images/B3.jpg)
 
 
 **Nicht Stabil**: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.
@@ -209,25 +227,25 @@ Abbildung 3:
 Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kitas den Bewerbern Angebote, die angenommen oder abgelehnt werden müssen. Es handelt sich hierbei nicht um einen Mechanismus, da die Zuteilung von den (strategischen) Entscheidungen der Bewerber abhängt --- ob sie ein Angebot annehmen oder ablehnen. Zusätzlich hat sich in der Praxis gezeigt, dass dieses Verfahren zu langen Wartezeiten führt, da es oft im besten Interesse der Bewerber ist, abzuwarten, ob noch ein präferiertes Angebot unterbreitet wird, bevor sie eines der Angebote definitiv annehmen. Als nächstes folgen zwei Beispiele, im Ersten führt eine Annahme zum Verpassen eines besseren Angebots während im Zweiten das Ablehnen eines Angebots zum Verpassen eine Betreuungsplatzes führt:
 
 
-1. Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot ihrer „Lieblingskita“ und nimmt deshalb direkt Kita 1 an und lehnt Kita 2 ab. Mia muss        warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai sich entscheiden das Angebot von Kita 3 anzunehmen. 
+(1) Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot ihrer „Lieblingskita“ und nimmt deshalb direkt Kita 1 an und lehnt Kita 2 ab. Mia muss        warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai sich entscheiden das Angebot von Kita 3 anzunehmen. 
 
 Abbildung 4: 
 
-![unkoordiniert-1.jpg](../../assets/images/unkoordiniert-1.jpg)
+![D1.jpg](../../assets/images/D1.jpg)
 
 
-2. Da Kita 1 und 3 jeweils ihre Plätze gefüllt haben, macht nur noch Kita 2 ein Angebot an Kai. Dieser hat aber bereits einer anderen Kita zugesagt und kann das neue, präferierte Angebot nicht annehmen. 
+(2) Da Kita 1 und 3 jeweils ihre Plätze gefüllt haben, macht nur noch Kita 2 ein Angebot an Kai. Dieser hat aber bereits einer anderen Kita zugesagt und kann das neue, präferierte Angebot nicht annehmen. 
 
 Abbildung 5: 
 
-![unkoordiniert-2.jpg](../../assets/images/unkoordiniert-2.jpg)
+![D2.jpg](../../assets/images/D2.jpg)
 
 
-3. Kita 2 macht nun ein Angebot an Mia, welche dieses annimmt. 
+(3) Kita 2 macht nun ein Angebot an Mia, welche dieses annimmt. 
 
 Abbildung 6: 
 
-![unkoordiniert-3.jpg](../../assets/images/unkoordiniert-3.jpg)
+![D3.jpg](../../assets/images/D3.jpg)
 
 
 **Nicht Stabil**: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.
@@ -237,25 +255,25 @@ Abbildung 6:
 
 **Unkoordiniertes Verfahren**:
 
-1. Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot ihrer „Lieblingskita“ und nimmt deshalb direkt Kita 1 an und lehnt Kita 2 ab. Mia muss warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai sich entscheiden das Angebot von Kita 3 abzulehnen. 
+(1) Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot ihrer „Lieblingskita“ und nimmt deshalb direkt Kita 1 an und lehnt Kita 2 ab. Mia muss warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai sich entscheiden das Angebot von Kita 3 abzulehnen. 
 
 Abbildung 7: 
 
-![unkoordiniert-4.jpg](../../assets/images/unkoordiniert-4.jpg)
+![D21.jpg](../../assets/images/D21.jpg)
 
 
-2. Sowohl Kita 2 als auch Kita 3 müssen neue Angebote machen. Kais Ablehnung des ersten Angebots macht sich bezahlt da er jetzt ein präferiertes Angebot von Kita 2 annehmen kann. Mia entscheidet sich ebenfalls das Angebot von Kita 3 abzulehnen da sie auf ein präferiertes Angebot wartet (beachte das Mia nicht weiß welche Kitas bereits Betreuungsplatzzusagen gemacht habe und welche ihr noch ein Angebot unterbreiten könnten).
+(2) Sowohl Kita 2 als auch Kita 3 müssen neue Angebote machen. Kais Ablehnung des ersten Angebots macht sich bezahlt da er jetzt ein präferiertes Angebot von Kita 2 annehmen kann. Mia entscheidet sich ebenfalls das Angebot von Kita 3 abzulehnen da sie auf ein präferiertes Angebot wartet (beachte das Mia nicht weiß welche Kitas bereits Betreuungsplatzzusagen gemacht habe und welche ihr noch ein Angebot unterbreiten könnten).
 
 Abbildung 8: 
 
-![unkoordiniert-5.jpg](../../assets/images/unkoordiniert-5.jpg)
+![D22.jpg](../../assets/images/D22.jpg)
 
 
-3. Kita 3 ist die einzig verbleibende Kita ohne Betreuungsplatzzusage. Da Kita 3 schon allen interessierten Bewerbern ein Angebot gemacht hat und die anderen Kitas ihre Betreuungsplätze gefüllt haben, bleibt Mia zumindest vorerst ohne Betreuungsplatz. 
+(3) Kita 3 ist die einzig verbleibende Kita ohne Betreuungsplatzzusage. Da Kita 3 schon allen interessierten Bewerbern ein Angebot gemacht hat und die anderen Kitas ihre Betreuungsplätze gefüllt haben, bleibt Mia zumindest vorerst ohne Betreuungsplatz. 
 
 Abbildung 9: 
 
-![unkoordiniert-6.jpg](../../assets/images/unkoordiniert-6.jpg)
+![D23.jpg](../../assets/images/D23.jpg)
 
 
 **Nicht Stabil**: Mia würde lieber einen Platz bei Kita 3 haben und Kita 3 hat einen freien Betreuungsplatz.
@@ -270,32 +288,32 @@ Obwohl es bei einer unkoordinierten Vergabe nicht klar ist, welche Verteilung en
 
 Wie in den vorangegangenen  Beispielen illustriert wurde, hängt die Problematik von Instabilität und Strategie-Sicherheit mit der direkten Annahme zusammen. Der Deferred Acceptance Mechanismus löst das Problem, indem er es Bewerbern erlaubt, das beste Angebot zu halten; sie aber nicht dazu zwingt, ein Angebot direkt anzunehmen (Deferred Acceptance = Verzögerte Annahme): 
 
-1. Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot von Kita 1 und Kita 2 und lehnt Kita 2 ab (roter Pfeil) wären sie das Angebot von Kita 1 hält (grauer Pfeil). Mia muss warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai das Angebot von Kita 3 hält (grauer Pfeil) --- im Gegenteil zum „Unkoordinierten Verfahren“ muss sich Kai nicht entscheiden ob er das Angebot annimmt oder Ablehnt und kann keinen „strategischen Fehler“ machen.
+(1) Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot von Kita 1 und Kita 2 und lehnt Kita 2 ab (roter Pfeil) wären sie das Angebot von Kita 1 hält (grauer Pfeil). Mia muss warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai das Angebot von Kita 3 hält (grauer Pfeil) --- im Gegenteil zum „Unkoordinierten Verfahren“ muss sich Kai nicht entscheiden ob er das Angebot annimmt oder Ablehnt und kann keinen „strategischen Fehler“ machen.
 
 Abbildung 10: 
 
-![deferred-acceptance-1.jpg](../../assets/images/deferred-acceptance-1.jpg)
+![DA1.jpg](../../assets/images/DA1.jpg)
 
 
-2. Kitas deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 2 ein neues Angebot an Kai, welcher dieses hält und Kita 3 eine Absage erteilt. 
+(2) Kitas deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 2 ein neues Angebot an Kai, welcher dieses hält und Kita 3 eine Absage erteilt. 
 
 Abbildung 11: 
 
-![deferred-acceptance-2.jpg](../../assets/images/deferred-acceptance-2.jpg)
+![DA2.jpg](../../assets/images/DA2.jpg)
 
 
-3. Kitas deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 3 ein neues Angebot an Mia welche dies hält.
+(3) Kitas deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 3 ein neues Angebot an Mia welche dies hält.
 
 Abbildung 12: 
 
-![deferred-acceptance-3.jpg](../../assets/images/deferred-acceptance-3.jpg)
+![DA3.jpg](../../assets/images/DA3.jpg)
 
 
-4. Wenn keine Kita mehr ein neues Angebot machen kann, werden die gehaltenen Angebote angenommen und eine finale Zuteilung ist erreicht (grüne Pfeile). 
+(4) Wenn keine Kita mehr ein neues Angebot machen kann, werden die gehaltenen Angebote angenommen und eine finale Zuteilung ist erreicht (grüne Pfeile). 
 
 Abbildung 13: 
 
-![deferred-acceptance-4.jpg](../../assets/images/deferred-acceptance-4.jpg)
+![DA4.jpg](../../assets/images/DA4.jpg)
 
 
 **Stabil**: Wie auch im Beispiel ergibt der Deferred Acceptance Mechanismus immer eine stabile Zuteilung. 
@@ -319,7 +337,7 @@ Für eine gerechte und akzeptable Kitavergabe ist deshalb ein gut designter Krit
 
 **Anzahl Plätze**
 
-Der Vollständigkeit halber sei hier erwähnt, dass — natürlich — kein Zuteilungsverfahren mehr Plätze vergeben kann, als Plätze vorhanden sind. Die Adaption des Deferred Acceptance Mechanismus hilft dabei, die vorhandenen Plätze möglichst fair zu verteilen — gegeben, dass die Prioritäten fair sind. Langfristig kann die Kitavergabe vor allem durch einen Ausbau von Plätzen verbessert werden.
+Der Vollständigkeit halber sei hier erwähnt, dass — natürlich — kein Zuteilungsverfahren mehr Plätze vergeben kann, als Plätze vorhanden sind. Die Adaption des Deferred Acceptance Mechanismus hilft dabei, die vorhandenen Plätze möglichst fair zu verteilen — gegeben, dass der Kriterienkatalog fair gestaltet ist. Langfristig kann die Kitavergabe vor allem durch einen Ausbau von Plätzen verbessert werden.
 
 
 **Geschwisterkinder**
@@ -333,7 +351,7 @@ Gerade Bewerber, die mehrere Kinder gleichzeitig zuteilen möchten — z.B. Zwil
 
 Auch wenn die Kinder desselben Bewerbers gebündelt werden und nur zusammen angenommen werden können, ergeben sich Probleme für andere Bewerber. Generell wurde gezeigt, dass es bei solchen Wechselwirkungen kein Zuteilungsverfahren gibt, welches immer eine stabile Zuteilung findet.
 
-Hier hat sich die semi-zentrale Zuteilung bewährt. Da im System gekennzeichnet wird, welche Kinder Geschwister sind, können die Kitas koordinieren und so Geschwisterkindern nur ein Angebot unterbreiten, falls sie genügend Kapazität für beide haben. Dadurch können die oben erwähnten Probleme weitestgehend vermieden werden.
+Hier hat sich die semi-zentrale Zuteilung bewährt. Da im System gekennzeichnet wird, welche Kinder Geschwister sind, können die Kitas koordinieren und so Geschwisterkindern jeweils ein Angebot derselben Kita unterbreiten, welche genügend Kapazität für beide hat. Dadurch können die oben erwähnten Probleme weitestgehend vermieden werden.
 
 
 **Geschwisterkinder: Bereits in Betreuung**
@@ -352,6 +370,6 @@ Auch hier hat es sich bewährt, die Verteilung, mindestens bei der Einführung d
 
 ---
 
-[^2]: Tatsächlich gibt es zwei Hauptvarianten des Deferred Acceptance Mechanismus welche davon abhängen welche Seite Angebote unterbreitet respektive Angebote vorläufig annimmt. Diese weisen auch theoretische Unterschiede auf. Wir beschränken uns auf die Variante bei der die Kitas Angebote unterbreiten — da sich diese in der Praxis durchgesetzt hat.
+[^2]: Tatsächlich gibt es zwei Hauptvarianten des Deferred Acceptance Mechanismus welche davon abhängen, welche Seite Angebote unterbreitet respektive Angebote vorläufig annimmt. Diese weisen auch theoretische Unterschiede auf. Wir beschränken uns auf die Variante, bei der die Kitas Angebote unterbreiten — da sich diese in der Praxis durchgesetzt hat.
 
 
