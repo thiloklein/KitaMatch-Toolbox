@@ -3,15 +3,14 @@ layout: default
 title: Warum Gale-Shapley´s Deferred Acceptance Mechanismus?
 parent: Einführung
 nav_order: 3
-has_children: true
 ---
 
 # Warum Gale-Shapley´s Deferred Acceptance Mechanismus?
 {: .no_toc }
 In diesem Kapitel stellen wir das Zuteilungsverfahren (Mechanismus) vor, welches der Kitaplatz-Vergabe respektive der Software KITAMATCH zugrunde liegt.  Das heisst, wir beschreiben wie basierend auf dem Kriterienkatalog (Prioritäten) auf Seite der Kitas und der Präferenzen der Eltern eine Zuteilung von Kindern auf die Verfügbaren Kitaplätze ermittelt wird. 
-In [Unterkapitel 1.3.1](# Der Deferred Acceptance Mechanismus) wird das Zuteilungsverfahren — der Deferred Acceptance Mechanismus — zusammen mit wichtigen Begrifflichkeiten beschrieben und definiert. [Unterkapitel 1.3.2](## Semi-Dezentraler Deferred Acceptance Mechanismus für KITAMATCH) beschreibt, wie das Verfahren für die Kitaplatzvergabe angepasst wird, damit Kitas die Möglichkeit haben, in besonderen Fällen vom Kriterienkatalog abzuweichen: Der Semi-Dezentrale Deferred Acceptance Mechanismus. Im [Unterkapitel 1.3.3](#stabilität-und-strategie-sicherheit) werden die Vorteile des Deferred Acceptance Mechanismus beschrieben und definiert: Strategie-Sicherheit und Stabilität. 
-Für das praktische Verständnis wird im [Unterkapitel 1.3.4](/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus#beispiele-deferred-acceptance-first-preference-first-und-unkoordiniert) der Deferred Acceptance Mechanismus anhand eines Beispiels beschrieben und mit zwei herkömmlichen Zuteilungsverfahren verglichen: Dem First-Preference-First Mechanismus und der Unkoordinierten Vergabe. Hierbei wird aufgezeigt, dass die herkömmlichen Zuteilungsverfahren weder Strategie-Sicher noch Stabil sind.
-Abschließend werden im [Unterkapitel 1.3.5](/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus#wo-sind-die-grenzen-des-algorithmussystems) potenzielle Limitationen und Grenzen von Vergabeverfahren in der Kitaplatzvergabe diskutiert. Hier wird auch aufgezeigt, welche Vorteile ein semi-dezentrales Deferred Acceptance Mechanismus gegenüber einem zentralisierten Deferred Acceptance Mechanismus aufweist. 
+In [Unterkapitel 1.3.1](#der-deferred-acceptance-mechanismus) wird das Zuteilungsverfahren — der Deferred Acceptance Mechanismus — zusammen mit wichtigen Begrifflichkeiten beschrieben und definiert. [Unterkapitel 1.3.2](#semi-dezentraler-deferred-acceptance-mechanismus-für-kitamatch) beschreibt, wie das Verfahren für die Kitaplatzvergabe angepasst wird, damit Kitas die Möglichkeit haben, in besonderen Fällen vom Kriterienkatalog abzuweichen: Der Semi-Dezentrale Deferred Acceptance Mechanismus. Im [Unterkapitel 1.3.3](#stabilität-und-strategie-sicherheit) werden die Vorteile des Deferred Acceptance Mechanismus beschrieben und definiert: Strategie-Sicherheit und Stabilität. 
+Für das praktische Verständnis wird im [Unterkapitel 1.3.4](#beispiele-deferred-acceptance-first-preference-first-und-unkoordiniert) der Deferred Acceptance Mechanismus anhand eines Beispiels beschrieben und mit zwei herkömmlichen Zuteilungsverfahren verglichen: Dem First-Preference-First Mechanismus und der Unkoordinierten Vergabe. Hierbei wird aufgezeigt, dass die herkömmlichen Zuteilungsverfahren weder Strategie-Sicher noch Stabil sind.
+Abschließend werden im [Unterkapitel 1.3.5](#wo-sind-die-grenzen-des-algorithmussystems) potenzielle Limitationen und Grenzen von Vergabeverfahren in der Kitaplatzvergabe diskutiert. Hier wird auch aufgezeigt, welche Vorteile ein semi-dezentrales Deferred Acceptance Mechanismus gegenüber einem zentralisierten Deferred Acceptance Mechanismus aufweist. 
 
 
 ## Inhalt
