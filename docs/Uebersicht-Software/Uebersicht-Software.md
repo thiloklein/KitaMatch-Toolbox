@@ -3,7 +3,7 @@ layout: default
 title: Übersicht Software
 nav_order: 3
 has_children: true
-permalink: /docs/Übersicht-Software
+permalink: /docs/Uebersicht-Software
 ---
 
 # Übersicht Software
