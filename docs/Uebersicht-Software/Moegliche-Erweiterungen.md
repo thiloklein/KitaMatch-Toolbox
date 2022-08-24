@@ -3,6 +3,7 @@ layout: default
 title: Mögliche Erweiterungen
 parent: Übersicht Software
 nav_order: 3
+permalink: /docs/Uebersicht-Software/Moegliche-Erweiterungen
 ---
 
 # Mögliche Erweiterungen
