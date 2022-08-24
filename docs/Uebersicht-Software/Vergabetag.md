@@ -22,18 +22,24 @@ permalink: /docs/Uebersicht-Software/Vergabetag
 
 ---
 
-### Das „Setting“
+### „Setting“
 
 Der sogenannte „Matching-Day“ ist der Termin, an dem die beteiligten Kitaleitungen bzw. FB KTP den angemeldeten Kindern einen virtuellen Platz über das Tool „KitaMatch“ anbieten. Sie vergeben damit zunächst ihre freien Plätze im Rahmen des Matching-Tools; die tatsächliche Vergabe bzw. das Platzangebot an die Eltern erfolgt im Anschluss in der Praxis auf anderem Wege (z.B. über ein Anmeldeportal). 
 
-### Die Moderation
+
+---
+
+### Moderation
 Der Prozess sollte von der Projektleitung (vgl. Kapitel 3.3.) moderiert und begleitet werden. Dabei sollte die Person das Matchingverfahren kennen und mögliche Fragen der Beteiligten beantworten können. Darüber hinaus ist es ihre Aufgabe im Rahmen des Matching-Days, sicherzustellen, dass alle Kitaleitungen bzw. FB KTP wissen, wann welche Verfahrensschritte anstehen. 
 
 ➔ **Tipp**: 
 
 Der Prozess sollte aus Erfahrung heraus von einer Person (z.B. die Projektleitung) moderiert werden, die das Matchingverfahren kennt und die Beteiligten beim Matching eng begleitet. 
 
-### Der Ort
+
+---
+
+### Ort
 
 Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden Varianten zeigen: 
 
@@ -41,12 +47,18 @@ Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden
 - Das Matching ist auch online durchführbar. Dies setzt neben der moderierenden Person eine weitere Person voraus, die bei Bedarf die Prozessbeteiligten (technisch) unterstützen kann. In diesem Fall zwei Endgeräte (PC, tablet, Smartphone etc.) pro Teilnehmer/in  zu empfehlen, damit die Beteiligten auf dem einen Gerät das Geschehen im Rahmen einer Videokonferenz verfolgen und auf dem anderen Gerät das Matching-Tool nutzen können. 
 - Eine Alternative ist die Durchführung des Matchings in z.B. fünf aufeinanderfolgenden Tagen.  Dies erfordert weitreichendere Erfahrungen und/oder intensivere Begleitung durch die moderierende Person. Sicherlich ist es erstrebenswert, diese Variante langfristig in den Praxisalltag zu integrieren, da der eigentliche Aufwand für die Kitaleitung bzw. FB KTP sehr gering ist.
 
-### Die Ausstattung
+
+---
+
+### Ausstattung
 
 Der Moderationsplatz sollte mit einem PC und Beamer/Leinwand ausgestattet sein. 
 Pro Teilnehmer/in sollte ein PC mit gesicherter Internetverbindung und Zugang zum KitaMatch-Programm zur Verfügung gestellt werden. 
 Für eine angenehme Arbeitsatmosphäre können Kaffee- und Kaltgetränke als Serviceleistung bereitgestellt werden. 
 
-### Das Matching
+
+---
+
+### Matching
 Zunächst ist zu prüfen, ob die Teilnehmer/innen die technischen Voraussetzungen erfüllen, sich mit ihren Login-Daten im KitaMatch-Programm einloggen (<mark>vgl. Kapitel 2.1.3</mark>) und ihre Bewerberlisten einsehen können. 
 
