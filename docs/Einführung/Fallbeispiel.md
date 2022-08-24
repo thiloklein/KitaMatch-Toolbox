@@ -26,6 +26,9 @@ Der in der Softwareanwendung „KitaMatch“ implementierte Mechanismus ermögli
 
 Mit Blick auf die Geschwindigkeit zeigt eine aktuelle Studie (Reischmann/Klein/Giegerich 2021), dass sich die Kitaplätze mit dem Verfahren in etwa einer Stunde mit rund sechs bis zehn Runden vergeben lassen – in Großstädten genauso schnell wie in Kleinstädten. Das lässt sich mit den Präferenzen der Eltern für nahegelegene Kitas erklären. Auch Großstädte bestehen somit aus vielen lokal begrenzten Kita-Märkten. Bezüglich der Fairness zeichnet die Studie ein differenziertes Bild: In den Pilotstädten reduziert das neue Verfahren die Anzahl der Bewerber mit berechtigtem Neid lediglich um die Hälfte, verglichen mit dem zuvor verwendeten Verfahren. Das ist der Preis der Träger- und Kita-Autonomie. Mit einem zentralen Verfahren ließe sich berechtigter Neid zwar vollständig vermeiden. Die Entscheidungsfreiheit der Kitas würde damit aber so stark eingeschränkt, dass es für 20 Prozent der Kitas nicht attraktiv wäre, freiwillig an dem zentralen Verfahren teilzunehmen.
 
+
+---
+
 ## Perspektive des Jugendamtes
 
 Im Kreis Steinfurt, in der Gemeinde Saerbeck, wurde bei der Verteilung der Kinder auf die Betreuungsplätze erstmals zum Kitajahr 2019/20 das algorithmusbasierte „Gale-Shapley-Verfahren“ angewendet. Über 100 Kinder in drei Altersgruppen (u2,2j, ü3) wurden auf die zur Verfügung gestellten Plätze verteilt. An dem Verfahren haben sich 6 Kindertageseinrichtungen und die Fachberatung für Kindertagespflege beteiligt.
@@ -50,6 +53,9 @@ Ein weiterer Grund für die Einführung war der Wunsch nach Arbeitserleichterung
 
 Darüber hinaus war das Ziel, dass die Eltern keine strategischen Überlegungen (mehr) anstellen sollten. Die Entscheidung über die Platzvergabe ist streng persönlich und höchst sensibel, da viele Eltern die beste frühkindliche Bildung und Betreuung für ihr Kind wünschen. Daher ist es plausibel, dass sie einiges unternehmen, um den bestmöglichen Betreuungsplatz zu erhalten. Hierbei haben besser informierte Eltern sicherlich einen Vorteil und ggfs. bessere Chancen auf den Wunschplatz. Vor diesem Hintergrund war ein weiteres Ziel, den Zugang zur frühkindlicher Bildung für alle Kinder gleichermaßen zu ermöglichen.
 
+
+---
+
 ### Die Einführung
 
 Dem Kreis Steinfurt war es von Anfang an ein Anliegen, alle Beteiligten frühzeitig mit einzubinden. Für die Einführung des neuen Verfahrens für die Vergabe der Plätze zum Kitajahr 2019/20 informierte das Jugendamt das zuständige Gremium (AG 78) im Sommer/Herbst 2018, sodass Fragen der Träger-, Kitavertretungen, Fachberatungen der Kitas und Kindertagespflege sowie Bürgermeister/innen beantworten werden konnten. 
@@ -64,6 +70,9 @@ Im Gespräch mit den Prozessbeteiligten war es dem Kreisjugendamt wichtig, dass 
 
 🡪 **Einverständnis aller Beteiligten war zwingend erforderlich für eine erfolgreiche Umsetzung!**
 
+
+---
+
 ### Die Erstellung der Aufnahmekriterien
 
 In der Pilotkommune hat das Jugendamt die beteiligten Träger und Kitaleitungen bzw. FB KTP frühzeitig im Sommer 2019 zu einem gemeinsamen Gespräch eingeladen und die Erstellung eines einheitlichen Kriterienkatalogs moderiert. Aufgrund der Erkenntnis, dass die Einrichtungen oftmals dieselben Kriterien hatten, konnte eine erste gemeinsame Basis gefunden werden, sodass sich jede Einrichtung die für sie wichtigen Kriterien wiederfindet.
@@ -72,6 +81,9 @@ Es war gut, den Beteiligten ein wenig Zeit zu geben, den Kriterienkatalog „rei
 
 <mark>Weitere Infos finden Sie im Kapitel 3.2.</mark>
  
+ 
+---
+
 ### Der Matching-Day
 
 In Vorbereitung auf das Matching wurde im Dezember 2019 die Ausgangsliste (<mark>siehe Anlage xy</mark>), die die Kitaleitungen bzw. FB KTP mit den Daten ihrer angemeldeten Kinder ausgefüllt haben, vom Jugendamt zusammengestellt. Daraufhin hat die jeweilige Kitaleitung/FB KTP ihre im KitaMatch erstellte Bewerberliste auf Vollständigkeit und Plausibilität geprüft (<mark>vgl. Kapitel 2.1.</mark>).
@@ -92,6 +104,9 @@ Für die Platzvergabe des Kitajahres 2020/21 kamen die beteiligten Kitaleitungen
 Das Matching kann aber auch online durchgeführt werden. Hierfür bedarf es aber sowohl technische als auch organisatorische Hilfestellung (z.B. jeweils zwei Endgeräte für die Kitaleitungen bzw. FB KTP, mit denen sie für eine bessere Übersicht das Matching verfolgen bzw. das Matching-Tool bedienen können (<mark>siehe Kapitel 2.2.</mark>)).
 
 Im Februar 2020 schließlich schickten die Kitaleitungen bzw. FB KTP, genau wie ihre Kollegen und Kolleginnen in den anderen Orten des Jugendamtsbezirks, den Eltern über das Kreis STeinfurt ElternPortal - STEP tatsächlich eine Zusage bzw. Absage.
+
+
+---
 
 ### Die Reflexion/Erfahrungen
 
@@ -160,6 +175,9 @@ Besonders im Zuge der Reflexion ist es wichtig, sich das Verfahren im Hinblick a
 - Nicht in jedem Fall ist es möglich, dass die Kinder ihren Erst-Wunsch bekommen.
 - Die Frage, wie man am besten mit den Nachmeldungen (Meldungen nach dem Stichtag) verfährt, ist auch über dieses Verfahren schwierig zu beantworten.
 - Die Eltern müssen frühzeitig informiert werden, dass es wichtig ist, idealerweise fünf Prioritäten ihrer Wunscheinrichtungen anzugeben. Sonst kann es passieren, dass sie zunächst unversorgt bleiben.
+
+
+---
 
 ### Fazit
 
