@@ -3,7 +3,7 @@ layout: default
 title: Der Standardfall
 parent: Übersicht Software
 nav_order: 1
-has_children: true
+permalink: /docs/Uebersicht-Software/Der-Standardfall
 ---
 
 # Der Standardfall
