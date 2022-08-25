@@ -10,7 +10,7 @@ permalink: /docs/Uebersicht-Software/Der-Standardfall
 {: .no_toc }
 Dieses Kapitel richtet sich an die Projektmanagerin einer interessierten Kommune, gibt dieser einen Überblick über das KitaMatch System und führt durch die ersten Schritte mit der Software. 
 
-<mark>Zuerst wird hier der Standardfall behandelt, bei dem alle zu vergebenden Plätze den gleichen Umfang haben und zum gleichen Zeitpunkt frei werden. Es können pro Einrichtung Plätze für bis zu 3 Alterskohorten (z.B. u2-Jährige, 2-Jährige, über 3-Jährige) vergeben werden, die in KitaMatch “U2“, “2“und “Ü3“ benannt sind. In Kapitel 2.3 gehen wir zudem auf die Möglichkeiten ein, Plätze für unterschiedliche Betreuungszeitpunkte und unterschiedliche Betreuungsarten mit KitaMatch zu vergeben.</mark> 
+Zuerst wird hier der Standardfall behandelt, bei dem alle zu vergebenden Plätze den gleichen Umfang haben und zum gleichen Zeitpunkt frei werden. Es können pro Einrichtung Plätze für bis zu 3 Alterskohorten (z.B. u2-Jährige, 2-Jährige, über 3-Jährige) vergeben werden, die in KitaMatch “U2“, “2“und “Ü3“ benannt sind. In [Kapitel 2.3](/docs/Uebersicht-Software/Moegliche-Erweiterungen) gehen wir zudem auf die Möglichkeiten ein, Plätze für unterschiedliche Betreuungszeitpunkte und unterschiedliche Betreuungsarten mit KitaMatch zu vergeben.
 
 
 ## Inhalt
@@ -82,7 +82,7 @@ Sie können die KitaMatch-Umgebung über die permanente Navigationsleiste oben a
 
 Auf der Startseite (bzw. nach Klicken auf “Zuteilung“) sehen Sie eine Übersicht der aktuellen Zuordnungen im Verfahren. Bevor das Verfahren startet, ist diese Liste noch leer. Dann gibt es, wie im obigen Screenshot, logischerweise noch 0 Zuordnungen. 
 
-Während des Verfahrens sehen Sie hingegen eine Liste mit den aktuellen Zuordnungen (siehe Screenshot X), sowie weiter unten eine Liste aller Kinder, die aktuell noch nicht zugeordnet sind <mark>(siehe Screenshot Y)</mark>. 
+Während des Verfahrens sehen Sie hingegen eine Liste mit den aktuellen Zuordnungen <mark>(siehe Screenshot X)</mark>, sowie weiter unten eine Liste aller Kinder, die aktuell noch nicht zugeordnet sind <mark>(siehe Screenshot Y)</mark>. 
 
 Bei den Zuordnungen gibt es 2 Möglichkeiten: “Finale Zuordnung“ bedeutet, dass das jeweilige Kind seiner Wunschkita zugeordnet wurde, und entsprechend keine Möglichkeit besteht, dass das Kind im Laufe des Verfahrens noch ein besseres Angebot bekommt. Im Gegensatz dazu bedeutet “Gehaltenes Angebot“, dass das Kind aktuell der jeweiligen Kita vorläufig zugesagt hat, es aber prinzipiell sein kann, dass das Kind im Laufe des Verfahrens noch ein “besseres“ Angebot bekommt, und deshalb das aktuell gehaltene Angebot noch ablehnen könnte. Diese beiden Listen von versorgten und bisher unversorgten Kindern können jeweils über den Export Button in ein Excel Dokument überführt werden. 
 
@@ -113,7 +113,7 @@ Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plät
 
 Nach einem Klick auf “Bewerber“ landet man auf der Übersicht über alle Bewerber/Kinder, die in dem Verfahren teilnehmen. Siehe dazu <mark>Screenshot Z</mark>. 
 
-Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei allen anderen “22“. Bei einem Klick auf “Einsehen“ erhält man weitere Information des jeweiligen Kindes. Hier möchten wir insbesondere auf die “Rangliste der Wunscheinrichtungen“ aufmerksam machen, siehe Screenshot XA. Diese Rangliste beschreibt die von den Eltern abgegebenen Präferenzen über die Kitas.
+Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei allen anderen “22“. Bei einem Klick auf “Einsehen“ erhält man weitere Information des jeweiligen Kindes. Hier möchten wir insbesondere auf die “Rangliste der Wunscheinrichtungen“ aufmerksam machen, <mark>siehe Screenshot XA</mark>. Diese Rangliste beschreibt die von den Eltern abgegebenen Präferenzen über die Kitas.
  
 <mark>Abbildung 8:</mark>
 
@@ -127,7 +127,7 @@ Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei alle
 
 ### Kitagruppen
 
-Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle Kitagruppen, siehe Screenshot XB. Durch Klicken auf die jeweilige Kita (bzw. die einzelne Alterskohorte einer Kita) kommen Sie zu der Ansicht, die die Kitaleitung während des Verfahrens haben. Dieser Teil der Software wird im nächsten Kapitel erklärt, der sowohl die Projektmanagerin als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen.
+Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle Kitagruppen, <mark>siehe Screenshot XB</mark>. Durch Klicken auf die jeweilige Kita (bzw. die einzelne Alterskohorte einer Kita) kommen Sie zu der Ansicht, die die Kitaleitung während des Verfahrens haben. Dieser Teil der Software wird im nächsten Kapitel erklärt, der sowohl die Projektmanagerin als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen.
 
 <mark>Abbildung 8:</mark>
 
@@ -148,7 +148,7 @@ Um das System zuverlässig nutzen zu können, empfehlen wir die neueste Version 
   1. Einen Link zur Website
   2. Die Login-Informationen (E-Mail-Adresse und Passwort)
 
-Diese erhalten Sie von der Projektmanagerin Ihrer Kommune.  Weitere Informationen zum Projektmanagement finden Sie im Kapitel 3.3. 
+Diese erhalten Sie von der Projektmanagerin Ihrer Kommune.  [Weitere Informationen zum Projektmanagement](/docs/Andere-Themen/Projektmanagement)
 
 
 ### Systemzugang
