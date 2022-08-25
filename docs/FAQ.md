@@ -20,3 +20,9 @@ Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
 - Kann die Kitaleitung bzw. FB KTP sehen, in welcher Kita/KTP ein von ihr abgelehntes Kind einen Platz erhält?
 - Was passiert, wenn eine Kitaleitung bzw. FB KTP nach dem Matching noch freie Plätze hat?
 - Wie gehen die Kitaleitungen bzw. FB KTP mit den Kindern vor, die sich nach dem Matching-Day dort anmelden?
+
+
+<details>
+    <summary>Zusammenfassung</summary>
+    Hier kommt der Inhalt.
+</details>
