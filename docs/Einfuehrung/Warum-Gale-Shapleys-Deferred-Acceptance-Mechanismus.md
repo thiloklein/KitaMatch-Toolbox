@@ -3,6 +3,7 @@ layout: default
 title: Warum Gale-Shapley´s Deferred Acceptance Mechanismus?
 parent: Einführung
 nav_order: 3
+permalink: /docs/Einfuehrung/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus
 ---
 
 # Warum Gale-Shapley´s Deferred Acceptance Mechanismus?
