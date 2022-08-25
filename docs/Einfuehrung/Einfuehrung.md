@@ -3,6 +3,7 @@ layout: default
 title: Einführung
 nav_order: 2
 has_children: true
+has_toc: false
 permalink: /docs/Einfuehrung
 ---
 
@@ -57,3 +58,15 @@ Nachdem die Angaben der Kitas und Eltern in die ZEW-Software eingelesen wurden, 
 
 
 ...
+
+
+---
+
+---
+
+## Unterkapitel
+{: .no_toc }
+
+- [Fallbeispiel](/docs/Einfuehrung/Fallbeispiel)
+- [Warum Gale-Shapley´s Deferred Acceptance Mechanismus?](/docs/Einfuehrung/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus)
+
