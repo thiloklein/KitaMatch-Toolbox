@@ -198,14 +198,14 @@ Beim First-Preference-First Mechanismus machen Bewerber Angebote an die Kitas, w
 
 Abbildung 1: 
 
-![B1.jpg](../../assets/images/B1.jpg){:height="600px" width="600px"}
+![B1.jpg](../../assets/images/B1.jpg){:height="500px" width="500px"}
 
 
   2.  In der zweiten Runde macht Kai seiner Zweitwahlkita ein Angebot, welches abgelehnt wird, da bereits in der vorherigen Runde Mias Angebot direkt angenommen wurde. 
 
 Abbildung 2: 
 
-![B2.jpg](../../assets/images/B2.jpg){:height="400px" width="400px"}
+![B2.jpg](../../assets/images/B2.jpg){:height="500px" width="500px"}
 
 
   3.  In der dritten Runde macht Kai noch der letzten Kita ein Angebot, welches direkt angenommen wird. 
@@ -229,21 +229,21 @@ Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kita
 
 Abbildung 4: 
 
-![D1.jpg](../../assets/images/D1.jpg)
+![D1.jpg](../../assets/images/D1.jpg){:height="500px" width="500px"}
 
 
   2.  Da Kita 1 und 3 jeweils ihre Plätze gefüllt haben, macht nur noch Kita 2 ein Angebot an Kai. Dieser hat aber bereits einer anderen Kita zugesagt und kann das neue, präferierte Angebot nicht annehmen. 
 
 Abbildung 5: 
 
-![D2.jpg](../../assets/images/D2.jpg)
+![D2.jpg](../../assets/images/D2.jpg){:height="500px" width="500px"}
 
 
   3.  Kita 2 macht nun ein Angebot an Mia, welche dieses annimmt. 
 
 Abbildung 6: 
 
-![D3.jpg](../../assets/images/D3.jpg)
+![D3.jpg](../../assets/images/D3.jpg){:height="500px" width="500px"}
 
 
 **Nicht Stabil**: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.
@@ -257,21 +257,21 @@ Abbildung 6:
 
 Abbildung 7: 
 
-![D21.jpg](../../assets/images/D21.jpg)
+![D21.jpg](../../assets/images/D21.jpg){:height="500px" width="500px"}
 
 
   2.  Sowohl Kita 2 als auch Kita 3 müssen neue Angebote machen. Kais Ablehnung des ersten Angebots macht sich bezahlt da er jetzt ein präferiertes Angebot von Kita 2 annehmen kann. Mia entscheidet sich ebenfalls das Angebot von Kita 3 abzulehnen da sie auf ein präferiertes Angebot wartet (beachte das Mia nicht weiß welche Kitas bereits Betreuungsplatzzusagen gemacht habe und welche ihr noch ein Angebot unterbreiten könnten).
 
 Abbildung 8: 
 
-![D22.jpg](../../assets/images/D22.jpg)
+![D22.jpg](../../assets/images/D22.jpg){:height="500px" width="500px"}
 
 
   3.  Kita 3 ist die einzig verbleibende Kita ohne Betreuungsplatzzusage. Da Kita 3 schon allen interessierten Bewerbern ein Angebot gemacht hat und die anderen Kitas ihre Betreuungsplätze gefüllt haben, bleibt Mia zumindest vorerst ohne Betreuungsplatz. 
 
 Abbildung 9: 
 
-![D23.jpg](../../assets/images/D23.jpg)
+![D23.jpg](../../assets/images/D23.jpg){:height="500px" width="500px"}
 
 
 **Nicht Stabil**: Mia würde lieber einen Platz bei Kita 3 haben und Kita 3 hat einen freien Betreuungsplatz.
@@ -290,28 +290,28 @@ Wie in den vorangegangenen  Beispielen illustriert wurde, hängt die Problematik
 
 Abbildung 10: 
 
-![DA1.jpg](../../assets/images/DA1.jpg)
+![DA1.jpg](../../assets/images/DA1.jpg){:height="500px" width="500px"}
 
 
   2.  Kitas deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 2 ein neues Angebot an Kai, welcher dieses hält und Kita 3 eine Absage erteilt. 
 
 Abbildung 11: 
 
-![DA2.jpg](../../assets/images/DA2.jpg)
+![DA2.jpg](../../assets/images/DA2.jpg){:height="500px" width="500px"}
 
 
   3.  Kitas deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 3 ein neues Angebot an Mia welche dies hält.
 
 Abbildung 12: 
 
-![DA3.jpg](../../assets/images/DA3.jpg)
+![DA3.jpg](../../assets/images/DA3.jpg){:height="500px" width="500px"}
 
 
   4.  Wenn keine Kita mehr ein neues Angebot machen kann, werden die gehaltenen Angebote angenommen und eine finale Zuteilung ist erreicht (grüne Pfeile). 
 
 Abbildung 13: 
 
-![DA4.jpg](../../assets/images/DA4.jpg)
+![DA4.jpg](../../assets/images/DA4.jpg){:height="500px" width="500px"}
 
 
 **Stabil**: Wie auch im Beispiel ergibt der Deferred Acceptance Mechanismus immer eine stabile Zuteilung. 
