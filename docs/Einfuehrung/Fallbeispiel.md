@@ -3,6 +3,7 @@ layout: default
 title: Fallbeispiel
 parent: Einführung
 nav_order: 2
+permalink: /docs/Einfuehrung/Fallbeispiel
 ---
 
 # Fallbeispiel
