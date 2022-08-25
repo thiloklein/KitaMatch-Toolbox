@@ -21,7 +21,7 @@ permalink: /docs/Uebersicht-Software/Moegliche-Erweiterungen
 
 In diesem Kapitel gehen wir auf die Möglichkeit ein, unterschiedliche Arten von Plätzen zu vergeben. Dies kann, zusätzlich zu den verschiedenen Alterskohorten, die auch schon im vorhergien Kapitel berücksichtigt werden, in zwei Dimensionen erfolgen: Einerseits können Plätze vergeben werden, die zu unterschiedlichen Zeitpunkten frei werden. Dies wird in KitaMatch mit bis zu 4 unterschiedlichen Quartalen abgebildet, welche Q1, Q2, Q3 und Q4 genannt werden. Andererseits können auch unterschiedliche Plätze im Hinblick auf den Betreuungsumfang vergeben werden:  Ganztags und Halbtags Plätze. 
 
-Im Folgenden gehen wir darauf ein, was sich im Vergleich zum Standardfall aus dem vorigen Kapitel ändert.
+Im Folgenden gehen wir darauf ein, was sich im Vergleich zum [Standardfall](/docs/Uebersicht-Software/Der-Standardfall) aus dem vorigen Kapitel ändert.
 
 ### Welche Daten benötigt KitaMatch?
 
