@@ -62,8 +62,6 @@ Nachdem die Angaben der Kitas und Eltern in die ZEW-Software eingelesen wurden, 
 
 ---
 
----
-
 ## Unterkapitel
 {: .no_toc }
 
