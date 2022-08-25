@@ -169,7 +169,7 @@ Falls Sie das Passwort oder die E-Mail-Adresse verloren oder vergessen haben, ko
 
 ### Navigation
 
-Nachdem Sie sich in die Software eingeloggt haben, erscheint eine erste Übersichtsseite, siehe Screenshot ZY: Hier sollten Sie zuerst den Namen Ihrer Kita überprüfen, und bei Unklarheiten Ihre Kommune kontaktieren. 
+Nachdem Sie sich in die Software eingeloggt haben, erscheint eine erste Übersichtsseite, <mark>siehe Screenshot ZY</mark>: Hier sollten Sie zuerst den Namen Ihrer Kita überprüfen, und bei Unklarheiten Ihre Kommune kontaktieren. 
 
 Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, auf die Sie jeweils klicken können (wir empfehlen das mit einem Rechtsklick zu tun, sodass Sie für jede Altersgruppe ein separates Tab öffnen können).
 
