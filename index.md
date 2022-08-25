@@ -11,13 +11,8 @@ permalink: /
 
 ---
 
-![time.mp4](assets/images/time.mp4)
-
-<video src="assets/images/time.mp4" type="mp4/video" width="640" height="480" autoplay="autoplay" controls="controls"></video>
-
- <video width="320" height="240" controls>
-    <source src="assets/images/time.mp4" type=video/mp4>
- </video>
+Video, das automatisch startet und in Dauerschleiche läuft:
+<video src="assets/images/time.mp4" type="mp4/video" width="640" height="480" autoplay="autoplay" loop="loop" controls="controls"></video> 
 
 ---
 
