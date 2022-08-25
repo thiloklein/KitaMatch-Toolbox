@@ -3,7 +3,7 @@ layout: default
 title: Kriterienkatalog erstellen
 parent: Andere Themen
 nav_order: 2
-permalink: /docs/Einführung
+permalink: /docs/Andere-Themen/Kriterienkatalog-Erstellen
 ---
 
 # Kriterienkatalog erstellen
