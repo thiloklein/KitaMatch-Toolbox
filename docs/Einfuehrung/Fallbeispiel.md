@@ -34,7 +34,7 @@ Mit Blick auf die Geschwindigkeit zeigt eine aktuelle Studie (Reischmann/Klein/G
 
 Im Kreis Steinfurt, in der Gemeinde Saerbeck, wurde bei der Verteilung der Kinder auf die Betreuungsplätze erstmals zum Kitajahr 2019/20 das algorithmusbasierte „Gale-Shapley-Verfahren“ angewendet. Über 100 Kinder in drei Altersgruppen (u2,2j, ü3) wurden auf die zur Verfügung gestellten Plätze verteilt. An dem Verfahren haben sich 6 Kindertageseinrichtungen und die Fachberatung für Kindertagespflege beteiligt.
 
-Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einrichtung entscheidet, obliegt die Entscheidung über die Aufnahme der konkreten Kinder der Einrichtung/dem Träger anhand der geltenden Kriterien. Bisher wurden die Plätze nach dem [First-Preference-First Prinzip](/docs/Einfuehrung/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus) vergeben. Neben dem VG MS-Urteil (siehe Kapitel 3.1.) haben u.a. folgende Gründe die Politik bzw. die Verwaltung bewogen, gemeinsam mit den hiesigen Trägern das Pilotprojekt umzusetzen:
+Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einrichtung entscheidet, obliegt die Entscheidung über die Aufnahme der konkreten Kinder der Einrichtung/dem Träger anhand der geltenden Kriterien. Bisher wurden die Plätze nach dem [First-Preference-First Prinzip](/docs/Einfuehrung/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus#beispiele-deferred-acceptance-first-preference-first-und-unkoordiniert) vergeben. Neben dem VG MS-Urteil (siehe Kapitel 3.1.) haben u.a. folgende Gründe die Politik bzw. die Verwaltung bewogen, gemeinsam mit den hiesigen Trägern das Pilotprojekt umzusetzen:
 
 ### Gründe für die Einführung
 
