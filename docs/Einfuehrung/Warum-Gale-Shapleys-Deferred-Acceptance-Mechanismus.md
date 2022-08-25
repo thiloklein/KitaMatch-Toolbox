@@ -198,7 +198,7 @@ Beim First-Preference-First Mechanismus machen Bewerber Angebote an die Kitas, w
 
 Abbildung 1: 
 
-![B1.jpg](../../assets/images/B1.jpg)
+![B1.jpg](../../assets/images/B1.jpg){:height="200px" width="200px"}
 
 
   2.  In der zweiten Runde macht Kai seiner Zweitwahlkita ein Angebot, welches abgelehnt wird, da bereits in der vorherigen Runde Mias Angebot direkt angenommen wurde. 
