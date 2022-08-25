@@ -13,6 +13,12 @@ permalink: /
 
 ![time.mp4](assets/images/time.mp4)
 
+<video src= assets/images/time.mp4></video>
+
+ <video width="320" height="240" controls>
+    <source src="assets/images/time.mp4" type=video/mp4>
+ </video>
+
 ---
 
 ### Bilder hinzufügen
