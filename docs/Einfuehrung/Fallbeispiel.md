@@ -34,7 +34,7 @@ Mit Blick auf die Geschwindigkeit zeigt eine aktuelle Studie (Reischmann/Klein/G
 
 Im Kreis Steinfurt, in der Gemeinde Saerbeck, wurde bei der Verteilung der Kinder auf die Betreuungsplätze erstmals zum Kitajahr 2019/20 das algorithmusbasierte „Gale-Shapley-Verfahren“ angewendet. Über 100 Kinder in drei Altersgruppen (u2,2j, ü3) wurden auf die zur Verfügung gestellten Plätze verteilt. An dem Verfahren haben sich 6 Kindertageseinrichtungen und die Fachberatung für Kindertagespflege beteiligt.
 
-Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einrichtung entscheidet, obliegt die Entscheidung über die Aufnahme der konkreten Kinder der Einrichtung/dem Träger anhand der geltenden Kriterien. Bisher wurden die Plätze nach dem [First-Preference-First Prinzip](/docs/Einfuehrung/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus#beispiele-deferred-acceptance-first-preference-first-und-unkoordiniert) vergeben. Neben dem VG MS-Urteil (siehe Kapitel 3.1.) haben u.a. folgende Gründe die Politik bzw. die Verwaltung bewogen, gemeinsam mit den hiesigen Trägern das Pilotprojekt umzusetzen:
+Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einrichtung entscheidet, obliegt die Entscheidung über die Aufnahme der konkreten Kinder der Einrichtung/dem Träger anhand der geltenden Kriterien. Bisher wurden die Plätze nach dem [First-Preference-First Prinzip](/docs/Einfuehrung/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus#beispiele-deferred-acceptance-first-preference-first-und-unkoordiniert) vergeben. Neben dem [VG MS-Urteil](/docs/Andere-Themen/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen) haben u.a. folgende Gründe die Politik bzw. die Verwaltung bewogen, gemeinsam mit den hiesigen Trägern das Pilotprojekt umzusetzen:
 
 ### Gründe für die Einführung
 
@@ -42,7 +42,7 @@ Die Gründe für die Einführung sind vielfältig. Im Folgenden werden die wicht
 
 **Digitalisierungsoffensive/Umsetzung OZG**
 
-Im Zuge der Modernisierung und Digitalisierung der Kreisverwaltung Steinfurt und unter der Prämisse des Online-Zugangsgesetzes (vgl. Anlage xy) hat der zuständige Kreisjugendhilfeausschuss entschieden, nicht nur ein online-Vormerkungsprogramm im Bereich der Kindertagesbetreuung einzuführen, sondern auch das Algorithmusbasierte „Gale-Shapley-Vergabeverfahren“.
+Im Zuge der Modernisierung und Digitalisierung der Kreisverwaltung Steinfurt und unter der Prämisse des <mark>Online-Zugangsgesetzes (vgl. Anlage xy)</mark> hat der zuständige Kreisjugendhilfeausschuss entschieden, nicht nur ein online-Vormerkungsprogramm im Bereich der Kindertagesbetreuung einzuführen, sondern auch das Algorithmusbasierte „Gale-Shapley-Vergabeverfahren“.
 
 **Mehr Transparenz/Nachvollziehbarkeit und Arbeitserleichterung und Zeitersparnis**
 
@@ -61,7 +61,7 @@ Darüber hinaus war das Ziel, dass die Eltern keine strategischen Überlegungen 
 
 Dem Kreis Steinfurt war es von Anfang an ein Anliegen, alle Beteiligten frühzeitig mit einzubinden. Für die Einführung des neuen Verfahrens für die Vergabe der Plätze zum Kitajahr 2019/20 informierte das Jugendamt das zuständige Gremium (AG 78) im Sommer/Herbst 2018, sodass Fragen der Träger-, Kitavertretungen, Fachberatungen der Kitas und Kindertagespflege sowie Bürgermeister/innen beantworten werden konnten. 
 
-In der Pilotkommune Saerbeck hat die zuständige Bedarfsplanerin des Kreisjugendamtes ebenso frühzeitig den beteiligten Kitaleitungen, Trägervertretungen und FB KTP sowie dem Bürgermeister das neue Verfahren vorgestellt (siehe Kapitel 2.1.). Sie übernahm im Rahmen der Einführung die Aufgaben einer Projektleitung, die im <mark>Kapitel 3.3</mark>. näher erläutert werden. 
+In der Pilotkommune Saerbeck hat die zuständige Bedarfsplanerin des Kreisjugendamtes ebenso frühzeitig den beteiligten Kitaleitungen, Trägervertretungen und FB KTP sowie dem Bürgermeister das [neue Verfahren](/docs/Uebersicht-Software/Der-Standardfall) vorgestellt. Sie übernahm im Rahmen der Einführung die Aufgaben einer Projektleitung, die im [Kapitel 3.3](/docs/Andere-Themen/Projektmanagement). näher erläutert werden. 
 
 Gemeinsam mit der pädagogischen Fachberatung des Kreises ging die Projektleitung offen in die Gespräche und nahm die Interessen aber auch skeptischen Überlegungen und Zweifel der Beteiligten von Anfang an ernst. Die Akteure zeigten sich interessiert und neugierig, ob das neue Verfahren tatsächlich die angedeuteten Vorteile (🡪 mehr Transparenz, erhöhte Arbeitserleichterung etc., <mark>vgl. Kapitel xy</mark>) mitbringt. 
 
@@ -80,14 +80,14 @@ In der Pilotkommune hat das Jugendamt die beteiligten Träger und Kitaleitungen 
 
 Es war gut, den Beteiligten ein wenig Zeit zu geben, den Kriterienkatalog „reifen zu lassen“ und in einem weiteren Treffen erneut zu diskutieren und manche Begriffe wie „Härtefälle“ zu konkretisieren. Erst dann konnten mögliche Punktwerte pro Kriterium festgelegt werden. Dabei wurden die Beteiligten gebeten, verschiedene Familienszenarien möglichst praxisnah durchzuspielen. Dieser Katalog wurde vom Rat der jeweiligen Kindertageseinrichtung verabschiedet. Im darauffolgenden Jahr haben die Verantwortlichen den ursprünglichen Kriterienkatalog auf Aktualität geprüft, ggfls. angepasst und verabschiedet. Dieses Verfahren wird beibehalten, sodass der Kriterienkatalog -als Grundlage fürs Matching- stets hinterfragt und aktuell gehalten wird.
 
-<mark>Weitere Infos finden Sie im Kapitel 3.2.</mark>
+[Weitere Infos finden Sie im Kapitel 3.2](/docs/Andere-Themen/Kriterienkatalog-Erstellen).
  
  
 ---
 
 ### Der Matching-Day
 
-In Vorbereitung auf das Matching wurde im Dezember 2019 die Ausgangsliste (<mark>siehe Anlage xy</mark>), die die Kitaleitungen bzw. FB KTP mit den Daten ihrer angemeldeten Kinder ausgefüllt haben, vom Jugendamt zusammengestellt. Daraufhin hat die jeweilige Kitaleitung/FB KTP ihre im KitaMatch erstellte Bewerberliste auf Vollständigkeit und Plausibilität geprüft (<mark>vgl. Kapitel 2.1.</mark>).
+In Vorbereitung auf das Matching wurde im Dezember 2019 die Ausgangsliste (<mark>siehe Anlage xy</mark>), die die Kitaleitungen bzw. FB KTP mit den Daten ihrer angemeldeten Kinder ausgefüllt haben, vom Jugendamt zusammengestellt. Daraufhin hat die jeweilige Kitaleitung/FB KTP ihre im KitaMatch erstellte Bewerberliste auf Vollständigkeit und Plausibilität geprüft ([vgl. Kapitel 2.1.](/docs/Uebersicht-Software/Der-Standardfall#welche-daten-benötigt-kitamatch)).
 
 Grundsätzlich hat sich im Kreisjugendamt Steinfurt die Aufteilung der zu matchenden Kinder in Anlehnung der KiBiz-Gruppen (vgl. § 33 KiBiz) in drei Altersgruppen (unter 2jährige, 2jährige, 3 bis 6jährige) bewährt. Demzufolge gibt es pro Kita bzw. KTP und  Altersgruppe eine entsprechende Bewerberliste. 
 
@@ -100,9 +100,9 @@ Eine weitere wichtige Aufgabe in Vorbereitung auf das Matching ist die Prüfung 
 
 **Die Durchführung**
 
-Für die Platzvergabe des Kitajahres 2020/21 kamen die beteiligten Kitaleitungen, Trägervertretungen und die Fachberatung der Kindertagespflege im Januar 2020 zum sogenannten „Matching-Day“ im IT-Schulungsraum des Kreises zusammen, um den Eltern über das KitaMatch-Programm (<mark>siehe Kapitel 2</mark>) **virtuelle Platzangebote** zu machen. Auf Basis der Wunsch-Reihenfolge der Eltern hat das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern angenommen oder abgelehnt – und zwar solange, bis alle Plätze vergeben waren bzw. bis sich die BewerberInnen nicht mehr besserstellen können. 
+Für die Platzvergabe des Kitajahres 2020/21 kamen die beteiligten Kitaleitungen, Trägervertretungen und die Fachberatung der Kindertagespflege im Januar 2020 zum sogenannten „Matching-Day“ im IT-Schulungsraum des Kreises zusammen, um den Eltern über das KitaMatch-Programm ([siehe Übersicht-Software](/docs/Uebersicht-Software)) **virtuelle Platzangebote** zu machen. Auf Basis der Wunsch-Reihenfolge der Eltern hat das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern angenommen oder abgelehnt – und zwar solange, bis alle Plätze vergeben waren bzw. bis sich die BewerberInnen nicht mehr besserstellen können. 
 
-Das Matching kann aber auch online durchgeführt werden. Hierfür bedarf es aber sowohl technische als auch organisatorische Hilfestellung (z.B. jeweils zwei Endgeräte für die Kitaleitungen bzw. FB KTP, mit denen sie für eine bessere Übersicht das Matching verfolgen bzw. das Matching-Tool bedienen können (<mark>siehe Kapitel 2.2.</mark>)).
+Das Matching kann aber auch online durchgeführt werden. Hierfür bedarf es aber sowohl technische als auch organisatorische Hilfestellung (z.B. jeweils zwei Endgeräte für die Kitaleitungen bzw. FB KTP, mit denen sie für eine bessere Übersicht das Matching verfolgen bzw. das Matching-Tool bedienen können ([siehe Kapitel 2.2.](/docs/Uebersicht-Software/Vergabetag)).
 
 Im Februar 2020 schließlich schickten die Kitaleitungen bzw. FB KTP, genau wie ihre Kollegen und Kolleginnen in den anderen Orten des Jugendamtsbezirks, den Eltern über das Kreis STeinfurt ElternPortal - STEP tatsächlich eine Zusage bzw. Absage.
 
@@ -129,7 +129,7 @@ Erfahrungen in Kürze:
 
 Nach Aussagen der Kitaleitungen/FB KTP war es gut, sich bewusst nochmal über die Aufnahmekriterien und deren Gewichtung auszutauschen. Sie kamen zur Erkenntnis, dass „man gar nicht so weit voneinander entfernt liegt“ und durchaus in der Lage sei, einen gemeinsamen Kriterienkatalog zu entwickeln. Es sei optimal, dass die Kriterientreue grundsätzlich durch das Matching garantiert wird. Das Matchingverfahren sei „eine Art Erleichterung, da die Kinder sachlich, neutral sortiert und ausgewählt werden.“ Dies zeigt, wie groß der Erklärungs- und Rechtfertigungsdruck im Rahmen des anderen Verfahrens war. Scheinbar erleben sie eine (emotionale sowie organisatorische) Erleichterung, die sie motiviert, das Matchingverfahren beizubehalten.
 
-Ein weiterer Vorteil ist aus ihrer Sicht die Wahrung der gesetzlich verankerten Trägerautonomie (vgl. § 47 SGB VIII) gewahrt. Denn die Leitungen bzw. FB KTP haben in jeder Altersgruppe die Möglichkeit, aus „gutem Grund“ eine Abweichung von der eigentlichen Bewerberliste vorzunehmen. Dies sei für sie eine Erleichterung, weil die familiären Schicksale im Alltag flexibles und unkompliziertes Handeln und Entscheiden erfordern.
+Ein weiterer Vorteil ist aus ihrer Sicht die Wahrung der gesetzlich verankerten Trägerautonomie <mark>(vgl. § 47 SGB VIII)</mark> gewahrt. Denn die Leitungen bzw. FB KTP haben in jeder Altersgruppe die Möglichkeit, aus „gutem Grund“ eine Abweichung von der eigentlichen Bewerberliste vorzunehmen. Dies sei für sie eine Erleichterung, weil die familiären Schicksale im Alltag flexibles und unkompliziertes Handeln und Entscheiden erfordern.
 
 Insgesamt haben die Kitaleitungen und FB KTP einen reduzierten Aufwand festgestellt: Durch das Programm erhalten sie alle für sie relevanten Anmeldungen (egal, ob 1., 2. oder 5. Wunsch). Darüber hinaus werden alle für die Anmeldung relevanten Daten der Kinder verarbeitet und keine Daten übersehen. Im Matchingverfahren zeigt das Programm in jeder Runde immer nur die angemeldeten Kinder, die nicht bereits ein Angebot von höher präferierter Kita/KTP erhalten haben. Dies erleichtere die Abwicklung, insbesondere bei Kitas mit über hundert Anmeldungen.
 
