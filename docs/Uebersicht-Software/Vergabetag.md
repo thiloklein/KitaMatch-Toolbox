@@ -30,11 +30,9 @@ Der sogenannte „Matching-Day“ ist der Termin, an dem die beteiligten Kitalei
 ---
 
 ### Moderation
-Der Prozess sollte von der Projektleitung (vgl. Kapitel 3.3.) moderiert und begleitet werden. Dabei sollte die Person das Matchingverfahren kennen und mögliche Fragen der Beteiligten beantworten können. Darüber hinaus ist es ihre Aufgabe im Rahmen des Matching-Days, sicherzustellen, dass alle Kitaleitungen bzw. FB KTP wissen, wann welche Verfahrensschritte anstehen. 
+Der Prozess sollte von der [Projektleitung](/docs/Andere-Themen/Projektmanagement#die-projektleitung-und-die-rolle-des-jugendamtes) moderiert und begleitet werden. Dabei sollte die Person das Matchingverfahren kennen und mögliche Fragen der Beteiligten beantworten können. Darüber hinaus ist es ihre Aufgabe im Rahmen des Matching-Days, sicherzustellen, dass alle Kitaleitungen bzw. FB KTP wissen, wann welche Verfahrensschritte anstehen. 
 
-➔ **Tipp**: 
-
-Der Prozess sollte aus Erfahrung heraus von einer Person (z.B. die Projektleitung) moderiert werden, die das Matchingverfahren kennt und die Beteiligten beim Matching eng begleitet. 
+➔ **Tipp**: Der Prozess sollte aus Erfahrung heraus von einer Person (z.B. die Projektleitung) moderiert werden, die das Matchingverfahren kennt und die Beteiligten beim Matching eng begleitet. 
 
 
 ---
@@ -60,5 +58,5 @@ Für eine angenehme Arbeitsatmosphäre können Kaffee- und Kaltgetränke als Ser
 ---
 
 ### Matching
-Zunächst ist zu prüfen, ob die Teilnehmer/innen die technischen Voraussetzungen erfüllen, sich mit ihren Login-Daten im KitaMatch-Programm einloggen (<mark>vgl. Kapitel 2.1.3</mark>) und ihre Bewerberlisten einsehen können. 
+Zunächst ist zu prüfen, ob die Teilnehmer/innen die [technischen Voraussetzungen erfüllen](/docs/Uebersicht-Software/Der-Standardfall#systemzugang), sich mit ihren Login-Daten im KitaMatch-Programm einloggen und ihre Bewerberlisten einsehen können. 
 
