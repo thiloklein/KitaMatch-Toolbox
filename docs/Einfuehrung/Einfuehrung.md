@@ -3,7 +3,7 @@ layout: default
 title: Einführung
 nav_order: 2
 has_children: true
-permalink: /docs/Einführung
+permalink: /docs/Einfuehrung
 ---
 
 # Einführung
