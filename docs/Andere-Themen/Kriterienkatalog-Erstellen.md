@@ -8,7 +8,7 @@ permalink: /docs/Andere-Themen/Kriterienkatalog-Erstellen
 
 # Kriterienkatalog erstellen
 {: .no_toc }
-Das Matching funktioniert - so gut wie die Kriterien formuliert und konkret sind (siehe Kapitel 1.3.3.?). Daher ist ein Kriterienkatalog fürs Matching zwingend erforderlich.
+Das Matching funktioniert - so gut wie die Kriterien formuliert und konkret sind <mark>(siehe Kapitel 1.3.3.?)</mark>. Daher ist ein Kriterienkatalog fürs Matching zwingend erforderlich.
 
 
 ## Inhalt
@@ -82,7 +82,7 @@ Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet
   - Es ist wichtig, dass alle Träger- bzw. Kitaleitungen und FB KTP von Anfang an im Prozess involviert werden und bei den Terminen anwesend sind. Der Prozess muss von allen (mit-)getragen werden. 
   - Für einen erfolgreichen Prozess ist es zwingend notwendig, dass dieser Kriterienkatalog jährlich hinterfragt und ggfls. angepasst wird. Daher ist ein enger Austausch während des alljährlichen Prozess zwischen Moderator/in, Jugendamt und Kitaleitungen bzw. FB KTP unabdingbar. 
   - Um eine größere Transparenz herzustellen, kann es sinnvoll sein, den ersten Entwurf z.B. dem Jugendamtselternbeirat vorzulegen, um dessen Meinung anzuhören. Dabei bleibt die Entscheidungsbefugnis jedoch bei den Trägern/Kitaleitungen bzw. FB KTP. 
-  - Aufgrund der gesetzlichen Bestimmung zur Einberufung des Elternbeirats ist es möglich, dass der Entwurf vom „alten“ Elternrat diskutiert und vom „neuen“ verabschiedet wird (vgl. § 10 KiBiz).
+  - Aufgrund der gesetzlichen Bestimmung zur Einberufung des Elternbeirats ist es möglich, dass der Entwurf vom „alten“ Elternrat diskutiert und vom „neuen“ verabschiedet wird <mark>(vgl. § 10 KiBiz)</mark>.
 
 
 ---
@@ -102,15 +102,15 @@ Um globale Kriterien zu formulieren, können die gesetzliche Rahmenbedingungen h
 **„Ein Kind, das das erste Lebensjahr noch nicht vollendet hat**, ist in einer Einrichtung oder in Kindertagespflege zu fördern, wenn
   1. diese Leistung für seine Entwicklung zu einer selbstbestimmten, eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit geboten ist oder
   2. die Erziehungsberechtigten
-    a) einer Erwerbstätigkeit nachgehen, eine Erwerbstätigkeit aufnehmen oder Arbeit suchend sind,
-    b) sich in einer beruflichen Bildungsmaßnahme, in der Schulausbildung oder Hochschulausbildung befinden oder    
-    c) Leistungen zur Eingliederung in Arbeit im Sinne des Zweiten Buches erhalten.“
+      a) einer Erwerbstätigkeit nachgehen, eine Erwerbstätigkeit aufnehmen oder Arbeit suchend sind,
+      b) sich in einer beruflichen Bildungsmaßnahme, in der Schulausbildung oder Hochschulausbildung befinden oder    
+      c) Leistungen zur Eingliederung in Arbeit im Sinne des Zweiten Buches erhalten.“
 
  „**Ein Kind, das das erste Lebensjahr vollendet hat, hat bis zur Vollendung des dritten Lebensjahres** Anspruch auf frühkindliche Förderung in einer Tageseinrichtung oder in Kindertagespflege.“ Demnach hat jedes ein- bzw. zweijähriges Kind grundsätzlich einen Anspruch auf frühkindliche Betreuung und Bildung. Es ist ein Anspruch auf Betreuung begründet, aber nicht konkret auf eine Betreuung in der (Wunsch-)Kita bzw. KTP.
 
 „**Ein Kind, das das dritte Lebensjahr vollendet hat**, hat bis zum Schuleintritt Anspruch auf Förderung in einer Tageseinrichtung. Die Träger der öffentlichen Jugendhilfe haben darauf hinzuwirken, dass für diese Altersgruppe ein bedarfsgerechtes Angebot an Ganztagsplätzen zur Verfügung steht. Das Kind kann bei besonderem Bedarf oder ergänzend auch in Kindertagespflege gefördert werden.“ Die über 3jährigen Kinder haben demzufolge einen konkreten Anspruch auf eine Betreuung in einer Kindertageseinrichtung. 
 
-Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die Arbeitshilfe „Aufnahmekriterien für Kindertageseinrichtungen“ **(siehe Anlage xy)** der Kommunalen Spitzenverbände und der Landesjugendämter in NRW (Erscheinungsdatum?! Durcharbeiten, Verwendung i.O.?) sein. Auf Grundlage der Punkte 3 bis 5 dieser Arbeitshilfe können beispielsweise folgende Aufnahmekriterien herangezogen werden: 
+Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die Arbeitshilfe „Aufnahmekriterien für Kindertageseinrichtungen“ <mark>(siehe Anlage xy)</mark> der Kommunalen Spitzenverbände und der Landesjugendämter in NRW (Erscheinungsdatum?! Durcharbeiten, Verwendung i.O.?) sein. Auf Grundlage der Punkte 3 bis 5 dieser Arbeitshilfe können beispielsweise folgende Aufnahmekriterien herangezogen werden: 
 
 - „Anzeige des Betreuungsbedarfs mind. 6 Monate vor der geplanten Aufnahme
 - Kinder aus dem Jugendamtsbezirk 
