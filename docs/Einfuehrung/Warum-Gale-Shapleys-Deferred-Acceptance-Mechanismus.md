@@ -198,21 +198,21 @@ Beim First-Preference-First Mechanismus machen Bewerber Angebote an die Kitas, w
 
 Abbildung 1: 
 
-![B1.jpg](../../assets/images/B1.jpg){:height="200px" width="200px"}
+![B1.jpg](../../assets/images/B1.jpg){:height="600px" width="600px"}
 
 
   2.  In der zweiten Runde macht Kai seiner Zweitwahlkita ein Angebot, welches abgelehnt wird, da bereits in der vorherigen Runde Mias Angebot direkt angenommen wurde. 
 
 Abbildung 2: 
 
-![B2.jpg](../../assets/images/B2.jpg)
+![B2.jpg](../../assets/images/B2.jpg){:height="400px" width="400px"}
 
 
   3.  In der dritten Runde macht Kai noch der letzten Kita ein Angebot, welches direkt angenommen wird. 
 
 Abbildung 3: 
 
-![B3.jpg](../../assets/images/B3.jpg)
+![B3.jpg](../../assets/images/B3.jpg){:height="500px" width="500px"}
 
 
 **Nicht Stabil**: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.
