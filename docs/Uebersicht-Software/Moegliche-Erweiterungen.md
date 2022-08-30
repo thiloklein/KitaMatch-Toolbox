@@ -39,7 +39,7 @@ Sollen unterschiedliche Arten von Plätzen vergeben werden, muss entsprechend au
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![plätze-einpflegen.jpg](../../assets/images/plätze-einpflegen.jpg)
 
 
 #### Vor dem Matching Day
@@ -48,7 +48,7 @@ Sie sehen nun in der oberen Übersicht, welche Arten von Plätzen Sie vergeben, 
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![übersicht-vor-matchingday.jpg](../../assets/images/übersicht-vor-matchingday.jpg)
 
 
 #### Während einer Runde 
