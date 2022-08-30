@@ -150,7 +150,7 @@ An dieser Stelle wird – ohne Anspruch auf Rechtmäßigkeit, Gerichtsbarkeit un
 
 Abbildung Nr./schriftl. Genehmigung einholen! 
 
-![B1.jpg](../../assets/images/B1.jpg)
+![konkretes-beispiel.jpg](../../assets/images/konkretes-beispiel.jpg)
 
 In der Pilotkommune Saerbeck gelten demzufolge folgende „globale“ Kriterien, die für alle ausgewählten Wunscheinrichtungen gleichermaßen gelten: 
 
