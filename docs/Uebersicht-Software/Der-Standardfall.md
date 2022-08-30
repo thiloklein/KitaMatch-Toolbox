@@ -54,7 +54,7 @@ Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse un
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![login.jpg](../../assets/images/login.jpg "Login-Menü")
 
 
 - Vergessenes Passwort zurücksetzen:
@@ -75,7 +75,7 @@ Sie können die KitaMatch-Umgebung über die permanente Navigationsleiste oben a
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![navigation.jpg](../../assets/images/navigation.jpg)
 
 
 ### Zuteilung
@@ -100,12 +100,12 @@ Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plät
  
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![zuordnungen.jpg](../../assets/images/zuordnungen.jpg)
 
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![nicht-zuordnungen.jpg](../../assets/images/nicht-zuordnungen.jpg)
 
 
 
@@ -117,12 +117,12 @@ Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei alle
  
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![bewerber.jpg](../../assets/images/bewerber.jpg)
 
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![rangliste-wunscheinrichtung.jpg](../../assets/images/rangliste-wunscheinrichtung.jpg)
 
 
 ### Kitagruppen
@@ -131,7 +131,7 @@ Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle 
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![kitagruppen.jpg](../../assets/images/kitagruppen.jpg)
 
 
 ---
@@ -159,7 +159,7 @@ Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse un
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![systemzugang-login.jpg](../../assets/images/systemzugang-login.jpg)
 
 
 - Vergessenes Passwort zurücksetzen:
@@ -177,7 +177,7 @@ Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, au
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![systemzugang-navigation.jpg](../../assets/images/systemzugang-navigation.jpg)
 
 
 #### Freie Plätze einpflegen
@@ -186,7 +186,7 @@ Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über di
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![stammdaten-gruppe.jpg](../../assets/images/stammdaten-gruppe.jpg)
 
 
 ### Bewerberliste und Koordinierungsverfahren
@@ -201,7 +201,7 @@ Die Seite ist prinzipiell so aufgebaut, dass oben die wichtigsten Informationen 
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![vor-matchingday.jpg](../../assets/images/vor-matchingday.jpg)
 
 #### Während einer Runde 
 
@@ -209,7 +209,7 @@ Wenn der Matching Day durch die Projektmanagerin eingeläutet wurde, können Sie
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![während-runde.jpg](../../assets/images/während-runde.jpg)
 
 Dies wiederholen Sie so oft, bis Sie keine weiteren Platzangebote mehr vergeben können oder wollen[^5]. Wenn das der Fall ist, sagen Sie bitte der Projektmanagerin Ihrer Kommune Bescheid, dass Sie mit der aktuellen Runde fertig sind. 
 
@@ -223,7 +223,7 @@ Falls Sie mehr freie, zu belegende Plätze als Bewerber/innen haben, können Sie
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![während-runde-2.jpg](../../assets/images/während-runde-2.jpg)
 
 Wenn alle Kitaleitungen mit einer Runde fertig sind, klickt die Projektleiterin auf den zentralen, blau hinterlegten „Vergabe starten Button“ auf der Hauptseite. 
 
@@ -240,7 +240,7 @@ Jetzt können Sie sehen, wie sich die Kinder, denen Sie in der vorigen Runde ein
 
 <mark>Abbildung 8:</mark>
 
-![D22.jpg](../../assets/images/D22.jpg)
+![nach-runde.jpg](../../assets/images/nach-runde.jpg)
 
 Wenn Sie nach einer Runde noch freie Kapazitäten und Kinder in Ihrer Liste haben, denen Sie ein Angebot machen können, wiederholen Sie den Vorgang der Platzvergabe und geben der Projektleiterin wieder Bescheid, wenn Sie fertig sind. Dies wird so lange wiederholt, bis alle Kitas entweder keine freien Plätze, oder keine Kinder mehr in ihrer Liste haben, denen sie noch Angebote unterbreiten können.
 
