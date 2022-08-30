@@ -24,7 +24,7 @@ Die Zeitplanung ist einer der entscheidenden Faktoren für ein erfolgreiches Pro
 
 <mark>Abbildung xy: Vorschlag eines Zeitplans</mark>
 
-![B1.jpg](../../assets/images/B1.jpg)
+![zeitplan.jpg](../../assets/images/zeitplan.jpg)
 
 
 ---
