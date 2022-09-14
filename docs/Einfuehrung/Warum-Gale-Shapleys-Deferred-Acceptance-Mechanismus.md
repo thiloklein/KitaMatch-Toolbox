@@ -83,16 +83,13 @@ Als nächstes wird der Ablauf des Deferred-Acceptance Mechanismus  beschrieben. 
 **Schritte 1, 2, 3, 4, ...**.
 
  1.  **Kita Angebote**: 
-
-  Kitas, die mindestens eine Absage erhalten haben, machen ein neues Angebot pro Absage --- außer sie haben keine Bewerber mehr, denen sie ein Angebot unterbreiten möchten. Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein weiteres Angebot.
+    - Kitas, die mindestens eine Absage erhalten haben, machen ein neues Angebot pro Absage --- außer sie haben keine Bewerber mehr, denen sie ein Angebot unterbreiten möchten. Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein weiteres Angebot.
 
  2.  **Bewerber Annahmen**: 
-
-  Bewerbern welche zusätzlich Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Danach erteilen sie allen anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben,  eine definitive Absage.
+    - Bewerbern welche zusätzlich Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Danach erteilen sie allen anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben,  eine definitive Absage.
 
  3.  **Ende**: 
-
-  Falls kein einziges neues Angebot gemacht wurde, ist eine finale Zuteilung erreicht. Bewerber haben einen Kitaplatz bei der Kita, deren Angebot sie zuletzt vorläufig gehalten haben — vorläufige Annahmen werden jetzt zu definitiven Annahmen. Bewerbern, die kein Angebot halten, gehen leer aus.
+    - Falls kein einziges neues Angebot gemacht wurde, ist eine finale Zuteilung erreicht. Bewerber haben einen Kitaplatz bei der Kita, deren Angebot sie zuletzt vorläufig gehalten haben — vorläufige Annahmen werden jetzt zu definitiven Annahmen. Bewerbern, die kein Angebot halten, gehen leer aus.
 
 ---
 
@@ -109,10 +106,8 @@ Als nächstes wird der Ablauf des Deferred-Acceptance Mechanismus  beschrieben. 
 **Schritt 1.**
 
   1.  Gemäß ihrer vorsortierten Liste machen Kitas für jeden ihrer Plätze ein Angebot an einen Bewerber — und zwar generell beginnend mit den höchst priorisierten der Reihe nach folgend. 
-
-**Dezentral: Aufgrund der semi-dezentralen Natur des Verfahrens haben Kitas jedoch die Flexibilität, bei Bedarf von dem Kriterienkatalog/Prioritäten abzuweichen.**
-
-**Wichtig: Weicht eine Kita vom Kriterienkatalog ab, sollte dies begründet werden.** 
+      - **Dezentral: Aufgrund der semi-dezentralen Natur des Verfahrens haben Kitas jedoch die Flexibilität, bei Bedarf von dem Kriterienkatalog/Prioritäten abzuweichen.**
+      - **Wichtig: Weicht eine Kita vom Kriterienkatalog ab, sollte dies begründet werden.** 
 
   2.  Bewerber nehmen ein Angebot vorläufig an und geben den anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben, eine definitive Absage. Zentralisiert: Dies geschieht automatisch  über die hinterlegten Präferenzen.
 
@@ -120,12 +115,10 @@ Als nächstes wird der Ablauf des Deferred-Acceptance Mechanismus  beschrieben. 
 **Schritte 1, 2, 3, 4, ...**
 
   1.  Kitas, die mindestens eine Absage erhalten haben, machen ein neues Angebot pro Absage. Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein     weiteres Angebot. 
-
-**Dezentral: Auch in jedem dieser Schritte können Kitas bei Bedarf von dem Kriterienkatalog/Prioritäten abweichen.**
+      - **Dezentral: Auch in jedem dieser Schritte können Kitas bei Bedarf von dem Kriterienkatalog/Prioritäten abweichen.**
 
   2.  Bewerber, welche zusätzlich Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Dann erteilen sie allen anderen Kitas eine definitive Absage. 
-
-Zentralisiert: Dies geschieht automatisch über die hinterlegten Präferenzen.
+      - Zentralisiert: Dies geschieht automatisch über die hinterlegten Präferenzen.
 
   3.  Falls kein einziges neues Angebot gemacht wurde, ist eine finale Zuteilung erreicht:
 Bewerber haben einen Kitaplatz bei der Kita, deren Angebot sie halten. Bewerber, die kein Angebot halten, bleiben zunächst unversorgt.
