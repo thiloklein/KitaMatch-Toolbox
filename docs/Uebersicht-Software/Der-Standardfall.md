@@ -100,12 +100,12 @@ Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plät
  
 <mark>Abbildung 8:</mark>
 
-![zuordnungen.jpg](../../assets/images/zuordnungen.jpg)
+![zuordnungen.png](../../assets/images/zuordnungen.png)
 
 
 <mark>Abbildung 8:</mark>
 
-![nicht-zuordnungen.jpg](../../assets/images/nicht-zuordnungen.jpg)
+![nicht-zuordnungen.png](../../assets/images/nicht-zuordnungen.png)
 
 
 
@@ -117,12 +117,12 @@ Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei alle
  
 <mark>Abbildung 8:</mark>
 
-![bewerber.jpg](../../assets/images/bewerber.jpg)
+![bewerber.png](../../assets/images/bewerber.png)
 
 
 <mark>Abbildung 8:</mark>
 
-![rangliste-wunscheinrichtung.jpg](../../assets/images/rangliste-wunscheinrichtung.jpg)
+![rangliste-wunscheinrichtung.png](../../assets/images/rangliste-wunscheinrichtung.png)
 
 
 ### Kitagruppen
@@ -131,7 +131,7 @@ Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle 
 
 <mark>Abbildung 8:</mark>
 
-![kitagruppen.jpg](../../assets/images/kitagruppen.jpg)
+![kitagruppen.png](../../assets/images/kitagruppen.png)
 
 
 ---
@@ -159,7 +159,7 @@ Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse un
 
 <mark>Abbildung 8:</mark>
 
-![systemzugang-login.jpg](../../assets/images/systemzugang-login.jpg)
+![systemzugang-login.png](../../assets/images/systemzugang-login.png)
 
 
 - Vergessenes Passwort zurücksetzen:
@@ -177,7 +177,7 @@ Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, au
 
 <mark>Abbildung 8:</mark>
 
-![systemzugang-navigation.jpg](../../assets/images/systemzugang-navigation.jpg)
+![systemzugang-navigation.png](../../assets/images/systemzugang-navigation.png)
 
 
 #### Freie Plätze einpflegen
@@ -186,7 +186,7 @@ Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über di
 
 <mark>Abbildung 8:</mark>
 
-![stammdaten-gruppe.jpg](../../assets/images/stammdaten-gruppe.jpg)
+![stammdaten-gruppe.png](../../assets/images/stammdaten-gruppe.png)
 
 
 ### Bewerberliste und Koordinierungsverfahren
@@ -201,7 +201,7 @@ Die Seite ist prinzipiell so aufgebaut, dass oben die wichtigsten Informationen 
 
 <mark>Abbildung 8:</mark>
 
-![vor-matchingday.jpg](../../assets/images/vor-matchingday.jpg)
+![vor-matchingday.png](../../assets/images/vor-matchingday.png)
 
 #### Während einer Runde 
 
@@ -209,7 +209,7 @@ Wenn der Matching Day durch die Projektmanagerin eingeläutet wurde, können Sie
 
 <mark>Abbildung 8:</mark>
 
-![während-runde.jpg](../../assets/images/während-runde.jpg)
+![während-runde.png](../../assets/images/während-runde.png)
 
 Dies wiederholen Sie so oft, bis Sie keine weiteren Platzangebote mehr vergeben können oder wollen[^5]. Wenn das der Fall ist, sagen Sie bitte der Projektmanagerin Ihrer Kommune Bescheid, dass Sie mit der aktuellen Runde fertig sind. 
 
@@ -223,7 +223,7 @@ Falls Sie mehr freie, zu belegende Plätze als Bewerber/innen haben, können Sie
 
 <mark>Abbildung 8:</mark>
 
-![während-runde-2.jpg](../../assets/images/während-runde-2.jpg)
+![während-runde-2.png](../../assets/images/während-runde-2.png)
 
 Wenn alle Kitaleitungen mit einer Runde fertig sind, klickt die Projektleiterin auf den zentralen, blau hinterlegten „Vergabe starten Button“ auf der Hauptseite. 
 
@@ -240,7 +240,7 @@ Jetzt können Sie sehen, wie sich die Kinder, denen Sie in der vorigen Runde ein
 
 <mark>Abbildung 8:</mark>
 
-![nach-runde.jpg](../../assets/images/nach-runde.jpg)
+![nach-runde.png](../../assets/images/nach-runde.png)
 
 Wenn Sie nach einer Runde noch freie Kapazitäten und Kinder in Ihrer Liste haben, denen Sie ein Angebot machen können, wiederholen Sie den Vorgang der Platzvergabe und geben der Projektleiterin wieder Bescheid, wenn Sie fertig sind. Dies wird so lange wiederholt, bis alle Kitas entweder keine freien Plätze, oder keine Kinder mehr in ihrer Liste haben, denen sie noch Angebote unterbreiten können.
 
