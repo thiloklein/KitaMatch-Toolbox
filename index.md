@@ -6,6 +6,7 @@ permalink: /
 ---
 
 # Startseite
+{: .no_toc }
 
 Mit dem Ziel einer gerechteren und schnelleren Kitaplatzvergabe hat das [ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung](https://www.zew.de/) in den letzten fünf Jahren ein Verfahren entwickelt, das eine transparente, faire und schnelle Vergabe ermöglicht, bei der die Wünsche von Eltern und Kitas optimal zusammenkommen. Inzwischen wird das Verfahren in einigen Modellstädten erfolgreich und regelmäßig implementiert. Um dieses Verfahren deutschlandweit allen Städten und Gemeinden zugänglich zu machen, wurde die vorliegende **Best Practice Toolbox** entwickelt, mit der Anwender das vom ZEW entwickelte Vergabeverfahren selbstständig umsetzen können.
 {: .fs-6 .fw-300 }
