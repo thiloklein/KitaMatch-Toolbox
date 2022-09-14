@@ -54,7 +54,7 @@ Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse un
 
 <mark>Abbildung 8:</mark>
 
-![login.jpg](../../assets/images/login.jpg "Login-Menü")
+![login.png](../../assets/images/login.png "Login-Menü")
 
 
 - Vergessenes Passwort zurücksetzen:
