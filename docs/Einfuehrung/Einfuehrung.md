@@ -13,6 +13,18 @@ permalink: /docs/Einfuehrung
 Mit dem Ziel einer gerechteren und schnelleren Kitaplatzvergabe hat das ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung in den letzten fünf Jahren ein Verfahren entwickelt, das eine transparente, faire und schnelle Vergabe ermöglicht, bei der die Wünsche von Eltern und Kitas optimal zusammenkommen. Inzwischen wird das Verfahren in einigen Modellstädten erfolgreich und regelmäßig implementiert. Um dieses Verfahren deutschlandweit allen Städten und Gemeinden zugänglich zu machen, wurde die vorliegende **Best Practice Toolbox** entwickelt, mit der Anwender das vom ZEW entwickelte Vergabeverfahren selbstständig umsetzen können.
 {: .fs-6 .fw-300 }
 
+Siehe [externer Link](https://www.zew.de/).
+<mark>Siehe</mark> eigene Dateien [cheat-sheet.pdf]().
+
+Kita-Platzvergabe in 5 Schritten:
+  1. Bewerberliste hochladen
+  2. Verfügbare Plätze und Aufnahmekriterien festlegen
+  3. Angebote machen
+  4. Automatisierte Rückmeldung der Eltern erhalten
+  5. Schritte 3 und 4 wiederholen
+
+
+
 ## Inhalt
 {: .no_toc .text-delta }
 
