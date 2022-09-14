@@ -82,7 +82,7 @@ Als nächstes wird der Ablauf des Deferred-Acceptance Mechanismus  beschrieben. 
   Bewerber, die mindestens ein Angebot erhalten haben,  nehmen das beste Angebot vorläufig an und geben den anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben, eine definitive Absage. 
  
  
-**Schritt k>1**.
+**Schritte 1, 2, 3, 4, ...**.
 
  1.  **Kita Angebote**: 
 
@@ -119,7 +119,7 @@ Als nächstes wird der Ablauf des Deferred-Acceptance Mechanismus  beschrieben. 
   2.  Bewerber nehmen ein Angebot vorläufig an und geben den anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben, eine definitive Absage. Zentralisiert: Dies geschieht automatisch  über die hinterlegten Präferenzen.
 
 
-**Schritt k>1.**
+**Schritte 1, 2, 3, 4, ...**
 
   1.  Kitas, die mindestens eine Absage erhalten haben, machen ein neues Angebot pro Absage. Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein     weiteres Angebot. 
 
