@@ -14,14 +14,8 @@ Mit dem Ziel einer gerechteren und schnelleren Kitaplatzvergabe hat das ZEW – 
 {: .fs-6 .fw-300 }
 
 Siehe [externer Link](https://www.zew.de/).
-<mark>Siehe</mark> eigene Dateien [cheat-sheet.pdf]().
 
-Kita-Platzvergabe in 5 Schritten:
-  1. Bewerberliste hochladen
-  2. Verfügbare Plätze und Aufnahmekriterien festlegen
-  3. Angebote machen
-  4. Automatisierte Rückmeldung der Eltern erhalten
-  5. Schritte 3 und 4 wiederholen
+<mark>Siehe</mark> eigene Dateien [cheat-sheet.pdf]().
 
 
 
@@ -32,6 +26,15 @@ Kita-Platzvergabe in 5 Schritten:
 {:toc}
 
 ---
+
+**Kita-Platzvergabe in 5 Schritten:**
+
+  1. Bewerberliste hochladen
+  2. Verfügbare Plätze und Aufnahmekriterien festlegen
+  3. Angebote machen
+  4. Automatisierte Rückmeldung der Eltern erhalten
+  5. Schritte 3 und 4 wiederholen
+
 
 ## Motivation
 
