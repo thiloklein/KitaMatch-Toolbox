@@ -68,12 +68,12 @@ permalink: /docs/how-to
 </style>
 <div id="slider">
         <figure>
-            <img src="1.png">
-            <img src="2.png">
-            <img src="3.png">
-            <img src="4.png">
-            <img src="5.png">
-            <img src="1.png">
+            <img src="../assets/images/1.png">
+            <img src="../assets/images/2.png">
+            <img src="../assets/images/3.png">
+            <img src="../assets/images/4.png">
+            <img src="../assets/images/5.png">
+            <img src="../assets/images/1.png">
         </figure>
     </div>
 
