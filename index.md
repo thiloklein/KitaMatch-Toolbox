@@ -51,5 +51,5 @@ Das Verfahren wurde in Abstimmung mit Eltern, Trägern und Kommunen entwickelt, 
 
 ---
 
-
+[![ZEW-logo.png](assets/images/ZEW_logo.png){:height="100px" width="100px"}](https://www.zew.de/)
 
