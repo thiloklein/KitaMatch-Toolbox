@@ -53,9 +53,9 @@ Das Verfahren wurde in Abstimmung mit Eltern, Trägern und Kommunen entwickelt, 
 {:style="text-align:center;"}
 [![ZEW-logo.png](assets/images/ZEW_logo.png){:height="200px" width="200px"}](https://www.zew.de/)
 [![bertelsmann-logo.png](assets/images/bertelsmann-logo.png){:height="200px" width="200px"}](https://www.bertelsmann-stiftung.de/de/startseite)
-[![Leibniz_logo.png](assets/images/Leibniz_logo.png){:height="200px" width="200px"}](https://www.leibniz-gemeinschaft.de/)
+[![Leibniz_logo.png](assets/images/Leibniz_logo.png){:height="150px" width="150px"}](https://www.leibniz-gemeinschaft.de/)
 
 {:style="text-align:center;"}
 [![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}](https://www.kreis-steinfurt.de/kv_steinfurt/Home/)
-[![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="200px" width="200px"}](https://www.kaiserslautern.de/)
+[![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="150px" width="150px"}](https://www.kaiserslautern.de/)
 
