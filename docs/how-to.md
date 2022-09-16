@@ -11,6 +11,74 @@ permalink: /docs/how-to
 
 ---
 
+<style type="text/css">
+
+    #slider {
+        overflow: hidden;
+    }
+
+    #slider figure {
+        position: relative;
+        width: 500%;
+        margin: 0;
+        left: 0;
+        animation: 20s slider infinite;
+    }
+
+    #slider figure img {
+        float: left;
+        width: 20%;
+    }
+
+    @keyframes slider {
+        0% {
+            left: 0;
+        }
+        18% {
+            left: 0;
+        }
+        20% {
+            left: -100%;
+        }
+        38% {
+            left: -100%;
+        }
+        40% {
+            left: -200%;
+        }
+        58% {
+            left: -200%;
+        }
+        60% {
+            left: -300%;
+        }
+        78% {
+            left: -300%;
+        }
+        80% {
+            left: -400%;
+        }
+        98% {
+            left: -400%;
+        }
+        100% {
+            left: -500%;
+        }
+    }
+</style>
+<div id="slider">
+        <figure>
+            <img src="1.png">
+            <img src="2.png">
+            <img src="3.png">
+            <img src="4.png">
+            <img src="5.png">
+            <img src="1.png">
+        </figure>
+    </div>
+
+---
+
 Video, das automatisch startet und in Dauerschleiche läuft:
 <video src="../assets/images/time.mp4" type="mp4/video" width="640" height="480" style="max-width:500px;" autoplay="autoplay" loop="loop" controls="controls"></video> 
 
