@@ -73,7 +73,6 @@ permalink: /docs/how-to
             <img src="../assets/images/3.png">
             <img src="../assets/images/4.png">
             <img src="../assets/images/5.png">
-            <img src="../assets/images/1.png">
         </figure>
     </div>
 
