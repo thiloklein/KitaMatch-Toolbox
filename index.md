@@ -11,6 +11,68 @@ permalink: /
 Mit dem Ziel einer gerechteren und schnelleren Kitaplatzvergabe hat das [ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung](https://www.zew.de/) in den letzten fünf Jahren ein Verfahren entwickelt, das eine transparente, faire und schnelle Vergabe ermöglicht, bei der die Wünsche von Eltern und Kitas optimal zusammenkommen. Inzwischen wird das Verfahren in einigen Modellstädten erfolgreich und regelmäßig implementiert. Um dieses Verfahren deutschlandweit allen Städten und Gemeinden zugänglich zu machen, wurde die vorliegende **Best Practice Toolbox** entwickelt, mit der Anwender das vom ZEW entwickelte Vergabeverfahren selbstständig umsetzen können.
 {: .fs-6 .fw-300 }
 
+<style type="text/css">
+    #slider {
+        overflow: hidden;
+    }
+    #slider figure {
+        position: relative;
+        width: 500%;
+        margin: 0;
+        left: 0;
+        animation: 20s slider infinite;
+    }
+    #slider figure img {
+        float: left;
+        width: 20%;
+    }
+    @keyframes slider {
+        0% {
+            left: 0;
+        }
+        18% {
+            left: 0;
+        }
+        20% {
+            left: -100%;
+        }
+        38% {
+            left: -100%;
+        }
+        40% {
+            left: -200%;
+        }
+        58% {
+            left: -200%;
+        }
+        60% {
+            left: -300%;
+        }
+        78% {
+            left: -300%;
+        }
+        80% {
+            left: -400%;
+        }
+        98% {
+            left: -400%;
+        }
+        100% {
+            left: -500%;
+        }
+    }
+</style>
+<div id="slider">
+      <figure>
+          <img src="assets/images/1.png">
+          <img src="assets/images/2.png">
+          <img src="assets/images/3.png">
+          <img src="assets/images/4.png">
+          <img src="assets/images/5.png">
+      </figure>
+</div>
+
+
 <mark>Siehe</mark> [cheat-sheet.pdf]().
 
 ---
