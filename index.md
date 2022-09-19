@@ -191,68 +191,68 @@ permalink: /
 </div>
 
 ## Vorteile im Überblick
-    <div id="row1">
-        <div id="column11">
-            <div id="img11">
-                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
-            </div>
-            <div id="text11">
-                SCHNELL:<br>
-                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
-            </div>
+<div id="row1">
+    <div id="column11">
+        <div id="img11">
+            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="column12">
-            <div id="img12">
-                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
-            </div>
-            <div id="text12">
-                SCHNELL:<br>
-                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
-            </div>
+        <div id="text11">
+            SCHNELL:<br>
+            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
         </div>
     </div>
-    <br>
-    <div id="row2">
-        <div id="column21">
-            <div id="img21">
-                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
-            </div>
-            <div id="text21">
-                SCHNELL:<br>
-                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
-            </div>
+    <div id="column12">
+        <div id="img12">
+            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="column22">
-            <div id="img22">
-                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
-            </div>
-            <div id="text22">
-                SCHNELL:<br>
-                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
-            </div>
+        <div id="text12">
+            SCHNELL:<br>
+            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
         </div>
     </div>
-    <br>
-    <div id="row3">
-        <div id="column31">
-            <div id="img31">
-                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
-            </div>
-            <div id="text31">
-                SCHNELL:<br>
-                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
-            </div>
+</div>
+<br>
+<div id="row2">
+    <div id="column21">
+        <div id="img21">
+            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="column32">
-            <div id="img32">
-                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
-            </div>
-            <div id="text32">
-                SCHNELL:<br>
-                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
-            </div>
+        <div id="text21">
+            SCHNELL:<br>
+            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
         </div>
     </div>
+    <div id="column22">
+        <div id="img22">
+            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="25%">
+        </div>
+        <div id="text22">
+            SCHNELL:<br>
+            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+        </div>
+    </div>
+</div>
+<br>
+<div id="row3">
+    <div id="column31">
+        <div id="img31">
+            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="25%">
+        </div>
+        <div id="text31">
+            SCHNELL:<br>
+            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+        </div>
+    </div>
+    <div id="column32">
+        <div id="img32">
+            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="25%">
+        </div>
+        <div id="text32">
+            SCHNELL:<br>
+            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+        </div>
+    </div>
+</div>
 
 
 ### Gefördert durch
