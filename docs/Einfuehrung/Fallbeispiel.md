@@ -77,11 +77,11 @@ Eine mögliche Lösung des Problems wäre die Einführung einer zentralen Cleari
 
 <div id="slider">
       <figure>
-          <img src="assets/images/1_Karten.png">
-          <img src="assets/images/2_Karten.png">
-          <img src="assets/images/3_Karten.png">
-          <img src="assets/images/4_Karten.png">
-          <img src="assets/images/5_Karten.png">
+          <img src="../../assets/images/1_Karten.png">
+          <img src="../../assets/images/2_Karten.png">
+          <img src="../../assets/images/3_Karten.png">
+          <img src="../../assets/images/4_Karten.png">
+          <img src="../../assets/images/5_Karten.png">
       </figure>
 </div>
 
