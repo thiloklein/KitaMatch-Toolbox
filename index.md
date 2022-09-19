@@ -269,7 +269,7 @@ Entwickelt von einem Team...
 
 ---
 
-### Gefördert durch
+## Gefördert durch
 
 {:style="text-align:center;"}
 [![bertelsmann_logo.png](assets/images/bertelsmann_logo.png){:height="200px" width="200px"}]()
@@ -278,7 +278,7 @@ Entwickelt von einem Team...
 
 ---
 
-### Unsere Projekte
+## Unsere Projekte
 
 {:style="text-align:center;"}
 [![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}]()
@@ -287,7 +287,7 @@ Entwickelt von einem Team...
 
 ---
 
-### In der Presse
+## In der Presse
 
 <div class="presse">
     <div class="zeitung">
@@ -329,7 +329,7 @@ Entwickelt von einem Team...
 
 ---
 
-### Aktuelles
+## Aktuelles
 
 **25.01.2022 – ZEW Expertise:** [Können Algorithmen eine bessere Kitaplatzvergabe ermöglichen?]()
 
