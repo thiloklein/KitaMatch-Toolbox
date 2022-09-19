@@ -82,7 +82,7 @@ Sie können die KitaMatch-Umgebung über die permanente Navigationsleiste oben a
 
 Auf der Startseite (bzw. nach Klicken auf “Zuteilung“) sehen Sie eine Übersicht der aktuellen Zuordnungen im Verfahren. Bevor das Verfahren startet, ist diese Liste noch leer. Dann gibt es, wie im obigen Screenshot, logischerweise noch 0 Zuordnungen. 
 
-Während des Verfahrens sehen Sie hingegen eine Liste mit den aktuellen Zuordnungen <mark>(siehe Screenshot X)</mark>, sowie weiter unten eine Liste aller Kinder, die aktuell noch nicht zugeordnet sind <mark>(siehe Screenshot Y)</mark>. 
+Während des Verfahrens sehen Sie hingegen eine Liste mit den aktuellen Zuordnungen, sowie weiter unten eine Liste aller Kinder, die aktuell noch nicht zugeordnet sind. 
 
 Bei den Zuordnungen gibt es 2 Möglichkeiten: “Finale Zuordnung“ bedeutet, dass das jeweilige Kind seiner Wunschkita zugeordnet wurde, und entsprechend keine Möglichkeit besteht, dass das Kind im Laufe des Verfahrens noch ein besseres Angebot bekommt. Im Gegensatz dazu bedeutet “Gehaltenes Angebot“, dass das Kind aktuell der jeweiligen Kita vorläufig zugesagt hat, es aber prinzipiell sein kann, dass das Kind im Laufe des Verfahrens noch ein “besseres“ Angebot bekommt, und deshalb das aktuell gehaltene Angebot noch ablehnen könnte. Diese beiden Listen von versorgten und bisher unversorgten Kindern können jeweils über den Export Button in ein Excel Dokument überführt werden. 
 
@@ -111,9 +111,9 @@ Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plät
 
 ### Bewerber
 
-Nach einem Klick auf “Bewerber“ landet man auf der Übersicht über alle Bewerber/Kinder, die in dem Verfahren teilnehmen. Siehe dazu <mark>Screenshot Z</mark>. 
+Nach einem Klick auf “Bewerber“ landet man auf der Übersicht über alle Bewerber/Kinder, die in dem Verfahren teilnehmen.
 
-Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei allen anderen “22“. Bei einem Klick auf “Einsehen“ erhält man weitere Information des jeweiligen Kindes. Hier möchten wir insbesondere auf die “Rangliste der Wunscheinrichtungen“ aufmerksam machen, <mark>siehe Screenshot XA</mark>. Diese Rangliste beschreibt die von den Eltern abgegebenen Präferenzen über die Kitas.
+Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei allen anderen “22“. Bei einem Klick auf “Einsehen“ erhält man weitere Information des jeweiligen Kindes. Hier möchten wir insbesondere auf die “Rangliste der Wunscheinrichtungen“ aufmerksam machen. Diese Rangliste beschreibt die von den Eltern abgegebenen Präferenzen über die Kitas.
  
 <mark>Abbildung 8:</mark>
 
@@ -127,7 +127,7 @@ Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei alle
 
 ### Kitagruppen
 
-Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle Kitagruppen, <mark>siehe Screenshot XB</mark>. Durch Klicken auf die jeweilige Kita (bzw. die einzelne Alterskohorte einer Kita) kommen Sie zu der Ansicht, die die Kitaleitung während des Verfahrens haben. Dieser Teil der Software wird im nächsten Kapitel erklärt, der sowohl die Projektmanagerin als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen.
+Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle Kitagruppen. Durch Klicken auf die jeweilige Kita (bzw. die einzelne Alterskohorte einer Kita) kommen Sie zu der Ansicht, die die Kitaleitung während des Verfahrens haben. Dieser Teil der Software wird im nächsten Kapitel erklärt, der sowohl die Projektmanagerin als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen.
 
 <mark>Abbildung 8:</mark>
 
@@ -169,7 +169,7 @@ Falls Sie das Passwort oder die E-Mail-Adresse verloren oder vergessen haben, ko
 
 ### Navigation
 
-Nachdem Sie sich in die Software eingeloggt haben, erscheint eine erste Übersichtsseite, <mark>siehe Screenshot ZY</mark>: Hier sollten Sie zuerst den Namen Ihrer Kita überprüfen, und bei Unklarheiten Ihre Kommune kontaktieren. 
+Nachdem Sie sich in die Software eingeloggt haben, erscheint eine erste Übersichtsseite: Hier sollten Sie zuerst den Namen Ihrer Kita überprüfen, und bei Unklarheiten Ihre Kommune kontaktieren. 
 
 Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, auf die Sie jeweils klicken können (wir empfehlen das mit einem Rechtsklick zu tun, sodass Sie für jede Altersgruppe ein separates Tab öffnen können).
 
