@@ -151,6 +151,7 @@ permalink: /
     .zeitung {
         width: 20%;
         float: left;
+        text-align: center;
     }
     .date {
         width: 20%;
@@ -244,7 +245,9 @@ permalink: /
     </div>
 </div>
 <br>
-
+<br>
+<br>
+<br>
 
 ---
 
@@ -282,7 +285,7 @@ Entwickelt von einem Team...
 
 <div class="presse">
     <div class="zeitung">
-        <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="15%">
+        <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="25%">
     </div>
     <div class="date">
         25.01.2020
