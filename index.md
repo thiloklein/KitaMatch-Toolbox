@@ -265,6 +265,9 @@ permalink: /
 <br>
 <br>
 <br>
+<br>
+<br>
+
 
 ---
 
@@ -286,8 +289,8 @@ Entwickelt von einem Team...
             <img src="assets/images/bertelsmann_logo.png" alt="dvsbadfy" width="90%">
         </div>
         <div class="zitat">
-            Herr XYZ:
-            "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+            <p>Herr XYZ:</p>
+            <p>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."</p>
         </div>
     </div>
     <br>
@@ -296,8 +299,8 @@ Entwickelt von einem Team...
             <img src="assets/images/Leibniz_logo.png" alt="dvsbadfy" width="50%">
         </div>
         <div class="zitat">
-            Herr XYZ:
-            "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+            <p>Herr XYZ:</p>
+            <p>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."</p>
         </div>
     </div>
     <br>
@@ -306,8 +309,8 @@ Entwickelt von einem Team...
             <img src="assets/images/ZEW_logo.jpg" alt="dvsbadfy" width="70%">
         </div>
         <div class="zitat">
-            Herr XYZ:
-            "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+            <p>Herr XYZ:</p>
+            <p>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."</p>
         </div>
     </div>
 
