@@ -40,11 +40,11 @@ Es gibt verschiedene Möglichkeiten, einen gemeinsamen Kriterienkatalog zu entwi
 
 - Es bestehen Kriterienkataloge.
 
-  Die beteiligten Kitaleitungen und FB KTP werden von des/r Moderator/in zu einem Termin eingeladen, um zu prüfen, ob die Beteiligten einen gemeinsamen Kriterienkatalog entwickeln können. Völlig wertfrei und unter Wahrung der Trägerautonomie werden die Kriterien der einzelnen Einrichtungen gesammelt und zusammengestellt. Die Kitaleitungen und FB der KTP werden sodann gebeten, Gemeinsamkeiten sowie Abweichungen festzustellen. Dabei lässt sich sicherlich eine Art „gemeinsamer Nenner“ formulieren <mark>(weiter mit Schritt 3.2.3)</mark>. 
+  Die beteiligten Kitaleitungen und FB KTP werden von des/r Moderator/in zu einem Termin eingeladen, um zu prüfen, ob die Beteiligten einen gemeinsamen Kriterienkatalog entwickeln können. Völlig wertfrei und unter Wahrung der Trägerautonomie werden die Kriterien der einzelnen Einrichtungen gesammelt und zusammengestellt. Die Kitaleitungen und FB der KTP werden sodann gebeten, Gemeinsamkeiten sowie Abweichungen festzustellen. Dabei lässt sich sicherlich eine Art „gemeinsamer Nenner“ formulieren. 
                        
 - Es liegen keine konkreten Kriterienkataloge, mit denen weitergearbeitet werden kann, vor.
 
-  Falls es keine einzelnen, konkreten Kriterienkataloge der Kitas bzw. KTP vorliegen, ist zu empfehlen, die Beteiligten einzuladen, um für sie wichtige Aufnahmekriterien auf einem „weißen Blatt“ zusammenzutragen <mark>(weiter mit Schritt 3.2.3.)</mark>. 
+  Falls es keine einzelnen, konkreten Kriterienkataloge der Kitas bzw. KTP vorliegen, ist zu empfehlen, die Beteiligten einzuladen, um für sie wichtige Aufnahmekriterien auf einem „weißen Blatt“ zusammenzutragen. 
 
 - Es wird kein einheitlicher Kriterienkatalog gewünscht. 
 
@@ -69,11 +69,11 @@ Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet
 
 - Verabschieden des Katalogs im jeweiligen Kita-Gremium bzw. KTP
 
-  Die Kitaleitungen und FB KTP legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kita-Gremium vor, um die Kriterien zu diskutieren und letztlich zu verabschieden <mark>(vgl. § 10 VI KiBiZ)</mark>. 
+  Die Kitaleitungen und FB KTP legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kita-Gremium vor, um die Kriterien zu diskutieren und letztlich zu verabschieden (vgl. § 10 VI KiBiZ). 
 
   Je nach Anzahl der beteiligten Kitas bzw. FB KTP und in Abhängigkeit der Trägerstruktur der Kitalandschaft können mehrere Feedback-Loops entstehen. Dies sollte in der Zeitplanung berücksichtigt werden. 
 
-➔ **Dieser gemeinsam erarbeitete und für alle Beteiligten gleich geltende Kriterienkatalog gilt als Grundlage für das anstehende Matching** (der Kinder zum kommenden Kitajahr  <mark>(unterschiedliche Zeitpunkte möglich/Kapitel xy)</mark>. 
+➔ **Dieser gemeinsam erarbeitete und für alle Beteiligten gleich geltende Kriterienkatalog gilt als Grundlage für das anstehende Matching** (der Kinder zum kommenden Kitajahr ([unterschiedliche Zeitpunkte möglich](/docs/Uebersicht-Software/Moegliche-Erweiterungen#verschiedene-betreuungsumfänge-und-betreuungszeitpunkte)). 
 
 - **Hinweise/Tipps**: 
   - Die Erstellung des gemeinsamen Kriterienkatalogs ist ein Entwicklungsprozess!
@@ -82,7 +82,7 @@ Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet
   - Es ist wichtig, dass alle Träger- bzw. Kitaleitungen und FB KTP von Anfang an im Prozess involviert werden und bei den Terminen anwesend sind. Der Prozess muss von allen (mit-)getragen werden. 
   - Für einen erfolgreichen Prozess ist es zwingend notwendig, dass dieser Kriterienkatalog jährlich hinterfragt und ggfls. angepasst wird. Daher ist ein enger Austausch während des alljährlichen Prozess zwischen Moderator/in, Jugendamt und Kitaleitungen bzw. FB KTP unabdingbar. 
   - Um eine größere Transparenz herzustellen, kann es sinnvoll sein, den ersten Entwurf z.B. dem Jugendamtselternbeirat vorzulegen, um dessen Meinung anzuhören. Dabei bleibt die Entscheidungsbefugnis jedoch bei den Trägern/Kitaleitungen bzw. FB KTP. 
-  - Aufgrund der gesetzlichen Bestimmung zur Einberufung des Elternbeirats ist es möglich, dass der Entwurf vom „alten“ Elternrat diskutiert und vom „neuen“ verabschiedet wird <mark>(vgl. § 10 KiBiz)</mark>.
+  - Aufgrund der gesetzlichen Bestimmung zur Einberufung des Elternbeirats ist es möglich, dass der Entwurf vom „alten“ Elternrat diskutiert und vom „neuen“ verabschiedet wird (vgl. § 10 KiBiz).
 
 
 ---
