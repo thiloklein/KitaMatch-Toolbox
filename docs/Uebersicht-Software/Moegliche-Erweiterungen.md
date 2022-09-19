@@ -35,7 +35,7 @@ Zusätzlich benötigt KitaMatch pro Kind Informationen, wie die Gewichtung zwisc
 
 #### Freie Plätze einpflegen
 
-Sollen unterschiedliche Arten von Plätzen vergeben werden, muss entsprechend auch für jede Kombination aus Umfang und Zeitpunkt die Anzahl an freien Plätzen eingepflegt werden, siehe <mark>Screenshot XY</mark>. 
+Sollen unterschiedliche Arten von Plätzen vergeben werden, muss entsprechend auch für jede Kombination aus Umfang und Zeitpunkt die Anzahl an freien Plätzen eingepflegt werden. 
 
 <mark>Abbildung 8:</mark>
 
