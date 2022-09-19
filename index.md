@@ -146,9 +146,11 @@ permalink: /
     }
 </style>
 
-[![banner.png](assets/images/banner.png)](mailto:thilo.klein@zew.de)
-    
+[![banner.PNG](assets/images/banner.png)](mailto:thilo.klein@zew.de)
+
+
 ## Kitaplatzvergabe in 5 Schritten
+
 <div id="slider">
       <figure>
           <img src="assets/images/1_Screen.png">
@@ -223,7 +225,9 @@ permalink: /
     </div>
 </div>
 
+
 ---
+
 ## Was zeichner KitaMatch aus?
 
 Entwickelt von einem Team...
@@ -232,7 +236,9 @@ Entwickelt von einem Team...
  - an der Spitze der Forschung im Bereich Marktdesign und Matching-Märkte
  - mit einer Vielzahl erfolgreicher Projekte
 
+
 ---
+
 ### Gefördert durch
 
 {:style="text-align:center;"}
@@ -240,7 +246,9 @@ Entwickelt von einem Team...
 [![bertelsmann-logo.png](assets/images/bertelsmann-logo.png){:height="200px" width="200px"}](https://www.bertelsmann-stiftung.de/de/startseite)
 [![Leibniz_logo.png](assets/images/Leibniz_logo.png){:height="150px" width="150px"}](https://www.leibniz-gemeinschaft.de/)
 
+
 ---
+
 ### Unsere Projekte
 
 {:style="text-align:center;"}
