@@ -144,6 +144,22 @@ permalink: /
             left: -500%;
         }
     }
+    
+        .presse {
+        width: 100%;
+    }
+    .zeitung {
+        width: 20%;
+        float: left;
+    }
+    .date {
+        width: 20%;
+        float: left;
+    }
+    .articlelink {
+        width: 60%;
+        float: right;
+    }
 </style>
 
 [![assets/images/banner.PNG](assets/images/banner.PNG)](mailto:thilo.klein@zew.de)
@@ -263,6 +279,43 @@ Entwickelt von einem Team...
 ---
 
 ### In der Presse
+
+<div class="presse">
+    <div class="zeitung">
+        <img src="wiwo_logo.png" alt="dvsbadfy" width="15%">
+    </div>
+    <div class="date">
+        25.01.2020
+    </div>
+    <div class="articlelink">
+        <a href="Link-Ziel">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
+    </div>
+</div>
+<br>
+<div class="presse">
+    <div class="zeitung">
+        <img src="faz_logo.png" alt="dvsbadfy" width="15%">
+    </div>
+    <div class="date">
+        30.11.2019
+    </div>
+    <div class="articlelink">
+        <a href="Link-Ziel">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
+    </div>
+</div>
+<br>
+<div class="presse">
+    <div class="zeitung">
+        <img src="faz_logo.png" alt="dvsbadfy" width="15%">
+    </div>
+    <div class="date">
+        18.06.2017
+    </div>
+    <div class="articlelink">
+        <a href="Link-Ziel">Raus aus der Kita-Warteschlange</a>
+    </div>
+</div>
+<br>
 
 
 ---
