@@ -162,19 +162,6 @@ permalink: /
         float: right;
     }
     
-    .sponsor {
-        width: 100%;
-    }
-    .logo {
-        width: 20%;
-        float: left;
-        text-align: center;
-    }
-    .zitat {
-        width: 80%;
-        float: right;
-    }
-
 </style>
 
 [![assets/images/banner.PNG](assets/images/banner.PNG)](mailto:thilo.klein@zew.de)
@@ -284,35 +271,10 @@ Entwickelt von einem Team...
 
 ### Gefördert durch
 
-    <div class="sponsor">
-        <div class="logo">
-            <img src="assets/images/bertelsmann_logo.png" alt="dvsbadfy" width="90%">
-        </div>
-        <div class="zitat">
-            <p>Herr XYZ:</p>
-            <p>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."</p>
-        </div>
-    </div>
-    <br>
-    <div class="sponsor">
-        <div class="logo">
-            <img src="assets/images/Leibniz_logo.png" alt="dvsbadfy" width="50%">
-        </div>
-        <div class="zitat">
-            <p>Herr XYZ:</p>
-            <p>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."</p>
-        </div>
-    </div>
-    <br>
-    <div class="sponsor">
-        <div class="logo">
-            <img src="assets/images/ZEW_logo.jpg" alt="dvsbadfy" width="70%">
-        </div>
-        <div class="zitat">
-            <p>Herr XYZ:</p>
-            <p>"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."</p>
-        </div>
-    </div>
+{:style="text-align:center;"}
+[![bertelsmann_logo.png](assets/images/bertelsmann_logo.png){:height="200px" width="200px"}]()
+[![Leibniz_logo.png](assets/images/Leibniz_logo.png){:height="150px" width="150px"}]()
+[![ZEW_logo.jpg](assets/images/ZEW_logo.jpg){:height="150px" width="150px"}]()
 
 ---
 
