@@ -283,7 +283,7 @@ Entwickelt von einem Team...
 
     <div class="sponsor">
         <div class="logo">
-            <img src="bertelsmann_logo.png" alt="dvsbadfy" width="90%">
+            <img src="assets/images/bertelsmann_logo.png" alt="dvsbadfy" width="90%">
         </div>
         <div class="zitat">
             Herr XYZ:
@@ -293,7 +293,7 @@ Entwickelt von einem Team...
     <br>
     <div class="sponsor">
         <div class="logo">
-            <img src="Leibniz_logo.png" alt="dvsbadfy" width="50%">
+            <img src="assets/images/Leibniz_logo.png" alt="dvsbadfy" width="50%">
         </div>
         <div class="zitat">
             Herr XYZ:
@@ -303,7 +303,7 @@ Entwickelt von einem Team...
     <br>
     <div class="sponsor">
         <div class="logo">
-            <img src="ZEW_logo.jpg" alt="dvsbadfy" width="70%">
+            <img src="assets/images/ZEW_logo.jpg" alt="dvsbadfy" width="70%">
         </div>
         <div class="zitat">
             Herr XYZ:
