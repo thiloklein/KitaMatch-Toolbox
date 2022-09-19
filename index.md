@@ -124,11 +124,11 @@ permalink: /
 ## Kitaplatzvergabe in 5 Schritten
 <div id="slider">
       <figure>
-          <img src="assets/images/1.png">
-          <img src="assets/images/2.png">
-          <img src="assets/images/3.png">
-          <img src="assets/images/4.png">
-          <img src="assets/images/5.png">
+          <img src="assets/images/1_Screen.png">
+          <img src="assets/images/2_Screen.png">
+          <img src="assets/images/3_Screen.png">
+          <img src="assets/images/4_Screen.png">
+          <img src="assets/images/5_Screen.png">
       </figure>
 </div>
 
@@ -137,17 +137,17 @@ permalink: /
     <div id="column1">
         <ul>
             <li>
-                <img src="icon_schnell.png" alt="dvsbadfy">
+                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
                 <h3>SCHNELL:</h3>
                 <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
             </li>
             <li>
-                <img src="icon_schnell.png" alt="dvsbadfy">
+                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
                 <h3>SCHNELL:</h3>
                 <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
             </li>
             <li>
-                <img src="icon_schnell.png" alt="dvsbadfy">
+                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
                 <h3>SCHNELL:</h3>
                 <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
             </li>
@@ -156,17 +156,17 @@ permalink: /
     <div id="column2">
         <ul>
             <li>
-                <img src="icon_schnell.png" alt="dvsbadfy">
+                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
                 <h3>SCHNELL:</h3>
                 <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
             </li>
             <li>
-                <img src="icon_schnell.png" alt="dvsbadfy">
+                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
                 <h3>SCHNELL:</h3>
                 <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
             </li>
             <li>
-                <img src="icon_schnell.png" alt="dvsbadfy">
+                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
                 <h3>SCHNELL:</h3>
                 <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
             </li>
