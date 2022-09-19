@@ -17,11 +17,73 @@ permalink: /docs/Einfuehrung/Fallbeispiel
 
 ---
 
+<style type="text/css">
+    #slider {
+        overflow: hidden;
+    }
+    #slider figure {
+        position: relative;
+        width: 500%;
+        margin: 0;
+        left: 0;
+        animation: 20s slider infinite;
+    }
+    #slider figure img {
+        float: left;
+        width: 20%;
+    }
+    @keyframes slider {
+        0% {
+            left: 0;
+        }
+        18% {
+            left: 0;
+        }
+        20% {
+            left: -100%;
+        }
+        38% {
+            left: -100%;
+        }
+        40% {
+            left: -200%;
+        }
+        58% {
+            left: -200%;
+        }
+        60% {
+            left: -300%;
+        }
+        78% {
+            left: -300%;
+        }
+        80% {
+            left: -400%;
+        }
+        98% {
+            left: -400%;
+        }
+        100% {
+            left: -500%;
+        }
+    }
+</style>
+
 ## Wissenschaftliche Perspektive
 
 In dem bis 2018 verwendeten Verfahren verschicken Kitas ihre Angebote unabhängig und weitgehend unkoordiniert. Probleme entstanden, wenn sich Eltern einerseits gezwungen sahen, ein frühes, unattraktives Angebot um der Sicherheit willen anzunehmen, oder andererseits, wenn sie in Erwartung eines besseren Angebots vorübergehend mehrere Plätze hielten und diese damit für andere Familien blockierten. Der erste Aspekt führt zu einer unfairen Verteilung, in der es Bewerber gibt, die „berechtigten Neid“ auf andere Bewerber haben. Etwa weil ein Kind keinen Platz in der Kita seiner Geschwister bekommt, obwohl es dort aufgrund des Geschwisterstatus Vorrang hätte. Der zweite Aspekt verlangsamt das Aufnahmeverfahren und führt zu Unsicherheiten auf Seiten der Eltern und Arbeitgeber.
 
 Eine mögliche Lösung des Problems wäre die Einführung einer zentralen Clearingstelle. Eine solche Clearingstelle ist die Plattform Hochschulstart bei der Studienplatzvergabe, die Ranglisten der Bewerber/innen und Hochschulen erhebt und damit eine gut durchdachte Platzvergabe gewährleistet. Kitas sind aber oft nicht in der Lage, vollständige Ranglisten über Bewerber an eine zentrale Clearingstelle zu übermitteln. Eine wichtige Rolle spielt die Berücksichtigung sogenannter Komplementaritäten, wie der gewünschten Geschlechter- und Altersmischung in den Betreuungsgruppen. Diese lassen sich nicht so einfach über Ranglisten ausdrücken.
+
+<div id="slider">
+      <figure>
+          <img src="assets/images/1_Karten.png">
+          <img src="assets/images/2_Karten.png">
+          <img src="assets/images/3_Karten.png">
+          <img src="assets/images/4_Karten.png">
+          <img src="assets/images/5_Karten.png">
+      </figure>
+</div>
 
 Der in der Softwareanwendung „KitaMatch“ implementierte Mechanismus ermöglicht es den Kitas dagegen weiterhin dezentralisierte Angebotsentscheidungen zu treffen. In dem iterativen Verfahren bekommen die Kita-Leitungen in jeder Runde die noch interessierten Bewerber auf einer Softwareplattform angezeigt und registrieren ihre Platzangebote. Damit werden Komplementaritäten berücksichtigt, da Kitas ihre Angebote von Platzzusagen aus vorhergehenden Runden abhängig machen können. Gleichzeitig wird eine schnelle und faire Zuordnung erzielt, indem die Plattform die Entscheidungen der Eltern automatisiert und in jeder Runde jeweils nur das beste Angebot für sie hält. Alle anderen Angebote werden direkt abgelehnt. Der Mechanismus verbindet damit die Vorzüge einer zentralen Vergabe mit denen der dezentralen Vergabe.
 
