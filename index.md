@@ -33,34 +33,92 @@ permalink: /
         cursor: pointer;
     }
 
-    #column1 {
+    #row1 {
+        width: 100%;
+    }
+    #column11 {
         width: 50%;
         float: left;
     }
-
-    #column2 {
+    #column12 {
         width: 50%;
         float: right;
     }
-
-    ul {
-        list-style-type: none;
-        width: 30em;
-    }
-
-    li h3 {
-        line-height: 30%;
-    }
-
-    li img {
+    #img11 {
+        width: 15%;
         float: left;
-        margin: 0 15px 0 0;
-        width: 5em;
+        text-align: center;
     }
-
-    li {
-        padding: 10px;
-        overflow: auto;
+    #text11 {
+        width: 85%;
+        float: right;
+    }
+    #img12 {
+        width: 15%;
+        float: left;
+        text-align: center;
+    }
+    #text12 {
+        width: 85%;
+        float: right;
+    }
+    #row2 {
+        width: 100%;
+    }
+    #column21 {
+        width: 50%;
+        float: left;
+    }
+    #column22 {
+        width: 50%;
+        float: right;
+    }
+    #img21 {
+        width: 15%;
+        float: left;
+        text-align: center;
+    }
+    #text21 {
+        width: 85%;
+        float: right;
+    }
+    #img22 {
+        width: 15%;
+        float: left;
+        text-align: center;
+    }
+    #text22 {
+        width: 85%;
+        float: right;
+    }
+    #row3 {
+        width: 100%;
+    }
+    #column31 {
+        width: 50%;
+        float: left;
+    }
+    #column32 {
+        width: 50%;
+        float: right;
+    }
+    #img31 {
+        width: 15%;
+        float: left;
+        text-align: center;
+    }
+    #text31 {
+        width: 85%;
+        float: right;
+    }
+    #img32 {
+        width: 15%;
+        float: left;
+        text-align: center;
+    }
+    #text32 {
+        width: 85%;
+        float: right;
     }
     
     #slider {
@@ -133,46 +191,68 @@ permalink: /
 </div>
 
 ## Vorteile im Überblick
-<div id="column">
-    <div id="column1">
-        <ul>
-            <li>
-                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
-                <h3>SCHNELL:</h3>
-                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
-            </li>
-            <li>
-                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
-                <h3>SCHNELL:</h3>
-                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
-            </li>
-            <li>
-                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
-                <h3>SCHNELL:</h3>
-                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
-            </li>
-        </ul>
+    <div id="row1">
+        <div id="column11">
+            <div id="img11">
+                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
+            </div>
+            <div id="text11">
+                SCHNELL:<br>
+                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+            </div>
+        </div>
+        <div id="column12">
+            <div id="img12">
+                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
+            </div>
+            <div id="text12">
+                SCHNELL:<br>
+                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+            </div>
+        </div>
     </div>
-    <div id="column2">
-        <ul>
-            <li>
-                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
-                <h3>SCHNELL:</h3>
-                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
-            </li>
-            <li>
-                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
-                <h3>SCHNELL:</h3>
-                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
-            </li>
-            <li>
-                <img src="assets/images/icon_schnell.png" alt="dvsbadfy">
-                <h3>SCHNELL:</h3>
-                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
-            </li>
-        </ul>
+    <br>
+    <div id="row2">
+        <div id="column21">
+            <div id="img21">
+                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
+            </div>
+            <div id="text21">
+                SCHNELL:<br>
+                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+            </div>
+        </div>
+        <div id="column22">
+            <div id="img22">
+                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
+            </div>
+            <div id="text22">
+                SCHNELL:<br>
+                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+            </div>
+        </div>
     </div>
-</div>
+    <br>
+    <div id="row3">
+        <div id="column31">
+            <div id="img31">
+                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
+            </div>
+            <div id="text31">
+                SCHNELL:<br>
+                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+            </div>
+        </div>
+        <div id="column32">
+            <div id="img32">
+                <img src="icon_schnell.png" alt="dvsbadfy" width="25%">
+            </div>
+            <div id="text32">
+                SCHNELL:<br>
+                Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert
+            </div>
+        </div>
+    </div>
 
 
 ### Gefördert durch
