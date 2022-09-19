@@ -148,6 +148,7 @@ permalink: /
 
 [![assets/images/banner.PNG](assets/images/banner.PNG)](mailto:thilo.klein@zew.de)
 
+---
 
 ## Kitaplatzvergabe in 5 Schritten
 
@@ -160,6 +161,8 @@ permalink: /
           <img src="assets/images/5_Screen.png">
       </figure>
 </div>
+
+---
 
 ## Vorteile im Überblick
 <div id="row1">
@@ -224,11 +227,12 @@ permalink: /
         </div>
     </div>
 </div>
+<br>
 
 
 ---
 
-## Was zeichner KitaMatch aus?
+## Was zeichnet KitaMatch aus?
 
 Entwickelt von einem Team...
  - mit über 10 Jahren Erfahrung mit Platzvergabeverfahren im Bildungsbereich
