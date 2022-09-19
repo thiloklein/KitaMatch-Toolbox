@@ -109,7 +109,7 @@ In Vorbereitung auf den Matching-Day sollen möglichst viele Dinge im Vorfeld mi
 
 **Welche Kinder sollen gematcht werden?**
 
-Bevor die Bewerberlisten generiert werden, sollten sich die Verantwortlichen über die zu berücksichtigenden Kinder einigen. Sofern Kinder, die beispielsweise zum 1.8. eine Betreuung benötigen, berücksichtigt werden sollen, ist zu klären, ob die Kinder, die einen Betreuungswunsch vor dem 1.8. haben, vorab versorgt werden können oder mitgematcht werden. Hierzu ist von den Kitaleitungen bzw. FB KTP oder vom Jugendamt mit den Eltern zu klären, zu wann genau sie den Bedarf haben. Wenn das Kind doch vorab eine Betreuung benötigt, reduziert sich entsprechend die Zahl der zu matchenden, freien Plätze. Denn das Kind, das vor dem 1.8. aufgenommen wird, zählt i.d.R. als verbleibendes Kind in der Einrichtung und wird nicht mehr gematcht (<mark>Ausnahme: Wechselkinder, siehe u.g. Punkt xy</mark>). 
+Bevor die Bewerberlisten generiert werden, sollten sich die Verantwortlichen über die zu berücksichtigenden Kinder einigen. Sofern Kinder, die beispielsweise zum 1.8. eine Betreuung benötigen, berücksichtigt werden sollen, ist zu klären, ob die Kinder, die einen Betreuungswunsch vor dem 1.8. haben, vorab versorgt werden können oder mitgematcht werden. Hierzu ist von den Kitaleitungen bzw. FB KTP oder vom Jugendamt mit den Eltern zu klären, zu wann genau sie den Bedarf haben. Wenn das Kind doch vorab eine Betreuung benötigt, reduziert sich entsprechend die Zahl der zu matchenden, freien Plätze. Denn das Kind, das vor dem 1.8. aufgenommen wird, zählt i.d.R. als verbleibendes Kind in der Einrichtung und wird nicht mehr gematcht (Ausnahme: Wechselkinder). 
 
 Ebenso ist es wichtig, zu klären, ob die Kinder, die einen Betreuungswunsch nach dem 1.8. (z.B. 1.9., 1.11., 1.3. des Folgejahres) mitgematcht werden sollen oder als unterjährige Aufnahme gewertet werden. 
 
@@ -127,11 +127,11 @@ Damit alle (Wechsel-)Kinder berücksichtigt werden können, ist es sinnvoll, die
 
 **Gibt es Geschwisterkinder?**
 
-Sofern mehrere Geschwisterkinder für eine Kita/KTP angemeldet sind, ist es sinnvoll, diese gemeinsam dorthin zu vermitteln, sofern die Kapazitäten der Wunscheinrichtung dies ermöglichen. Dabei sollten diese Kinder während des gesamten Prozesses unter besonderer Beobachtung stehen. <mark>Nähere Infos und Lösungsvorschläge unter 1.5.5.</mark>
+Sofern mehrere Geschwisterkinder für eine Kita/KTP angemeldet sind, ist es sinnvoll, diese gemeinsam dorthin zu vermitteln, sofern die Kapazitäten der Wunscheinrichtung dies ermöglichen. Dabei sollten diese Kinder während des gesamten Prozesses unter besonderer Beobachtung stehen. 
 
 **Zahl der freien Plätze eintragen**
 
-In Vorbereitung auf den Matching-Day ist neben der jeweiligen Bewerberliste auch die Angabe der Zahl der freien Plätze wichtig. Diese erfolgt (in der Regel wie bisher) durch das Jugendamt in Abstimmung mit den beteiligten Trägervertretungen, Kitaleitungen bzw. FB KTP <mark>(vgl. Kapitel 2.5.3.1.)</mark>
+In Vorbereitung auf den Matching-Day ist neben der jeweiligen Bewerberliste auch die Angabe der Zahl der freien Plätze wichtig. Diese erfolgt (in der Regel wie bisher) durch das Jugendamt in Abstimmung mit den beteiligten Trägervertretungen, Kitaleitungen bzw. FB KTP (vgl. Kapitel 2.5.3.1.)
 
 Aus Erfahrung heraus ist es sinnvoll, die freien Plätze im Vorfeld mit der Kitaleitung bzw. FB KTP oder Trägervertretung abzustimmen. Denn in manchen Fällen kann es beispielsweise Schulrücksteller geben, deren Entscheidungsprozess am Tage des Matchings noch nicht beendet ist. Diese Fälle sollten einzeln in Absprache mit den Verantwortlichen besprochen werden. Es erscheint sinnvoll, diese Kinder zunächst als verbleibende Kinder weiterzuführen und die Zahl der freien Matching-Plätze entsprechend zu reduzieren. 
 
