@@ -282,7 +282,7 @@ Entwickelt von einem Team...
 
 <div class="presse">
     <div class="zeitung">
-        <img src="wiwo_logo.png" alt="dvsbadfy" width="15%">
+        <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="15%">
     </div>
     <div class="date">
         25.01.2020
@@ -294,7 +294,7 @@ Entwickelt von einem Team...
 <br>
 <div class="presse">
     <div class="zeitung">
-        <img src="faz_logo.png" alt="dvsbadfy" width="15%">
+        <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="15%">
     </div>
     <div class="date">
         30.11.2019
@@ -306,7 +306,7 @@ Entwickelt von einem Team...
 <br>
 <div class="presse">
     <div class="zeitung">
-        <img src="faz_logo.png" alt="dvsbadfy" width="15%">
+        <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="15%">
     </div>
     <div class="date">
         18.06.2017
