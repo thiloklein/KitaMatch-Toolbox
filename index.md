@@ -6,33 +6,7 @@ permalink: /
 ---
 
 <style type="text/css">
-    #heading {
-        display: inline-block;
-        font-size: 32px;
-        font-weight: bold;
-        padding: 32px;
-        margin-top: 16px;
-        border-color: blue;
-        border-width: 5px;
-        border-style: solid;
-        border-radius: 20px;
-        margin: 8px;
-    }
-
-    .button {
-        background-color: purple;
-        border: none;
-        color: white;
-        padding: 8px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 20px;
-        font-weight: normal;
-        margin: 4px 2px;
-        cursor: pointer;
-    }
-
+    
     #row1 {
         width: 100%;
     }
@@ -172,12 +146,7 @@ permalink: /
     }
 </style>
 
-<div id="heading">
-    Koordinierte Kitaplatzvergabe<br>
-    für Ihre Stadt.<br>
-    <br>
-    <a href="mailto:thilo.klein@zew.de" class="button">Kontaktieren Sie uns!</a>
-</div>
+[![banner.png](assets/images/banner.png){:width="100%"}](mailto:thilo.klein@zew.de)
     
 ## Kitaplatzvergabe in 5 Schritten
 <div id="slider">
