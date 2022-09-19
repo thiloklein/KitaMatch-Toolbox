@@ -5,6 +5,113 @@ nav_order: 1
 permalink: /
 ---
 
+<style>
+    #heading {
+        display: inline-block;
+        font-size: 32px;
+        font-weight: bold;
+        padding: 32px;
+        margin-top: 16px;
+        border-color: blue;
+        border-width: 5px;
+        border-style: solid;
+        border-radius: 20px;
+        margin: 8px;
+    }
+
+    .button {
+        background-color: purple;
+        border: none;
+        color: white;
+        padding: 8px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        font-weight: normal;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+
+    #column1 {
+        width: 50%;
+        float: left;
+    }
+
+    #column2 {
+        width: 50%;
+        float: right;
+    }
+
+    ul {
+        list-style-type: none;
+        width: 30em;
+    }
+
+    li h3 {
+        line-height: 30%;
+    }
+
+    li img {
+        float: left;
+        margin: 0 15px 0 0;
+        width: 5em;
+    }
+
+    li {
+        padding: 10px;
+        overflow: auto;
+    }
+</style>
+
+    <div id="heading">
+        Koordinierte Kitaplatzvergabe<br>
+        für Ihre Stadt.<br>
+        <br>
+        <a href="mailto:thilo.klein@zew.de" class="button">Kontaktieren Sie uns!</a>
+    </div>
+
+<div id="column">
+    <div id="column1">
+        <ul>
+            <li>
+                <img src="icon_schnell.png" alt="dvsbadfy">
+                <h3>SCHNELL:</h3>
+                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
+            </li>
+            <li>
+                <img src="icon_schnell.png" alt="dvsbadfy">
+                <h3>SCHNELL:</h3>
+                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
+            </li>
+            <li>
+                <img src="icon_schnell.png" alt="dvsbadfy">
+                <h3>SCHNELL:</h3>
+                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
+            </li>
+        </ul>
+    </div>
+    <div id="column2">
+        <ul>
+            <li>
+                <img src="icon_schnell.png" alt="dvsbadfy">
+                <h3>SCHNELL:</h3>
+                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
+            </li>
+            <li>
+                <img src="icon_schnell.png" alt="dvsbadfy">
+                <h3>SCHNELL:</h3>
+                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
+            </li>
+            <li>
+                <img src="icon_schnell.png" alt="dvsbadfy">
+                <h3>SCHNELL:</h3>
+                <p>Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert</p>
+            </li>
+        </ul>
+    </div>
+</div>
+
 # Startseite
 {: .no_toc }
 
