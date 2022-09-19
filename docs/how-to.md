@@ -80,6 +80,12 @@ permalink: /docs/how-to
 
 Video, das automatisch startet und in Dauerschleiche läuft:
 <div style="width: 100%;">
+<video src="../assets/images/time.mp4" type="mp4/video" width="100%" autoplay="autoplay" loop="loop" controls="controls"></video> 
+</div>
+
+
+Video, das automatisch startet und in Dauerschleiche läuft:
+<div style="width: 100%;">
 <video src="../assets/images/time.mp4" type="mp4/video" width="640" height="480" style="max-width:500px;" autoplay="autoplay" loop="loop" controls="controls"></video> 
 </div>
 
