@@ -146,7 +146,7 @@ permalink: /
     }
 </style>
 
-[![banner.PNG](assets/images/banner.png)](mailto:thilo.klein@zew.de)
+![banner.PNG](assets/images/banner.png)
 
 
 ## Kitaplatzvergabe in 5 Schritten
