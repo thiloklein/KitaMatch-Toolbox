@@ -2,8 +2,8 @@
 layout: default
 title: Rechtlicher Rahmen
 parent: Andere Themen
-nav_order: 1
-permalink: /docs/Andere-Themen/Rechtlicher-Rahmen
+nav_order: 6
+permalink: /docs/Rechtlicher-Rahmen
 ---
 
 # Rechtlicher Rahmen
