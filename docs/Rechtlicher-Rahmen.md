@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Rechtlicher Rahmen
-parent: Andere Themen
 nav_order: 6
 permalink: /docs/Rechtlicher-Rahmen
 ---
