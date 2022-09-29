@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Warum Gale-Shapley´s Deferred Acceptance Mechanismus?
-parent: Einführung
-nav_order: 3
-permalink: /docs/Einfuehrung/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus
+title: Das Gale-Shapley Verfahren
+has_children: true
+nav_order: 4
+permalink: /docs/Das-Gale-Shapley-Verfahren
 ---
 
-# Warum Gale-Shapley´s Deferred Acceptance Mechanismus?
+# Das Gale-Shapley Verfahren
 {: .no_toc }
 In diesem Kapitel stellen wir das Zuteilungsverfahren (Mechanismus) vor, welches der Kitaplatz-Vergabe respektive der Software KITAMATCH zugrunde liegt.  Das heisst, wir beschreiben wie basierend auf dem Kriterienkatalog (Prioritäten) auf Seite der Kitas und der Präferenzen der Eltern eine Zuteilung von Kindern auf die Verfügbaren Kitaplätze ermittelt wird. 
 In [Unterkapitel 1.3.1](#der-deferred-acceptance-mechanismus) wird das Zuteilungsverfahren — der Deferred Acceptance Mechanismus — zusammen mit wichtigen Begrifflichkeiten beschrieben und definiert. [Unterkapitel 1.3.2](#semi-dezentraler-deferred-acceptance-mechanismus-für-kitamatch) beschreibt, wie das Verfahren für die Kitaplatzvergabe angepasst wird, damit Kitas die Möglichkeit haben, in besonderen Fällen vom Kriterienkatalog abzuweichen: Der Semi-Dezentrale Deferred Acceptance Mechanismus. Im [Unterkapitel 1.3.3](#stabilität-und-strategie-sicherheit) werden die Vorteile des Deferred Acceptance Mechanismus beschrieben und definiert: Strategie-Sicherheit und Stabilität. 
