@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Projektmanagement
-parent: Andere Themen
-nav_order: 3
-permalink: /docs/Andere-Themen/Projektmanagement
+nav_order: 8
+permalink: /docs/Projektmanagement
 ---
 
 # Projektmanagement
