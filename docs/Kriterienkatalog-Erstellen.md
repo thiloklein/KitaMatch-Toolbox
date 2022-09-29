@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kriterienkatalog erstellen
-parent: Andere Themen
 nav_order: 7
 permalink: /docs/Kriterienkatalog-Erstellen
 ---
