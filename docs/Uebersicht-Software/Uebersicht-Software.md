@@ -9,9 +9,12 @@ permalink: /docs/Uebersicht-Software
 
 # Übersicht Software
 
+Dieses Kapitel richtet sich an den/die Projektmanager:in einer interessierten Kommune, gibt dieser einen Überblick über das KitaMatch System und führt durch die ersten Schritte mit der Software. Zuerst wird hier der Standardfall behandelt, bei dem alle zu vergebenden Plätze den gleichen Umfang haben und zum gleichen Zeitpunkt frei werden. Es können pro Einrichtung Plätze für bis zu 3 Alterskohorten (z.B. u2-Jährige, 2-Jährige, über 3-Jährige) vergeben werden, die in KitaMatch “U2“, “2“und “Ü3“ benannt sind. Im Unterkapitel "[Mögliche Erweiterungen](/docs/Uebersicht-Software/Moegliche-Erweiterungen)" gehen wir zudem auf die Möglichkeiten ein, Plätze für unterschiedliche Betreuungszeitpunkte und unterschiedliche Betreuungsarten mit KitaMatch zu vergeben.
+{: .fs-6 .fw-300 }
+
 Um ein erfolgreiches Projekt umzusetzen, werden 2 Personen in der Verwaltung einer Kommune benötigt: 
 
-  1. Eine Projektmanagerin, die vor der Vergabe die Kitaleitungen und alle anderen Beteiligten schult, die Daten im richtigen Format sammelt, und am Vergabetag die Software anwendet. 
+  1. Ein/e Projektmanager:in, der/die vor der Vergabe die Kitaleitungen und alle anderen Beteiligten schult, die Daten im richtigen Format sammelt, und am Vergabetag die Software anwendet. 
 
   2. Ein Systemadministrator, der im Hintergrund die technische Umsetzung der Software sicherstellt.
 
