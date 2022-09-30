@@ -85,11 +85,11 @@ Eine mögliche Lösung des Problems wäre die Einführung einer zentralen Koordi
 
 <div id="slider">
       <figure>
-          <img src="../assets/images/1_Karten.png">
-          <img src="../assets/images/2_Karten.png">
-          <img src="../assets/images/3_Karten.png">
-          <img src="../assets/images/4_Karten.png">
-          <img src="../assets/images/5_Karten.png">
+          <img src="../../assets/images/1_Karten.png">
+          <img src="../../assets/images/2_Karten.png">
+          <img src="../../assets/images/3_Karten.png">
+          <img src="../../assets/images/4_Karten.png">
+          <img src="../../assets/images/5_Karten.png">
       </figure>
 </div>
 
@@ -159,8 +159,6 @@ Wie ein solcher Kriterienkatalog entwickelt werden kann, finden Sie [hier](/docs
 - Klare und eindeutige Formulierungen von Aufnahmekriterien
 - Idealerweise ein von allen beteiligten Kitaleitungen bzw. FB KTP erarbeiteter und akzeptierter Kriterienkatalog
 - Genügend Informationen über das jeweilige angemeldete Kind
-
-[Weitere Infos finden Sie im Kapitel 3.2](/docs/Andere-Themen/Kriterienkatalog-Erstellen).
  
  
 ---
