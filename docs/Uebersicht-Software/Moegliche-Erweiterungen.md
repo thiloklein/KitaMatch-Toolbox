@@ -33,7 +33,7 @@ Zusätzlich benötigt KitaMatch pro Kind Informationen, wie die Gewichtung zwisc
 
 ### Kita-Sicht
 
-#### Freie Plätze einpflegen
+**Freie Plätze einpflegen**
 
 Sollen unterschiedliche Arten von Plätzen vergeben werden, muss entsprechend auch für jede Kombination aus Umfang und Zeitpunkt die Anzahl an freien Plätzen eingepflegt werden. 
 
@@ -42,7 +42,7 @@ Sollen unterschiedliche Arten von Plätzen vergeben werden, muss entsprechend au
 ![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
 
 
-#### Vor dem Matching Day
+**Vor dem Matching Day**
 
 Sie sehen nun in der oberen Übersicht, welche Arten von Plätzen Sie vergeben, wie viele Plätze Sie dafür jeweils zur Verfügung haben, und wie viele Kinder sich prinzipiell für einen Platz interessieren. 
 
@@ -51,11 +51,11 @@ Sie sehen nun in der oberen Übersicht, welche Arten von Plätzen Sie vergeben, 
 ![übersicht-vor-matchingday.png](../../assets/images/übersicht-vor-matchingday.png)
 
 
-#### Während einer Runde 
+**Während einer Runde**
 
 Wenn Sie nun ein Betreuungsangebot machen, müssen Sie sich entscheiden, welche Art von Platz Sie einem Kind anbieten. Wir empfehlen hier den Kindern immer zuerst den von ihnen gewünschten Platz anzubieten, und man nur für den Fall, dass man einen solchen Platz nicht mehr vergeben kann, dem Kind einen anderen Platz anbietet.
 
 
-#### Nach einer Runde 
+**Nach einer Runde**
 
 Zusätzlich zu den oben genannten Fällen kann es nun auch sein, dass ein Kind einfach wieder “weiß“ in Ihrer Bewerberliste erscheint. Dies passiert, falls das Kind zwar ein besseres Angebot bekommen hat, Sie aber dem Kind prinzipiell noch ein passenderes Angebot machen können, zum Beispiel zum gewünschten Betreuungsbeginn. 
