@@ -44,7 +44,7 @@ Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden
 
 ---
 
-### Ausstattung
+## Die Ausstattung
 
 - Der Moderationsplatz sollte mit einem PC und Beamer/Leinwand ausgestattet sein. 
 - Pro Teilnehmer:in sollte ein PC mit gesicherter Internetverbindung und Zugang zum KitaMatch-Programm zur Verfügung gestellt werden. 
@@ -58,6 +58,6 @@ Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden
 
 ---
 
-### Matching
+## Das Matching
 Zunächst ist zu prüfen, ob die Teilnehmer:innen die [technischen Voraussetzungen erfüllen](/docs/Uebersicht-Software/Der-Standardfall#systemzugang), sich mit ihren Login-Daten im KitaMatch-Programm einloggen und ihre Bewerberlisten einsehen können. 
 
