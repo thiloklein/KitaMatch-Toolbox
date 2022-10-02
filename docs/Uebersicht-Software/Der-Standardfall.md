@@ -172,7 +172,7 @@ Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, au
 ![systemzugang-navigation.png](../../assets/images/systemzugang-navigation.png)
 
 
-#### Freie Plätze einpflegen
+**Freie Plätze einpflegen**
 
 Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über die jeweilige Gruppe, siehe Screenshot BV. Hier müssen Sie die freien Plätze einpflegen, die Sie in der jeweiligen Altersklasse zur Verfügung haben. Dazu geben Sie einfach die konkrete Zahl ein (im Beispiel unten also “9“), und klicken auf “Änderungen speichern“. Dies müssen Sie jeweils in jeder Altersgruppe einmal machen. Wichtig: Einmal eingepflegte Zahlen können nicht mehr reduziert werden, sondern nur noch erhöht[^4].
 
