@@ -8,7 +8,6 @@ permalink: /docs/Uebersicht-Software/Moegliche-Erweiterungen
 
 # Mögliche Erweiterungen
 {: .no_toc }
-
 ## Verschiedene Betreuungsumfänge und Betreuungszeitpunkte
 {: .no_toc }
 
