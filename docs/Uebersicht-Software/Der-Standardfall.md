@@ -8,9 +8,6 @@ permalink: /docs/Uebersicht-Software/Der-Standardfall
 
 # Der Standardfall
 {: .no_toc }
-Dieses Kapitel richtet sich an die Projektmanagerin einer interessierten Kommune, gibt dieser einen Überblick über das KitaMatch System und führt durch die ersten Schritte mit der Software. 
-
-Zuerst wird hier der Standardfall behandelt, bei dem alle zu vergebenden Plätze den gleichen Umfang haben und zum gleichen Zeitpunkt frei werden. Es können pro Einrichtung Plätze für bis zu 3 Alterskohorten (z.B. u2-Jährige, 2-Jährige, über 3-Jährige) vergeben werden, die in KitaMatch “U2“, “2“und “Ü3“ benannt sind. In [Kapitel 2.3](/docs/Uebersicht-Software/Moegliche-Erweiterungen) gehen wir zudem auf die Möglichkeiten ein, Plätze für unterschiedliche Betreuungszeitpunkte und unterschiedliche Betreuungsarten mit KitaMatch zu vergeben.
 
 
 ## Inhalt
@@ -48,8 +45,6 @@ Diese erhalten Sie vom Systemadministrator.
 
 ## Systemzugang
 
-- Login-Menü:
-
 Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse und Passwort einzugeben. Nutzen Sie dafür bitte die vom Systemadministrator zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf Login.
 
 <mark>Abbildung 8:</mark>
@@ -58,8 +53,7 @@ Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse un
 
 
 - Vergessenes Passwort zurücksetzen:
-
-Falls Sie das Passwort oder die E-Mail-Adresse verloren oder vergessen haben, kontaktieren Sie bitte den Administrator.
+  Falls Sie das Passwort oder die E-Mail-Adresse verloren oder vergessen haben, kontaktieren Sie bitte den Administrator.
 
 
 --- 
@@ -92,7 +86,7 @@ Per Mausklick kann die Projektleitung bzw. das Jugendamt eine Excel-Liste generi
 
 **Liste der unversorgten Kinder**: 
 
-Eine weitere hilfreiche, zu generierende Liste ist die mit den Kindern, die noch einen Platz benötigen und bisher unversorgt sind. Dies kann daran liegen, dass die Eltern zu wenig Alternativen ausgewählt haben. Demzufolge würden sie am liebsten in den angegebenen Wunscheinrichtungen einen Platz erhalten wollen und wenn das nicht klappt, lieber gar keinen anderen Platz („lieber keinen als einen anderen Platz“). 
+Eine weitere hilfreiche, zu generierende Liste ist die mit den Kindern, die noch einen Platz benötigen und bisher unversorgt sind. Dies kann daran liegen, dass die Eltern zu wenig Alternativen ausgewählt haben. Demzufolge würden sie am liebsten in den angegebenen Wunscheinrichtungen einen Platz erhalten wollen und wenn das nicht klappt, lieber gar keinen anderen Platz („lieber *keinen* als einen anderen Platz“). 
 
 **Übersicht der Kitas bzw. FB KTP mit freien Plätzen**:
 
@@ -154,8 +148,7 @@ Diese erhalten Sie von der Projektmanagerin Ihrer Kommune.  [Weitere Information
 ### Systemzugang
 
 - Login-Menü:
-
-Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse und Passwort einzugeben. Nutzen Sie dafür bitte die vom Systemadministrator zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf Login.
+  Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse und Passwort einzugeben. Nutzen Sie dafür bitte die vom Systemadministrator zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf Login.
 
 <mark>Abbildung 8:</mark>
 
@@ -163,8 +156,7 @@ Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse un
 
 
 - Vergessenes Passwort zurücksetzen:
-
-Falls Sie das Passwort oder die E-Mail-Adresse verloren oder vergessen haben, kontaktieren Sie bitte Ihre Kommune.
+  Falls Sie das Passwort oder die E-Mail-Adresse verloren oder vergessen haben, kontaktieren Sie bitte Ihre Kommune.
 
 
 ### Navigation
@@ -195,7 +187,7 @@ Wenn Sie im vorigen Schritt auf “Zum Koordinierungsverfahren“ geklickt haben
 
 In den folgenden 3 Kapiteln wird Ihnen vermittelt, was Sie auf dieser Seite vor dem Matching Day, während einer Runde und nach einer Runde erwartet. 
 
-#### Vor dem Matching Day
+**Vor dem Matching Day**
 
 Die Seite ist prinzipiell so aufgebaut, dass oben die wichtigsten Informationen zusammengefasst werden, und unten gibt es 2 Tabellen. In der ersten Tabelle findet man eine Übersicht aller Kinder, denen man ein verbindliches Angebot gemacht hat. Diese ist vor der ersten Runde natürlich noch leer. Außerdem findet man unten eine Tabelle mit allen Bewerbern, die sich in der Kita in der jeweiligen Altersgruppe beworben haben. Die Kinder sind, falls es einen abgestimmten Kriterienkatalog in Ihrer Kommune gibt, bereits nach diesem Kriterienkatalog vorsortiert. Gibt es keinen abgestimmten Kriterienkatalog, ist die Vorsortierung nach Alter, wobei die ältesten Kinder immer oben stehen. Sollten Sie an dieser Reihenfolge noch Veränderungen vornehmen wollen, können Sie auf “Manuelle Rangliste klicken“, und danach die Kinder einfach manuell nach oben oder unten ziehen, indem Sie auf ein bestimmtes Kind klicken und währenddessen die Maus hoch oder runter bewegen. Eine Anpassung der Reihenfolge der Kinder auf der Liste bedeutet eine Abweichung vom Kriterienkatalog. Sicherlich gibt es in der Praxis Gründe, die dies erfordern. Letztlich ist es auch im Rahmen der Trägerautonomie das Recht der Träger, diese Änderungen vorzunehmen. Allerdings sollte dies im Lichte der Transparenz und Nachvollziehbarkeit nach Absprache mit dem Jugendamt erfolgen. 
 
@@ -203,7 +195,7 @@ Die Seite ist prinzipiell so aufgebaut, dass oben die wichtigsten Informationen 
 
 ![vor-matchingday.png](../../assets/images/vor-matchingday.png)
 
-#### Während einer Runde 
+**Während einer Runde**
 
 Wenn der Matching Day durch die Projektmanagerin eingeläutet wurde, können Sie anfangen, den Kindern Angebote zu unterbreiten. Hierfür klicken Sie auf das blau hinterlegte “Angebot“ und bestätigen das jeweilige Angebot, indem Sie auf das ebenso blau hinterlegte “Q1, Ganztags“ klicken. 
 
@@ -228,7 +220,7 @@ Falls Sie mehr freie, zu belegende Plätze als Bewerber/innen haben, können Sie
 Wenn alle Kitaleitungen mit einer Runde fertig sind, klickt die Projektleiterin auf den zentralen, blau hinterlegten „Vergabe starten Button“ auf der Hauptseite. 
 
 
-#### Nach einer Runde
+**Nach einer Runde**
 
 Nachdem die Projektleiterin den “Vergabe starten Button“ geklickt hat, müssen Sie zunächst die Seite aktualisieren. Hierfür klicken Sie auf „aktualisieren“ oben auf der Seite (in blauer Schrift), oder einfach die Tastenkombination “Strg“ und F5 auf ihrer Tastatur. 
 
@@ -245,7 +237,7 @@ Jetzt können Sie sehen, wie sich die Kinder, denen Sie in der vorigen Runde ein
 Wenn Sie nach einer Runde noch freie Kapazitäten und Kinder in Ihrer Liste haben, denen Sie ein Angebot machen können, wiederholen Sie den Vorgang der Platzvergabe und geben der Projektleiterin wieder Bescheid, wenn Sie fertig sind. Dies wird so lange wiederholt, bis alle Kitas entweder keine freien Plätze, oder keine Kinder mehr in ihrer Liste haben, denen sie noch Angebote unterbreiten können.
 
 
-#### Ende des Verfahrens
+**Ende des Verfahrens**
 
 Nachdem die Projektleiterin auf den “Vergabe starten Button“ geklickt hat, teilt sie den Kitaleitungen jeweils mit, dass diese ihre Seite aktualisieren sollen. Ab der 4. Runde sollte die Projektleiterin dann zudem die Kitaleitungen fragen, ob diese noch weitere Angebote machen können. Das Verfahren endet genau dann, wenn in einer bestimmten Runde alle Kitaleitungen diese Frage mit “nein“ beantworten. 
 
