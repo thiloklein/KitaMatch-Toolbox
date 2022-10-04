@@ -3,7 +3,7 @@ layout: default
 title: Semi-Dezentrales Gale-Shapley Verfahren
 parent: Das Gale-Shapley Verfahren
 nav_order: 2
-permalink: /docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren.md
+permalink: /docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren
 ---
 
 
