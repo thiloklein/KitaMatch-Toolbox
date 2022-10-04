@@ -34,8 +34,10 @@ Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
 <details>
     <summary><b>Was bedeuten die einzelnen Farben, die ein Kind im Rahmen des Matchings erhalten kann?</b></summary>
     Falls ein Kind nach einer Matching-Runde “grün” hinterlegt ist, bedeutet das, dass das Kind das Angebot endgültig angenommen hat. In diesem Fall bleibt das Kind im Laufe der weiteren Matching-Runden bei der Einrichtung und sagt keiner anderen Kita zu.
-Falls ein Kind nach einer Matching-Runde “blau” hinterlegt ist, bedeutet das, dass das Kind das Angebot vorläufig angenommen hat, aber noch nicht endgültig. Es kann sein, dass das Kind in einer der nächsten Runden ein Angebot von seiner Erstwunscheinrichtung erhält. 
-Falls ein Kind “rot” hinterlegt ist, bedeutet das, dass die Einrichtung dem Kind aktuell kein Angebot machen kann. Entweder hat die Einrichtung nämlich keine Kapazität (mehr), um dem Kind ein Angebot zu machen, oder das Kind hat ein Angebot einer Kita, zu der das Kind lieber gehen würde, erhalten. 
+    
+    Falls ein Kind nach einer Matching-Runde “blau” hinterlegt ist, bedeutet das, dass das Kind das Angebot vorläufig angenommen hat, aber noch nicht endgültig. Es kann sein, dass das Kind in einer der nächsten Runden ein Angebot von seiner Erstwunscheinrichtung erhält. 
+
+    Falls ein Kind “rot” hinterlegt ist, bedeutet das, dass die Einrichtung dem Kind aktuell kein Angebot machen kann. Entweder hat die Einrichtung nämlich keine Kapazität (mehr), um dem Kind ein Angebot zu machen, oder das Kind hat ein Angebot einer Kita, zu der das Kind lieber gehen würde, erhalten. 
 </details>
 <p> </p>
 <details>
