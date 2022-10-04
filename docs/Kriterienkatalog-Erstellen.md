@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Kriterienkatalog erstellen
+title: Erstellung des Kriterienkatalog
 nav_order: 7
 permalink: /docs/Kriterienkatalog-Erstellen
 ---
 
-# Kriterienkatalog erstellen
+# Die Erstellung des Kriterienkatalogs
 {: .no_toc }
 Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sind](/docs/Fallbeispiel/Perspektive-des-Jugendamtes#die-erstellung-der-aufnahmekriterien). Daher ist ein Kriterienkatalog fürs Matching zu empfehlen. Im Folgenden werden die Grundlagen für die Erstellung eines Kriterienkatalogs vorgestellt. Zunächst wird erklärt, was es für die Vorbereitung und den Prozess der Erstellung bedarf. Zudem werden lokale sowie globale Kriterien unterschieden und die Gewichtung der Kriterien anhand eines Fallbeispiels erläutert.
 
@@ -152,7 +152,7 @@ Diese Kriterien sind nur für die Erstwunscheinrichtung relevant. Die ermittelte
 
 ---
 
-## Der Kriterienkatalog der Pilotkommune Saerbeck als Beispiel
+## Der Kriterienkatalog einer Pilotkommune als Beispiel
 
 An dieser Stelle wird – ohne Anspruch auf Rechtmäßigkeit, Gerichtsbarkeit und Vollständigkeit - auf folgenden Kriterienkatalog der Pilotkommune Saerbeck verwiesen.
 
