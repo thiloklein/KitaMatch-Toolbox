@@ -7,7 +7,11 @@ permalink: /docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren
 ---
 
 
-# Unkoordiniertes Verfahren
+# Beispiel: Unkoordiniertes Verfahren
+
+Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise drei verschiedener Zuteilungsmethoden([First-Preference-First Mechanismus](), [unkoordiniertes Verfahren]() und [Gale-Shapley Verfahren]()) zu illustrieren, und intuitiv aufzuzeigen, weshalb das Gale-Shapley Verfahren als einziges Zuteilungsverfahren sowohl stabil als auch Strategie-Sicher ist.
+
+---
 
 Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kitas den Bewerbern Angebote, die angenommen oder abgelehnt werden müssen. Es handelt sich hierbei nicht um einen Mechanismus, da die Zuteilung von den (strategischen) Entscheidungen der Bewerber abhängt --- ob sie ein Angebot annehmen oder ablehnen. Zusätzlich hat sich in der Praxis gezeigt, dass dieses Verfahren zu langen Wartezeiten führt, da es oft im besten Interesse der Bewerber ist, abzuwarten, ob noch ein präferiertes Angebot unterbreitet wird, bevor sie eines der Angebote definitiv annehmen. Als nächstes folgen zwei Beispiele, im Ersten führt eine Annahme zum Verpassen eines besseren Angebots während im Zweiten das Ablehnen eines Angebots zum Verpassen eine Betreuungsplatzes führt:
 
