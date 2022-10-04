@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beispiel: First-Preference-First Mechanismus
+title: Beispiel - First-Preference-First Mechanismus
 parent: Das Gale-Shapley Verfahren
 nav_order: 3
 permalink: /docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus
