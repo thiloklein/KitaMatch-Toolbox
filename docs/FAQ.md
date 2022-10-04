@@ -17,47 +17,47 @@ Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
 </details>
 <p style=“line-height: 100%“> </p>
 <details>
-    <summary>Werden die Altersgruppen zusammen oder einzeln gematcht?</summary>
+    <summary><b>Werden die Altersgruppen zusammen oder einzeln gematcht?</b></summary>
     Wir empfehlen jede Altersgruppe einzeln zu matchen. Dies erleichtert das Verfahren für alle Beteiligten. 
 </details>
 <br>
 <details>
-    <summary>Welcher Zeitraum der eingegangenen Anmeldungen wird berücksichtigt?</summary>
+    <summary><b>Welcher Zeitraum der eingegangenen Anmeldungen wird berücksichtigt?</b></summary>
     Hier kommt der Inhalt.
 </details>
 <br>
 <details>
-    <summary>Welcher Betreuungszeitpunkt wird berücksichtigt?</summary>
+    <summary><b>Welcher Betreuungszeitpunkt wird berücksichtigt?</b></summary>
     Hier kommt der Inhalt.
 </details>
 <br>
 <details>
-    <summary>Was bedeuten die einzelnen Farben?</summary>
+    <summary><b>Was bedeuten die einzelnen Farben?</b></summary>
     Hier kommt der Inhalt.
 </details>
 <br>
 <details>
-    <summary>Was bedeutet „vorläufig angenommen"?</summary>
+    <summary><b>Was bedeutet „vorläufig angenommen"?</b></summary>
     Hier kommt der Inhalt.
 </details>
 <br>
 <details>
-    <summary>Was muss beachtet werden, wenn Kinder, die bereits betreut werden, die Kita/KTP wechseln wollen, aber im Rahmen des Matchings nicht die 1.Wunscheinrichtung erhalten? (abgebende Einrichtung als letzten Wunsch eintragen!)</summary>
+    <summary><b>Was muss beachtet werden, wenn Kinder, die bereits betreut werden, die Kita/KTP wechseln wollen, aber im Rahmen des Matchings nicht die 1.Wunscheinrichtung erhalten? (abgebende Einrichtung als letzten Wunsch eintragen!)</b></summary>
     Hier kommt der Inhalt.
 </details>
 <br>
 <details>
-    <summary>Kann die Kitaleitung bzw. FB KTP sehen, in welcher Kita/KTP ein von ihr abgelehntes Kind einen Platz erhält?</summary>
+    <summary><b>Kann die Kitaleitung bzw. FB KTP sehen, in welcher Kita/KTP ein von ihr abgelehntes Kind einen Platz erhält?</b></summary>
     Hier kommt der Inhalt.
 </details>
 <br>
 <details>
-    <summary>Was passiert, wenn eine Kitaleitung bzw. FB KTP nach dem Matching noch freie Plätze hat?</summary>
+    <summary><b>Was passiert, wenn eine Kitaleitung bzw. FB KTP nach dem Matching noch freie Plätze hat?</b></summary>
     Hier kommt der Inhalt.
 </details>
 <br>
 <details>
-    <summary>Wie gehen die Kitaleitungen bzw. FB KTP mit den Kindern vor, die sich nach dem Matching-Day dort anmelden?</summary>
+    <summary><b>Wie gehen die Kitaleitungen bzw. FB KTP mit den Kindern vor, die sich nach dem Matching-Day dort anmelden?</b></summary>
     Hier kommt der Inhalt.
 </details>
 
