@@ -5,7 +5,7 @@ nav_order: 8
 permalink: /docs/Projektmanagement
 ---
 
-# Projektmanagement
+# Das Projektmanagement für die Platzvergabe
 {: .no_toc }
 Die Einführung des Matchingverfahrens ist grundsätzlich im Rahmen eines Projektmanagements umzusetzen. Im Folgenden werden in Anlehnung an die Umsetzung in der Pilotkommune Ideen und Vorschläge vorgestellt, die insbesondere für die Kommunen bzw. die Projektleitung hilfreich sind. 
 
@@ -19,9 +19,9 @@ Die Einführung des Matchingverfahrens ist grundsätzlich im Rahmen eines Projek
 
 ## Der Zeitplan
 
-Die Zeitplanung ist einer der entscheidenden Faktoren für ein erfolgreiches Projekt. In der folgenden Absicht wird ein möglicher Zeitplan vorgestellt, der als Vorschlag gilt und natürlich auf Ihre Rahmenbedingungen und Ressourcen angepasst werden kann. 
+Die Zeitplanung ist einer der entscheidenden Faktoren für ein erfolgreiches Projekt. Im Folgenden wird ein möglicher Zeitplan vorgestellt, der als Vorschlag gilt und natürlich auf Ihre Rahmenbedingungen und Ressourcen angepasst werden kann. 
 
-Hierbei ist zu beachten, dass im Frühjahr der Start des Projektes angedacht ist. Sobald der politische Beschluss und das Einverständnis aller Beteiligten eingeholt ist, gilt es zunächst einen (einheitlichen) Kriterienkatalog zu entwickeln:
+Das Projekt der Einführung beginnt mit dem erforderlichen politischen Beschluss und idealerweise mit dem Einverständnis aller Beteiligten. Zunächst ist ein (einheitlicher) Kriterienkatalog zu <mark>entwickeln, der vom jeweiligen</mark>
 
 Abbildung: Vorschlag eines Zeitplans
 
