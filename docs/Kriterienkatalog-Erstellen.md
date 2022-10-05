@@ -134,11 +134,11 @@ Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die 
 Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lokale Kriterien Einrichtungsspezifisch zu betrachten. Folgende Kriterien, die ebenso in der o.g. Arbeitshilfe genannt werden, zählen beispielsweise dazu: 
 
 - Kinder, deren Geschwister die Einrichtung zeitgleich besuchen
-- Entfernung zur Kita
 - Öffnungszeit deckt den Betreuungsbedarf der Eltern ab.
 
-Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet <mark>(vgl. Kapitel xy)</mark>. In der Regel gibt die Kitaleitung bzw. FB KTP der Erstwunscheinrichtung an, ob das globale Kriterium zutrifft oder nicht. Wenn ja, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. 
-Die lokalen Kriterien werden zwar auch von der Erstwunscheinrichtung (Prio 1) angewendet, gelten aber nur für diese Erstwunscheinrichtung. 
+Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. In der Regel gibt die Kitaleitung bzw. FB KTP der Erstwunscheinrichtung an, ob das globale Kriterium zutrifft oder nicht. Wenn ja, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. 
+
+Die lokalen Kriterien werden zwar auch von der Erstwunscheinrichtung (Prio 1) angewendet, gelten aber in der Regel nur für diese Wunscheinrichtung. 
 
 **Wichtig**
 
@@ -147,40 +147,32 @@ Die lokalen Kriterien werden zwar auch von der Erstwunscheinrichtung (Prio 1) an
 Die Leitung bzw. FB KTP der Erstwunscheinrichtung wendet diese Kriterien an, und die Punkte zählen sowohl für die Erstwunscheinrichtung als auch für alle weiteren, angegebenen Wunscheinrichtungen.
  
 **Lokale Kriterien**: 
-Diese Kriterien sind nur für die Erstwunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die Erstwunscheinrichtung.
+Diese Kriterien sind nur für die Wunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die Wunscheinrichtung.
 
 
 ---
 
-## Der Kriterienkatalog einer Pilotkommune als Beispiel
+## Beispiel eines Kriterienkatalogs
 
-An dieser Stelle wird – ohne Anspruch auf Rechtmäßigkeit, Gerichtsbarkeit und Vollständigkeit - auf folgenden Kriterienkatalog der Pilotkommune Saerbeck verwiesen.
+Um einen ersten Eindruck zu erhalten, wie ein solcher Kriterienkatalog aussehen kann, wird an dieser Stelle ohne Anspruch auf Rechtmäßigkeit, Gerichtsbarkeit und Vollständigkeit - auf folgenden Auszug eines Kriterienkatalogs einer Pilotkommune verwiesen.
 
-Abbildung Nr./schriftl. Genehmigung einholen! 
+Abbildung: Ein Beispielkatalog 
 
 ![konkretes-beispiel.jpg](../../assets/images/konkretes-beispiel.jpg)
 
-In der Pilotkommune Saerbeck gelten demzufolge folgende „globale“ Kriterien, die für **alle** ausgewählten Wunscheinrichtungen gleichermaßen gelten: 
+In der Pilotkommune gelten demzufolge folgende „globale“ Kriterien, die für **alle** ausgewählten Wunscheinrichtungen gleichermaßen gelten: 
 
-- Erwerbstätigkeit/Ausbildung/Studium (inkl. Sprachkurs) des 1. bzw. 2. Sorgeberechtigten im 1. Vertragsjahr
-  - Dabei wird unterschieden, ob die Person in Voll- oder Teilzeit beschäftigt ist. Die Beteiligten haben sich darauf geeinigt, dass die Vollzeit ab 20 Wochenstunden greift. Demzufolge liegt die Teilzeit unter 20 Wochenstunden.
-- Wohnort
-- Familienstand, alleinlebend mit Kind
+- Familienstand, wobei unterschieden wird zwischen “alleinlebend mit Kind” (die sorgeberechtigte Person lebt allein mit Kind(ern) und erhält keine weitere Unterstützung)  und “alleinerziehend” (die sorgeberechtigte Person wohnt mit mind. einer erwachsenen Person und dem Kind zusammen),  
+- Berufstätigkeit, die sowohl für die erste wie für die zweite sorgeberechtigte Person berücksichtigt wird und konkret “Berufstätigkeit/ Ausbildung/ Weiterbildung/ Schule /Studium (oder geplante Wiederaufnahme im Laufe des Kitajahres) bedeutet,
+- Inklusion, 
+- besondere familiäre Situation, dazu zählen beispielsweise Mehrkindfamilien (ab 3 Kinder), pflegebedürftige Personen im Haushalt, langzeit erkrankte Eltern/Behinderung mind. eines Elternteils),
+- Hilfen vom Jugendamt/Hilfen zur Erziehung. 
 
-Zu den lokalen Kriterien, die **nur** von der Erstwunscheinrichtung berücksichtigt werden, gehören in diesem Beispiel:
+
+Zu den lokalen Kriterien, die in der Regel von der Erstwunscheinrichtung berücksichtigt werden, gehören in diesem Beispiel:
 
 - Geschwisterkinder
-- In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres Geschwisterkind in die Schule wechselt (nicht zeitgleiche Betreuung, aber Vertrag nahtlos zum Stichtag 1.8. anschließend). 
-- Wunscheinrichtung
-
-Darüber hinaus liegen folgende Punkte im Ermessen des Trägers, die nur für die Erstwunscheinrichtung relevant sind. Sofern davon (mindestens) ein Kriterium auf das angemeldete Kind zutrifft, entscheidet die Erstwunscheinrichtung in Abhängigkeit der Intensität bzw. Relevanz, wie viele Punkte (0-3) sie vergibt: 
-
-- Härtefall bzw. sonstige Betreuungsgründe
-- In der Praxis gibt es zahlreiche Gründe (Bsp.?), einer Familie besondere Aufmerksamkeit zu geben und u.a. Familienhilfe zu leisten. Für diese Konstellationen gibt es an dieser Stelle die Möglichkeit, der Familie Extrapunkte zu geben und damit die Wahrscheinlichkeit für eine Aufnahme zu erhöhen. 
-- Kind eines Mitarbeitenden, der in Saerbeck wohnt und arbeitet
-- Mit Blick auf den Fachkräftemangel haben sich die Beteiligten darauf geeinigt, diesem Personenkreis mehr Punkte zu geben und somit (Fach-)Kräfte langfristiger binden zu können. 
-- Konfession  
-  - Sofern es für den Träger wichtig ist, steht es ihm frei, für dieses Kriterium Punkte zu vergeben. 
+  - In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres Geschwisterkind in die Schule wechselt bzw. in der Einrichtung betreut wurde (nicht zeitgleiche Betreuung). 
 
 
 ---
