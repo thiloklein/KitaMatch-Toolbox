@@ -7,6 +7,7 @@ permalink: /docs/Uebersicht-Software/IT-Guide
 ---
 
 # IT Guide
+{: .no_toc }
 
 Das folgende Kapitel wendet sich an den Systemadministrator einer Kommune. Die Beschreibungen unten befähigen diese Person mit starkem IT Background dazu, KitaMatch in einer bestimmten Kommune eigenständig umzusetzen.
 
@@ -65,7 +66,7 @@ Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguri
        
        $ sudo nano .env
        
-       Aktualisieren Sie *APP_NAME*, *APP_URL* & *DB_DATABASE*
+  Aktualisieren Sie *APP_NAME*, *APP_URL* & *DB_DATABASE*
 
 **5.** Nehmen Sie die Kita-spezifischen Konfigurationen unter config/kitamatch_config.php vor:
        
@@ -73,15 +74,15 @@ Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguri
        
        $ sudo nano kitamatch_config.php
 
-       In dieser Datei finden Sie Konfigurationen bezüglich des Matching-Prozesses. Achten Sie hierbei insbesondere auf die Einstellungen des Betreuungsumfangs, des Betreuungsbeginns und der Alterskohorten. Zu Beginn des R-Skripts haben Sie die Option, folgende Parameter festzulegen:
+  In dieser Datei finden Sie Konfigurationen bezüglich des Matching-Prozesses. Achten Sie hierbei insbesondere auf die Einstellungen des Betreuungsumfangs, des Betreuungsbeginns und der Alterskohorten. Zu Beginn des R-Skripts haben Sie die Option, folgende Parameter festzulegen:
 
 <mark>Abbildung 8:</mark>
 
 ![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
     
-       Diese Parameter finden Sie auch in der Datei *kitamatch_config.php* (“care_scopes” = Betreuungsumfang, “care_starts” = Betreuungsbeginn, “age_cohorts” = Alterskohorten). Um die Umgebung korrekt vorzubereiten, stellen Sie sicher, dass die *Anzahl* und *Reihenfolge* dieser 3 Parameter mit den Einstellungen im R-Skript übereinstimmen. Nach dem obigen Beispiel müsste “care_starts” in der PHP-Konfigurationsdatei also mit “Q2” beginnen. Alternative Formate wie z. B. “2020-Q1” sind ebenfalls zulässig, solange Format und Reihenfolge im R-Skript und PHP-Konfigurationsdatei gleich sind. Ebenso kann auch nur ein Betreuungsumfang oder -beginn eingestellt werden (“single-scope”).
+  Diese Parameter finden Sie auch in der Datei *kitamatch_config.php* (“care_scopes” = Betreuungsumfang, “care_starts” = Betreuungsbeginn, “age_cohorts” = Alterskohorten). Um die Umgebung korrekt vorzubereiten, stellen Sie sicher, dass die *Anzahl* und *Reihenfolge* dieser 3 Parameter mit den Einstellungen im R-Skript übereinstimmen. Nach dem obigen Beispiel müsste “care_starts” in der PHP-Konfigurationsdatei also mit “Q2” beginnen. Alternative Formate wie z. B. “2020-Q1” sind ebenfalls zulässig, solange Format und Reihenfolge im R-Skript und PHP-Konfigurationsdatei gleich sind. Ebenso kann auch nur ein Betreuungsumfang oder -beginn eingestellt werden (“single-scope”).
 
-       Der Matching-Prozess der KitaMatch-Software basiert auf einem System, das Bewerbern Punkte zuordnet, wenn sie bestimmte Kriterien erfüllen. In der Konfigurationsdatei können bei Bedarf zusätzlich manuelle Kriterien festgelegt werden. Unter “additionalCriteriaBonus_x” kann das x-te Kiterium ein- oder ausgestellt werden. Zusätzlich kann manuell eine Punktezahl für jedes Kriterium festgelegt werden.
+  Der Matching-Prozess der KitaMatch-Software basiert auf einem System, das Bewerbern Punkte zuordnet, wenn sie bestimmte Kriterien erfüllen. In der Konfigurationsdatei können bei Bedarf zusätzlich manuelle Kriterien festgelegt werden. Unter “additionalCriteriaBonus_x” kann das x-te Kiterium ein- oder ausgestellt werden. Zusätzlich kann manuell eine Punktezahl für jedes Kriterium festgelegt werden.
 
 **6.** Konfigurieren Sie die Stadt in /var/www/html/{Stadtname}/public/.htacces:
 
