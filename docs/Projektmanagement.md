@@ -25,7 +25,7 @@ Sobald der erforderliche politische Beschluss und idealerweise das Einverständn
 
 Abbildung: Vorschlag eines Zeitplans
 
-![zeitplan.jpg](../../assets/images/zeitplan.jpg)
+![zeitplan.png](../../assets/images/zeitplan.png)
 
 
 ---
