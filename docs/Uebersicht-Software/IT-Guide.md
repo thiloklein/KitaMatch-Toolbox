@@ -76,9 +76,9 @@ Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguri
 
   In dieser Datei finden Sie Konfigurationen bezüglich des Matching-Prozesses. Achten Sie hierbei insbesondere auf die Einstellungen des Betreuungsumfangs, des Betreuungsbeginns und der Alterskohorten. Zu Beginn des R-Skripts haben Sie die Option, folgende Parameter festzulegen:
 
-<mark>Abbildung 8:</mark>
+<mark>Abbildung: Parameter festlegen</mark>
 
-![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
+![Parameter_festlegen.png](../../assets/images/Parameter_festlegen.png)
     
   Diese Parameter finden Sie auch in der Datei *kitamatch_config.php* (“care_scopes” = Betreuungsumfang, “care_starts” = Betreuungsbeginn, “age_cohorts” = Alterskohorten). Um die Umgebung korrekt vorzubereiten, stellen Sie sicher, dass die *Anzahl* und *Reihenfolge* dieser 3 Parameter mit den Einstellungen im R-Skript übereinstimmen. Nach dem obigen Beispiel müsste “care_starts” in der PHP-Konfigurationsdatei also mit “Q2” beginnen. Alternative Formate wie z. B. “2020-Q1” sind ebenfalls zulässig, solange Format und Reihenfolge im R-Skript und PHP-Konfigurationsdatei gleich sind. Ebenso kann auch nur ein Betreuungsumfang oder -beginn eingestellt werden (“single-scope”).
 
@@ -109,9 +109,9 @@ Diese Datei wird zur Stadt geschickt und von dieser ausgefüllt. Diese trägt In
 
 **3.** Abschließend müssen Sie die soeben erstellte CSV-Datei mit dem Text-Editor Notepad++ öffnen, um die Kodierung zu ändern. Öffnen Sie im Programm den Menüpunkt “Kodierung” (Encoding) und konvertieren Sie die Datei in das Format “UTF-8”. Dieser Schritt stellt sicher, dass Umlaute durch das R-Skript korrekt eingelesen werden. Speichern Sie nun die Datei mithilfe der Tastenkombination “Strg+S” oder im Menü unter “Datei (File) → Speichern (Save)”.
 
-<mark>Abbildung 8:</mark>
+<mark>Abbildung: Umlaute richtig einlesen</mark>
 
-![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
+![Umlaute_einlesen.png](../../assets/images/Umlaute_einlesen.png)
 
 
 ---
@@ -122,9 +122,9 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 
 **4.** Öffnen Sie die R-Datei im Programm RStudio. Im R-Skript muss das aktuelle Verzeichnis (in dem sich auch die CSV-Datei befindet) als “Working Directory” gesetzt werden. Dazu setzen Sie den Dateipfad des Verzeichnisses in den Befehl “setwd()” ein. Dieser befindet sich am Anfang des Skripts. Anschließend wird im Befehl “read.csv()” der Platzhalter durch den Namen der CSV-Datei aus Schritt 2 ersetzt. Stellen Sie sicher, dass die Option “encoding = “UTF-8”” ausgewählt ist.
 
-<mark>Abbildung 8:</mark>
+<mark>Abbildung: CSV-Datei einlesen</mark>
 
-![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
+![CSV-Datei_einlesen.png](../../assets/images/CSV-Datei_einlesen.png)
 
 **5.** Überprüfen Sie, ob die benötigten Pakete installiert sind. Eine Auflistung der benötigten Pakete und Installationen finden Sie am Anfang dieser Anleitung. Installieren Sie fehlende Pakete, indem Sie zum Menüpunkt “Tools → Install Packages…” navigieren und dort den Namen des Pakets eingeben.
 
@@ -155,9 +155,9 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 
 **7.** Öffnen Sie den folgenden Link in Ihrem Browser: https://kitamatch.de/phpmyadmin/. Melden Sie sich an und wählen Sie anschließend die gewünschte Datenbank/Stadt auf der linken Seite aus. Im Folgenden wird der Import der Tabellen anhand der fiktiven Datenbank “kita_test” demonstriert.
 
-<mark>Abbildung 8:</mark>
+<mark>Abbildung: Hochladen der Tabellen in die Datenbank phpMyAdmin</mark>
 
-![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
+![phpMyAdmin.png ](../../assets/images/phpMyAdmin.png)
 
 **8.** Nachdem Sie eine Datenbank geöffnet haben, sehen Sie eine Auflistung der Tabellen. Leeren Sie folgende Tabellen, um den Datenimport vorzubereiten:
 
@@ -172,16 +172,16 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
   Nutzen Sie hierfür die Funktion “*Leeren*” (nicht “Löschen”!). Beim Leeren der Tabelle “users” muss außerdem das Feld “Fremdschlüsselüberprüfung aktivieren” deaktiviert sein.
 
 
-<mark>Abbildung 8:</mark>
+<mark>Abbildung: Leeren von Tabellen, um Datenimport vorzubereiten</mark>
 
-![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
+![Leeren.png](../../assets/images/Leeren.png)
 
 **9.** Als Nächstes laden Sie die CSV-Dateien in die jeweiligen Tabellen hoch. Die Dateien für “applicants” und “users” müssen jeweils als Erstes und als Zweites hochgeladen werden. Danach spielt die Reihenfolge des Uploads keine Rolle. Um eine Datei zu importieren, wählen Sie die gewünschte Tabelle in der Datenbank aus und wählen Sie im oberen Menü die Übersicht “Importieren” aus. Das Feld “Datei auswählen” bietet Ihnen nun die Möglichkeit, die gleichnamige CSV-Datei auf Ihrem Rechner für den Upload auszuwählen. Bestätigen Sie die Auswahl mit dem Button “OK” am Ende der Seite, um den Upload abzuschließen. Sie erhalten eine Meldung, wenn der Upload fehlerfrei verlaufen ist. Verfahren Sie anschließend analog mit den anderen Dateien, die durch das R-Skript erzeugt wurden. 
 
   **Hinweis**: Sollte ein Upload nicht ordnungsgemäß gelingen, versuchen Sie, die Option “Fremdschlüsselüberprüfung aktivieren” zu deaktivieren.
 
-<mark>Abbildung 8:</mark>
+<mark>Abbildung: Importieren der CSV-Dateien</mark>
 
-![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
+![CSV-Datei_importieren.png](../../assets/images/CSV-Datei_importieren.png)
 
 
