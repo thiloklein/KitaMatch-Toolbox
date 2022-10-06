@@ -94,11 +94,11 @@ Dieser gemeinsam erarbeitete und für alle Beteiligten gleich geltende Kriterien
 
 ## Die Kriterien 
 
-„Welche Aufnahmekriterien gehören in einen Katalog?“ Diese Frage ist leider nicht so einfach zu beantworten. Denn sowohl die Trägerspezifischen als auch regionalen Unterschiede scheinen im Praxisalltag sehr groß zu sein. Zudem kommen fortlaufend richterliche Entscheidungen, wie das [Urteil vom OVG Münster](/docs/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen), die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. Kitaspezifische Kriterien, die ebenso Berücksichtigung finden.
+„Welche Aufnahmekriterien gehören in einen Katalog?“ Diese Frage ist leider nicht so einfach zu beantworten. Denn sowohl die trägerspezifischen als auch regionalen Unterschiede scheinen im Praxisalltag sehr groß zu sein. Zudem kommen fortlaufend richterliche Entscheidungen, wie das [Urteil vom OVG Münster](/docs/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen), die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. Kitaspezifische Kriterien, die ebenso Berücksichtigung finden.
 
 Die Kriterien und deren konkrete Ausformulierungen werden von den beteiligten Trägervertretungen, Kitaleitungen und Fachberatungen der Kindertagespflege erarbeitet. Dabei können die Kriterien in zwei Gruppen gegliedert werden: 
 
-Die für alle von den Eltern ausgewählten Kitas/KTP geltenden Kriterien lassen sich in sog. „globale Kriterien“ zusammenfassen. Die Kriterien, die nur für die Erstwunscheinrichtung relevant sind, zählen zu den sog. „lokalen Kriterien“.
+Die für alle von den Eltern ausgewählten Kitas/KTP geltenden Kriterien lassen sich in sog. „globale Kriterien“ zusammenfassen. Diese sind in allen Kitas identisch und haben zur Folge, dass ein Kind in allen Kitas einen bestimmten (Grund-)Punktewert hat. Dazu kommen dann Kriterien, die nur in bestimmten Kitas relevant sind, die sog. „lokalen Kriterien“. Diese führen dazu, dass Kinder in manchen Einrichtungen “Bonuspunkte” bekommen, weil sie ein lokales Kriterium in diesen Einrichtungen erfüllen.
 
 
 ### Globale Kriterien
@@ -131,14 +131,12 @@ Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die 
 
 ### Lokale Kriterien
 
-Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lokale Kriterien Einrichtungsspezifisch zu betrachten. Folgende Kriterien, die ebenso in der o.g. Arbeitshilfe genannt werden, zählen beispielsweise dazu: 
+Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lokale Kriterien einrichtungsspezifisch zu betrachten. Folgende Kriterien, die ebenso in der o.g. Arbeitshilfe genannt werden, zählen beispielsweise dazu: 
 
 - Kinder, deren Geschwister die Einrichtung zeitgleich besuchen
 - Öffnungszeit deckt den Betreuungsbedarf der Eltern ab.
 
-Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. In der Regel gibt die Kitaleitung bzw. FB KTP der Erstwunscheinrichtung an, ob das globale Kriterium zutrifft oder nicht. Wenn ja, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. 
-
-Die lokalen Kriterien werden zwar auch von der Erstwunscheinrichtung (Prio 1) angewendet, gelten aber in der Regel nur für diese Wunscheinrichtung. 
+Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktewert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Lokale Kriterien können auch nur in einzelnen Kitas zutreffen, dann bekommt das Kind auch nur in der betreffenden Kita die entsprechenden (Bonus-) Punkte.
 
 **Wichtig**
 
@@ -147,7 +145,7 @@ Die lokalen Kriterien werden zwar auch von der Erstwunscheinrichtung (Prio 1) an
 Die Leitung bzw. FB KTP der Erstwunscheinrichtung wendet diese Kriterien an, und die Punkte zählen sowohl für die Erstwunscheinrichtung als auch für alle weiteren, angegebenen Wunscheinrichtungen.
  
 **Lokale Kriterien**: 
-Diese Kriterien sind nur für die Wunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die Wunscheinrichtung.
+Diese Kriterien sind nicht in allen Einrichtungen für die Wunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die jeweilige Einrichtung, für die das Kriterium auch zutrifft.
 
 
 ---
@@ -169,10 +167,12 @@ In der Pilotkommune gelten demzufolge folgende „globale“ Kriterien, die für
 - Hilfen vom Jugendamt/Hilfen zur Erziehung. 
 
 
-Zu den lokalen Kriterien, die in der Regel von der Erstwunscheinrichtung berücksichtigt werden, gehören in diesem Beispiel:
+Zu den lokalen Kriterien, die nur in der Einrichtung berücksichtigt werden, für die das jeweilige Kriterium auch zutrifft, gehören in diesem Beispiel:
 
 - Geschwisterkinder
   - In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres Geschwisterkind in die Schule wechselt bzw. in der Einrichtung betreut wurde (nicht zeitgleiche Betreuung). 
+
+Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen Punktewert haben, der prinzipiell für alle Einrichtungen gilt. Dieser Punktewert wird in der Excel Liste unter “Punkte” eingepflegt, <mark>siehe auch den Screenshot in Kapitel 4.1.1.</mark>  Die lokalen Kriterien sorgen dann dafür, dass ein Kind in einer bestimmten Einrichtung Zusatzpunkte bekommt, zum Beispiel wenn ein Geschwisterkind schon in der Einrichtung betreut wird. 
 
 
 ---
