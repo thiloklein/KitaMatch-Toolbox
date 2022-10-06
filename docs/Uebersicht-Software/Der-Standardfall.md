@@ -24,7 +24,7 @@ Um das oben beschriebene Verfahren umsetzen zu können, benötigt die Software d
 
 <mark>Abbildung: Beispiel eines vollständigen Datensatzes</mark>
 
-![login.png](../../assets/images/login.png "Login-Menü")
+![Datensatz.jpg](../../assets/images/Datensatz.jpg "Beispiel eines vollständigen Datensatzes")
 
 Ein Beispiel für einen vollständigen Datensatz finden Sie oben in der Grafik sowie als Excel hier: <mark>Link</mark>
 
