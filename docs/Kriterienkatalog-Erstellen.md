@@ -154,9 +154,9 @@ Diese Kriterien sind nicht in allen Einrichtungen für die Wunscheinrichtung rel
 
 Um einen ersten Eindruck zu erhalten, wie ein solcher Kriterienkatalog aussehen kann, wird an dieser Stelle ohne Anspruch auf Rechtmäßigkeit, Gerichtsbarkeit und Vollständigkeit - auf folgenden Auszug eines Kriterienkatalogs einer Pilotkommune verwiesen.
 
-Abbildung: Ein Beispielkatalog 
+<small>Abbildung: Ein Beispielkatalog</small>
 
-![konkretes-beispiel.jpg](../../assets/images/konkretes-beispiel.jpg)
+![konkretes-beispiel.png](../../assets/images/konkretes-beispiel.png)
 
 In der Pilotkommune gelten demzufolge folgende „globale“ Kriterien, die für **alle** ausgewählten Wunscheinrichtungen gleichermaßen gelten: 
 
