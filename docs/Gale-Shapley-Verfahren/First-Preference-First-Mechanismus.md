@@ -17,7 +17,7 @@ Beim First-Preference-First Mechanismus machen Bewerber Angebote an die Kitas, w
 
 **1.** In der ersten Runde machen Lea und Kai beide ein Angebot an Kita 1, da dies ihre „Wunschkita“ ist. Bei Kita 1 hat Lea eine höhere Priorität als Kai --- da Kita 1 nur einen Platz zur Verfügung hat (wie alle Kitas) bekommt Lea eine Zusage (grüner Pfeil) und Kai eine Absage (roter Pfeil). Mia bewirbt sich bei Kita 2 und bekommt auch direkt eine Zusage (grüner Pfeil).
 
-Abbildung 1: 
+<small>Abbildung: First-Preference-First Mechanismus - Schritt 1<small>
 
 ![B1.jpg](../../assets/images/B1.jpg){:height="500px" width="500px"}
 
