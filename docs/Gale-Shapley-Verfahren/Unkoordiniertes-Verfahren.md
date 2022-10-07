@@ -17,22 +17,22 @@ Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kita
 
 **1.** Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot ihrer „Lieblingskita“ und nimmt deshalb direkt Kita 1 an und lehnt Kita 2 ab. Mia muss warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai sich entscheiden das Angebot von Kita 3 anzunehmen. 
 
-Abbildung 4: 
-
-![D1.jpg](../../assets/images/D1.jpg){:height="500px" width="500px"}
+<small>Abbildung: Unkoordiniertes Verfahren I - Schritt 1<small>
+  
+![D1.jpg](../../assets/images/D1.jpg "Unkoordiniertes Verfahren I - Schritt 1"){:height="500px" width="500px"}
 
 **2.** Da Kita 1 und 3 jeweils ihre Plätze gefüllt haben, macht nur noch Kita 2 ein Angebot an Kai. Dieser hat aber bereits einer anderen Kita zugesagt und kann das neue, präferierte Angebot nicht annehmen. 
 
-Abbildung 5: 
-
-![D2.jpg](../../assets/images/D2.jpg){:height="500px" width="500px"}
+<small>Abbildung: Unkoordiniertes Verfahren I - Schritt 2<small>
+  
+![D2.jpg](../../assets/images/D2.jpg "Unkoordiniertes Verfahren I - Schritt 2"){:height="500px" width="500px"}
 
 
 **3.** Kita 2 macht nun ein Angebot an Mia, welche dieses annimmt. 
 
-Abbildung 6: 
-
-![D3.jpg](../../assets/images/D3.jpg){:height="500px" width="500px"}
+<small>Abbildung: Unkoordiniertes Verfahren I - Schritt 3<small>
+  
+![D3.jpg](../../assets/images/D3.jpg "Unkoordiniertes Verfahren I - Schritt 3"){:height="500px" width="500px"}
 
 <mark>Wichtig</mark>
 
@@ -44,21 +44,21 @@ Abbildung 6:
 
 **1.** Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot ihrer „Lieblingskita“ und nimmt deshalb direkt Kita 1 an und lehnt Kita 2 ab. Mia muss warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai sich entscheiden das Angebot von Kita 3 abzulehnen. 
 
-Abbildung 7: 
-
-![D21.jpg](../../assets/images/D21.jpg){:height="500px" width="500px"}
+<small>Abbildung: Unkoordiniertes Verfahren II - Schritt 1<small>
+  
+![D21.jpg](../../assets/images/D21.jpg "Unkoordiniertes Verfahren II - Schritt 1"){:height="500px" width="500px"}
 
 **2.** Sowohl Kita 2 als auch Kita 3 müssen neue Angebote machen. Kais Ablehnung des ersten Angebots macht sich bezahlt da er jetzt ein präferiertes Angebot von Kita 2 annehmen kann. Mia entscheidet sich ebenfalls das Angebot von Kita 3 abzulehnen da sie auf ein präferiertes Angebot wartet (beachte das Mia nicht weiß welche Kitas bereits Betreuungsplatzzusagen gemacht habe und welche ihr noch ein Angebot unterbreiten könnten).
 
-Abbildung 8: 
+<small>Abbildung: Unkoordiniertes Verfahren II - Schritt 2<small>
 
-![D22.jpg](../../assets/images/D22.jpg){:height="500px" width="500px"}
+![D22.jpg](../../assets/images/D22.jpg "Unkoordiniertes Verfahren II - Schritt 2"){:height="500px" width="500px"}
 
 **3.** Kita 3 ist die einzig verbleibende Kita ohne Betreuungsplatzzusage. Da Kita 3 schon allen interessierten Bewerbern ein Angebot gemacht hat und die anderen Kitas ihre Betreuungsplätze gefüllt haben, bleibt Mia zumindest vorerst ohne Betreuungsplatz. 
 
-Abbildung 9: 
+<small>Abbildung: Unkoordiniertes Verfahren II - Schritt 3<small>
 
-![D23.jpg](../../assets/images/D23.jpg){:height="500px" width="500px"}
+![D23.jpg](../../assets/images/D23.jpg "Unkoordiniertes Verfahren II - Schritt 3"){:height="500px" width="500px"}
 
 <mark>Wichtig</mark>
 
