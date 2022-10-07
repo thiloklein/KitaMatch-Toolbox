@@ -37,18 +37,18 @@ Zusätzlich benötigt KitaMatch pro Kind Informationen, wie die Gewichtung zwisc
 
 Sollen unterschiedliche Arten von Plätzen vergeben werden, muss entsprechend auch für jede Kombination aus Umfang und Zeitpunkt die Anzahl an freien Plätzen eingepflegt werden. 
 
-<mark>Abbildung 8:</mark>
-
-![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png)
+<small>Abbildung: Freie Plätze einpflegen<small>
+  
+![plätze-einpflegen.png](../../assets/images/plätze-einpflegen.png "Freie Plätze einpflegen")
 
 
 ### Vor dem Matching Day
 
 Sie sehen nun in der oberen Übersicht, welche Arten von Plätzen Sie vergeben, wie viele Plätze Sie dafür jeweils zur Verfügung haben, und wie viele Kinder sich prinzipiell für einen Platz interessieren. 
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Vor dem Matching-Day<small>
 
-![übersicht-vor-matchingday.png](../../assets/images/übersicht-vor-matchingday.png)
+![übersicht-vor-matchingday.png](../../assets/images/übersicht-vor-matchingday.png "Vor dem Matching-Day")
 
 
 ### Während einer Runde
