@@ -23,7 +23,7 @@ Die Zeitplanung ist einer der entscheidenden Faktoren für ein erfolgreiches Pro
 
 Sobald der erforderliche politische Beschluss und idealerweise das Einverständnis aller Beteiligten vorliegen, beginnt die Phase 1 mit der Erstellung eines (einheitlichen) Kriterienkatalogs. Anschließend wird in der Phase 2 der Kriterienkatalog von den zuständigen Gremien genehmigt  und die notwendigen Daten des angemeldeten Kindes bzw. dessen Eltern eingeholt. In der Phase 3 werden sodann die Bewerberlisten zusammengestellt und im KitaMatch hochgeladen. Um sie dort prüfen zu können, erhalten die beteiligten Kitaleitungen bzw. Fachberatung der Kindertagespflege die von der Kommune erstellten Zugänge. Gleichzeitig berechnet das Jugendamt pro Einrichtung die freien Plätze in der jeweiligen Altersgruppe und hinterlegt diese Zahl im KitaMatch. Sobald der Matching-Day (Phase 4) stattgefunden hat, kann das Jugendamt eine Liste mit (un-)versorgten Kindern generieren, und die Kitaleitungen bzw. Fachberatung der Kindertagespflege können den Eltern tatsächlich eine Zu-  bzw. Absage erteilen. Somit schließt sich der Kreis, und die nächste Vergabephase beginnt mit der Reflexion bzw. möglichen Anpassung des bestehenden Kriterienkatalogs (Phase 1 usw.). 
 
-Abbildung: Vorschlag eines Zeitplans
+<small>Abbildung: Vorschlag eines Zeitplans</small>
 
 ![zeitplan.png](../../assets/images/zeitplan.png)
 
