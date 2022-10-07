@@ -22,7 +22,7 @@ permalink: /docs/Uebersicht-Software/Der-Standardfall
 
 Um das oben beschriebene Verfahren umsetzen zu können, benötigt die Software die entsprechenden Daten der Kinder. Diese Daten müssen in einem bestimmten Format in Excel aufbereitet werden.
 
-<mark>Abbildung: Beispiel eines vollständigen Datensatzes</mark>
+<small>Abbildung: Beispiel eines vollständigen Datensatzes</small>
 
 ![Datensatz.jpg](../../assets/images/Datensatz.jpg "Beispiel eines vollständigen Datensatzes")
 
@@ -51,8 +51,8 @@ Diese erhalten Sie vom Systemadministrator.
 
 Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse und Passwort einzugeben. Nutzen Sie dafür bitte die vom Systemadministrator zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf Login.
 
-<mark>Abbildung 8:</mark>
-
+<small>Abbildung: Login-Menü</small>
+  
 ![login.png](../../assets/images/login.png "Login-Menü")
 
 
@@ -71,9 +71,9 @@ Sie können die KitaMatch-Umgebung über die permanente Navigationsleiste oben a
 - Die letzteren zwei Seiten erreichen Sie auch direkt durch Klicken der Felder Kitagruppen und Bewerber in der Navigationsleiste.
 - Rechts in der Leiste kommen sie zu dem Dropdown-Menü “Benutzer”. Hierüber können Sie einsehen mit welcher Benutzer-Email-Adresse Sie eingeloggt sind, ihr Passwort ändern und sich abmelden.
 
-<mark>Abbildung 8:</mark>
-
-![navigation.jpg](../../assets/images/navigation.jpg)
+<small>Abbildung: Übersichtsseite</small>
+  
+![navigation.jpg](../../assets/images/navigation.jpg "Übersichtsseite")
 
 
 ### Zuteilung
@@ -96,14 +96,14 @@ Eine weitere hilfreiche, zu generierende Liste ist die mit den Kindern, die noch
 
 Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plätze haben. In diesem Fall hatten sie von Anfang zu wenig Bewerber/innen. Diese freien Plätze würden dann in der Praxis mit den Kindern belegt werden können, die im Matching keinen Platz erhalten haben und sich dann für diese Einrichtungen vormerken lassen. 
  
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Aktuelle Zuordnungen</small>
 
-![zuordnungen.png](../../assets/images/zuordnungen.png)
+![zuordnungen.png](../../assets/images/zuordnungen.png "Aktuelle Zuordnungen")
 
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Nicht zugeordnete Bewerber</small>
 
-![nicht-zuordnungen.png](../../assets/images/nicht-zuordnungen.png)
+![nicht-zuordnungen.png](../../assets/images/nicht-zuordnungen.png "Nicht zugeordnete Bewerber")
 
 
 
@@ -113,23 +113,23 @@ Nach einem Klick auf “Bewerber“ landet man auf der Übersicht über alle Bew
 
 Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei allen anderen “22“. Bei einem Klick auf “Einsehen“ erhält man weitere Information des jeweiligen Kindes. Hier möchten wir insbesondere auf die “Rangliste der Wunscheinrichtungen“ aufmerksam machen. Diese Rangliste beschreibt die von den Eltern abgegebenen Präferenzen über die Kitas.
  
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Übersicht aller Bewerber/Kinder, die am Verfahren teilnehmen</small>
 
-![bewerber.png](../../assets/images/bewerber.png)
+![bewerber.png](../../assets/images/bewerber.png "Übersicht aller Bewerber/Kinder, die am Verfahren teilnehmen")
 
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Rangliste der Wunscheinrichtungen</small>
 
-![rangliste-wunscheinrichtung.png](../../assets/images/rangliste-wunscheinrichtung.png)
+![rangliste-wunscheinrichtung.png](../../assets/images/rangliste-wunscheinrichtung.png "Rangliste der Wunscheinrichtungen")
 
 
 ### Kitagruppen
 
 Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle Kitagruppen. Durch Klicken auf die jeweilige Kita (bzw. die einzelne Alterskohorte einer Kita) kommen Sie zu der Ansicht, die die Kitaleitung während des Verfahrens haben. Dieser Teil der Software wird im nächsten Kapitel erklärt, der sowohl die Projektmanagerin als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen.
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Liste aller Kitagruppen</small>
 
-![kitagruppen.png](../../assets/images/kitagruppen.png)
+![kitagruppen.png](../../assets/images/kitagruppen.png "Liste aller Kitagruppen")
 
 
 ---
@@ -154,9 +154,9 @@ Diese erhalten Sie von der Projektmanagerin Ihrer Kommune.  [Weitere Information
 - Login-Menü:
   Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse und Passwort einzugeben. Nutzen Sie dafür bitte die vom Systemadministrator zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf Login.
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Login-Menü aus Sicht der Kitaleitungen</small>
 
-![systemzugang-login.png](../../assets/images/systemzugang-login.png)
+![systemzugang-login.png](../../assets/images/systemzugang-login.png "Login-Menü aus Sicht der Kitaleitungen")
 
 
 - Vergessenes Passwort zurücksetzen:
@@ -171,18 +171,18 @@ Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, au
 
 **Wichtig**: Falls Sie zu irgendeinem Zeitpunkt nicht mehr wissen, wo Sie sich gerade befinden, können Sie einfach durch einen Klick auf „KitaMatch“ ganz links oben zurück zu dieser Seite kommen.
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Übersichtsseite aus Sicht der Kitaleitungen</small>
 
-![systemzugang-navigation.png](../../assets/images/systemzugang-navigation.png)
+![systemzugang-navigation.png](../../assets/images/systemzugang-navigation.png "Übersichtsseite aus Sicht der Kitaleitungen")
 
 
 **Freie Plätze einpflegen**
 
 Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über die jeweilige Gruppe, siehe Screenshot BV. Hier müssen Sie die freien Plätze einpflegen, die Sie in der jeweiligen Altersklasse zur Verfügung haben. Dazu geben Sie einfach die konkrete Zahl ein (im Beispiel unten also “9“), und klicken auf “Änderungen speichern“. Dies müssen Sie jeweils in jeder Altersgruppe einmal machen. Wichtig: Einmal eingepflegte Zahlen können nicht mehr reduziert werden, sondern nur noch erhöht[^4].
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Freie Plätze einpflegen</small>
 
-![stammdaten-gruppe.png](../../assets/images/stammdaten-gruppe.png)
+![stammdaten-gruppe.png](../../assets/images/stammdaten-gruppe.png "Freie Plätze einpflegen")
 
 
 ### Bewerberliste und Koordinierungsverfahren
@@ -195,17 +195,17 @@ In den folgenden 3 Kapiteln wird Ihnen vermittelt, was Sie auf dieser Seite vor 
 
 Die Seite ist prinzipiell so aufgebaut, dass oben die wichtigsten Informationen zusammengefasst werden, und unten gibt es 2 Tabellen. In der ersten Tabelle findet man eine Übersicht aller Kinder, denen man ein verbindliches Angebot gemacht hat. Diese ist vor der ersten Runde natürlich noch leer. Außerdem findet man unten eine Tabelle mit allen Bewerbern, die sich in der Kita in der jeweiligen Altersgruppe beworben haben. Die Kinder sind, falls es einen abgestimmten Kriterienkatalog in Ihrer Kommune gibt, bereits nach diesem Kriterienkatalog vorsortiert. Gibt es keinen abgestimmten Kriterienkatalog, erfolgt die Vorsortierung nach Alter, wobei die ältesten Kinder immer oben stehen. Sollten Sie an dieser Reihenfolge noch Veränderungen vornehmen wollen, können Sie auf “Manuelle Rangliste klicken“, und danach die Kinder einfach manuell nach oben oder unten ziehen, indem Sie auf ein bestimmtes Kind klicken und währenddessen die Maus hoch oder runter bewegen. Eine Anpassung der Reihenfolge der Kinder auf der Liste bedeutet eine Abweichung vom Kriterienkatalog. Sicherlich gibt es in der Praxis Gründe, die dies erfordern. Letztlich ist es auch im Rahmen der Trägerautonomie das Recht der Träger, diese Änderungen vorzunehmen. Allerdings sollte dies im Lichte der Transparenz und Nachvollziehbarkeit nach Absprache mit dem Jugendamt erfolgen. 
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Vor dem Matching-Day</small>
 
-![vor-matchingday.png](../../assets/images/vor-matchingday.png)
+![vor-matchingday.png](../../assets/images/vor-matchingday.png "Vor dem Matching-Day")
 
 **Während einer Runde**
 
 Wenn der Matching Day durch die Projektmanagerin eingeläutet wurde, können Sie anfangen, den Kindern Angebote zu unterbreiten. Hierfür klicken Sie auf das blau hinterlegte “Angebot“ und bestätigen das jeweilige Angebot, indem Sie auf das ebenso blau hinterlegte “Q1, Ganztags“ klicken. 
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Angebote unterbreiten</small>
 
-![während-runde.png](../../assets/images/während-runde.png)
+![während-runde.png](../../assets/images/während-runde.png "Angebote unterbreiten")
 
 Dies wiederholen Sie so oft, bis Sie keine weiteren Platzangebote mehr vergeben können oder wollen[^5]. Wenn das der Fall ist, sagen Sie bitte dem/der Projektmanager:in Ihrer Kommune Bescheid, dass Sie mit der aktuellen Runde fertig sind. 
 
@@ -217,9 +217,9 @@ Sofern die Einrichtung keine freien, zu belegenden Plätze hat, setzen Sie das M
 
 Falls Sie mehr freie, zu belegende Plätze als Bewerber/innen haben, können Sie kein Angebot abgeben und die Plätze bleiben zunächst frei. Diese freien Plätze können im Nachgang des Matchings von den Kindern, die im Zuge des Matchings keinen Platz erhalten haben, oder neu angemeldeten Kindern belegt werden (Abstimmungsbedarf mit dem Jugendamt). 
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Während des Matching-Days</small>
 
-![während-runde-2.png](../../assets/images/während-runde-2.png)
+![während-runde-2.png](../../assets/images/während-runde-2.png "Während des Matching-Days")
 
 Wenn alle Kitaleitungen mit einer Runde fertig sind, klickt die Projektleiterin auf den zentralen, blau hinterlegten „Vergabe starten Button“ auf der Hauptseite. 
 
@@ -234,9 +234,9 @@ Jetzt können Sie sehen, wie sich die Kinder, denen Sie in der vorigen Runde ein
   2. Das Kind erscheint blau in der oberen Tabelle. Dies bedeutet, dass das Kind Ihr Angebot vorläufig angenommen hat, aber noch nicht endgültig. Dies liegt daran, dass Sie nicht die erste Wahl des Kindes sind, und es entsprechend sein kann, dass das Kind in einer der nächsten Runden ein Angebot von seiner Erstwunschkita erhält. Die Erfahrung zeigt jedoch, dass ein Kind, das ein Angebot vorläufig annimmt, in ca. 90% der Fälle auch am Ende des Verfahrens Ihnen zugeordnet wird.
   3. Das Kind erscheint rot in der unteren Tabelle. Dies bedeutet, dass Sie dem Kind aktuell kein Angebot machen können, was an 2 Dingen liegen kann: Entweder Sie haben keine Kapazität (mehr), um dem Kind ein Angebot zu machen, oder das Kind hat ein Angebot einer Kita, zu der das Kind lieber gehen würde, erhalten. 
 
-<mark>Abbildung 8:</mark>
+<small>Abbildung: Verbindliche Angebote</small>
 
-![nach-runde.png](../../assets/images/nach-runde.png)
+![nach-runde.png](../../assets/images/nach-runde.png "Verbindliche Angebote")
 
 Wenn Sie nach einer Runde noch freie Kapazitäten und Kinder in Ihrer Liste haben, denen Sie ein Angebot machen können, wiederholen Sie den Vorgang der Platzvergabe und geben der Projektleiterin wieder Bescheid, wenn Sie fertig sind. Dies wird so lange wiederholt, bis alle Kitas entweder keine freien Plätze, oder keine Kinder mehr in ihrer Liste haben, denen sie noch Angebote unterbreiten können.
 
