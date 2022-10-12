@@ -44,7 +44,7 @@ Das folgende Kapitel wendet sich an den Systemadministrator einer Kommune. Die B
 
 ---
 
-## Erstellen einer neuen Umgebung für die Stadt
+## Erstellen einer neuen Umgebung für die Kommune
 
 Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguriert wird. Bei abweichender Serversoftware gehen Sie analog vor.
 
