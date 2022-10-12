@@ -22,7 +22,7 @@ Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sin
 
 Sicherlich ist es bei der Erstellung des Kriterienkatalogs hilfreich, wenn ein/e Moderator/in (z.B. die Projektleiterin in Absprache mit der/m Bedarfsplaner/in des zuständigen Jugendamtes) diesen Prozess neutral begleitet, Gedanken aufgreift, Diskussionen anregt, Ergebnisse zusammenfasst, offen, transparent ebenso ergebnisorientiert und zielstrebig agiert. Es ist zu überlegen, ob die Moderator/in die hiesige Kitalandschaft bzw. Trägerstruktur kennen sollte oder nicht. Kenntnisse über Besonderheiten und Anforderungen eines Katalogs von Aufnahmekriterien wären sicherlich von Vorteil.  
 
-Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere über die Erstellung des dafür notwendigen Kriterienkatalogs zu informieren, ist eine [Auftaktveranstaltung](/docs/Projektmanagement#die-erstellung-der-aufnahmekriterien) mit **allen** beteiligten Trägern, Kitaleitungen und FB KTP sinnvoll <mark>(siehe Präsentation xy)</mark>. Dabei sollte das Ziel sein, möglichst viele Informationen zu streuen, Verständnis und Akzeptanz zu schaffen, sodass die Beteiligten letztlich ihr Einverständnis für die Umsetzung des Projektes geben. 
+Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere über die Erstellung des dafür notwendigen Kriterienkatalogs zu informieren, ist eine Auftaktveranstaltung mit **allen** beteiligten Trägern, Kitaleitungen und FB KTP sinnvoll <mark>(siehe Präsentation xy)</mark>. Dabei sollte das Ziel sein, möglichst viele Informationen zu streuen, Verständnis und Akzeptanz zu schaffen, sodass die Beteiligten letztlich ihr Einverständnis für die Umsetzung des Projektes geben. 
 
 **Wichtig**:
 
@@ -35,19 +35,19 @@ Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere
 
 ## Die Ausgangslage 
 
-Es gibt verschiedene Möglichkeiten, einen gemeinsamen Kriterienkatalog zu entwickeln. Während in einer Kommune auf einem „weißen, leeren Blatt“ angefangen werden kann, ist es ebenso möglich, vorhandene Kriterienkataloge zusammenzutragen und diese zur Diskussion stellen. An welcher Stelle der Prozess ansetzt, ist sicherlich auch abhängig von den Erfahrungen der Beteiligten und dem Vertrauensverhältnis unter den Beteiligten. Oberstes Ziel dabei ist es, einen ersten Entwurf eines solchen Kriterienkatalogs zu verschriftlichen (eine Art „gemeinsamer Nenner“). Im Folgenden werden drei Fallkonstellationen vorgestellt:
+Es gibt verschiedene Möglichkeiten, einen gemeinsamen Kriterienkatalog zu entwickeln. Während in einer Kommune auf einem „weißen, leeren Blatt“ angefangen werden kann, ist es ebenso möglich, vorhandene Kriterienkataloge zusammenzutragen und diese zur Diskussion zu stellen. An welcher Stelle der Prozess ansetzt, ist sicherlich abhängig von den Erfahrungen und dem Vertrauensverhältnis der Beteiligten. Ziel sollte sein, einen ersten Entwurf eines solchen Kriterienkatalogs zu verschriftlichen (eine Art „gemeinsamer Nenner“). Im Folgenden werden drei Fallkonstellationen vorgestellt:
 
 ### Es liegen konkrete Kriterienkataloge vor.
 
-Die beteiligten Kitaleitungen und FB KTP werden von des/r Moderator/in zu einem Termin eingeladen, um zu prüfen, ob die Beteiligten einen gemeinsamen Kriterienkatalog entwickeln können. Völlig wertfrei und unter Wahrung der Trägerautonomie werden die Kriterien der einzelnen Einrichtungen gesammelt und zusammengestellt. Die Kitaleitungen und FB der KTP werden sodann gebeten, Gemeinsamkeiten sowie Abweichungen festzustellen. Dabei lässt sich sicherlich eine Art „gemeinsamer Nenner“ formulieren (weiter mit [Der erste Entwurf eines gemeinsamen Kriterienkatalogs](/docs/Kriterienkatalog-Erstellen#erstellen-des-ersten-entwurfs-eines-gemeinsamen-kriterienkatalogs)).
+Die beteiligten Kitaleitungen und FB KTP werden von dem/r Moderator/in zu einem Termin eingeladen, um zu prüfen, ob die Beteiligten einen gemeinsamen Kriterienkatalog entwickeln können. Völlig wertfrei und unter Wahrung der Trägerautonomie werden die Kriterien der einzelnen Einrichtungen gesammelt und zusammengestellt. Die Kitaleitungen und FB der KTP werden sodann gebeten, Gemeinsamkeiten sowie Abweichungen festzustellen. Dabei lässt sich idealerweise eine Art „gemeinsamer Nenner“ formulieren (weiter mit [Der erste Entwurf eines gemeinsamen Kriterienkatalogs](/docs/Kriterienkatalog-Erstellen#erstellen-des-ersten-entwurfs-eines-gemeinsamen-kriterienkatalogs)).
 
 ### Es liegen keine konkreten Kriterienkataloge vor
                        
-Falls es keine einzelnen, konkreten Kriterienkataloge der Kitas bzw. KTP vorliegen, ist zu empfehlen, die Beteiligten einzuladen, um für sie wichtige Aufnahmekriterien auf einem „weißen Blatt“ zusammenzutragen (weiter mit [Der erste Entwurf eines gemeinsamen Kriterienkatalogs](/docs/Kriterienkatalog-Erstellen#erstellen-des-ersten-entwurfs-eines-gemeinsamen-kriterienkatalogs)). 
+Falls keine einzelnen, konkreten Kriterienkataloge der Kitas bzw. KTP vorliegen, ist zu empfehlen, die Beteiligten einzuladen, um für sie wichtige Aufnahmekriterien auf einem „weißen Blatt“ zusammenzutragen (weiter mit [Der erste Entwurf eines gemeinsamen Kriterienkatalogs](/docs/Kriterienkatalog-Erstellen#erstellen-des-ersten-entwurfs-eines-gemeinsamen-kriterienkatalogs)). 
 
 ### Es wird kein einheitlicher Kriterienkatalog gewünscht. 
 
-Sofern ein einheitlicher Kriterienkatalog nicht gewünscht wird, ist das Matching mit dem Tool ebenso möglich. In diesem Fall werden die Kinder nur nach dem Alter vorsortiert, und die Kitaleitungen bzw. FB KTP müssen anhand ihrer Kriterien die Reihenfolgeder Kinder selbst festlegen. Sinnvoll kann dieses Vorgehen sein, wenn zunächst Vertrauen und Akzeptanz bei den Beteiligten geschaffen werden soll. Allerdings sei darauf hingewiesen, dass die Transparenz insbesondere den Eltern gegenüber bei diesem Verfahren sehr zu wünschen lässt . 
+Sofern ein einheitlicher Kriterienkatalog nicht gewünscht wird, ist das Matching mit dem Tool ebenso möglich. In diesem Fall werden die Kinder nur nach dem Alter vorsortiert, und die Kitaleitungen bzw. FB KTP müssen anhand ihrer Kriterien die Reihenfolge der Kinder selbst festlegen. Sinnvoll kann dieses Vorgehen sein, wenn zunächst Vertrauen und Akzeptanz bei den Beteiligten geschaffen werden soll. Allerdings sei darauf hingewiesen, dass die Transparenz insbesondere den Eltern gegenüber bei diesem Verfahren sehr zu wünschen lässt. 
 
 
 
@@ -62,7 +62,7 @@ Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet
 
 **Feedback-Schleife: Diskutieren des Entwurfs im jeweiligen Kita-Gremium bzw. KTP**
 
-Die Kitaleitungen und FB KTP diskutieren im nächsten Schritt die im Plenum  entworfenen Kriterien in ihrer jeweiligen Einrichtung und verschriftlichen evtl. Änderungswünsche.
+Die Kitaleitungen und FB KTP diskutieren im nächsten Schritt die im Plenum entworfenen Kriterien in ihrer jeweiligen Einrichtung und verschriftlichen evtl. Änderungswünsche.
 
 **Erneutes Treffen aller Beteiligten, um ggfls. den Entwurf anzupassen**
 
@@ -72,11 +72,11 @@ Bei einem weiteren Treffen der Kitaleitungen und FB KTP werden mit entsprechende
 
 ---
 
-## Verabschiedung des Katalogs im jeweiligen Kita-Gremium bzw. Kindertagespflege
+## Verabschiedung des Katalogs
 
 Die Kitaleitungen und FB KTP legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kita-Gremium vor, um die Kriterien zu diskutieren und letztlich zu verabschieden (vgl. § 10 VI KiBiZ). 
 
-Je nach Anzahl der beteiligten Kitas bzw. FB KTP und in Abhängigkeit der Trägerstruktur der Kitalandschaft können mehrere Feedback-Loops entstehen. Dies sollte in der Zeitplanung berücksichtigt werden. 
+Je nach Anzahl der beteiligten Kitas bzw. FB KTP und in Abhängigkeit der Trägerstruktur der Kitalandschaft können mehrere Feedback-Schleifen entstehen. Dies sollte in der Zeitplanung berücksichtigt werden. 
 
 Dieser gemeinsam erarbeitete und für alle Beteiligten gleich geltende Kriterienkatalog gilt als Grundlage für das anstehende Matching (der Kinder zum kommenden Kitajahr).  
 
@@ -87,14 +87,14 @@ Dieser gemeinsam erarbeitete und für alle Beteiligten gleich geltende Kriterien
 - Es ist wichtig, dass alle Träger- bzw. Kitaleitungen und FB KTP von Anfang an in den Prozess involviert werden und bei den Terminen anwesend sind. Der Prozess muss von allen (mit-)getragen werden. 
 - Für einen erfolgreichen Prozess ist es zwingend notwendig, dass dieser Kriterienkatalog jährlich hinterfragt und ggfls. angepasst wird. Daher ist ein enger Austausch während des alljährlichen Prozess zwischen Moderator/in, Jugendamt und Kitaleitungen bzw. FB KTP unabdingbar. 
 - Um eine größere Transparenz herzustellen, kann es sinnvoll sein, den ersten Entwurf z.B. dem Jugendamtselternbeirat vorzulegen, um dessen Meinung anzuhören. Dabei bleibt die Entscheidungsbefugnis jedoch bei den Trägern/Kitaleitungen bzw. FB KTP. 
-- Aufgrund der gesetzlichen Bestimmung zur Einberufung des Elternbeirats ist es möglich, dass der Entwurf vom „alten“ Elternrat diskutiert und vom „neuen“ verabschiedet wird (vgl. § 10 KiBiz).
+- Aufgrund der gesetzlichen Bestimmung zur Einberufung des Elternbeirats ist es möglich, dass der Entwurf vom „alten“ Elternrat diskutiert und vom neu Gewählten verabschiedet wird (vgl. § 10 KiBiz).
 
 
 ---
 
 ## Die Kriterien 
 
-„Welche Aufnahmekriterien gehören in einen Katalog?“ Diese Frage ist leider nicht so einfach zu beantworten. Denn sowohl die trägerspezifischen als auch regionalen Unterschiede scheinen im Praxisalltag sehr groß zu sein. Zudem kommen fortlaufend richterliche Entscheidungen, wie das [Urteil vom OVG Münster](/docs/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen), die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. Kitaspezifische Kriterien, die ebenso Berücksichtigung finden.
+„Welche Aufnahmekriterien gehören in einen Katalog?“ Diese Frage ist nicht einfach zu beantworten. Denn sowohl die trägerspezifischen als auch regionalen Unterschiede scheinen im Praxisalltag sehr groß zu sein. Zudem kommen fortlaufend richterliche Entscheidungen, wie das [Urteil vom OVG Münster](/docs/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen), die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. Kitaspezifische Kriterien, die ebenso Berücksichtigung finden.
 
 Die Kriterien und deren konkrete Ausformulierungen werden von den beteiligten Trägervertretungen, Kitaleitungen und Fachberatungen der Kindertagespflege erarbeitet. Dabei können die Kriterien in zwei Gruppen gegliedert werden: 
 
@@ -116,7 +116,7 @@ Um globale Kriterien zu formulieren, können die gesetzliche Rahmenbedingungen h
 
 „**Ein Kind, das das dritte Lebensjahr vollendet hat**, hat bis zum Schuleintritt Anspruch auf Förderung in einer Tageseinrichtung. Die Träger der öffentlichen Jugendhilfe haben darauf hinzuwirken, dass für diese Altersgruppe ein bedarfsgerechtes Angebot an Ganztagsplätzen zur Verfügung steht. Das Kind kann bei besonderem Bedarf oder ergänzend auch in Kindertagespflege gefördert werden.“ Die über 3jährigen Kinder haben demzufolge einen konkreten Anspruch auf eine Betreuung in einer Kindertageseinrichtung. 
 
-Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die Arbeitshilfe „[Aufnahmekriterien für Kindertageseinrichtungen](https://www.lvr.de/media/wwwlvrde/jugend/kinderundfamilien/tageseinrichtungenfrkinder/dokumente_88/Gemeinsame_Arbeitshilfe_KSV_und_LJAE.pdf)“ der Kommunalen Spitzenverbände und der Landesjugendämter in NRW <mark>(Erscheinungsdatum?! Durcharbeiten, Verwendung i.O.?)</mark> sein. Auf Grundlage der Punkte 3 bis 5 dieser Arbeitshilfe können beispielsweise folgende Aufnahmekriterien herangezogen werden: 
+Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die Arbeitshilfe „[Aufnahmekriterien für Kindertageseinrichtungen](https://www.lvr.de/media/wwwlvrde/jugend/kinderundfamilien/tageseinrichtungenfrkinder/dokumente_88/Gemeinsame_Arbeitshilfe_KSV_und_LJAE.pdf)“ der Kommunalen Spitzenverbände und der Landesjugendämter in NRW sein. Auf Grundlage der Punkte 3 bis 5 dieser Arbeitshilfe können beispielsweise folgende Aufnahmekriterien herangezogen werden: 
 
 - „Anzeige des Betreuungsbedarfs mind. 6 Monate vor der geplanten Aufnahme
 - Kinder aus dem Jugendamtsbezirk 
@@ -136,7 +136,7 @@ Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lo
 - Kinder, deren Geschwister die Einrichtung zeitgleich besuchen
 - Öffnungszeit deckt den Betreuungsbedarf der Eltern ab.
 
-Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktewert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Lokale Kriterien können auch nur in einzelnen Kitas zutreffen, dann bekommt das Kind auch nur in der betreffenden Kita die entsprechenden (Bonus-) Punkte.
+Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Lokale Kriterien können auch nur in einzelnen Einrichtungen zutreffen, dann bekommt das Kind auch nur in der betreffenden Einrichtung die entsprechenden (Bonus-) Punkte.
 
 **Wichtig**
 
@@ -172,7 +172,7 @@ Zu den lokalen Kriterien, die nur in der Einrichtung berücksichtigt werden, fü
 - Geschwisterkinder
   - In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres Geschwisterkind in die Schule wechselt bzw. in der Einrichtung betreut wurde (nicht zeitgleiche Betreuung). 
 
-Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen Punktewert haben, der prinzipiell für alle Einrichtungen gilt. Dieser Punktewert wird in der Excel Liste unter “Punkte” eingepflegt, <mark>siehe auch den Screenshot in Kapitel 4.1.1.</mark>  Die lokalen Kriterien sorgen dann dafür, dass ein Kind in einer bestimmten Einrichtung Zusatzpunkte bekommt, zum Beispiel wenn ein Geschwisterkind schon in der Einrichtung betreut wird. 
+Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen Punktewert haben, der prinzipiell für alle Einrichtungen gilt. Dieser Punktewert wird in der Excel Liste unter “Punkte” eingepflegt, <mark>Abbildung 14</mark>  Die lokalen Kriterien sorgen dann dafür, dass ein Kind in einer bestimmten Einrichtung Zusatzpunkte bekommt, zum Beispiel wenn ein Geschwisterkind schon in der Einrichtung betreut wird. 
 
 
 ---
@@ -181,7 +181,7 @@ Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen
 
 Nachdem die beteiligten Trägervertretungen, Kitaleitungen und FB KTP den für sie relevanten Aufnahmekriterienkatalog formuliert haben, ist es wichtig, die einzelnen Kriterien zu gewichten. 
 
-Ziel ist es, eine Einigung unter den Beteiligten zu finden, wie wichtig welches Kriterium für sie ist. Entscheidend ist, dass die Gewichtungen soweit im Verhältnis untereinander passen. Es ist ratsam, dass die Beteiligten die Kriterien und insbesondere die Gewichtungen anhand Aufnahmeentscheidungen der vergangenen Jahre „durchspielen“. Dabei kann folgende Frage hilfreich sein: „Wie realistisch sind die Kriterien bzw. Gewichtungen?“ 
+Ziel ist es, eine Einigung unter den Beteiligten zu finden, wie wichtig welches Kriterium für sie ist. Entscheidend ist, dass die Gewichtungen soweit im Verhältnis untereinander passen. Es ist ratsam, dass die Beteiligten die Kriterien und insbesondere die Gewichtungen anhand von Aufnahmeentscheidungen der vergangenen Jahre „durchspielen“. Dabei kann folgende Frage hilfreich sein: „Wie realistisch sind die Kriterien bzw. Gewichtungen?“ 
 
 **Wichtig**:
 
