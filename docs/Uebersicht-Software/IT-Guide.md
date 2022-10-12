@@ -76,10 +76,10 @@ Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguri
 
   In dieser Datei finden Sie Konfigurationen bezüglich des Matching-Prozesses. Achten Sie hierbei insbesondere auf die Einstellungen des Betreuungsumfangs, des Betreuungsbeginns und der Alterskohorten. Zu Beginn des R-Skripts haben Sie die Option, folgende Parameter festzulegen:
 
-<small>Abbildung: Parameter festlegen</small>
-
-![Parameter_festlegen.png](../../assets/images/Parameter_festlegen.png "Parameter festlegen")
-    
+      > levels_Betreuungsumfang <- c("Ganztags", "Halbtags")
+      > levels_Betreuungsbeginn <- c("Q2", "Q3", "Q4", "Q1")
+      > levels_Alterskohorte <- c("U2", "Ü2", "Ü3")
+ 
   Diese Parameter finden Sie auch in der Datei *kitamatch_config.php* (“care_scopes” = Betreuungsumfang, “care_starts” = Betreuungsbeginn, “age_cohorts” = Alterskohorten). Um die Umgebung korrekt vorzubereiten, stellen Sie sicher, dass die *Anzahl* und *Reihenfolge* dieser 3 Parameter mit den Einstellungen im R-Skript übereinstimmen. Nach dem obigen Beispiel müsste “care_starts” in der PHP-Konfigurationsdatei also mit “Q2” beginnen. Alternative Formate wie z. B. “2020-Q1” sind ebenfalls zulässig, solange Format und Reihenfolge im R-Skript und PHP-Konfigurationsdatei gleich sind. Ebenso kann auch nur ein Betreuungsumfang oder -beginn eingestellt werden (“single-scope”).
 
   Der Matching-Prozess der KitaMatch-Software basiert auf einem System, das Bewerbern Punkte zuordnet, wenn sie bestimmte Kriterien erfüllen. In der Konfigurationsdatei können bei Bedarf zusätzlich manuelle Kriterien festgelegt werden. Unter “additionalCriteriaBonus_x” kann das x-te Kiterium ein- oder ausgestellt werden. Zusätzlich kann manuell eine Punktezahl für jedes Kriterium festgelegt werden.
