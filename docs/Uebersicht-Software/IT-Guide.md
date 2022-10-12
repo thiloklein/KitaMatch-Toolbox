@@ -122,9 +122,7 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 
 **4.** Öffnen Sie die R-Datei im Programm RStudio. Im R-Skript muss das aktuelle Verzeichnis (in dem sich auch die CSV-Datei befindet) als “Working Directory” gesetzt werden. Dazu setzen Sie den Dateipfad des Verzeichnisses in den Befehl “setwd()” ein. Dieser befindet sich am Anfang des Skripts. Anschließend wird im Befehl “read.csv()” der Platzhalter durch den Namen der CSV-Datei aus Schritt 2 ersetzt. Stellen Sie sicher, dass die Option “encoding = “UTF-8”” ausgewählt ist.
 
-<small>Abbildung: CSV-Datei einlesen</small>
-
-![CSV-Datei_einlesen.png](../../assets/images/CSV-Datei_einlesen.png "CSV-Datei einlesen")
+      > rawtable = read.csv("Bewerberliste", header = TRUE, sep = ";", encoding = "UTF-8")
 
 **5.** Überprüfen Sie, ob die benötigten Pakete installiert sind. Eine Auflistung der benötigten Pakete und Installationen finden Sie am Anfang dieser Anleitung. Installieren Sie fehlende Pakete, indem Sie zum Menüpunkt “Tools → Install Packages…” navigieren und dort den Namen des Pakets eingeben.
 
