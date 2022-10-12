@@ -23,7 +23,7 @@ Der sogenannte „Matching-Day“ ist der Termin, an dem die beteiligten Kitalei
 ---
 
 ## Die Moderation
-Der Prozess sollte von der [Projektleitung](/docs/Andere-Themen/Projektmanagement#die-projektleitung-und-die-rolle-des-jugendamtes) moderiert und begleitet werden. Dabei sollte die Person das Matchingverfahren kennen und mögliche Fragen der Beteiligten beantworten können. Darüber hinaus ist es ihre Aufgabe im Rahmen des Matching-Days, sicherzustellen, dass alle Kitaleitungen bzw. FB KTP wissen, wann welche Verfahrensschritte anstehen. 
+Der Prozess sollte von der [Projektleitung](/docs/Andere-Themen/Projektmanagement#die-projektleitung-und-die-rolle-des-jugendamtes) moderiert und begleitet werden. Dabei sollte die Person das Matchingverfahren kennen und mögliche Fragen der Beteiligten beantworten können. Darüber hinaus ist es ihre Aufgabe im Rahmen des Matching-Days sicherzustellen, dass alle Kitaleitungen bzw. FB KTP wissen, wann welche Verfahrensschritte anstehen. 
 
 ➔ **Wichtig**: Der Prozess sollte aus Erfahrung heraus von einer Person (z.B. die Projektleitung) moderiert werden, die das Matchingverfahren kennt und die Beteiligten beim Matching eng begleitet. 
 
@@ -34,8 +34,8 @@ Der Prozess sollte von der [Projektleitung](/docs/Andere-Themen/Projektmanagemen
 
 Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden Varianten zeigen: 
 
-- Die beteiligten Kitaleitungen bzw. FB KTP treffen sich vor Ort in einem (nicht virtuellen) Raum. Jedem/r Teilnehmer/in sollte ein PC mit gesicherter Internetverbindung fürs KitaMatch-Programm zur Verfügung stehen. Die Moderation sollte ebenfalls über einen PC verfügen und die Hauptseite des Kita-Match-Programms über einen Beamer an die Leinwand projektieren. Auf diese Weise können alle Beteiligten den Matchingprozess verfolgen und sich besser im Programm orientieren (ähnlich wie ein Schulungsszenario).
-- Das Matching ist auch online durchführbar. Dies setzt neben der moderierenden Person eine weitere Person voraus, die bei Bedarf die Prozessbeteiligten (technisch) unterstützen kann. In diesem Fall zwei Endgeräte (PC, tablet, Smartphone etc.) pro Teilnehmer/in  zu empfehlen, damit die Beteiligten auf dem einen Gerät das Geschehen im Rahmen einer Videokonferenz verfolgen und auf dem anderen Gerät das Matching-Tool nutzen können. 
+- Die beteiligten Kitaleitungen bzw. FB KTP treffen sich vor Ort in einem (nicht virtuellen) Raum. Jedem/r Teilnehmer/in sollte ein PC mit gesicherter Internetverbindung fürs KitaMatch-Programm zur Verfügung stehen. Die Moderation sollte ebenfalls über einen PC verfügen und die Hauptseite des KitaMatch-Programms über einen Beamer an die Leinwand projektieren. Auf diese Weise können alle Beteiligten den Matchingprozess verfolgen und sich besser im Programm orientieren (ähnlich wie ein Schulungsszenario).
+- Das Matching ist auch online durchführbar. Dies setzt neben der moderierenden Person eine weitere Person voraus, die bei Bedarf die Prozessbeteiligten (technisch) unterstützen kann. In diesem Fall sind zwei Endgeräte (PC, tablet, Smartphone etc.) pro Teilnehmer/in  zu empfehlen, damit die Beteiligten auf dem einen Gerät das Geschehen im Rahmen einer Videokonferenz verfolgen und auf dem anderen Gerät das Matching-Tool nutzen können. 
 - Eine Alternative ist die Durchführung des Matchings in z.B. fünf aufeinanderfolgenden Tagen.  Dies erfordert weitreichendere Erfahrungen und/oder intensivere Begleitung durch die moderierende Person. Sicherlich ist es erstrebenswert, diese Variante langfristig in den Praxisalltag zu integrieren, da der eigentliche Aufwand für die Kitaleitung bzw. FB KTP sehr gering ist.
 
 
