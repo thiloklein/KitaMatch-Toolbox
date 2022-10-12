@@ -7,9 +7,6 @@ permalink: /docs/Referenzen
 
 # Referenzen
 
-Hier sind die Referenzen:
-{: .fs-6 .fw-300 }
-
 Reischmann/Klein/Giegerich (2021). *An iterative deferred acceptance mechanism for decentralized, fast, and fair childcare assignment, Journal of Mechanism and Institution Design, volume 5. (im Erscheinen)*
 
 Gretschko/Klein/Wambach (2019). *Die Regeln machen den Unterschied: Marktdesign, Wirtschaftswissenschaftliches Studium, 48(4): 22-28.*
