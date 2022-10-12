@@ -17,13 +17,13 @@ Die Einführung des Matchingverfahrens ist grundsätzlich im Rahmen eines Projek
 
 ---
 
-## Der Zeitplan
+## Das 4-Phasenmodell
 
-Die Zeitplanung ist einer der entscheidenden Faktoren für ein erfolgreiches Projekt. Im Folgenden wird ein möglicher Zeitplan vorgesschlagen, der natürlich auf Ihre Rahmenbedingungen und Ressourcen angepasst werden kann. 
+Die Zeitplanung ist einer der entscheidenden Faktoren für ein erfolgreiches Projekt. Im Folgenden wird ein möglicher Zeitplan anhand eines 4-Phasenmodells vorgesschlagen, das natürlich auf Ihre Rahmenbedingungen und Ressourcen angepasst werden kann. 
 
-Sobald der erforderliche politische Beschluss und idealerweise das Einverständnis aller Beteiligten vorliegen, beginnt die Phase 1 mit der Erstellung eines (einheitlichen) Kriterienkatalogs. Anschließend wird in der Phase 2 der Kriterienkatalog von den zuständigen Gremien genehmigt  und die notwendigen Daten des angemeldeten Kindes bzw. dessen Eltern eingeholt. In der Phase 3 werden sodann die Bewerberlisten zusammengestellt und im KitaMatch hochgeladen. Um sie dort prüfen zu können, erhalten die beteiligten Kitaleitungen bzw. Fachberatung der Kindertagespflege die von der Kommune erstellten Zugänge. Gleichzeitig berechnet das Jugendamt pro Einrichtung die freien Plätze in der jeweiligen Altersgruppe und hinterlegt diese Zahl im KitaMatch. Sobald der Matching-Day (Phase 4) stattgefunden hat, kann das Jugendamt eine Liste mit (un-)versorgten Kindern generieren, und die Kitaleitungen bzw. Fachberatung der Kindertagespflege können den Eltern tatsächlich eine Zu-  bzw. Absage erteilen. Somit schließt sich der Kreis, und die nächste Vergabephase beginnt mit der Reflexion bzw. möglichen Anpassung des bestehenden Kriterienkatalogs (Phase 1 usw.). 
+Sobald der erforderliche politische Beschluss und idealerweise das Einverständnis aller Beteiligten vorliegen, beginnt die Phase 1 mit der Erstellung eines (einheitlichen) Kriterienkatalogs. Anschließend wird in der Phase 2 der Kriterienkatalog von den zuständigen Gremien genehmigt  und die notwendigen Daten des angemeldeten Kindes bzw. dessen Eltern eingeholt. In der Phase 3 werden die Bewerberlisten zusammengestellt und im KitaMatch hochgeladen. Um sie dort prüfen zu können, erhalten die beteiligten Kitaleitungen bzw. Fachberatung der Kindertagespflege die von der Kommune erstellten Zugänge. Gleichzeitig berechnet das Jugendamt pro Einrichtung die freien Plätze in der jeweiligen Altersgruppe und hinterlegt diese Zahl im KitaMatch. Sobald der Matching-Day (Phase 4) stattgefunden hat, kann das Jugendamt eine Liste mit (un-)versorgten Kindern generieren, und die Kitaleitungen bzw. Fachberatung der Kindertagespflege können den Eltern tatsächlich eine Zu-  bzw. Absage erteilen. Somit schließt sich der Kreis, und die nächste Vergabephase beginnt mit der Reflexion bzw. möglichen Anpassung des bestehenden Kriterienkatalogs (Phase 1 usw.). 
 
-<small>Abbildung: Vorschlag eines Zeitplans</small>
+<small>Abbildung: Das 4-Phasenmodell</small>
 
 ![zeitplan.png](../../assets/images/zeitplan.png)
 
@@ -34,7 +34,7 @@ Sobald der erforderliche politische Beschluss und idealerweise das Einverständn
 
 Eine Projektleitung ist für das Gelingen zwingend erforderlich. Sie sollte über die erforderlichen kommunikativen und projektorientierten Skills und Ressourcen verfügen, das Matchingverfahren und die Zusammenhänge verstehen und eng mit dem Jugendamt agieren. Sofern die Kommune eigene Kitas betreibt, sollte sich die Projektleitung dieser besonderen Stellung bewusst sein. Dies sollte bei der Besetzung/Auswahl der Projektleitung berücksichtigt werden. 
 
-Das Jugendamt muss sich bereits im Vorfeld über Vor- und Nachteile des Matchingverfahrens bewusst sein – ebenso über den Aufwand, das neue Verfahren einzuführen, und über den sich lohnenden Mehrwert, wenn das Verfahren sich verstetigt. Sicherlich sind mit der Einführung eines solchen neuen Verfahrens ein Risiko und eine gewisse Skepsis verbunden. Umso wichtiger sind folgende Erfolgsfaktoren und Aufgaben:
+Das Jugendamt muss sich bereits im Vorfeld über Vor- und Nachteile des Matchingverfahrens bewusst sein – ebenso über den Aufwand, das neue Verfahren einzuführen, und über den Mehrwert, wenn sich das Verfahren verstetigt. Sicherlich sind mit der Einführung eines solchen neuen Verfahrens ein Risiko und eine gewisse Skepsis verbunden. Umso wichtiger sind folgende Erfolgsfaktoren und Aufgaben:
 
 - Eine Reflexion des bisherigen Verfahrens ist der grundlegende, erste Schritt, um die IST-Situation zu beschreiben. Erst im Anschluss ist es sinnvoll, dass die Beteiligten Wünsche und Ziele eines neuen Verfahrens (das Gale Shapley Verfahren) formulieren.  
 - Ein weiterer Meilenstein ist die Information und Legitimation durch die Politik, damit das neue Verfahren eingeführt werden kann. Darüber hinaus sollten die Vertretungen von Träger, Kitas, die Fachberatungen der Kindertagespflege, die Kindertagespflegepersonen sowie die Eltern informiert und sensibilisiert werden. 
@@ -52,16 +52,16 @@ Das Jugendamt muss sich bereits im Vorfeld über Vor- und Nachteile des Matching
 
 Sofern ein entsprechender politischer Beschluss für die Einführung des Matchingverfahrens vorliegt, ist es wichtig, alle Beteiligten frühzeitig mit einzubinden. Dazu zählen insbesondere die Träger-, Kitavertretungen, Fachberatungen der Kitas und Kindertagespflege ebenso die Eltern.
 
-Darüber hinaus ist eine offene Haltung des Jugendamtes bzw. der Projektleitung gegenüber den Beteiligten entscheidend. Fragen müssen geklärt werden, Bedenken und Zweifel ernst genommen sowie Gespräche geführt werden. Die Kommunikation ist dabei ein entscheidender Faktor für ein erfolgreiches Projekt – sowohl nach innen als auch nach außen. Demzufolge ist es empfehlenswert, dass die Beteiligten im Innenverhältnis im stetigen Austausch stehen und in der Lage sind, Fragen von „außen“, von Eltern und anderen Interessierten zu beantworten. Die Eltern sind daher frühzeitig über das Matchingverfahren zu informieren, z.B. mit einem Elternbrief/Pressemitteilungen.
+Darüber hinaus ist eine offene Haltung des Jugendamtes bzw. der Projektleitung gegenüber den Beteiligten entscheidend. Fragen müssen geklärt, Bedenken und Zweifel ernst genommen sowie Gespräche geführt werden. Die Kommunikation ist dabei ein entscheidender Faktor für ein erfolgreiches Projekt – sowohl nach innen als auch nach außen. Demzufolge ist es empfehlenswert, dass die Beteiligten im Innenverhältnis im stetigen Austausch stehen und in der Lage sind, Fragen von „außen“, von Eltern und anderen Interessierten zu beantworten. Die Eltern sind daher frühzeitig über das Matchingverfahren zu informieren, z.B. mit einem Elternbrief/Pressemitteilungen.
 
-Ein weiterer wichtiger Aspekt ist, dass die Beteiligten die Vorteile des Systems verstehen und das Matching für sich adaptieren (möchten). Sicherlich ist es auch von Vorteil, dass das algorithmusbasierte Verfahren schon seit Jahren in ähnlichen, sozialbildungspolitischen Bereichen (Vergabe der Studienplätze, …) Anwendung findet und immer mehr Kommunen dieses Verfahren erfolgreich einführen. Die konkreten Vorteile finden Sie im Kapitel zum [Gale-Shapley Verfahren](/docs/Das-Gale-Shapley-Verfahren). 
+Ein weiterer wichtiger Aspekt ist, dass die Beteiligten die Vorteile des Systems verstehen und das Matching für sich adaptieren möchten. Sicherlich ist es auch von Vorteil, dass das algorithmusbasierte Verfahren schon seit Jahren in ähnlichen, sozialbildungspolitischen Bereichen (Vergabe der Studienplätze, …) Anwendung findet und immer mehr Kommunen dieses Verfahren erfolgreich einführen. Die konkreten Vorteile finden Sie im Kapitel zum [Gale-Shapley Verfahren](/docs/Das-Gale-Shapley-Verfahren). 
 
 Zu den weiteren Vorteilen gehören: 
 - Die Kitas und die FB KTP erhalten alle für sie relevanten Anmeldungen (egal, ob 1.,2. oder 5. Wunsch), sodass keine Daten verloren gehen.
 - Während des Matchings zeigt das Programm in jeder Runde immer nur die angemeldeten Kinder, die nicht bereits ein Angebot von höher präferierter Kita/KTP erhalten haben.  Dies führt zu einer stets aktuellen, klaren Übersicht.
 - Durch die Möglichkeit für die Kitaleitung bzw. FB KTP wird die Trägerautonomie bzw. die Selbstständigkeit der KTP gewahrt. Sie können flexibel, aus „besonderem Grund“, die Bewerberliste anpassen. Dieser besondere Grund ist im Vorfeld mit dem Jugendamt zu kommunizieren.
 - Die Kitas bzw. FB KTP klicken bewusst und machen dem jeweiligen Kind von der Bewerberliste ein Angebot.
-- Die jeweilige Bewerberliste, auf die das Kind mit den meisten Punkten oben steht, ist transparent und fair. Denn diese Bewerberliste beruht auf den zuvor festgelegten Kriterienkatalog. Die Bewerberliste kann nur so „gut“ sein, wie der Kriterienkatalog „gut“ ist. Die Kriterien werden grundsätzlich 1:1 berücksichtigt.
+- Die jeweilige Bewerberliste, auf die das Kind mit den meisten Punkten oben steht, ist transparent und fair. Denn diese Bewerberliste beruht auf den zuvor festgelegten Kriterienkatalog. Die Bewerberliste kann nur so „gut“ sein, wie der Kriterienkatalog „gut“ ist. Die Kriterien werden grundsätzlich vollständig berücksichtigt.
 - Aufgrund der Tatsache, dass die Eltern idealerweise ihre wahren Wünsche angeben und keine strategischen Überlegungen mehr anstellen müssen, ergibt sich eine Strategiesicherheit. Etwaige Überlegungen, einen besseren Betreuungsplatz zu erhalten, sind hinfällig.
 
 **Wichtig**: 
@@ -73,24 +73,24 @@ Zu den weiteren Vorteilen gehören:
 
 ---
 
-## Die Erstellung der Aufnahmekriterien
+## Die Erstellung der Aufnahmekriterien (Phase 1 und 2)
 
-Während die Kommune im Rahmen der Bedarfsplanung die Anzahl der Plätze pro Kitajahr und Einrichtung festlegt, obliegt die Entscheidung über die Aufnahme der konkreten Kinder der Einrichtung/dem Träger anhand von Kriterien. „Welche Aufnahmekriterien gehören in einen Katalog?“ Diese Frage ist (leider) nicht einfach zu beantworten. Es gibt aus Erfahrung des Kreisjugendamtes Steinfurt keinen „goldenen Katalog“, der für alle Einrichtungen und KTP gleichermaßen greift.  Denn sowohl die Trägerspezifischen als auch regionalen Unterschiede sind zu groß. Zudem kommen fortlaufend richterliche Entscheidungen, die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. Kitaspezifische Kriterien, die ebenso Berücksichtigung finden sollten. [Weitere Infos zum Erstellen von Kriterienkatalogen](/docs/Andere-Themen/Kriterienkatalog-Erstellen).
+Während die Kommune im Rahmen der Bedarfsplanung die Anzahl der Plätze pro Kitajahr und Einrichtung festlegt, obliegt die Entscheidung über die Aufnahme der konkreten Kinder der Einrichtung/dem Träger anhand von Kriterien. „Welche Aufnahmekriterien gehören in einen Katalog?“ Diese Frage ist nicht einfach zu beantworten. Es gibt aus Erfahrung des Kreisjugendamtes Steinfurt keinen „goldenen Katalog“, der für alle Einrichtungen und KTP gleichermaßen greift.  Denn sowohl die Trägerspezifischen als auch regionalen Unterschiede sind zu groß. Zudem kommen fortlaufend richterliche Entscheidungen, die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. Kitaspezifische Kriterien, die ebenso Berücksichtigung finden sollten. [Weitere Infos zum Erstellen von Kriterienkatalogen](/docs/Andere-Themen/Kriterienkatalog-Erstellen).
 
-Es ist sinnvoll, dass die Projektleitung im späten Frühjahr zunächst ein Gespräch mit den beteiligten Trägervertretungen, Fachberatungen und Kitaleitungen bzw. FB KTP führt und sodann die Erstellung eines (einheitlichen) Kriterienkatalogs moderiert. Dieser bildet die Grundlage für das Matching und gilt für die gesamte Planungskommune. Grundsätzlich sind auch verschiedene Aufnahmekriterien pro Kita bzw. KTP möglich. Jedoch haben die Einrichtungen oftmals gleiche oder ähnliche Kriterien, sodass eine gemeinsame Basis gefunden werden kann. Auf dieser Grundlage werden die Punktwerte pro Kriterium festgelegt. Dabei ist zu empfehlen, dass die Beteiligten verschiedene Familienszenarien möglichst praxisnah durchspielen und damit den Kriterienkatalog prüfen.
+Es ist sinnvoll, dass die Projektleitung zunächst ein Gespräch mit den beteiligten Trägervertretungen, Fachberatungen und Kitaleitungen bzw. FB KTP führt und sodann die Erstellung eines (einheitlichen) Kriterienkatalogs moderiert. Dieser bildet die Grundlage für das Matching und gilt für die gesamte Planungskommune. Grundsätzlich sind auch verschiedene Aufnahmekriterien pro Kita bzw. KTP möglich. Jedoch haben die Einrichtungen oftmals gleiche oder ähnliche Kriterien, sodass eine gemeinsame Basis gefunden werden kann. Auf dieser Grundlage werden die Punktwerte pro Kriterium festgelegt. Dabei ist zu empfehlen, dass die Beteiligten verschiedene Familienszenarien möglichst praxisnah durchspielen und damit den Kriterienkatalog prüfen.
 
 Auch für diesen Schritt ist es wichtig, eng mit den Beteiligten im Gespräch zu bleiben und ihnen vor bzw. nach dem jeweiligen Matching-Day Zeit zu geben, den Kriterienkatalog zu formulieren, zu hinterfragen und anzupassen. Wichtig ist, dass der fürs Matching geltende Katalog jeweils frühzeitig vom Rat der jeweiligen Kindertageseinrichtung verabschiedet wird.
  
  
  ---
  
-## Der Matching-Day
+## Der Matching-Day (Phase 3 und 4)
 
 **Die Vorbereitung**
 
-Im späten Sommer erfolgen erfahrungsgemäß die meisten Anmeldungen für das folgende Kitajahr. Die Eltern geben neben ihren persönlichen Daten auch die Reihenfolge ihrer präferierten Betreuungseinrichtungen an. 
+Im Zuge der (online) Anmeldung werden die Eltern gebeten ihre persönlichen Daten sowie die Reihenfolge ihrer präferierten Betreuungseinrichtungen an. 
 
-Im Anschluss (Spätherbst) stellt die Projektleitung die Ausgangsliste <mark>(siehe Anlage xy)</mark>, die die Kitaleitungen bzw. FB KTP mit den Daten ihrer angemeldeten Kinder ausgefüllt haben, zusammen. Diese Liste wird im Anschluss in [Zusammenarbeit mit der IT-Fachkraft](/docs/Uebersicht-Software/Matching-Day) diese Ausgangsliste ins Kita-Match implementiert <mark>(siehe Kapitel IT-Part)</mark>. Die jeweilige Kitaleitung/FB KTP hat sodann die Möglichkeit, ihre Bewerberliste im Kita-Match auf [Vollständigkeit und Plausibilität](/docs/Uebersicht-Software/Der-Standardfall#welche-daten-benötigt-kitamatch) zu prüfen. Diese Bewerberlisten beruhen auf dem zugrunde gelegten Kriterienkatalog und die entsprechend ermittelten Punktwerte pro Kind. Bei Punktgleichheit sortiert das Programm automatisch das ältere Kind einen Platz vor dem anderen (jüngeren) Kind.
+Im Anschluss stellt die Projektleitung eine Ausgangsliste, die beispielsweise die Kitaleitungen bzw. FB KTP mit den Daten ihrer angemeldeten Kinder ausgefüllt haben, zusammen. Diese Liste wird im Anschluss in [Zusammenarbeit mit der IT-Fachkraft](/docs/Uebersicht-Software/Matching-Day) ins Kita-Match implementiert. Die jeweilige Kitaleitung/FB KTP hat sodann die Möglichkeit, ihre Bewerberliste im Kita-Match auf [Vollständigkeit und Plausibilität](/docs/Uebersicht-Software/Der-Standardfall#welche-daten-benötigt-kitamatch) zu prüfen. Diese Bewerberlisten beruhen auf dem zugrunde gelegten Kriterienkatalog und die entsprechend ermittelten Punktwerte pro Kind. Bei Punktgleichheit sortiert das Programm automatisch das ältere Kind einen Platz vor dem anderen (jüngeren) Kind.
 
 In Vorbereitung auf den Matching-Day sollen möglichst viele Dinge im Vorfeld mit dem Jugendamt und unter den Kitaleitungen bzw. FB KTP geklärt werden. Je mehr Einzelfälle im Vorfeld abgesprochen und Fragen geklärt werden, desto reibungsloser wird das eigentliche Matching erfolgen. Folgende Checkliste kann dabei helfen: 
 
@@ -120,7 +120,7 @@ Sofern mehrere Geschwisterkinder für eine Kita/KTP angemeldet sind, ist es sinn
 
 In Vorbereitung auf den Matching-Day ist neben der jeweiligen Bewerberliste auch die Angabe der Zahl der freien Plätze wichtig. Diese erfolgt (in der Regel wie bisher) durch das Jugendamt in Abstimmung mit den beteiligten Trägervertretungen, Kitaleitungen bzw. FB KTP [(vgl. Kapitel 2.5.3.1.)](/docs/Uebersicht-Software/Der-Standardfall#kita-sicht).
 
-Aus Erfahrung heraus ist es sinnvoll, die freien Plätze im Vorfeld mit der Kitaleitung bzw. FB KTP oder Trägervertretung abzustimmen. Denn in manchen Fällen kann es beispielsweise Schulrücksteller geben, deren Entscheidungsprozess am Tage des Matchings noch nicht beendet ist. Diese Fälle sollten einzeln in Absprache mit den Verantwortlichen besprochen werden. Es erscheint sinnvoll, diese Kinder zunächst als verbleibende Kinder weiterzuführen und die Zahl der freien Matching-Plätze entsprechend zu reduzieren. 
+Aus Erfahrung heraus ist es sinnvoll, die freien Plätze im Vorfeld mit der Kitaleitung bzw. FB KTP oder Trägervertretung abzustimmen. Denn in manchen Fällen kann es beispielsweise Schulrückstellungen geben, deren Entscheidungsprozess am Tage des Matchings noch nicht beendet ist. Diese Fälle sollten einzeln in Absprache mit den Verantwortlichen besprochen werden. Es erscheint sinnvoll, diese Kinder zunächst als verbleibende Kinder weiterzuführen und die Zahl der freien Matching-Plätze entsprechend zu reduzieren. 
 
 Ähnlich verhält es sich bei den Kindern, die vor dem Kitajahr-Beginn aufgenommen werden.
 
@@ -133,14 +133,14 @@ Die Projektleitung hat in Absprache mit den Kitaleitungen bzw. Fachberatungen de
 
 **Die Durchführung des Matching-Days**
 
-Zum sogenannten „Matching-Day“ im Winter kommen die beteiligten Kitaleitungen, Trägervertretungen und die Fachberatung der Kindertagespflege mit Unterstützung der Projektleitung (und des Jugendamtes) in einem IT-Schulungsraum der Kommune zusammen, um den Eltern über das KitaMatch-Programm virtuelle Platzangebote zu machen. Auf Basis der Wunsch-Reihenfolge der Eltern nimmt das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern an oder lehnt sie ab – und zwar solange, bis alle Plätze vergeben sind bzw. bis sich die BewerberInnen nicht mehr besserstellen können. Mehr zu den [konkreten Aufgaben der Projektleitung](/docs/Uebersicht-Software/Vergabetag) während des Matching-Days.
+Zum sogenannten „Matching-Day“ kommen die beteiligten Kitaleitungen, Trägervertretungen und die Fachberatung der Kindertagespflege mit Unterstützung der Projektleitung (und des Jugendamtes) in einem IT-Schulungsraum der Kommune zusammen, um den Eltern über das KitaMatch-Programm virtuelle Platzangebote zu machen. Auf Basis der Wunsch-Reihenfolge der Eltern nimmt das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern an oder lehnt sie ab – und zwar solange, bis alle Plätze vergeben sind bzw. bis sich die BewerberInnen nicht mehr besserstellen können. Mehr zu den [konkreten Aufgaben der Projektleitung](/docs/Uebersicht-Software/Vergabetag) während des Matching-Days.
 
 Das Matching kann aber auch online durchgeführt werden. Hierfür bedarf es aber sowohl technische als auch [organisatorische Hilfestellung](/docs/Uebersicht-Software/Vergabetag#matching) (z.B. jeweils zwei Endgeräte für die Kitaleitungen bzw. FB KTP, mit denen sie für eine bessere Übersicht das Matching verfolgen bzw. das Matching-Tool bedienen können)).
 
-Anhand der Exportmöglichkeiten der (un-)versorgten Kinder erhält die Projektleitung bzw. die Jugendamt auf Knopfdruck eine Übersicht. Für die zunächst unversorgten Kinder können dann rechtzeitig Alternativangebote in den Einrichtungen mit freien Kapazitäten geschaffen werden.
+Anhand der Exportmöglichkeiten der (un-)versorgten Kinder erhält die Projektleitung bzw. das Jugendamt auf Knopfdruck eine Übersicht. Für die zunächst unversorgten Kinder können dann rechtzeitig Alternativangebote in den Einrichtungen mit freien Kapazitäten geschaffen werden.
 
 Schließlich können die tatsächlichen Vergaben der Betreuungsplätze erfolgen und die Eltern entsprechend informiert werden. 
 
 **Reflexion des Matching Days**
 
-Im Nachgang des Matching-Days ist es wichtig, dass die Projektleitung mit den beteiligten Kitaleitungen bzw. FB KTP ein Reflexionsgespräch moderiert. Hierbei sollen Vor- und Nachteile eruiert sowie (Verfahrens-)Optimierungen formuliert und geklärt werden, ob bzw. inwiefern das Verfahren beibehalten werden soll.
+Im Nachgang des Matching-Days ist es wichtig, dass die Projektleitung mit den beteiligten Kitaleitungen bzw. FB KTP und dem Jugendamt ein Reflexionsgespräch moderiert. Hierbei sollen Vor- und Nachteile eruiert sowie (Verfahrens-)Optimierungen formuliert und geklärt werden, ob bzw. inwiefern das Verfahren beibehalten werden soll.
