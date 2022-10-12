@@ -9,19 +9,16 @@ permalink: /docs/Uebersicht-Software/Matching-Day
 # Matching-Day
 {: .no_toc }
 
+Der sogenannte „Matching-Day“ ist der Termin, an dem die beteiligten Kitaleitungen bzw. FB KTP den angemeldeten Kindern einen virtuellen Platz über das Tool „KitaMatch“ anbieten. Sie vergeben damit zunächst ihre freien Plätze im Rahmen des Matching-Tools; die tatsächliche Vergabe bzw. das Platzangebot an die Eltern erfolgt im Anschluss in der Praxis auf anderem Wege (z.B. über ein Anmeldeportal). 
+{: .fs-6 .fw-300 }
+
+---
 
 ## Inhalt
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
----
-
-## Das „Setting“
-
-Der sogenannte „Matching-Day“ ist der Termin, an dem die beteiligten Kitaleitungen bzw. FB KTP den angemeldeten Kindern einen virtuellen Platz über das Tool „KitaMatch“ anbieten. Sie vergeben damit zunächst ihre freien Plätze im Rahmen des Matching-Tools; die tatsächliche Vergabe bzw. das Platzangebot an die Eltern erfolgt im Anschluss in der Praxis auf anderem Wege (z.B. über ein Anmeldeportal). 
-
 
 ---
 
