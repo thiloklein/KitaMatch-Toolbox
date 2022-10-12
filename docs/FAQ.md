@@ -13,7 +13,7 @@ Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
 
 <details>
     <summary><b>Welche Altersgruppen werden berücksichtigt?</b></summary>
-    Zu empfehlen ist eine Differenzierung nach dem jeweils geltenden Gesetz. In Nordrhein-Westfalen beispielsweise sind es gem. dem Kinderbildungsgesetz unter 2-jährige, 2-jährige und über 3-Jährige. 
+    Zu empfehlen ist eine Differenzierung nach dem jeweils geltenden Gesetz. In Nordrhein-Westfalen beispielsweise sind es gemäß dem Kinderbildungsgesetz unter 2-jährige, 2-jährige und über 3-Jährige. 
 </details>
 <p> </p>
 <details>
@@ -28,7 +28,7 @@ Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
 <p> </p>
 <details>
     <summary><b>Welcher Betreuungszeitpunkt wird berücksichtigt?</b></summary>
-    Die Eltern geben einen gewünschten Betreuungsbeginn an. Die Kommune legt dann fest, welcher Zeitraum für die aktuelle Vergabe berücksichtigt werden soll. Beispielweise bis Dezember. 
+    Die Eltern geben einen gewünschten Betreuungsbeginn an. Die Kommune legt dann fest, welcher Zeitraum für die aktuelle Vergabe berücksichtigt werden soll. Beispielsweise bis Dezember. 
 </details>
 <p> </p>
 <details>
