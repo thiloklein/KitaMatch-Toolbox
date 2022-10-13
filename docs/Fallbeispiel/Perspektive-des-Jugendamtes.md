@@ -22,7 +22,10 @@ Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einric
         background-color: rgb(202, 199, 249);
         border: 5px;
         padding-left: 5%;
-        padding-right: 5%;    }
+        padding-right: 5%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
 </style>
 
 
