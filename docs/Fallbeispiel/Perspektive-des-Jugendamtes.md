@@ -84,10 +84,14 @@ Es stellte sich als hilfreich heraus, den Beteiligten ein wenig Zeit zu geben, d
 
 Wie ein solcher Kriterienkatalog entwickelt werden kann, finden Sie [hier](/docs/Andere-Themen/Kriterienkatalog-Erstellen).
 
-**<mark>Wichtig</mark>**
-- Klare und eindeutige Formulierungen von Aufnahmekriterien
-- Idealerweise ein von allen beteiligten Kitaleitungen bzw. FB KTP erarbeiteter und akzeptierter Kriterienkatalog
-- Genügend Informationen über das jeweilige angemeldete Kind
+<div class="box">
+  <b>Wichtig:</b>
+  <ul>
+    <li>Klare und eindeutige Formulierungen von Aufnahmekriterien</li>
+    <li>Idealerweise ein von allen beteiligten Kitaleitungen bzw. FB KTP erarbeiteter und akzeptierter Kriterienkatalog</li>
+    <li>Genügend Informationen über das jeweilige angemeldete Kind</li>
+  </ul>
+</div>
  
  
 ---
@@ -144,12 +148,16 @@ Insgesamt haben die Kitaleitungen und FB KTP einen reduzierten Aufwand festgeste
 
 Indem die Leitungen bzw. FB KTP dem jeweiligen Kind von der Bewerberliste ein Angebot machen, klicken sie “bewusst” und überlassen es nicht ausschließlich dem Computer o.ä.. Sie finden es überaus effizient, dass fast alle Kinder durch die Koordinierungsrunden im Rahmen des „Matching-Days“ direkt einen (zunächst virtuellen) Platz erhalten und am Ende des Matchings deutlich wird, welche Kinder die Kita bzw. KTP aufnimmt.
 
-Erfahrungen in Kürze:
+<div class="box">
+  <b>Erfahrungen in Kürze:</b>
+  <ul>
+    <li>„Erleichterung“, „gutes Gefühl“</li>
+    <li>Wahrung der Trägerautonomie</li>
+    <li>Flexibilität bei der Entscheidung über die angemeldeten Kinder, denen sie ein Angebot machen möchten</li>
+    <li>Reduzierter Aufwand</li>
+  </ul>
+</div>
 
-- „Erleichterung“, „gutes Gefühl“
-- Wahrung der Trägerautonomie
-- Flexibilität bei der Entscheidung über die angemeldeten Kinder, denen sie ein Angebot machen möchten
-- Reduzierter Aufwand
  
 **Aus Sicht des Jugendamtes**
 
@@ -161,15 +169,18 @@ Nicht weniger wichtig war das offene und vertrauensvolle Gespräch mit allen Pro
 
 Auch das Kreisjugendamt konnte eine Zeitersparnis verzeichnen. Denn die BedarfsplanerInnen erhielten schneller und einfacher eine Übersicht, welches Kind in welcher Einrichtung einen Platz (nicht) erhält. Gleichzeitig wurde deutlich, welche Kinder noch keinen Platz erhalten konnten und zunächst unversorgt waren. Für diese Kinder konnten dann rechtzeitig Alternativangebote in den Einrichtungen mit freien Kapazitäten geschaffen werden.
 
+<div class="box">
+  <b>Erfahrungen in Kürze:</b>
+  <ul>
+    <li>Legitimation durch die Politik entscheidend</li>
+    <li>Einverständnis der beteiligten Kitas/Träger/FB KTP</li>
+    <li>Kommunikation von Anfang wichtig – mit allen Prozessbeteiligten</li>
+    <li>mehr Transparenz</li>
+    <li>zeitsparend, da direkte Datenexporte von (un)versorgten Kindern möglich</li>
+    <li>Exportmöglichkeit der Listen von versorgten bzw. unversorgten Kindern bzw. Übersichtslisten von den Einrichtungen</li>
+  </ul>
+</div>
 
-Erfahrungen in Kürze:
-
-- Legitimation durch die Politik entscheidend
-- Einverständnis der beteiligten Kitas/Träger/FB KTP
-- Kommunikation von Anfang wichtig – mit allen Prozessbeteiligten
-- mehr Transparenz
-- zeitsparend, da direkte Datenexporte von (un)versorgten Kindern möglich
-- Exportmöglichkeit der Listen von versorgten bzw. unversorgten Kindern bzw. Übersichtslisten von den Einrichtungen
 
 **Weitere Erkenntnisse**
 
