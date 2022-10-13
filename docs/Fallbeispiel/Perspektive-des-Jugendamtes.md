@@ -16,6 +16,16 @@ Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einric
 {: .fs-6 .fw-300 }
 
 
+<style type="text/css">
+    .box{
+        width: 100%;
+        background-color: rgb(202, 199, 249);
+        border: 5px;
+    }
+</style>
+
+
+
 ## Inhalt
 {: .no_toc .text-delta }
 
@@ -107,13 +117,16 @@ In der Pilotkommune wurde das neuartige Verfahren mit den beteiligten Kitaleitun
 
 Die Eltern haben - nach wie vor - gem. § 5 SGB VIII ihr Wunsch- und Wahlrecht, das für ein gelungenes Matchingverfahren zwingend notwendig ist. Sie sind gehalten, ihre wahren Prioritäten anzugeben. Je mehr Wünsche sie angeben, desto besser. Eltern müssen keine strategischen Abwägungen mehr machen, wie sie sich besser stellen können. Mögliche, strategische Überlegungen von Eltern bei den Angaben der Prioritäten, die es sicherlich im bisherigen First-Preference-First Verfahren gegeben hat, sind hinfällig. Denn die Eltern können sicher sein, dass es grundsätzlich „stabile Entscheidungen“ gibt: sie bekommen bei einer ihrer ausgewählten Wunscheinrichtung einen Platz, weil sie dort eine höhere Priorität gemäß dem Kriterienkatalog haben als die Eltern, die keinen Platz in dieser Einrichtung erhalten. Durch diese Prämisse der Kriterientreue erhöht sich das Ausmaß der Fairness enorm. Die Eltern können besser nachvollziehen, warum sie (k)einen Platz bekommen haben. Denn die Kriterien und das Vergabeverfahren sind transparenter.
 
-Erfahrungen in Kürze:
-
-- Wichtig ist die Information an die Eltern über das neue Verfahren
-- Keine strategischen Überlegungen mehr
-- Durch Priorisierung der Wunscheinrichtungen gilt das Wunsch- und Wahlrecht
-- Transparentes und nachvollziehbares Vergabeverfahren
-- Das Matchingergebnis ist das für sie bestmögliche Match. 
+<div class="box">
+  <b>Erfahrungen in Kürze:</b>
+  <ul>
+    <li>Wichtig ist die Information an die Eltern über das neue Verfahren</li>
+    <li>Keine strategischen Überlegungen mehr</li>
+    <li>Durch Priorisierung der Wunscheinrichtungen gilt das Wunsch- und Wahlrecht</li>
+    <li>Transparentes und nachvollziehbares Vergabeverfahren</li>
+    <li>Das Matchingergebnis ist das für sie bestmögliche Match.</li>
+  </ul>
+</div>
 
 **Aus Sicht der Kitaeitungen**
 
