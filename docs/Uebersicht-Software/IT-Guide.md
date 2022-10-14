@@ -44,16 +44,16 @@ Das folgende Kapitel wendet sich an den Systemadministrator einer Kommune. Die B
 
 ## Zusammenfassung der benötigten Dateien:
 
-- Vorlage_Kitamatch_Stadt.xlsx
-- Create_initial_tables.R → Erzeugt CSV-Dateien für phpMyAdmin
+- <tt>Vorlage_Kitamatch_Stadt.xlsx</tt>
+- <tt>Create_initial_tables.R</tt> → Erzeugt <tt>CSV-Dateien</tt> für phpMyAdmin
   - Benötigte Pakete/Installationen:
-    - stringr
-    - dplyr
-    - bcrypt
-    - devtools
-    - PasswordGen
-    - xlsx oder openxlsx
-    - Rtools
+    - <tt>stringr</tt>
+    - <tt>dplyr</tt>
+    - <tt>bcrypt</tt>
+    - <tt>devtools</tt>
+    - <tt>PasswordGen</tt>
+    - <tt>xlsx</tt> oder <tt>openxlsx</tt>
+    - <tt>Rtools</tt>
 
 
 ---
