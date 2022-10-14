@@ -7,6 +7,19 @@ permalink: /docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus
 ---
 
 
+<style type="text/css">
+    .box{
+        width: 100%;
+        background-color: rgb(202, 199, 249);
+        border: 5px;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+</style>
+
+
 # Beispiel: First-Preference-First Mechanismus
 
 Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise drei verschiedener Zuteilungsmethoden([First-Preference-First Mechanismus](), [unkoordiniertes Verfahren]() und [Gale-Shapley Verfahren]()) zu illustrieren, und intuitiv aufzuzeigen, weshalb das Gale-Shapley Verfahren als einziges Zuteilungsverfahren sowohl stabil als auch Strategie-Sicher ist.
@@ -32,6 +45,12 @@ Beim First-Preference-First Mechanismus machen Bewerber Angebote an die Kitas, w
 <small>Abbildung: First-Preference-First Mechanismus - Schritt 3<small>
   
 ![B3.jpg](../../assets/images/B3.jpg "First-Preference-First Mechanismus - Schritt 3"){:height="500px" width="500px"}
+
+<div class="box">
+  <b>Wichtig:</b>
+  <p><b>Nicht Stabil</b>: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.
+     <b>Nicht Strategie-Sicher</b>: Anstatt zuerst bei Kita 1 ein Angebot zu machen, hätte Kai einen besseren Betreuungsplatz ergattert, hätte er sich direkt in Runde 1 bei Kita 2 beworben. </p>
+</div>
 
 <mark>Wichtig</mark>
 
