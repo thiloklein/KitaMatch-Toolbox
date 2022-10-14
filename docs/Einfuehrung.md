@@ -3,7 +3,7 @@ layout: default
 title: Einführung
 nav_order: 2
 has_toc: false
-permalink: /Einfuehrung
+permalink: /docs/Einfuehrung
 ---
 
 # Einführung
