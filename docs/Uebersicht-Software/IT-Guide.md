@@ -62,16 +62,14 @@ Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguri
 
 **4.** Richten Sie die Umgebungsvariablen in der .env Datei ein:
        
-       $ Is -a        // Um versteckte Ordner zu sehen
-       
+       $ Is -a        // Um versteckte Ordner zu sehen       
        $ sudo nano .env
        
   Aktualisieren Sie *APP_NAME*, *APP_URL* & *DB_DATABASE*
 
 **5.** Nehmen Sie die Kita-spezifischen Konfigurationen unter config/kitamatch_config.php vor:
        
-       $ cd config/
-       
+       $ cd config/       
        $ sudo nano kitamatch_config.php
 
   In dieser Datei finden Sie Konfigurationen bezüglich des Matching-Prozesses. Achten Sie hierbei insbesondere auf die Einstellungen des Betreuungsumfangs, des Betreuungsbeginns und der Alterskohorten. Zu Beginn des R-Skripts haben Sie die Option, folgende Parameter festzulegen:
@@ -86,14 +84,12 @@ Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguri
 
 **6.** Konfigurieren Sie die Stadt in /var/www/html/{Stadtname}/public/.htacces:
 
-       $ cd /var/www/html/{Stadtname}/public/
-       
+       $ cd /var/www/html/{Stadtname}/public/      
        $ sudo nano .htaccess
 
 **7.** Konfigurieren Sie eine neue Stadt in /etc/apache2/sites-available/000-default.conf:
 
-       $ cd /etc/apache2/sites-available/
-       
+       $ cd /etc/apache2/sites-available/       
        $ sudo nano 000-default.conf
 
 
