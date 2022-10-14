@@ -93,7 +93,7 @@ Sie können die KitaMatch-Umgebung über die permanente Navigationsleiste oben a
 
 ### Zuteilung
 
-Auf der Startseite (bzw. nach Klicken auf “Zuteilung“) sehen Sie eine Übersicht der aktuellen Zuordnungen im Verfahren. Bevor das Verfahren startet, ist diese Liste noch leer. Dann gibt es, wie im obigen Screenshot, logischerweise noch 0 Zuordnungen. 
+Auf der Startseite (bzw. nach Klicken auf “Zuteilung“) sehen Sie eine Übersicht der aktuellen Zuordnungen im Verfahren. Bevor das Verfahren startet, ist diese Liste noch leer. Dann gibt es, wie in der obigen Abbildung "Übersichtsseite", logischerweise noch 0 Zuordnungen. 
 
 Während des Verfahrens sehen Sie hingegen eine Liste mit den aktuellen Zuordnungen, sowie weiter unten eine Liste aller Kinder, die aktuell noch nicht zugeordnet sind. 
 
@@ -197,7 +197,7 @@ Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, au
 
 **Freie Plätze einpflegen**
 
-Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über die jeweilige Gruppe, siehe Screenshot BV. Hier müssen Sie die freien Plätze einpflegen, die Sie in der jeweiligen Altersklasse zur Verfügung haben. Dazu geben Sie einfach die konkrete Zahl ein (im Beispiel unten also “9“), und klicken auf “Änderungen speichern“. Dies müssen Sie jeweils in jeder Altersgruppe einmal machen. Wichtig: Einmal eingepflegte Zahlen können nicht mehr reduziert werden, sondern nur noch erhöht[^4].
+Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über die jeweilige Gruppe. Hier müssen Sie die freien Plätze einpflegen, die Sie in der jeweiligen Altersklasse zur Verfügung haben. Dazu geben Sie einfach die konkrete Zahl ein (im Beispiel unten also “9“), und klicken auf “Änderungen speichern“. Dies müssen Sie jeweils in jeder Altersgruppe einmal machen. Wichtig: Einmal eingepflegte Zahlen können nicht mehr reduziert werden, sondern nur noch erhöht[^4].
 
 <small>Abbildung: Freie Plätze einpflegen</small>
 
