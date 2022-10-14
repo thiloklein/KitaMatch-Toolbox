@@ -6,6 +6,20 @@ nav_order: 4
 permalink: /docs/Uebersicht-Software/IT-Guide
 ---
 
+
+<style type="text/css">
+    .box{
+        width: 100%;
+        background-color: rgb(202, 199, 249);
+        border: 5px;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+</style>
+
+
 # IT Guide
 {: .no_toc }
 
@@ -122,7 +136,11 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 
 **5.** Überprüfen Sie, ob die benötigten Pakete installiert sind. Eine Auflistung der benötigten Pakete und Installationen finden Sie am Anfang dieser Anleitung. Installieren Sie fehlende Pakete, indem Sie zum Menüpunkt “Tools → Install Packages…” navigieren und dort den Namen des Pakets eingeben.
 
-  **Hinweis**: Das Paket “bcrypt” kann Probleme verursachen. Diese werden normalerweise durch das Deinstallieren und Installieren dieses Pakets behoben. Außerdem muss das Paket “PasswordGen” separat installiert werden. Eine Anleitung dazu finden Sie unter https://github.com/mpascariu/PasswordGen
+<div class="box">
+  <b>Hinweis:</b>
+  <p>Das Paket “bcrypt” kann Probleme verursachen. Diese werden normalerweise durch das Deinstallieren und Installieren dieses Pakets behoben. Außerdem muss das Paket “PasswordGen” separat installiert werden. Eine Anleitung dazu finden Sie unter <mark>https://github.com/mpascariu/PasswordGen</mark></p>
+</div>
+
 
 **6.** Wenn alle benötigten Pakete installiert sind, kann das R-Skript ausgeführt werden. Markieren Sie den gesamten Code mithilfe “STRG+A” und drücken Sie auf “Run” im oberen Menübereich (alternativ “STRG+Enter”). Es kann nun einige Momente dauern, bis das Skript vollständig ausgeführt wurde. Die durch das Skript produzierten CSV-Dateien werden im Verzeichnis gespeichert, das als Working Directory ausgewählt wurde. Folgende Dateien werden generiert:
 
@@ -141,7 +159,11 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
   - Passwortliste.xlsx
     - Diese Tabelle enthält die Anmeldedaten, die die Kitas benötigen, um sich auf der Kitamatch-Plattform anzumelden.
 
-  **Hinweis**: Sollten nicht alle Dateien korrekt erzeugt werden, versuchen Sie, Ihre R-Version zu ändern. Dieses Manual wurde unter R-Version 4.0.3 (64-bit) erstellt.
+<div class="box">
+  <b>Hinweis:</b>
+  <p>Sollten nicht alle Dateien korrekt erzeugt werden, versuchen Sie, Ihre R-Version zu ändern. Dieses Manual wurde unter R-Version 4.0.3 (64-bit) erstellt.</p>
+</div>
+
 
 ---
 
@@ -172,7 +194,10 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 
 **9.** Als Nächstes laden Sie die CSV-Dateien in die jeweiligen Tabellen hoch. Die Dateien für “applicants” und “users” müssen jeweils als Erstes und als Zweites hochgeladen werden. Danach spielt die Reihenfolge des Uploads keine Rolle. Um eine Datei zu importieren, wählen Sie die gewünschte Tabelle in der Datenbank aus und wählen Sie im oberen Menü die Übersicht “Importieren” aus. Das Feld “Datei auswählen” bietet Ihnen nun die Möglichkeit, die gleichnamige CSV-Datei auf Ihrem Rechner für den Upload auszuwählen. Bestätigen Sie die Auswahl mit dem Button “OK” am Ende der Seite, um den Upload abzuschließen. Sie erhalten eine Meldung, wenn der Upload fehlerfrei verlaufen ist. Verfahren Sie anschließend analog mit den anderen Dateien, die durch das R-Skript erzeugt wurden. 
 
-  **Hinweis**: Sollte ein Upload nicht ordnungsgemäß gelingen, versuchen Sie, die Option “Fremdschlüsselüberprüfung aktivieren” zu deaktivieren.
+<div class="box">
+  <b>Hinweis:</b>
+  <p>Sollte ein Upload nicht ordnungsgemäß gelingen, versuchen Sie, die Option “Fremdschlüsselüberprüfung aktivieren” zu deaktivieren.</p>
+</div>
 
 <small>Abbildung: Importieren der CSV-Dateien</small>
 
