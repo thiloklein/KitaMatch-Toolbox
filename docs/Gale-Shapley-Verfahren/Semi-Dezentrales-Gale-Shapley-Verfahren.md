@@ -7,6 +7,19 @@ permalink: /docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren
 ---
 
 
+<style type="text/css">
+    .box{
+        width: 100%;
+        background-color: rgb(202, 199, 249);
+        border: 5px;
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+</style>
+
+
 # Semi-Dezentrales Gale-Shapley Verfahren für KitaMatch
 
 Das Gale-Shapley Verfahren ist ein von David Gale und Lloyd Shapley entwickeltes Zuteilungsverfahren (Gale and Shapley, 1962). Die Autoren beschrieben, wie mit Hilfe des Gale-Shapley Verfahrens eine stabile Zuteilung von Schülern auf Schulen erreicht werden kann. Das ZEW hat in Kooperation mit dem deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Kommunen in Nordrhein-Westfalen und Rheinland-Pfalz das Gale-Shapley Verfahren unter Berücksichtigung von praktischen Problemen auf die koordinierte Vergabe von Kitaplätzen angepasst.
@@ -17,9 +30,10 @@ An dieser Stelle beschreiben wir das Gale-Shapley Verfahren in seiner grundlegen
 
 **Semi-Zentrale Durchführung**: Die koordinierte Vergabe von Kitaplätzen wird semi-zentral durchgeführt. In diesem Fall werden die Präferenzen/Rankings der Bewerber zentral gesammelt, aber die Kitas nehmen dezentralisiert an der Vergabe teil, d.h. sie durchlaufen jeden Schritt der Vergabe einzeln. Dadurch ergibt sich die Möglichkeit gegebenenfalls vom vorgegebenen Kriterienkatalog abzuweichen.  
 
-<mark>Wichtig:</mark> 
-
-<mark>Für ein einfaches Beispiel des Gale-Shapley Verfahrens — im Vergleich mit den herkömmlichen Verfahren — siehe Unterkapitel 3.3. </mark>
+<div class="box">
+  <b>Wichtig:</b>
+  <p>Für ein einfaches Beispiel des Gale-Shapley Verfahrens — im Vergleich mit den herkömmlichen Verfahren — <mark>siehe Unterkapitel 3.3.</mark></p>
+</div>
 
   
 ---   
