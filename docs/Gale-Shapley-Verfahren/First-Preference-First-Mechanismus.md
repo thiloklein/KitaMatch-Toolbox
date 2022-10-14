@@ -47,8 +47,8 @@ Beim First-Preference-First Mechanismus machen Bewerber Angebote an die Kitas, w
 ![B3.jpg](../../assets/images/B3.jpg "First-Preference-First Mechanismus - Schritt 3"){:height="500px" width="500px"}
 
 <div class="box">
-  <p><b>Nicht Stabil</b>: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.
-     <b>Nicht Strategie-Sicher</b>: Anstatt zuerst bei Kita 1 ein Angebot zu machen, hätte Kai einen besseren Betreuungsplatz ergattert, hätte er sich direkt in Runde 1 bei Kita 2 beworben. </p>
+  <p><b>Nicht Stabil</b>: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.</p>
+  <p><b>Nicht Strategie-Sicher</b>: Anstatt zuerst bei Kita 1 ein Angebot zu machen, hätte Kai einen besseren Betreuungsplatz ergattert, hätte er sich direkt in Runde 1 bei Kita 2 beworben. </p>
 </div>
 
 
