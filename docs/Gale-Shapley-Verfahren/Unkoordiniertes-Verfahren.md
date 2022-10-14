@@ -48,8 +48,8 @@ Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kita
 ![D3.jpg](../../assets/images/D3.jpg "Unkoordiniertes Verfahren I - Schritt 3"){:height="500px" width="500px"}
 
 <div class="box">
-  <p><b>Nicht Stabil</b>: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.
-     <b>Nicht Strategie-Sicher</b>: Statt das Angebot von Kita 3 anzunehmen, wäre es in dem Fall besser gewesen, es abzulehnen.</p>
+  <p><b>Nicht Stabil</b>: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.</p>
+  <p><b>Nicht Strategie-Sicher</b>: Statt das Angebot von Kita 3 anzunehmen, wäre es in dem Fall besser gewesen, es abzulehnen.</p>
 </div>  
 
 ---
@@ -73,8 +73,8 @@ Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kita
 ![D23.jpg](../../assets/images/D23.jpg "Unkoordiniertes Verfahren II - Schritt 3"){:height="500px" width="500px"}
 
 <div class="box">
-  <p><b>Nicht Stabil</b>: Mia würde lieber einen Platz bei Kita 3 haben und Kita 3 hat einen freien Betreuungsplatz.
-     <b>Nicht Strategie-Sicher</b>: Statt das Angebot von Kita 3 abzulehnen, um auf ein präferiertes zu spekulieren, wäre es in dem Fall besser gewesen, es anzunehmen.</p>
+  <p><b>Nicht Stabil</b>: Mia würde lieber einen Platz bei Kita 3 haben und Kita 3 hat einen freien Betreuungsplatz.</p>
+  <p><b>Nicht Strategie-Sicher</b>: Statt das Angebot von Kita 3 abzulehnen, um auf ein präferiertes zu spekulieren, wäre es in dem Fall besser gewesen, es anzunehmen.</p>
 </div>  
  
 
