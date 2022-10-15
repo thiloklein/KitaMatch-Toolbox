@@ -7,6 +7,10 @@ permalink: /
 
 <style type="text/css">
     
+    .breakline {
+        clear: both;
+    }
+    
     .row {
         width: 100%;
     }
