@@ -5,12 +5,6 @@ nav_order: 9
 permalink: /docs/FAQ
 ---
 
-<style type="text/css">   
-.inhalt {
-    background-color: lightgray;
-}
-</style>
-
 # FAQ
 
 Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
@@ -19,12 +13,12 @@ Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
 
 <details>
     <summary><b>Welche Altersgruppen werden berücksichtigt?</b></summary>
-    <p class="inhalt">Zu empfehlen ist eine Differenzierung nach dem jeweils geltenden Gesetz. In Nordrhein-Westfalen beispielsweise sind es gemäß dem Kinderbildungsgesetz unter 2-jährige, 2-jährige und über 3-Jährige. </p>
+    Zu empfehlen ist eine Differenzierung nach dem jeweils geltenden Gesetz. In Nordrhein-Westfalen beispielsweise sind es gemäß dem Kinderbildungsgesetz unter 2-jährige, 2-jährige und über 3-Jährige.
 </details>
 <p> </p>
 <details>
     <summary><b>Werden die Altersgruppen zusammen oder einzeln gematcht?</b></summary>
-    <p class="inhalt">Wir empfehlen jede Altersgruppe einzeln zu matchen. Dies erleichtert das Verfahren für alle Beteiligten.</p>
+    Wir empfehlen jede Altersgruppe einzeln zu matchen. Dies erleichtert das Verfahren für alle Beteiligten.
 </details>
 <p> </p>
 <details>
