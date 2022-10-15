@@ -130,7 +130,7 @@ Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei alle
  
 <small>Abbildung: Übersicht aller Bewerber/Kinder, die am Verfahren teilnehmen</small>
 
-![bewerber.png](../../assets/images/bewerber.png "Übersicht aller Bewerber/Kinder, die am Verfahren teilnehmen")
+![bewerber.png](../../assets/images/bewerber.png "Übersicht aller Bewerber/Kinder, die am Verfahren teilnehmen"){:height="500px" width="500px"}
 
 
 <small>Abbildung: Rangliste der Wunscheinrichtungen</small>
@@ -201,7 +201,7 @@ Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über di
 
 <small>Abbildung: Freie Plätze einpflegen</small>
 
-![stammdaten-gruppe.png](../../assets/images/stammdaten-gruppe.png "Freie Plätze einpflegen")
+![stammdaten-gruppe.png](../../assets/images/stammdaten-gruppe.png "Freie Plätze einpflegen"){:height="500px" width="500px"}
 
 
 ### Bewerberliste und Koordinierungsverfahren
