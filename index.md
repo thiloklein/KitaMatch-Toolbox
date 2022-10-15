@@ -7,90 +7,23 @@ permalink: /
 
 <style type="text/css">
     
-    #row1 {
+    .row {
         width: 100%;
     }
-    #column11 {
+    .columnleft {
         width: 50%;
         float: left;
     }
-    #column12 {
+    .columnright {
         width: 50%;
         float: right;
     }
-    #img11 {
+    .imgicon {
         width: 15%;
         float: left;
         text-align: center;
     }
-    #text11 {
-        width: 85%;
-        float: right;
-    }
-    #img12 {
-        width: 15%;
-        float: left;
-        text-align: center;
-    }
-    #text12 {
-        width: 85%;
-        float: right;
-    }
-    #row2 {
-        width: 100%;
-    }
-    #column21 {
-        width: 50%;
-        float: left;
-    }
-    #column22 {
-        width: 50%;
-        float: right;
-    }
-    #img21 {
-        width: 15%;
-        float: left;
-        text-align: center;
-    }
-    #text21 {
-        width: 85%;
-        float: right;
-    }
-    #img22 {
-        width: 15%;
-        float: left;
-        text-align: center;
-    }
-    #text22 {
-        width: 85%;
-        float: right;
-    }
-    #row3 {
-        width: 100%;
-    }
-    #column31 {
-        width: 50%;
-        float: left;
-    }
-    #column32 {
-        width: 50%;
-        float: right;
-    }
-    #img31 {
-        width: 15%;
-        float: left;
-        text-align: center;
-    }
-    #text31 {
-        width: 85%;
-        float: right;
-    }
-    #img32 {
-        width: 15%;
-        float: left;
-        text-align: center;
-    }
-    #text32 {
+    .texticon {
         width: 85%;
         float: right;
     }
@@ -183,63 +116,63 @@ permalink: /
 ---
 
 ## Vorteile im Überblick
-<div id="row1">
-    <div id="column11">
-        <div id="img11">
+<div class="row">
+    <div class="columnleft">
+        <div class="imgicon">
             <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="text11">
+        <div class="texticon">
             SCHNELL:<br>
             Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert.
         </div>
     </div>
-    <div id="column12">
-        <div id="img12">
+    <div class="columnright">
+        <div class="imgicon">
             <img src="assets/images/icon_sparen.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="text12">
+        <div class="texticon">
             RESSOURCEN-SPAREND:<br>
             Effiziente und vereinfachte Prozesse sparen Kosten und Personalaufwand bei Kitas und Jugendamt. 
         </div>
     </div>
 </div>
 <br>
-<div id="row2">
-    <div id="column21">
-        <div id="img21">
+<div class="row">
+    <div class="columnleft">
+        <div class="imgicon">
             <img src="assets/images/icon_fair.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="text21">
+        <div class="texticon">
             FAIR:<br>
             Eltern werden strategische Abwegungen erspart. Damit entstehen keine unfairen Nachteile für schlechter informierte Eltern.
         </div>
     </div>
-    <div id="column22">
-        <div id="img22">
+    <div class="columnright">
+        <div class="imgicon">
             <img src="assets/images/icon_individuell.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="text22">
+        <div class="texticon">
             iNDIVIDUALISIERBAR:<br>
             Jede Stadt ist anders. Unsere Lösungen passen sich Ihren Bedürfnissen an.
         </div>
     </div>
 </div>
 <br>
-<div id="row3">
-    <div id="column31">
-        <div id="img31">
+<div class="row">
+    <div class="columnleft">
+        <div class="imgicon">
             <img src="assets/images/icon_transparenz.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="text31">
+        <div class="texticon">
             TRANSPARENT:<br>
             Bestehende Vergabekriterien werden respektiert. Es ist klar nachvollziehbar wer wo warum einen Platz bekommen hat - und wer nicht.
         </div>
     </div>
-    <div id="column32">
-        <div id="img32">
+    <div class="columnright">
+        <div class="imgicon">
             <img src="assets/images/icon_open-source.png" alt="dvsbadfy" width="25%">
         </div>
-        <div id="text32">
+        <div class="texticon">
             OPEN SOURCE:<br>
             Software-Lösung ist frei Nutzbar und Modifizierbar. Komplementär zu bestehenden Kita-Verwaltungsplattformen.
         </div>
