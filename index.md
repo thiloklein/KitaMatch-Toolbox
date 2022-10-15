@@ -127,7 +127,7 @@ permalink: /
         </div>
         <div class="texticon">
             SCHNELL:<br>
-            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert.
+            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert.<br>
         </div>
     </div>
     <div class="columnright">
@@ -136,7 +136,7 @@ permalink: /
         </div>
         <div class="texticon">
             RESSOURCEN-SPAREND:<br>
-            Effiziente und vereinfachte Prozesse sparen Kosten und Personalaufwand bei Kitas und Jugendamt. 
+            Effiziente und vereinfachte Prozesse sparen Kosten und Personalaufwand bei Kitas und Jugendamt.<br>
         </div>
     </div>
 </div>
@@ -150,7 +150,7 @@ permalink: /
         </div>
         <div class="texticon">
             FAIR:<br>
-            Eltern werden strategische Abwegungen erspart. Damit entstehen keine unfairen Nachteile für schlechter informierte Eltern.
+            Eltern werden strategische Abwegungen erspart. Damit entstehen keine unfairen Nachteile für schlechter informierte Eltern.<br>
         </div>
     </div>
     <div class="columnright">
@@ -158,8 +158,8 @@ permalink: /
             <img src="assets/images/icon_individuell.png" alt="dvsbadfy" width="25%">
         </div>
         <div class="texticon">
-            iNDIVIDUALISIERBAR:<br>
-            Jede Stadt ist anders. Unsere Lösungen passen sich Ihren Bedürfnissen an.
+            INDIVIDUALISIERBAR:<br>
+            Jede Stadt ist anders. Unsere Lösungen passen sich Ihren Bedürfnissen an.<br>
         </div>
     </div>
 </div>
@@ -173,7 +173,7 @@ permalink: /
         </div>
         <div class="texticon">
             TRANSPARENT:<br>
-            Bestehende Vergabekriterien werden respektiert. Es ist klar nachvollziehbar wer wo warum einen Platz bekommen hat - und wer nicht.
+            Bestehende Vergabekriterien werden respektiert. Es ist klar nachvollziehbar wer wo warum einen Platz bekommen hat - und wer nicht.<br>
         </div>
     </div>
     <div class="columnright">
@@ -182,7 +182,7 @@ permalink: /
         </div>
         <div class="texticon">
             OPEN SOURCE:<br>
-            Software-Lösung ist frei Nutzbar und Modifizierbar. Komplementär zu bestehenden Kita-Verwaltungsplattformen.
+            Software-Lösung ist frei Nutzbar und Modifizierbar. Komplementär zu bestehenden Kita-Verwaltungsplattformen.<br>
         </div>
     </div>
 </div>
@@ -233,7 +233,9 @@ Entwickelt von einem Team...
         <a href="Link-Ziel">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
     </div>
 </div>
-<br>
+
+<div class="breakline"></div>
+
 <div class="presse">
     <div class="zeitung">
         <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="15%">
@@ -245,7 +247,9 @@ Entwickelt von einem Team...
         <a href="Link-Ziel">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
     </div>
 </div>
-<br>
+
+<div class="breakline"></div>
+
 <div class="presse">
     <div class="zeitung">
         <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="15%">
@@ -257,26 +261,27 @@ Entwickelt von einem Team...
         <a href="Link-Ziel">Raus aus der Kita-Warteschlange</a>
     </div>
 </div>
-<br>
+
+<div class="breakline"></div>
 
 
 ---
 
 ## Aktuelles
 
-**25.01.2022 – ZEW Expertise:** [Können Algorithmen eine bessere Kitaplatzvergabe ermöglichen?]()
+**ZEW Expertise:** [Können Algorithmen eine bessere Kitaplatzvergabe ermöglichen?]()
 
 Im Interview erklärt Marktdesignexperte Prof. Dr. Thilo Klein ein neues Verfahren, das von Ökonomen des ZEW, der Universität Münster und der University of Oxford pilotiert wird, und eine schnelle, faire und transparente Platzvergabe möglich macht. 
 
-**15.12.2021 – ZEW Pressemitteilung:** [Kitaplätze schnell, fair und transparent mit einem dezentralen Mechanismus vergeben]()
+**ZEW Pressemitteilung:** [Kitaplätze schnell, fair und transparent mit einem dezentralen Mechanismus vergeben]()
 
 Ein akuter Mangel an Betreuungsplätzen in Kindertagesstätten in Deutschland, komplizierte Anmeldeverfahren und intransparente Vergabekriterien: Das führt zu beruflicher Planungsunsicherheit für Eltern und deren Arbeitgebern, zu Benachteiligungen bildungsferner Haushalte und zu vermeidbarem Verwaltungsaufwand für Kita-Personal.
 
-**15.12.2021 – ZEW Pressemitteilung:** [ZEW-Förderkreis vergibt erneut Wissenschaftspreise]()
+**ZEW Pressemitteilung:** [ZEW-Förderkreis vergibt erneut Wissenschaftspreise]()
 
 Der ZEW-Förderkreis Wissenschaft und Praxis e.V. zeichnet auch 2020/21 herausragende wissenschaftliche Leistungen und wirtschaftspolitische Beratungsprojekte am ZEW aus. Mit dem Preis für das beste wirtschaftspolitische Beratungsprojekt wurde „KitaMatch“ ausgezeichnet. Das Projektteam entwickelte eine Open Source-Software, um die Kitaplatzvergabe in Deutschland neu zu gestalten.
 
-**03.07.2017 – ZEW News:** [Wie Städte dem Ansturm auf Kindertagesstätten begegnen können]()
+**ZEW News:** [Wie Städte dem Ansturm auf Kindertagesstätten begegnen können]()
 
 In vielen deutschen Städten ist die Vergabe von freien Plätzen in Kindertagesstätten intransparent und mit erheblichen Kosten für Eltern und Kita-Personal verbunden. Neben dem aktuellen Mangel an Kita-Plätzen führen auch ineffiziente Vergabeverfahren dazu, dass der Mangel größer erscheint, als er tatsächlich ist. Eine Möglichkeit zur flächendeckenden Lösung des Problems wären zentrale Vergabesysteme, die gutes Marktdesign durch den Einsatz von bewährten Algorithmen liefern kann.
 
