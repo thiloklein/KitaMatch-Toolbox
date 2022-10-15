@@ -91,11 +91,11 @@ permalink: /
         text-align: center;
     }
     .date {
-        width: 30%;
+        width: 35%;
         float: left;
     }
     .articlelink {
-        width: 60%;
+        width: 55%;
         float: right;
     }
     
