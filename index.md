@@ -128,7 +128,7 @@ permalink: /
         <div class="texticon">
             SCHNELL:<br>
             Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert.
-            <br>
+            <p></p>
         </div>
     </div>
     <div class="columnright">
@@ -138,7 +138,7 @@ permalink: /
         <div class="texticon">
             RESSOURCEN-SPAREND:<br>
             Effiziente und vereinfachte Prozesse sparen Kosten und Personalaufwand bei Kitas und Jugendamt.
-            <br>
+            <p></p>
         </div>
     </div>
 </div>
@@ -153,7 +153,7 @@ permalink: /
         <div class="texticon">
             FAIR:<br>
             Eltern werden strategische Abwegungen erspart. Damit entstehen keine unfairen Nachteile für schlechter informierte Eltern.
-            <br>
+            <p></p>
         </div>
     </div>
     <div class="columnright">
@@ -163,7 +163,7 @@ permalink: /
         <div class="texticon">
             INDIVIDUALISIERBAR:<br>
             Jede Stadt ist anders. Unsere Lösungen passen sich Ihren Bedürfnissen an.
-            <br>
+            <p></p>
         </div>
     </div>
 </div>
@@ -178,7 +178,7 @@ permalink: /
         <div class="texticon">
             TRANSPARENT:<br>
             Bestehende Vergabekriterien werden respektiert. Es ist klar nachvollziehbar wer wo warum einen Platz bekommen hat - und wer nicht.
-            <br>
+            <p></p>
         </div>
     </div>
     <div class="columnright">
@@ -188,7 +188,7 @@ permalink: /
         <div class="texticon">
             OPEN SOURCE:<br>
             Software-Lösung ist frei Nutzbar und Modifizierbar. Komplementär zu bestehenden Kita-Verwaltungsplattformen.
-            <br>
+            <p></p>
         </div>
     </div>
 </div>
