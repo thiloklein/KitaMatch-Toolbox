@@ -127,7 +127,8 @@ permalink: /
         </div>
         <div class="texticon">
             SCHNELL:<br>
-            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert.<br>
+            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert.
+            <br>
         </div>
     </div>
     <div class="columnright">
@@ -136,7 +137,8 @@ permalink: /
         </div>
         <div class="texticon">
             RESSOURCEN-SPAREND:<br>
-            Effiziente und vereinfachte Prozesse sparen Kosten und Personalaufwand bei Kitas und Jugendamt.<br>
+            Effiziente und vereinfachte Prozesse sparen Kosten und Personalaufwand bei Kitas und Jugendamt.
+            <br>
         </div>
     </div>
 </div>
@@ -150,7 +152,8 @@ permalink: /
         </div>
         <div class="texticon">
             FAIR:<br>
-            Eltern werden strategische Abwegungen erspart. Damit entstehen keine unfairen Nachteile für schlechter informierte Eltern.<br>
+            Eltern werden strategische Abwegungen erspart. Damit entstehen keine unfairen Nachteile für schlechter informierte Eltern.
+            <br>
         </div>
     </div>
     <div class="columnright">
@@ -159,7 +162,8 @@ permalink: /
         </div>
         <div class="texticon">
             INDIVIDUALISIERBAR:<br>
-            Jede Stadt ist anders. Unsere Lösungen passen sich Ihren Bedürfnissen an.<br>
+            Jede Stadt ist anders. Unsere Lösungen passen sich Ihren Bedürfnissen an.
+            <br>
         </div>
     </div>
 </div>
@@ -173,7 +177,8 @@ permalink: /
         </div>
         <div class="texticon">
             TRANSPARENT:<br>
-            Bestehende Vergabekriterien werden respektiert. Es ist klar nachvollziehbar wer wo warum einen Platz bekommen hat - und wer nicht.<br>
+            Bestehende Vergabekriterien werden respektiert. Es ist klar nachvollziehbar wer wo warum einen Platz bekommen hat - und wer nicht.
+            <br>
         </div>
     </div>
     <div class="columnright">
@@ -182,7 +187,8 @@ permalink: /
         </div>
         <div class="texticon">
             OPEN SOURCE:<br>
-            Software-Lösung ist frei Nutzbar und Modifizierbar. Komplementär zu bestehenden Kita-Verwaltungsplattformen.<br>
+            Software-Lösung ist frei Nutzbar und Modifizierbar. Komplementär zu bestehenden Kita-Verwaltungsplattformen.
+            <br>
         </div>
     </div>
 </div>
