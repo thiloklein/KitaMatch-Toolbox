@@ -136,7 +136,9 @@ permalink: /
         </div>
     </div>
 </div>
-<br>
+
+<div class="breakline"></div>
+
 <div class="row">
     <div class="columnleft">
         <div class="imgicon">
@@ -157,7 +159,9 @@ permalink: /
         </div>
     </div>
 </div>
-<br>
+
+<div class="breakline"></div>
+
 <div class="row">
     <div class="columnleft">
         <div class="imgicon">
@@ -178,16 +182,8 @@ permalink: /
         </div>
     </div>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
+<div class="breakline"></div>
 
 ---
 
