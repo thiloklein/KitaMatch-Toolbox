@@ -86,12 +86,12 @@ permalink: /
         width: 100%;
     }
     .zeitung {
-        width: 20%;
+        width: 10%;
         float: left;
         text-align: center;
     }
     .date {
-        width: 20%;
+        width: 30%;
         float: left;
     }
     .articlelink {
@@ -230,7 +230,7 @@ Entwickelt von einem Team...
 
 <div class="presse">
     <div class="zeitung">
-        <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="25%">
+        <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="50%">
     </div>
     <div class="date">
         <b>WirtschaftsWoche</b>
@@ -244,7 +244,7 @@ Entwickelt von einem Team...
 
 <div class="presse">
     <div class="zeitung">
-        <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="15%">
+        <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="30%">
     </div>
     <div class="date">
         <b>Frankfurter Allgemeine Zeitung</b>
@@ -258,7 +258,7 @@ Entwickelt von einem Team...
 
 <div class="presse">
     <div class="zeitung">
-        <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="15%">
+        <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="30%">
     </div>
     <div class="date">
         <b>Frankfurter Allgemeine Zeitung</b>
