@@ -233,7 +233,7 @@ Entwickelt von einem Team...
         <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="25%">
     </div>
     <div class="date">
-        25.01.2020
+        <b>WirtschaftsWoche</b>
     </div>
     <div class="articlelink">
         <a href="Link-Ziel">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
@@ -247,7 +247,7 @@ Entwickelt von einem Team...
         <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="15%">
     </div>
     <div class="date">
-        30.11.2019
+        <b>Frankfurter Allgemeine Zeitung</b>
     </div>
     <div class="articlelink">
         <a href="Link-Ziel">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
@@ -261,7 +261,7 @@ Entwickelt von einem Team...
         <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="15%">
     </div>
     <div class="date">
-        18.06.2017
+        <b>Frankfurter Allgemeine Zeitung</b>
     </div>
     <div class="articlelink">
         <a href="Link-Ziel">Raus aus der Kita-Warteschlange</a>
