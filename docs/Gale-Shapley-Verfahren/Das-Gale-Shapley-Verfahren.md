@@ -14,13 +14,6 @@ In [Unterkapitel 3.1](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sic
 Für das praktische Verständnis wird im [Unterkapitel 3.3](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel) das Gale-Shapley Verfahren anhand eines Beispiels beschrieben und mit zwei herkömmlichen Zuteilungsverfahren([First-Preference-First Mechanismus](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus), [Unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren)) verglichen: Dem First-Preference-First Mechanismus und der Unkoordinierten Vergabe. Hierbei wird aufgezeigt, dass die herkömmlichen Zuteilungsverfahren weder Strategie-Sicher noch Stabil sind.  
 Abschließend werden im [Unterkapitel 3.4](/docs/Gale-Shapley-Verfahren/Grenzen-des-Gale-Shapley-Verfahrens) potentielle Grenzen des Vergabeverfahrens in der Kitaplatzvergabe diskutiert. Hier wird auch aufgezeigt, welche Vorteile ein semi-dezentrales Gale-Shapley Verfahren gegenüber einem zentralisierten Gale-Shapley Verfahren aufweist.   
 
-
-## Inhalt
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 Der Deferred Acceptance Mechanismus ist ein von David Gale und Loyed Shapley entwickeltes Zuteilungsverfahren, welches 1962 im Journal ,,American Mathematics Monthly” erschienen ist (Gale and Shapley, 1962). Die Autoren beschrieben, wie mit Hilfe des Deferred Acceptance Mechanismus eine stabile Zuteilung von Schülern auf Schulen erreicht werden kann.
@@ -32,5 +25,14 @@ Außerdem werden potenzielle Limitationen des Deferred Acceptance Mechanismums, 
 ---
 
 
+## Unterkapitel
+{: .no_toc }
+
+-[Stabilität und Strategie-Sicherheit](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit)
+-[Semi-Dezentrales Gale-Shapley Verfahren für KitaMatch](/docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren)
+-[Beispiel: First-Preference-First Mechanismus](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus)
+-[Beispiel: Unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren)
+-[Beispiel: Gale-Shapley Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel)
+-[Die Grenzen des Gale-Shapley Verfahrens](/docs/Gale-Shapley-Verfahren/Grenzen-des-Gale-Shapley-Verfahrens)
 
 
