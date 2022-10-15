@@ -7,7 +7,8 @@ permalink: /docs/Kriterienkatalog-Erstellen
 
 # Die Erstellung des Kriterienkatalogs
 {: .no_toc }
-Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sind](/docs/Fallbeispiel/Perspektive-des-Jugendamtes#die-erstellung-der-aufnahmekriterien). Daher ist ein Kriterienkatalog fürs Matching zu empfehlen. Im Folgenden werden die Grundlagen für die Erstellung eines Kriterienkatalogs vorgestellt. Zunächst wird erklärt, was es für die Vorbereitung und den Prozess der Erstellung bedarf. Zudem werden lokale sowie globale Kriterien unterschieden und die Gewichtung der Kriterien anhand eines Fallbeispiels erläutert.
+Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sind](/docs/Fallbeispiel/Perspektive-des-Jugendamtes#erstellung-der-aufnahmekriterien). Daher ist ein Kriterienkatalog fürs Matching zu empfehlen. Im Folgenden werden die Grundlagen für die Erstellung eines Kriterienkatalogs vorgestellt. Zunächst wird erklärt, was es für die Vorbereitung und den Prozess der Erstellung bedarf. Zudem werden lokale sowie globale Kriterien unterschieden und die Gewichtung der Kriterien anhand eines Fallbeispiels erläutert.
+{: .fs-6 .fw-300 }
 
 
 <style type="text/css">
@@ -53,15 +54,15 @@ Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere
 
 Es gibt verschiedene Möglichkeiten, einen gemeinsamen Kriterienkatalog zu entwickeln. Während in einer Kommune auf einem „weißen, leeren Blatt“ angefangen werden kann, ist es ebenso möglich, vorhandene Kriterienkataloge zusammenzutragen und diese zur Diskussion zu stellen. An welcher Stelle der Prozess ansetzt, ist sicherlich abhängig von den Erfahrungen und dem Vertrauensverhältnis der Beteiligten. Ziel sollte sein, einen ersten Entwurf eines solchen Kriterienkatalogs zu verschriftlichen (eine Art „gemeinsamer Nenner“). Im Folgenden werden drei Fallkonstellationen vorgestellt:
 
-### Es liegen konkrete Kriterienkataloge vor.
+**Fall a: Es liegen konkrete Kriterienkataloge vor**
 
-Die beteiligten Kitaleitungen und FB KTP werden von dem/r Moderator/in zu einem Termin eingeladen, um zu prüfen, ob die Beteiligten einen gemeinsamen Kriterienkatalog entwickeln können. Völlig wertfrei und unter Wahrung der Trägerautonomie werden die Kriterien der einzelnen Einrichtungen gesammelt und zusammengestellt. Die Kitaleitungen und FB der KTP werden sodann gebeten, Gemeinsamkeiten sowie Abweichungen festzustellen. Dabei lässt sich idealerweise eine Art „gemeinsamer Nenner“ formulieren (weiter mit [Der erste Entwurf eines gemeinsamen Kriterienkatalogs](/docs/Kriterienkatalog-Erstellen#erstellen-des-ersten-entwurfs-eines-gemeinsamen-kriterienkatalogs)).
+Die beteiligten Kitaleitungen und FB KTP werden von dem/r Moderator/in zu einem Termin eingeladen, um zu prüfen, ob die Beteiligten einen gemeinsamen Kriterienkatalog entwickeln können. Völlig wertfrei und unter Wahrung der Trägerautonomie werden die Kriterien der einzelnen Einrichtungen gesammelt und zusammengestellt. Die Kitaleitungen und FB der KTP werden sodann gebeten, Gemeinsamkeiten sowie Abweichungen festzustellen. Dabei lässt sich idealerweise eine Art „gemeinsamer Nenner“ formulieren.
 
-### Es liegen keine konkreten Kriterienkataloge vor
+**Fall b: Es liegen keine konkreten Kriterienkataloge vor**
                        
-Falls keine einzelnen, konkreten Kriterienkataloge der Kitas bzw. KTP vorliegen, ist zu empfehlen, die Beteiligten einzuladen, um für sie wichtige Aufnahmekriterien auf einem „weißen Blatt“ zusammenzutragen (weiter mit [Der erste Entwurf eines gemeinsamen Kriterienkatalogs](/docs/Kriterienkatalog-Erstellen#erstellen-des-ersten-entwurfs-eines-gemeinsamen-kriterienkatalogs)). 
+Falls keine einzelnen, konkreten Kriterienkataloge der Kitas bzw. KTP vorliegen, ist zu empfehlen, die Beteiligten einzuladen, um für sie wichtige Aufnahmekriterien auf einem „weißen Blatt“ zusammenzutragen. 
 
-### Es wird kein einheitlicher Kriterienkatalog gewünscht. 
+**Fall c: Es wird kein einheitlicher Kriterienkatalog gewünscht**
 
 Sofern ein einheitlicher Kriterienkatalog nicht gewünscht wird, ist das Matching mit dem Tool ebenso möglich. In diesem Fall werden die Kinder nur nach dem Alter vorsortiert, und die Kitaleitungen bzw. FB KTP müssen anhand ihrer Kriterien die Reihenfolge der Kinder selbst festlegen. Sinnvoll kann dieses Vorgehen sein, wenn zunächst Vertrauen und Akzeptanz bei den Beteiligten geschaffen werden soll. Allerdings sei darauf hingewiesen, dass die Transparenz insbesondere den Eltern gegenüber bei diesem Verfahren sehr zu wünschen lässt. 
 
@@ -190,7 +191,7 @@ Zu den lokalen Kriterien, die nur in der Einrichtung berücksichtigt werden, fü
 - Geschwisterkinder
   - In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres Geschwisterkind in die Schule wechselt bzw. in der Einrichtung betreut wurde (nicht zeitgleiche Betreuung). 
 
-Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen Punktewert haben, der prinzipiell für alle Einrichtungen gilt. Dieser Punktewert wird in der Excel Liste unter “Punkte” eingepflegt, <mark>Abbildung 14</mark>  Die lokalen Kriterien sorgen dann dafür, dass ein Kind in einer bestimmten Einrichtung Zusatzpunkte bekommt, zum Beispiel wenn ein Geschwisterkind schon in der Einrichtung betreut wird. 
+Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen Punktewert haben, der prinzipiell für alle Einrichtungen gilt. Dieser Punktewert wird in der Excel Liste unter “Punkte” eingepflegt, siehe auch die [Abbildung " Beispiel eines vollständigen Datensatzes"](/docs/Uebersicht-Software/Der-Standardfall#welche-daten-benötigt-kitamatch)   Die lokalen Kriterien sorgen dann dafür, dass ein Kind in einer bestimmten Einrichtung Zusatzpunkte bekommt, zum Beispiel wenn ein Geschwisterkind schon in der Einrichtung betreut wird. 
 
 
 ---
