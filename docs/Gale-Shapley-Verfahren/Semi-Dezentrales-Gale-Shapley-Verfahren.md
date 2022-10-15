@@ -32,7 +32,7 @@ An dieser Stelle beschreiben wir das Gale-Shapley Verfahren in seiner grundlegen
 
 <div class="box">
   <b>Wichtig:</b>
-  <p>Für ein einfaches Beispiel des Gale-Shapley Verfahrens — im Vergleich mit den herkömmlichen Verfahren — <mark>siehe Unterkapitel 3.3.</mark></p>
+  <p>Für ein einfaches Beispiel des Gale-Shapley Verfahrens — im Vergleich mit den herkömmlichen Verfahren — siehe <a href="/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel">Beispiel: Gale-Shapley Verfahren</a>, <a href="docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus">Beispiel: First-Preference-First Mechanismus</a> und <a href="/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren">Beispiel: Unkoordiniertes Verfahren</a></p>
 </div>
 
   
