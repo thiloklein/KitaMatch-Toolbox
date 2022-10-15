@@ -12,7 +12,7 @@ permalink: /docs/Fallbeispiel/Perspektive-des-Jugendamtes
 Im Kreis Steinfurt, in der Gemeinde Saerbeck, wurde bei der Verteilung der Kinder auf die Betreuungsplätze erstmals zum Kitajahr 2019/20 das algorithmusbasierte „Gale-Shapley-Verfahren“ angewendet. Über 100 Kinder in drei Altersgruppen (unter 2-jährige, 2-jährige, über 3-jährige) wurden auf die zur Verfügung gestellten Plätze verteilt. An dem Verfahren haben sich 6 Kindertageseinrichtungen und die Fachberatung für Kindertagespflege beteiligt.
 {: .fs-6 .fw-300 }
 
-Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einrichtung entscheidet, obliegt die Entscheidung über die Aufnahme der konkreten Kinder der Einrichtung/dem Träger anhand der geltenden Kriterien. Bisher wurden die Plätze nach dem [First-Preference-First Prinzip](/docs/Einfuehrung/Warum-Gale-Shapleys-Deferred-Acceptance-Mechanismus#beispiele-deferred-acceptance-first-preference-first-und-unkoordiniert) vergeben. Neben dem [VG MS-Urteil](/docs/Andere-Themen/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen) haben u.a. folgende Gründe die Politik bzw. die Verwaltung bewogen, gemeinsam mit den hiesigen Trägern das Pilotprojekt umzusetzen:
+Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einrichtung entscheidet, obliegt die Entscheidung über die Aufnahme der konkreten Kinder der Einrichtung/dem Träger anhand der geltenden Kriterien. Bisher wurden die Plätze nach dem [First-Preference-First Prinzip](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus) vergeben. Neben dem [VG MS-Urteil](/docs/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen) haben u.a. folgende Gründe die Politik bzw. die Verwaltung bewogen, gemeinsam mit den hiesigen Trägern das Pilotprojekt umzusetzen:
 {: .fs-6 .fw-300 }
 
 
@@ -61,9 +61,9 @@ Darüber hinaus war das Ziel, dass die Eltern keine strategischen Überlegungen 
 
 Dem Kreis Steinfurt war es von Anfang an ein Anliegen, alle Beteiligten frühzeitig mit einzubinden. Für die Einführung des neuen Verfahrens für die Vergabe der Plätze zum Kitajahr 2019/20 informierte das Jugendamt das zuständige Gremium (AG 78) im Sommer/Herbst 2018, sodass Fragen der Träger-, Kitavertretungen, Fachberatungen der Kitas und Kindertagespflege sowie Bürgermeister/innen beantwortet werden konnten. 
 
-In der Pilotkommune Saerbeck hat die zuständige Bedarfsplanerin des Kreisjugendamtes ebenso frühzeitig den beteiligten Kitaleitungen, Trägervertretungen und FB KTP sowie dem Bürgermeister das neue Verfahren vorgestellt. Sie übernahm im Rahmen der Einführung die Aufgaben einer [Projektleitung](/docs/Andere-Themen/Projektmanagement).
+In der Pilotkommune Saerbeck hat die zuständige Bedarfsplanerin des Kreisjugendamtes ebenso frühzeitig den beteiligten Kitaleitungen, Trägervertretungen und FB KTP sowie dem Bürgermeister das neue Verfahren vorgestellt. Sie übernahm im Rahmen der Einführung die Aufgaben einer [Projektleitung](/docs/Projektmanagement#die-projektleitung-und-die-rolle-des-jugendamtes).
 
-Gemeinsam mit der pädagogischen Fachberatung des Kreises ging die Projektleitung offen in die Gespräche und nahm die Interessen, aber auch skeptischen Überlegungen und Zweifel der Beteiligten von Anfang an ernst. Die Akteure zeigten sich interessiert und neugierig, ob das neue Verfahren tatsächlich die [angedeuteten Vorteile](/docs/Das-Gale-Shapley-Verfahren#stabilität-und-strategie) (mehr Transparenz, erhöhte Arbeitserleichterung etc.) mitbringt. 
+Gemeinsam mit der pädagogischen Fachberatung des Kreises ging die Projektleitung offen in die Gespräche und nahm die Interessen, aber auch skeptischen Überlegungen und Zweifel der Beteiligten von Anfang an ernst. Die Akteure zeigten sich interessiert und neugierig, ob das neue Verfahren tatsächlich die [angedeuteten Vorteile](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit) (mehr Transparenz, erhöhte Arbeitserleichterung etc.) mitbringt. 
 
 Die Information über das neue Verfahren an die Eltern erfolgte durch einen Elternbrief. Diesen Brief schickt das Jugendamt jedes Jahr im August an die Eltern von unter 3-jährigen Kindern in verschiedenen Sprachen mit Informationen rund um die Anmeldung oder beispielsweise zu Elternbeiträgen. Dabei wurde im Sommer 2019 explizit auf das neue Vergabeverfahren hingewiesen und Kontaktdaten für eventuelle Fragen angegeben.
 
@@ -82,7 +82,7 @@ In der Pilotkommune hat das Jugendamt die beteiligten Träger und Kitaleitungen 
 
 Es stellte sich als hilfreich heraus, den Beteiligten ein wenig Zeit zu geben, den Kriterienkatalog „reifen zu lassen“ und in einem weiteren Treffen erneut zu diskutieren und manche Begriffe wie „Härtefälle“ zu konkretisieren. Erst dann konnten mögliche Punktwerte pro Kriterium festgelegt werden. Dabei wurden die Beteiligten gebeten, verschiedene Familienszenarien möglichst praxisnah durchzuspielen. Dieser Katalog beinhaltete klare und eindeutige Formulierungen und wurde vom Rat der jeweiligen Kindertageseinrichtung verabschiedet. Im darauffolgenden Jahr haben die Verantwortlichen den ursprünglichen Kriterienkatalog auf Aktualität geprüft, gegebenenfalls. angepasst und verabschiedet. Dieses Verfahren wird beibehalten, sodass der Kriterienkatalog -als Grundlage fürs Matching- stets hinterfragt und aktuell gehalten wird.
 
-Wie ein solcher Kriterienkatalog entwickelt werden kann, finden Sie [hier](/docs/Andere-Themen/Kriterienkatalog-Erstellen).
+Wie ein solcher Kriterienkatalog entwickelt werden kann, finden Sie [hier](/docs/Kriterienkatalog-Erstellen).
 
 <div class="box">
   <b>Wichtig:</b>
