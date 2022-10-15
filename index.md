@@ -272,9 +272,9 @@ Entwickelt von einem Team...
 ## Gefördert durch
 
 {:style="text-align:center;"}
-[![bertelsmann_logo.png](assets/images/bertelsmann_logo.png){:height="200px" width="200px"}]()
-[![Leibniz_logo.png](assets/images/Leibniz_logo.png){:height="150px" width="150px"}]()
-[![ZEW_logo.jpg](assets/images/ZEW_logo.jpg){:height="150px" width="150px"}]()
+[![bertelsmann_logo2.png](assets/images/bertelsmann_logo2.png){:height="200px" width="200px"}]()
+[![Leibniz_logo2.png](assets/images/Leibniz_logo2.png){:height="200px" width="200px"}]()
+[![ZEW_logo2.png](assets/images/ZEW_logo2.png){:height="150px" width="150px"}]()
 
 ---
 
