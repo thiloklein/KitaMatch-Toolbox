@@ -99,6 +99,115 @@ permalink: /
         float: right;
     }
     
+    
+    
+    
+    
+    
+  .slideshow{
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .slides{
+    width: 500%;
+    height: 500px;
+    display: flex;
+  } 
+  .slides input{
+    display: none;
+  } 
+  .slide{
+    width: 20%;
+    transition: 1s;
+  } 
+  .slide img{
+    width: 800px;
+    height: 500px;
+  }
+  
+  /*css for manual slide navigation*/
+  
+  .navigation-manual{
+    position: absolute;
+    width: 800px;
+    margin-top: -40px;
+    display: flex;
+    justify-content: center;
+  }
+  .manual-btn{
+    width: 50px;
+    height: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 6px;
+    cursor: pointer;
+  }
+  .manual-btn:not(:last-child){
+    margin-right: 40px;
+  } 
+  .manual-btn:hover{
+    background: #000000;
+  }
+  
+  #radio1:checked ~ .first{
+    margin-left: 0;
+  }
+  #radio2:checked ~ .first{
+    margin-left: -20%;
+  }
+  #radio3:checked ~ .first{
+    margin-left: -40%;
+  }
+  #radio4:checked ~ .first{
+    margin-left: -60%;
+  }
+  #radio5:checked ~ .first{
+    margin-left: -80%;
+  }
+
+  /*css for automatic navigation*/
+
+  .navigation-auto{
+    position: absolute;
+    display: flex;
+    width: 800px;
+    justify-content: center;
+    margin-top: 460px;
+  }
+  .navigation-auto div{
+    width: 50px;
+    height: 10px;
+    margin: 6px;
+    cursor: pointer;
+    border: 2px solid #000000;
+    transition: 0.5s;
+  } 
+  .navigation-auto div:not(:last-child){
+    margin-right: 40px;
+  }
+  
+  #radio1:checked ~ .navigation-auto .auto-btn1{
+    background: #000000;
+  }
+  #radio2:checked ~ .navigation-auto .auto-btn2{
+    background: #000000;
+  }
+  #radio3:checked ~ .navigation-auto .auto-btn3{
+    background: #000000;
+  }
+  #radio4:checked ~ .navigation-auto .auto-btn4{
+    background: #000000;
+  }
+  #radio5:checked ~ .navigation-auto .auto-btn5{
+    background: #000000;
+  }    
+    
+    
+    
+    
+    
+    
 </style>
 
 [![assets/images/banner.PNG](assets/images/banner.PNG "Zum Kontaktieren hier klicken")](mailto:thilo.klein@zew.de)
@@ -116,6 +225,71 @@ permalink: /
           <img src="assets/images/5_Screen.png">
       </figure>
 </div>
+
+---
+
+## Kitaplatzvergabe in 5 Schritten
+
+<!--image slider start-->
+    <div class="slideshow">
+      <div class="slides">
+        <!--radio buttons start-->
+        <input type="radio" name="radio-btn" id="radio1">
+        <input type="radio" name="radio-btn" id="radio2">
+        <input type="radio" name="radio-btn" id="radio3">
+        <input type="radio" name="radio-btn" id="radio4">
+        <input type="radio" name="radio-btn" id="radio5">
+        <!--radio buttons end-->
+        <!--slide images start-->
+        <div class="slide first">
+          <img src="1_Karten.png" alt="">
+        </div>
+        <div class="slide">
+          <img src="2_Karten.png" alt="">
+        </div>
+        <div class="slide">
+          <img src="3_Karten.png" alt="">
+        </div>
+        <div class="slide">
+          <img src="4_Karten.png" alt="">
+        </div>
+        <div class="slide">
+          <img src="5_Karten.png" alt="">
+        </div>
+        <!--slide images end-->
+        <!--automatic navigation start-->
+        <div class="navigation-auto">
+          <div class="auto-btn1"></div>
+          <div class="auto-btn2"></div>
+          <div class="auto-btn3"></div>
+          <div class="auto-btn4"></div>
+          <div class="auto-btn5"></div>
+        </div>
+        <!--automatic navigation end-->
+      </div>
+      <!--manual navigation start-->
+      <div class="navigation-manual">
+        <label for="radio1" class="manual-btn"></label>
+        <label for="radio2" class="manual-btn"></label>
+        <label for="radio3" class="manual-btn"></label>
+        <label for="radio4" class="manual-btn"></label>
+        <label for="radio5" class="manual-btn"></label>
+      </div>
+      <!--manual navigation end-->
+    </div>
+    <!--image slider end-->
+
+    <script type="text/javascript">
+    var counter = 1;
+    setInterval(function(){
+      document.getElementById('radio' + counter).checked = true;
+      counter++;
+      if(counter > 5){
+        counter = 1;
+      }
+    }, 5000);
+    </script>
+
 
 ---
 
