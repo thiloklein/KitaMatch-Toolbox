@@ -242,19 +242,19 @@ permalink: /
         <!--radio buttons end-->
         <!--slide images start-->
         <div class="slide first">
-          <img src="1_Karten.png" alt="">
+          <img src="assets/images/1_Karten.png" alt="">
         </div>
         <div class="slide">
-          <img src="2_Karten.png" alt="">
+          <img src="assets/images/2_Karten.png" alt="">
         </div>
         <div class="slide">
-          <img src="3_Karten.png" alt="">
+          <img src="assets/images/3_Karten.png" alt="">
         </div>
         <div class="slide">
-          <img src="4_Karten.png" alt="">
+          <img src="assets/images/4_Karten.png" alt="">
         </div>
         <div class="slide">
-          <img src="5_Karten.png" alt="">
+          <img src="assets/images/5_Karten.png" alt="">
         </div>
         <!--slide images end-->
         <!--automatic navigation start-->
