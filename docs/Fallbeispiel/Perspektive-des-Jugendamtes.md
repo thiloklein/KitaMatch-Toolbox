@@ -16,20 +16,6 @@ Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einric
 {: .fs-6 .fw-300 }
 
 
-<style type="text/css">
-    .box{
-        width: 100%;
-        background-color: rgb(202, 199, 249);
-        border: 5px;
-        padding-left: 5%;
-        padding-right: 5%;
-        padding-top: 1%;
-        padding-bottom: 1%;
-    }
-</style>
-
-
-
 ## Inhalt
 {: .no_toc .text-delta }
 
@@ -74,11 +60,6 @@ Im Gespräch mit den Prozessbeteiligten war es dem Kreisjugendamt wichtig, dass 
 >
 > Einverständnis aller Beteiligten war erforderlich für eine erfolgreiche Umsetzung!
 
-<div class="box">
-  <b>Wichtig:</b>
-  <p>Einverständnis aller Beteiligten war erforderlich für eine erfolgreiche Umsetzung!</p>
-</div>
-
 
 ---
 
@@ -96,15 +77,6 @@ Wie ein solcher Kriterienkatalog entwickelt werden kann, finden Sie [hier](/docs
 > - Klare und eindeutige Formulierungen von Aufnahmekriterien
 > - Idealerweise ein von allen beteiligten Kitaleitungen bzw. FB KTP erarbeiteter und akzeptierter Kriterienkatalog
 > - Genügend Informationen über das jeweilige angemeldete Kind
-
-<div class="box">
-  <b>Wichtig:</b>
-  <ul>
-    <li>Klare und eindeutige Formulierungen von Aufnahmekriterien</li>
-    <li>Idealerweise ein von allen beteiligten Kitaleitungen bzw. FB KTP erarbeiteter und akzeptierter Kriterienkatalog</li>
-    <li>Genügend Informationen über das jeweilige angemeldete Kind</li>
-  </ul>
-</div>
  
  
 ---
@@ -140,16 +112,15 @@ In der Pilotkommune wurde das neuartige Verfahren mit den beteiligten Kitaleitun
 
 Die Eltern haben - nach wie vor - gem. § 5 SGB VIII ihr Wunsch- und Wahlrecht, das für ein gelungenes Matchingverfahren zwingend notwendig ist. Sie sind gehalten, ihre wahren Prioritäten anzugeben. Je mehr Wünsche sie angeben, desto besser. Eltern müssen keine strategischen Abwägungen mehr machen, wie sie sich besser stellen können. Mögliche, strategische Überlegungen von Eltern bei den Angaben der Prioritäten, die es sicherlich im bisherigen First-Preference-First Verfahren gegeben hat, sind hinfällig. Denn die Eltern können sicher sein, dass es grundsätzlich „stabile Entscheidungen“ gibt: sie bekommen bei einer ihrer ausgewählten Wunscheinrichtung einen Platz, weil sie dort eine höhere Priorität gemäß dem Kriterienkatalog haben als die Eltern, die keinen Platz in dieser Einrichtung erhalten. Durch diese Prämisse der Kriterientreue erhöht sich das Ausmaß der Fairness enorm. Die Eltern können besser nachvollziehen, warum sie (k)einen Platz bekommen haben. Denn die Kriterien und das Vergabeverfahren sind transparenter.
 
-<div class="box">
-  <b>Erfahrungen in Kürze:</b>
-  <ul>
-    <li>Wichtig ist die Information an die Eltern über das neue Verfahren</li>
-    <li>Keine strategischen Überlegungen mehr</li>
-    <li>Durch Priorisierung der Wunscheinrichtungen gilt das Wunsch- und Wahlrecht</li>
-    <li>Transparentes und nachvollziehbares Vergabeverfahren</li>
-    <li>Das Matchingergebnis ist das für sie bestmögliche Match.</li>
-  </ul>
-</div>
+{: .note-title}
+> Erfahrungen in Kürze
+> 
+> - Wichtig ist die Information an die Eltern über das neue Verfahren
+> - Keine strategischen Überlegungen mehr
+> - Durch Priorisierung der Wunscheinrichtungen gilt das Wunsch- und Wahlrecht
+> - Transparentes und nachvollziehbares Vergabeverfahren
+> - Das Matchingergebnis ist das für sie bestmögliche Match.
+
 
 **Aus Sicht der Kitaeitungen**
 
@@ -161,15 +132,13 @@ Insgesamt haben die Kitaleitungen und FB KTP einen reduzierten Aufwand festgeste
 
 Indem die Leitungen bzw. FB KTP dem jeweiligen Kind von der Bewerberliste ein Angebot machen, klicken sie “bewusst” und überlassen es nicht ausschließlich dem Computer o.ä.. Sie finden es überaus effizient, dass fast alle Kinder durch die Koordinierungsrunden im Rahmen des „Matching-Days“ direkt einen (zunächst virtuellen) Platz erhalten und am Ende des Matchings deutlich wird, welche Kinder die Kita bzw. KTP aufnimmt.
 
-<div class="box">
-  <b>Erfahrungen in Kürze:</b>
-  <ul>
-    <li>„Erleichterung“, „gutes Gefühl“</li>
-    <li>Wahrung der Trägerautonomie</li>
-    <li>Flexibilität bei der Entscheidung über die angemeldeten Kinder, denen sie ein Angebot machen möchten</li>
-    <li>Reduzierter Aufwand</li>
-  </ul>
-</div>
+{: .note-title}
+> Erfahrungen in Kürze
+> 
+> - „Erleichterung“, „gutes Gefühl“
+> - Wahrung der Trägerautonomie
+> - Flexibilität bei der Entscheidung über die angemeldeten Kinder, denen sie ein Angebot machen möchten
+> - Reduzierter Aufwand
 
  
 **Aus Sicht des Jugendamtes**
@@ -182,17 +151,15 @@ Nicht weniger wichtig war das offene und vertrauensvolle Gespräch mit allen Pro
 
 Auch das Kreisjugendamt konnte eine Zeitersparnis verzeichnen. Denn die BedarfsplanerInnen erhielten schneller und einfacher eine Übersicht, welches Kind in welcher Einrichtung einen Platz (nicht) erhält. Gleichzeitig wurde deutlich, welche Kinder noch keinen Platz erhalten konnten und zunächst unversorgt waren. Für diese Kinder konnten dann rechtzeitig Alternativangebote in den Einrichtungen mit freien Kapazitäten geschaffen werden.
 
-<div class="box">
-  <b>Erfahrungen in Kürze:</b>
-  <ul>
-    <li>Legitimation durch die Politik entscheidend</li>
-    <li>Einverständnis der beteiligten Kitas/Träger/FB KTP</li>
-    <li>Kommunikation von Anfang wichtig – mit allen Prozessbeteiligten</li>
-    <li>mehr Transparenz</li>
-    <li>zeitsparend, da direkte Datenexporte von (un)versorgten Kindern möglich</li>
-    <li>Exportmöglichkeit der Listen von versorgten bzw. unversorgten Kindern bzw. Übersichtslisten von den Einrichtungen</li>
-  </ul>
-</div>
+{: .note-title}
+> Erfahrungen in Kürze
+> 
+> - Legitimation durch die Politik entscheidend
+> - Einverständnis der beteiligten Kitas/Träger/FB KTP
+> - Kommunikation von Anfang wichtig – mit allen Prozessbeteiligten
+> - mehr Transparenz
+> - zeitsparend, da direkte Datenexporte von (un)versorgten Kindern möglich
+> - Exportmöglichkeit der Listen von versorgten bzw. unversorgten Kindern bzw. Übersichtslisten von den Einrichtungen
 
 
 **Weitere Erkenntnisse**
