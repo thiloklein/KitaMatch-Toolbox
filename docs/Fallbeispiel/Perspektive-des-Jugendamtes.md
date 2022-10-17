@@ -69,6 +69,9 @@ Die Information über das neue Verfahren an die Eltern erfolgte durch einen Elte
 
 Im Gespräch mit den Prozessbeteiligten war es dem Kreisjugendamt wichtig, dass die Beteiligten das Verfahren verstehen, die Vorteile erkennen und das Matching für sich adaptieren (möchten). 
 
+{: .wichtig}
+Einverständnis aller Beteiligten war erforderlich für eine erfolgreiche Umsetzung!
+
 <div class="box">
   <b>Wichtig:</b>
   <p>Einverständnis aller Beteiligten war erforderlich für eine erfolgreiche Umsetzung!</p>
