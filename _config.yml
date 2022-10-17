@@ -128,6 +128,7 @@ compress_html:
   # ignore:
   #   envs: all
   
+callouts_level: quiet # or loud
 callouts:
   wichtig:
     title: Wichtig
