@@ -79,9 +79,6 @@ Im Gespräch mit den Prozessbeteiligten war es dem Kreisjugendamt wichtig, dass 
   <p>Einverständnis aller Beteiligten war erforderlich für eine erfolgreiche Umsetzung!</p>
 </div>
 
-{: .important}
-Einverständnis aller Beteiligten war erforderlich für eine erfolgreiche Umsetzung!
-
 
 ---
 
@@ -92,6 +89,13 @@ In der Pilotkommune hat das Jugendamt die beteiligten Träger und Kitaleitungen 
 Es stellte sich als hilfreich heraus, den Beteiligten ein wenig Zeit zu geben, den Kriterienkatalog „reifen zu lassen“ und in einem weiteren Treffen erneut zu diskutieren und manche Begriffe wie „Härtefälle“ zu konkretisieren. Erst dann konnten mögliche Punktwerte pro Kriterium festgelegt werden. Dabei wurden die Beteiligten gebeten, verschiedene Familienszenarien möglichst praxisnah durchzuspielen. Dieser Katalog beinhaltete klare und eindeutige Formulierungen und wurde vom Rat der jeweiligen Kindertageseinrichtung verabschiedet. Im darauffolgenden Jahr haben die Verantwortlichen den ursprünglichen Kriterienkatalog auf Aktualität geprüft, gegebenenfalls. angepasst und verabschiedet. Dieses Verfahren wird beibehalten, sodass der Kriterienkatalog -als Grundlage fürs Matching- stets hinterfragt und aktuell gehalten wird.
 
 Wie ein solcher Kriterienkatalog entwickelt werden kann, finden Sie [hier](/docs/Kriterienkatalog-Erstellen).
+
+{: .note-title}
+> Wichtig
+> 
+> - Klare und eindeutige Formulierungen von Aufnahmekriterien
+> - Idealerweise ein von allen beteiligten Kitaleitungen bzw. FB KTP erarbeiteter und akzeptierter Kriterienkatalog
+> - Genügend Informationen über das jeweilige angemeldete Kind
 
 <div class="box">
   <b>Wichtig:</b>
