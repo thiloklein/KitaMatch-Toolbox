@@ -131,4 +131,6 @@ compress_html:
 callouts:
   wichtig:
     title: Wichtig
-    color: nil
+    color: purple
+
+
