@@ -128,3 +128,7 @@ compress_html:
   # ignore:
   #   envs: all
   
+callouts:
+  wichtig:
+    title: Wichtig
+    color: nil
