@@ -6,20 +6,6 @@ nav_order: 2
 permalink: /docs/Uebersicht-Software/Matching-Day
 ---
 
-
-<style type="text/css">
-    .box{
-        width: 100%;
-        background-color: rgb(202, 199, 249);
-        border: 5px;
-        padding-left: 5%;
-        padding-right: 5%;
-        padding-top: 1%;
-        padding-bottom: 1%;
-    }
-</style>
-
-
 # Matching-Day
 {: .no_toc }
 
@@ -39,11 +25,11 @@ Der sogenannte „Matching-Day“ ist der Termin, an dem die beteiligten Kitalei
 ## Die Moderation
 Der Prozess sollte von der [Projektleitung](/docs/Andere-Themen/Projektmanagement#die-projektleitung-und-die-rolle-des-jugendamtes) moderiert und begleitet werden. Dabei sollte die Person das Matchingverfahren kennen und mögliche Fragen der Beteiligten beantworten können. Darüber hinaus ist es ihre Aufgabe im Rahmen des Matching-Days sicherzustellen, dass alle Kitaleitungen bzw. FB KTP wissen, wann welche Verfahrensschritte anstehen. 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <p>Der Prozess sollte aus Erfahrung heraus von einer Person (z.B. die Projektleitung) moderiert werden, die das Matchingverfahren kennt und die Beteiligten beim Matching eng begleitet. </p>
-</div>
 
+{: .note-title}
+> Wichtig
+>
+> Der Prozess sollte aus Erfahrung heraus von einer Person (z.B. die Projektleitung) moderiert werden, die das Matchingverfahren kennt und die Beteiligten beim Matching eng begleitet.
 
 ---
 
@@ -64,15 +50,13 @@ Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden
 - Pro Teilnehmer:in sollte ein PC mit gesicherter Internetverbindung und Zugang zum KitaMatch-Programm zur Verfügung gestellt werden. 
 - Für eine angenehme Arbeitsatmosphäre können Kaffee- und Kaltgetränke als Serviceleistung bereitgestellt werden. 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <ul>
-    <li>Insbesondere für die Einführung des Matchings ist ein Treffen mit den beteiligten Kitaleitungen bzw. FB KTP in Präsenz sinnvoll, damit Fragen, Unsicherheiten direkt vor Ort geklärt werden können.</li>
-    <li>IT-Ausstattung mit gesicherter LAN-Verbindung für das Matching-Tool pro TeilnehmerIn</li>
-    <li>Moderation, Projektleitung und Projektbegleitung durch das Jugendamt sind zwingend notwendig.</li>
-  </ul>
-</div>
 
+{: .note-title}
+> Wichtig
+> 
+> - Insbesondere für die Einführung des Matchings ist ein Treffen mit den beteiligten Kitaleitungen bzw. FB KTP in Präsenz sinnvoll, damit Fragen, Unsicherheiten direkt vor Ort geklärt werden können.
+> - IT-Ausstattung mit gesicherter LAN-Verbindung für das Matching-Tool pro TeilnehmerIn
+> - Moderation, Projektleitung und Projektbegleitung durch das Jugendamt sind zwingend notwendig.
 
 ---
 
