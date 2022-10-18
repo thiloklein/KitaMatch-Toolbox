@@ -10,19 +10,7 @@ permalink: /docs/Kriterienkatalog-Erstellen
 Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sind](/docs/Fallbeispiel/Perspektive-des-Jugendamtes#erstellung-der-aufnahmekriterien). Daher ist ein Kriterienkatalog fürs Matching zu empfehlen. Im Folgenden werden die Grundlagen für die Erstellung eines Kriterienkatalogs vorgestellt. Zunächst wird erklärt, was es für die Vorbereitung und den Prozess der Erstellung bedarf. Zudem werden lokale sowie globale Kriterien unterschieden und die Gewichtung der Kriterien anhand eines Fallbeispiels erläutert.
 {: .fs-6 .fw-300 }
 
-
-<style type="text/css">
-    .box{
-        width: 100%;
-        background-color: rgb(202, 199, 249);
-        border: 5px;
-        padding-left: 5%;
-        padding-right: 5%;
-        padding-top: 1%;
-        padding-bottom: 1%;
-    }
-</style>
-
+---
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -38,14 +26,13 @@ Sicherlich ist es bei der Erstellung des Kriterienkatalogs hilfreich, wenn ein/e
 
 Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere über die Erstellung des dafür notwendigen Kriterienkatalogs zu informieren, ist eine Auftaktveranstaltung mit **allen** beteiligten Trägern, Kitaleitungen und FB KTP sinnvoll. Dabei sollte das Ziel sein, möglichst viele Informationen zu streuen, Verständnis und Akzeptanz zu schaffen, sodass die Beteiligten letztlich ihr Einverständnis für die Umsetzung des Projektes geben. 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <ul>
-    <li>Neutrale, moderierende Person, die den (gesamten) Prozess begleitet</li>
-    <li>Auftaktveranstaltung mit allen beteiligten Trägervertretungen, Kitaleitungen, FB KTP</li>
-    <li>Einverständnis aller Beteiligten, einen gemeinsamen Kriterienkatalog zu entwickeln</li>
-  </ul>
-</div>
+
+{: .note-title}
+> Wichtig
+> 
+> - Neutrale, moderierende Person, die den (gesamten) Prozess begleitet
+> - Auftaktveranstaltung mit allen beteiligten Trägervertretungen, Kitaleitungen, FB KTP
+> - Einverständnis aller Beteiligten, einen gemeinsamen Kriterienkatalog zu entwickeln
 
 
 ---
@@ -98,18 +85,16 @@ Je nach Anzahl der beteiligten Kitas bzw. FB KTP und in Abhängigkeit der Träge
 Dieser gemeinsam erarbeitete und für alle Beteiligten gleich geltende Kriterienkatalog gilt als Grundlage für das anstehende Matching (der Kinder zum kommenden Kitajahr).  
 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <ul>
-    <li>Die Erstellung des gemeinsamen Kriterienkatalogs ist ein Entwicklungsprozess!</li>
-    <li>Auch wenn die Erstellung des Kriterienkatalogs online möglich ist, ist für den ersten Durchgang ein Präsenztermin zu empfehlen.</li>
-    <li>Zwischen den Verfahrensschritten sollte genügend „Puffer“-Zeit eingeplant sein, damit alle Beteiligten ausreichend Zeit finden, die einzelnen Aufgaben zu bearbeiten, Fragen zu klären und letztlich ein gut überlegtes Ergebnis zu erzielen.</li>
-    <li>Es ist wichtig, dass alle Träger- bzw. Kitaleitungen und FB KTP von Anfang an in den Prozess involviert werden und bei den Terminen anwesend sind. Der Prozess muss von allen (mit-)getragen werden.</li>
-    <li>Für einen erfolgreichen Prozess ist es zwingend notwendig, dass dieser Kriterienkatalog jährlich hinterfragt und ggfls. angepasst wird. Daher ist ein enger Austausch während des alljährlichen Prozess zwischen Moderator/in, Jugendamt und Kitaleitungen bzw. FB KTP unabdingbar.</li>
-    <li>Um eine größere Transparenz herzustellen, kann es sinnvoll sein, den ersten Entwurf z.B. dem Jugendamtselternbeirat vorzulegen, um dessen Meinung anzuhören. Dabei bleibt die Entscheidungsbefugnis jedoch bei den Trägern/Kitaleitungen bzw. FB KTP.</li>
-    <li>Aufgrund der gesetzlichen Bestimmung zur Einberufung des Elternbeirats ist es möglich, dass der Entwurf vom „alten“ Elternrat diskutiert und vom neu Gewählten verabschiedet wird (vgl. § 10 KiBiz).</li>
-  </ul>
-</div>
+{: .note-title}
+> Wichtig
+> 
+> - Die Erstellung des gemeinsamen Kriterienkatalogs ist ein Entwicklungsprozess!
+> - Auch wenn die Erstellung des Kriterienkatalogs online möglich ist, ist für den ersten Durchgang ein Präsenztermin zu empfehlen.
+> - Zwischen den Verfahrensschritten sollte genügend „Puffer“-Zeit eingeplant sein, damit alle Beteiligten ausreichend Zeit finden, die einzelnen Aufgaben zu bearbeiten, Fragen zu klären und letztlich ein gut überlegtes Ergebnis zu erzielen.
+> - Es ist wichtig, dass alle Träger- bzw. Kitaleitungen und FB KTP von Anfang an in den Prozess involviert werden und bei den Terminen anwesend sind. Der Prozess muss von allen (mit-)getragen werden.
+> - Für einen erfolgreichen Prozess ist es zwingend notwendig, dass dieser Kriterienkatalog jährlich hinterfragt und ggfls. angepasst wird. Daher ist ein enger Austausch während des alljährlichen Prozess zwischen Moderator/in, Jugendamt und Kitaleitungen bzw. FB KTP unabdingbar.
+> - Um eine größere Transparenz herzustellen, kann es sinnvoll sein, den ersten Entwurf z.B. dem Jugendamtselternbeirat vorzulegen, um dessen Meinung anzuhören. Dabei bleibt die Entscheidungsbefugnis jedoch bei den Trägern/Kitaleitungen bzw. FB KTP.
+> - Aufgrund der gesetzlichen Bestimmung zur Einberufung des Elternbeirats ist es möglich, dass der Entwurf vom „alten“ Elternrat diskutiert und vom neu Gewählten verabschiedet wird (vgl. § 10 KiBiz).
 
 
 ---
@@ -160,11 +145,13 @@ Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lo
 
 Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Lokale Kriterien können auch nur in einzelnen Einrichtungen zutreffen, dann bekommt das Kind auch nur in der betreffenden Einrichtung die entsprechenden (Bonus-) Punkte.
 
-<div class="box">
-  <b>Wichtig:</b>
-  <p><b>Globale Kriterien</b>: Die Leitung bzw. FB KTP der Erstwunscheinrichtung wendet diese Kriterien an, und die Punkte zählen sowohl für die Erstwunscheinrichtung als auch für alle weiteren, angegebenen Wunscheinrichtungen.</p>
-  <p><b>Lokale Kriterien</b>: Diese Kriterien sind nicht in allen Einrichtungen für die Wunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die jeweilige Einrichtung, für die das Kriterium auch zutrifft.</p>
-</div>
+
+{: .note-title}
+> Wichtig
+>
+> **Globale Kriterien**: Die Leitung bzw. FB KTP der Erstwunscheinrichtung wendet diese Kriterien an, und die Punkte zählen sowohl für die Erstwunscheinrichtung als auch für alle weiteren, angegebenen Wunscheinrichtungen.
+> 
+> **Lokale Kriterien**: Diese Kriterien sind nicht in allen Einrichtungen für die Wunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die jeweilige Einrichtung, für die das Kriterium auch zutrifft.
 
 
 ---
@@ -210,4 +197,11 @@ Ziel ist es, eine Einigung unter den Beteiligten zu finden, wie wichtig welches 
     <li>Ebenso legen die Beteiligten die zu vergebenden Punkte fest, wenn ein Kriterium erfüllt wird. Dabei ist darauf zu achten, dass die Gewichtungen der Kriterien untereinander passen und realistisch sind.</li>
   </ul>
 </div>
+
+{: .note-title}
+> Wichtig
+> 
+> - Ein Kriterienkatalog besteht grundsätzlich aus verschiedenen (globalen und/oder lokalen) Aufnahmekriterien.
+> - Diese Kriterien werden von den beteiligten Trägervertretungen, Kitaleitungen und Fachberatung der Kindertagespflege gemeinsam formuliert, jährlich hinterfragt und ggfls. angepasst (und stets vom KitaRat verabschiedet).
+> - Ebenso legen die Beteiligten die zu vergebenden Punkte fest, wenn ein Kriterium erfüllt wird. Dabei ist darauf zu achten, dass die Gewichtungen der Kriterien untereinander passen und realistisch sind.
 
