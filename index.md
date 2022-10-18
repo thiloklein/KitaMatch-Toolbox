@@ -311,8 +311,6 @@ Entwickelt von einem Team...
 
 ---
 
-[PDF-Download](){: .btn }
-
 [PDF-Download](){: .btn .btn-purple }
 
 ---
