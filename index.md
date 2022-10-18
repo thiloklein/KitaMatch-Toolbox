@@ -32,55 +32,7 @@ permalink: /
         float: right;
     }
     
-    #slider {
-        overflow: hidden;
-    }
-    #slider figure {
-        position: relative;
-        width: 500%;
-        margin: 0;
-        left: 0;
-        animation: 20s slider infinite;
-    }
-    #slider figure img {
-        float: left;
-        width: 20%;
-    }
-    @keyframes slider {
-        0% {
-            left: 0;
-        }
-        18% {
-            left: 0;
-        }
-        20% {
-            left: -100%;
-        }
-        38% {
-            left: -100%;
-        }
-        40% {
-            left: -200%;
-        }
-        58% {
-            left: -200%;
-        }
-        60% {
-            left: -300%;
-        }
-        78% {
-            left: -300%;
-        }
-        80% {
-            left: -400%;
-        }
-        98% {
-            left: -400%;
-        }
-        100% {
-            left: -500%;
-        }
-    }
+  
     
         .presse {
         width: 100%;
@@ -98,10 +50,6 @@ permalink: /
         width: 55%;
         float: right;
     }
-    
-    
-    
-    
     
     
   .slideshow{
@@ -203,28 +151,10 @@ permalink: /
     background: #000000;
   }    
     
-    
-    
-    
-    
-    
 </style>
 
 [![assets/images/banner.PNG](assets/images/banner.PNG "Zum Kontaktieren hier klicken")](mailto:thilo.klein@zew.de)
 
----
-
-## Kitaplatzvergabe in 5 Schritten
-
-<div id="slider">
-      <figure>
-          <img src="assets/images/1_Screen.png">
-          <img src="assets/images/2_Screen.png">
-          <img src="assets/images/3_Screen.png">
-          <img src="assets/images/4_Screen.png">
-          <img src="assets/images/5_Screen.png">
-      </figure>
-</div>
 
 ---
 
@@ -379,6 +309,11 @@ Entwickelt von einem Team...
  - an der Spitze der Forschung im Bereich Marktdesign und Matching-Märkte
  - mit einer Vielzahl erfolgreicher Projekte
 
+---
+
+[PDF-Download](){: .btn }
+
+[PDF-Download](){: .btn .btn-purple }
 
 ---
 
