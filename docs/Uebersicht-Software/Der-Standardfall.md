@@ -9,22 +9,6 @@ permalink: /docs/Uebersicht-Software/Der-Standardfall
 # Der Standardfall
 {: .no_toc }
 
-
-
-<style type="text/css">
-    .box{
-        width: 100%;
-        background-color: rgb(202, 199, 249);
-        border: 5px;
-        padding-left: 5%;
-        padding-right: 5%;
-        padding-top: 1%;
-        padding-bottom: 1%;
-    }
-</style>
-
-
-
 ## Inhalt
 {: .no_toc .text-delta }
 
@@ -185,10 +169,11 @@ Nachdem Sie sich in die Software eingeloggt haben, erscheint eine erste Übersic
 Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, auf die Sie jeweils klicken können (wir empfehlen das mit einem Rechtsklick zu tun, sodass Sie für jede Altersgruppe ein separates Tab öffnen können).
 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <p>Falls Sie zu irgendeinem Zeitpunkt nicht mehr wissen, wo Sie sich gerade befinden, können Sie einfach durch einen Klick auf „KitaMatch“ ganz links oben zurück zu dieser Seite kommen.</p>
-</div>
+{: .note-title}
+> Wichtig
+>
+> Falls Sie zu irgendeinem Zeitpunkt nicht mehr wissen, wo Sie sich gerade befinden, können Sie einfach durch einen Klick auf „KitaMatch“ ganz links oben zurück zu dieser Seite kommen.
+
 
 <small>Abbildung: Übersichtsseite aus Sicht der Kitaleitungen</small>
 
