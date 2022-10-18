@@ -5,20 +5,6 @@ nav_order: 8
 permalink: /docs/Projektmanagement
 ---
 
-
-<style type="text/css">
-    .box{
-        width: 100%;
-        background-color: rgb(202, 199, 249);
-        border: 5px;
-        padding-left: 5%;
-        padding-right: 5%;
-        padding-top: 1%;
-        padding-bottom: 1%;
-    }
-</style>
-
-
 # Das Projektmanagement für die Platzvergabe
 {: .no_toc }
 Die Einführung des Matchingverfahrens ist grundsätzlich im Rahmen eines Projektmanagements umzusetzen. Im Folgenden werden in Anlehnung an die Umsetzung in der Pilotkommune Ideen und Vorschläge vorgestellt, die insbesondere für die Kommunen bzw. die Projektleitung hilfreich sind. 
@@ -78,15 +64,14 @@ Zu den weiteren Vorteilen gehören:
 - Die jeweilige Bewerberliste, auf die das Kind mit den meisten Punkten oben steht, ist transparent und fair. Denn diese Bewerberliste beruht auf den zuvor festgelegten Kriterienkatalog. Die Bewerberliste kann nur so „gut“ sein, wie der Kriterienkatalog „gut“ ist. Die Kriterien werden grundsätzlich vollständig berücksichtigt.
 - Aufgrund der Tatsache, dass die Eltern idealerweise ihre wahren Wünsche angeben und keine strategischen Überlegungen mehr anstellen müssen, ergibt sich eine Strategiesicherheit. Etwaige Überlegungen, einen besseren Betreuungsplatz zu erhalten, sind hinfällig.
 
-<div class="box">
-  <b>Wichtig:</b>
-  <ul>
-    <li>Die Akteure sensibilisieren, „Abholen und Mitnehmen“</li>
-    <li>Nach innen und nach außen kommunizieren (z.B. Gespräche mit den Beteiligten sowie dem Jugendamtselternbeirat o.ä. sowie Elternbriefe bzw. Pressemitteilungen)</li>
-    <li>Vorteile des Programms verdeutlichen</li>
-    <li>Einverständnis aller Beteiligten einholen</li>
-  </ul>
-</div>
+
+{: .note-title}
+> Wichtig
+> 
+> - Die Akteure sensibilisieren, „Abholen und Mitnehmen“
+> - Nach innen und nach außen kommunizieren (z.B. Gespräche mit den Beteiligten sowie dem Jugendamtselternbeirat o.ä. sowie Elternbriefe bzw. Pressemitteilungen)
+> - Vorteile des Programms verdeutlichen
+> - Einverständnis aller Beteiligten einholen
 
 
 ---
@@ -118,10 +103,11 @@ Bevor die Bewerberlisten generiert werden, sollten sich die Verantwortlichen üb
 
 Ebenso ist es wichtig, zu klären, ob die Kinder, die einen Betreuungswunsch nach dem 1.8. (z.B. 1.9., 1.11. desselben Jahres oder 1.3. des Folgejahres) mitgematcht werden sollen oder als unterjährige Aufnahme gewertet werden. 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <p>Aus Erfahrung heraus ist es fürs Matching sinnvoll, die Kinder mit einem Betreuungsbeginn vom 1.8. bis 30.11. zu berücksichtigen. Dies sollte aber das Jugendamt mit den beteiligten Trägern besprechen und eine für alle zufriedenstellende Lösung schaffen. </p>
-</div>
+
+{: .note-title}
+> Wichtig
+>
+> Aus Erfahrung heraus ist es fürs Matching sinnvoll, die Kinder mit einem Betreuungsbeginn vom 1.8. bis 30.11. zu berücksichtigen. Dies sollte aber das Jugendamt mit den beteiligten Trägern besprechen und eine für alle zufriedenstellende Lösung schaffen.
 
 
 **Gibt es Wechselkinder?**
@@ -129,10 +115,10 @@ Ebenso ist es wichtig, zu klären, ob die Kinder, die einen Betreuungswunsch nac
 Insbesondere bei Wechselkindern dürfte es Klärungsbedarf geben zwischen der Leitung bzw. FB KTP der abgebenden Einrichtung und der neuen, von den Eltern gewünschten Einrichtung. 
 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <p>Damit alle (Wechsel-)Kinder berücksichtigt werden können, ist es sinnvoll, die abgebende Kita/KTP als letztgenannten Wunsch bei dem Wechselkind in der Bewerberliste zu ergänzen. Wenn das Matchingverfahren kein Match mit der neuen Wunscheinrichtung hervorbringt, fällt das Kind nicht durchs Raster, sondern erhält einen Platz (bzw. verbleibt) in der abgebenden Kita/KTP. </p>
-</div>
+{: .note-title}
+> Wichtig
+>
+> Damit alle (Wechsel-)Kinder berücksichtigt werden können, ist es sinnvoll, die abgebende Kita/KTP als letztgenannten Wunsch bei dem Wechselkind in der Bewerberliste zu ergänzen. Wenn das Matchingverfahren kein Match mit der neuen Wunscheinrichtung hervorbringt, fällt das Kind nicht durchs Raster, sondern erhält einen Platz (bzw. verbleibt) in der abgebenden Kita/KTP.
 
 
 **Gibt es Geschwisterkinder?**
@@ -150,10 +136,10 @@ Aus Erfahrung heraus ist es sinnvoll, die freien Plätze im Vorfeld mit der Kita
 Zu den weiteren Aufgaben der Projektleitung in Vorbereitung auf den Matching-Day gehört, dass sie besondere Konstellationen erkennt  (z.B. Wechselkinder), das Jugendamt entsprechend informiert und bedarfsplanungsrechtliche Lösungen erhält. Dies bezieht sich auch auf die Sicherung der Datenqualität. Es ist wichtig, dass die Daten der Eltern, die für das Ausfüllen des Kriterienkatalogs notwendig sind, auch vollständig vorliegen. Ebenso ist sicherzustellen, dass nur die Kinder auf der Bewerberliste stehen, die einen Platz suchen; nicht, dass noch Kinder gelistet sind, die zwischenzeitlich einen Platz erhalten haben oder verzogen sind o.ä.
 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <p>Die Projektleitung hat in Absprache mit den Kitaleitungen bzw. Fachberatungen der Kindertagespflege die Aufgabe, möglichst vollständige und aktuelle  Daten fürs Matching bereitzustellen.</p>
-</div>
+{: .note-title}
+> Wichtig
+>
+> Die Projektleitung hat in Absprache mit den Kitaleitungen bzw. Fachberatungen der Kindertagespflege die Aufgabe, möglichst vollständige und aktuelle  Daten fürs Matching bereitzustellen.
 
 
 **Die Durchführung des Matching-Days**
