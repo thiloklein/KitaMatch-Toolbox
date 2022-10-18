@@ -227,20 +227,20 @@ setInterval(function(){
 <div class="row">
     <div class="columnleft">
         <div class="imgicon">
-            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="25%">
+            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="45%">
         </div>
         <div class="texticon">
-            SCHNELL:<br>
+            <b>SCHNELL</b><br>
             Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert.
             <p></p>
         </div>
     </div>
     <div class="columnright">
         <div class="imgicon">
-            <img src="assets/images/icon_sparen.png" alt="dvsbadfy" width="25%">
+            <img src="assets/images/icon_sparen.png" alt="dvsbadfy" width="45%">
         </div>
         <div class="texticon">
-            RESSOURCEN-SPAREND:<br>
+            <b>RESSOURCEN-SPAREND</b><br>
             Effiziente und vereinfachte Prozesse sparen Kosten und Personalaufwand bei Kitas und Jugendamt.
             <p></p>
         </div>
@@ -252,20 +252,20 @@ setInterval(function(){
 <div class="row">
     <div class="columnleft">
         <div class="imgicon">
-            <img src="assets/images/icon_fair.png" alt="dvsbadfy" width="25%">
+            <img src="assets/images/icon_fair.png" alt="dvsbadfy" width="45%">
         </div>
         <div class="texticon">
-            FAIR:<br>
+            <b>FAIR</b><br>
             Eltern werden strategische Abwegungen erspart. Damit entstehen keine unfairen Nachteile für schlechter informierte Eltern.
             <p></p>
         </div>
     </div>
     <div class="columnright">
         <div class="imgicon">
-            <img src="assets/images/icon_individuell.png" alt="dvsbadfy" width="25%">
+            <img src="assets/images/icon_individuell.png" alt="dvsbadfy" width="45%">
         </div>
         <div class="texticon">
-            INDIVIDUALISIERBAR:<br>
+            <b>INDIVIDUALISIERBAR</b><br>
             Jede Stadt ist anders. Unsere Lösungen passen sich Ihren Bedürfnissen an.
             <p></p>
         </div>
@@ -277,20 +277,20 @@ setInterval(function(){
 <div class="row">
     <div class="columnleft">
         <div class="imgicon">
-            <img src="assets/images/icon_transparenz.png" alt="dvsbadfy" width="25%">
+            <img src="assets/images/icon_transparenz.png" alt="dvsbadfy" width="45%">
         </div>
         <div class="texticon">
-            TRANSPARENT:<br>
+            <b>TRANSPARENT</b><br>
             Bestehende Vergabekriterien werden respektiert. Es ist klar nachvollziehbar wer wo warum einen Platz bekommen hat - und wer nicht.
             <p></p>
         </div>
     </div>
     <div class="columnright">
         <div class="imgicon">
-            <img src="assets/images/icon_open-source.png" alt="dvsbadfy" width="25%">
+            <img src="assets/images/icon_open-source.png" alt="dvsbadfy" width="45%">
         </div>
         <div class="texticon">
-            OPEN SOURCE:<br>
+            <b>OPEN SOURCE</b><br>
             Software-Lösung ist frei Nutzbar und Modifizierbar. Komplementär zu bestehenden Kita-Verwaltungsplattformen.
             <p></p>
         </div>
