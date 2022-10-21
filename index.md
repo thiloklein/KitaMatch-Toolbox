@@ -53,7 +53,7 @@ permalink: /
     
     
   .slideshow{
-    width: 800px;
+    width: 100%;
     height: 500px;
     border-radius: 10px;
     overflow: hidden;
@@ -172,19 +172,19 @@ permalink: /
     <!--radio buttons end-->
     <!--slide images start-->
     <div class="slide first">
-      <img src="assets/images/1_Karten.png" alt="">
+      <img src="assets/images/1_Screen.png" alt="">
     </div>
     <div class="slide">
-      <img src="assets/images/2_Karten.png" alt="">
+      <img src="assets/images/2_Screen.png" alt="">
     </div>
     <div class="slide">
-      <img src="assets/images/3_Karten.png" alt="">
+      <img src="assets/images/3_Screen.png" alt="">
     </div>
     <div class="slide">
-      <img src="assets/images/4_Karten.png" alt="">
+      <img src="assets/images/4_Screen.png" alt="">
     </div>
     <div class="slide">
-      <img src="assets/images/5_Karten.png" alt="">
+      <img src="assets/images/5_Screen.png" alt="">
     </div>
     <!--slide images end-->
     <!--automatic navigation start-->
