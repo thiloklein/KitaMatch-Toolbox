@@ -318,17 +318,17 @@ Entwickelt von einem Team...
 ## Gefördert durch
 
 {:style="text-align:center;"}
-[![bertelsmann_logo2.png](assets/images/bertelsmann_logo2.png){:height="200px" width="200px"}]()
-[![Leibniz_logo2.png](assets/images/Leibniz_logo2.png){:height="200px" width="200px"}]()
-[![ZEW_logo2.png](assets/images/ZEW_logo2.png){:height="150px" width="150px"}]()
+[![bertelsmann_logo2.png](assets/images/bertelsmann_logo2.png){:height="200px" width="200px"}](https://www.bertelsmann-stiftung.de/de/startseite)
+[![Leibniz_logo2.png](assets/images/Leibniz_logo2.png){:height="200px" width="200px"}](https://www.leibniz-gemeinschaft.de/)
+[![ZEW_logo2.png](assets/images/ZEW_logo2.png){:height="150px" width="150px"}](https://www.zew.de/)
 
 ---
 
 ## Unsere Projekte
 
 {:style="text-align:center;"}
-[![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}]()
-[![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="150px" width="150px"}]()
+[![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}](https://www.kreis-steinfurt.de/kv_steinfurt/Home/)
+[![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="150px" width="150px"}](https://www.kaiserslautern.de/)
 
 
 ---
@@ -343,7 +343,7 @@ Entwickelt von einem Team...
         <b>WirtschaftsWoche</b>
     </div>
     <div class="articlelink">
-        <a href="Link-Ziel">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
+        <a href="https://www.wiwo.de/my/politik/konjunktur/vwl-marktdesign-oekonomie-ohne-elfenbeinturm/25470414.html?ticket=ST-14212654-6IVplpejhVf9Uz4Iv59q-ap1">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
     </div>
 </div>
 
@@ -357,7 +357,7 @@ Entwickelt von einem Team...
         <b>Frankfurter Allgemeine Zeitung</b>
     </div>
     <div class="articlelink">
-        <a href="Link-Ziel">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
+        <a href="https://www.faz.net/aktuell/wirtschaft/wie-ein-algorithmus-kitaplaetze-fairer-vergeben-soll-16510418.html">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
     </div>
 </div>
 
@@ -371,7 +371,7 @@ Entwickelt von einem Team...
         <b>Frankfurter Allgemeine Zeitung</b>
     </div>
     <div class="articlelink">
-        <a href="Link-Ziel">Raus aus der Kita-Warteschlange</a>
+        <a href="https://www.faz.net/aktuell/wirtschaft/kinderbetreuung-raus-aus-der-kita-warteschlange-15053793.html">Raus aus der Kita-Warteschlange</a>
     </div>
 </div>
 
@@ -382,19 +382,19 @@ Entwickelt von einem Team...
 
 ## Aktuelles
 
-**ZEW Expertise:** [Können Algorithmen eine bessere Kitaplatzvergabe ermöglichen?]()
+**ZEW Expertise:** [Können Algorithmen eine bessere Kitaplatzvergabe ermöglichen?](https://www.zew.de/das-zew/aktuelles/koennen-algorithmen-eine-bessere-kitaplatzvergabe-ermoeglichen)
 
 Im Interview erklärt Marktdesignexperte Prof. Dr. Thilo Klein ein neues Verfahren, das von Ökonomen des ZEW, der Universität Münster und der University of Oxford pilotiert wird, und eine schnelle, faire und transparente Platzvergabe möglich macht. 
 
-**ZEW Pressemitteilung:** [Kitaplätze schnell, fair und transparent mit einem dezentralen Mechanismus vergeben]()
+**ZEW Pressemitteilung:** [Kitaplätze schnell, fair und transparent mit einem dezentralen Mechanismus vergeben](https://www.zew.de/presse/pressearchiv/kitaplaetze-schnell-fair-und-transparent-mit-einem-dezentralen-mechanismus-vergeben)
 
 Ein akuter Mangel an Betreuungsplätzen in Kindertagesstätten in Deutschland, komplizierte Anmeldeverfahren und intransparente Vergabekriterien: Das führt zu beruflicher Planungsunsicherheit für Eltern und deren Arbeitgebern, zu Benachteiligungen bildungsferner Haushalte und zu vermeidbarem Verwaltungsaufwand für Kita-Personal.
 
-**ZEW Pressemitteilung:** [ZEW-Förderkreis vergibt erneut Wissenschaftspreise]()
+**ZEW Pressemitteilung:** [ZEW-Förderkreis vergibt erneut Wissenschaftspreise](https://www.zew.de/das-zew/aktuelles/zew-foerderkreis-vergibt-erneut-wissenschaftspreise)
 
 Der ZEW-Förderkreis Wissenschaft und Praxis e.V. zeichnet auch 2020/21 herausragende wissenschaftliche Leistungen und wirtschaftspolitische Beratungsprojekte am ZEW aus. Mit dem Preis für das beste wirtschaftspolitische Beratungsprojekt wurde „KitaMatch“ ausgezeichnet. Das Projektteam entwickelte eine Open Source-Software, um die Kitaplatzvergabe in Deutschland neu zu gestalten.
 
-**ZEW News:** [Wie Städte dem Ansturm auf Kindertagesstätten begegnen können]()
+**ZEW News:** [Wie Städte dem Ansturm auf Kindertagesstätten begegnen können](https://www.zew.de/das-zew/aktuelles/wie-staedte-dem-ansturm-auf-kindertagesstaetten-begegnen-koennen)
 
 In vielen deutschen Städten ist die Vergabe von freien Plätzen in Kindertagesstätten intransparent und mit erheblichen Kosten für Eltern und Kita-Personal verbunden. Neben dem aktuellen Mangel an Kita-Plätzen führen auch ineffiziente Vergabeverfahren dazu, dass der Mangel größer erscheint, als er tatsächlich ist. Eine Möglichkeit zur flächendeckenden Lösung des Problems wären zentrale Vergabesysteme, die gutes Marktdesign durch den Einsatz von bewährten Algorithmen liefern kann.
 
