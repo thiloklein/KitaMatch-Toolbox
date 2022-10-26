@@ -43,11 +43,11 @@ permalink: /
         text-align: center;
     }
     .date {
-        width: 35%;
+        width: 25%;
         float: left;
     }
     .articlelink {
-        width: 55%;
+        width: 65%;
         float: right;
     }
     
@@ -343,6 +343,20 @@ Entwickelt von einem Team...
         <b>WirtschaftsWoche</b>
     </div>
     <div class="articlelink">
+        <a href="https://www.wiwo.de/politik/deutschland/hilfreiche-software-kita-match-ein-kitaplatz-per-algorithmus/27890190.html">„Kita-Match“: Ein Kitaplatz per Algorithmus</a>
+    </div>
+</div>
+
+<div class="breakline"></div>
+
+<div class="presse">
+    <div class="zeitung">
+        <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="50%">
+    </div>
+    <div class="date">
+        <b>WirtschaftsWoche</b>
+    </div>
+    <div class="articlelink">
         <a href="https://www.wiwo.de/my/politik/konjunktur/vwl-marktdesign-oekonomie-ohne-elfenbeinturm/25470414.html?ticket=ST-14212654-6IVplpejhVf9Uz4Iv59q-ap1">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
     </div>
 </div>
@@ -354,7 +368,7 @@ Entwickelt von einem Team...
         <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="30%">
     </div>
     <div class="date">
-        <b>Frankfurter Allgemeine Zeitung</b>
+        <b>FAZ</b>
     </div>
     <div class="articlelink">
         <a href="https://www.faz.net/aktuell/wirtschaft/wie-ein-algorithmus-kitaplaetze-fairer-vergeben-soll-16510418.html">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
@@ -368,7 +382,7 @@ Entwickelt von einem Team...
         <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="30%">
     </div>
     <div class="date">
-        <b>Frankfurter Allgemeine Zeitung</b>
+        <b>FAZ</b>
     </div>
     <div class="articlelink">
         <a href="https://www.faz.net/aktuell/wirtschaft/kinderbetreuung-raus-aus-der-kita-warteschlange-15053793.html">Raus aus der Kita-Warteschlange</a>
