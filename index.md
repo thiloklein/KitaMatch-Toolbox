@@ -318,9 +318,9 @@ Entwickelt von einem Team...
 ## Gefördert durch
 
 {:style="text-align:center;"}
-[![bertelsmann_logo2.png](assets/images/bertelsmann_small.jpg){:height="200px" width="200px"}](https://www.bertelsmann-stiftung.de/de/startseite)
-[![Leibniz_logo2.png](assets/images/Leibniz_small.jpg){:height="200px" width="200px"}](https://www.leibniz-gemeinschaft.de/)
-[![ZEW_logo2.png](assets/images/ZEW_small.jpg){:height="200px" width="200px"}](https://www.zew.de/)
+[![bertelsmann_logo2.png](assets/images/bertelsmann_small.JPG){:height="200px" width="200px"}](https://www.bertelsmann-stiftung.de/de/startseite)
+[![Leibniz_logo2.png](assets/images/Leibniz_small.JPG){:height="200px" width="200px"}](https://www.leibniz-gemeinschaft.de/)
+[![ZEW_logo2.png](assets/images/ZEW_small.JPG){:height="200px" width="200px"}](https://www.zew.de/)
 
 ---
 
