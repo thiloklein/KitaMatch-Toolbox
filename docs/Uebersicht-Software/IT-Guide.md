@@ -107,7 +107,7 @@ Diese Datei wird zur Stadt geschickt und von dieser ausgefüllt. Diese trägt In
 
 <small>Abbildung: Umlaute richtig einlesen</small>
 
-![Umlaute_einlesen.png](../../assets/images/ "Umlaute richtig einlesen")
+![Umlaute_einlesen.png](../../assets/images/Umlaute_einlesen.png "Umlaute richtig einlesen")
 
 
 ---
