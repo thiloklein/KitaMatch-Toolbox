@@ -27,9 +27,9 @@ Um das oben beschriebene Verfahren umsetzen zu können, benötigt die Software d
 
 Ein Beispiel für einen vollständigen Datensatz finden Sie oben in der Grafik sowie als Excel hier: <mark>Link</mark>
 
-Obligatorische Angaben sind Name, Geburtsdatum, Alterskohorte und die von den Eltern geäußerten Wunscheinrichtungen (1. bis 12. Wunscheinrichtung[^3]). Wichtig hierbei ist, dass ein Dropdown Menü für die Namen der Einrichtungen verwendet wird. Auch kleinste Abweichungen in der Schreibweise interpretiert die Software so, dass es sich um eine weitere Kita handelt. Optional können zudem noch eine ID und das Geschlecht in KitaMatch angezeigt werden. Wenn Sie einen Kriterienkatalog in Ihrer Kommune haben, können Sie zudem in der Spalte „Rangordnungspunkte“ die resultierenden Punktewerte pro Kind angeben. Zusätzlich gibt es noch die Möglichkeit, bis zu 6 Zusatzkriterien zu definieren, für die Kinder nur in bestimmten Kitas Zusatzpunkte erhalten. Hierfür schreiben Sie in die jeweilige Zelle einfach den Namen der Kita, in der das Kind jeweils Zusatzpunkte bekommen soll. In Zeile 8 müssen Sie zudem jeweils definieren, wie viele Zusatzpunkte das jeweilige Zusatzkriterium wert ist. Im Beispieldatensatz ist “Zusatzkriterium 1“ genau 1 Punkt wert. Entsprechend erhält beispielsweise Ivy Linnea Mayer (Zeile 34) im Kath. Kindergarten 1 Zusatzpunkt.
+Obligatorische Angaben sind Name, Geburtsdatum, Alterskohorte und die von den Eltern geäußerten Wunscheinrichtungen (1. bis 12. Wunscheinrichtung[^3]). Wichtig hierbei ist, dass ein Dropdown Menü für die Namen der Einrichtungen verwendet wird. Auch kleinste Abweichungen in der Schreibweise interpretiert die Software so, als ob es sich um eine weitere Kita handelt. Optional können zudem noch eine ID und das Geschlecht in KitaMatch angezeigt werden. Wenn Sie einen Kriterienkatalog in Ihrer Kommune haben, können Sie zudem in der Spalte „Rangordnungspunkte“ die resultierenden Punktewerte pro Kind angeben. Zusätzlich gibt es noch die Möglichkeit, bis zu 6 Zusatzkriterien zu definieren, für die Kinder nur in bestimmten Kitas Zusatzpunkte erhalten. Hierfür schreiben Sie in die jeweilige Zelle einfach den Namen der Kita, in der das Kind jeweils Zusatzpunkte bekommen soll. In Zeile 8 müssen Sie zudem jeweils definieren, wie viele Zusatzpunkte das jeweilige Zusatzkriterium wert ist. Im Beispieldatensatz ist “Zusatzkriterium 1“ genau 1 Punkt wert. Entsprechend erhält beispielsweise Ivy Linnea Mayer (Zeile 34) im Kath. Kindergarten 1 Zusatzpunkt.
 
-Wenn Sie Ihrem Systemadministrator diese Daten zur Verfügung gestellt haben, erstellt dieser die entsprechende „Umgebung“ in KitaMatch, und Sie können die Bewerberlisten zunächst auf Vollständigkeit und Plausibilität prüfen, bevor Sie sie den Kitaleitungen bereitstellen. Diese Bewerberlisten beruhen auf dem zugrunde gelegten Kriterienkatalog und die entsprechend ermittelten Punktwerte pro Kind. Bei Punktgleichheit sortiert das Programm automatisch das ältere Kind einen Platz vor dem anderen (jüngeren) Kind. 
+Wenn Sie Ihrem Systemadministrator diese Daten zur Verfügung gestellt haben, erstellt dieser die entsprechende „Umgebung“ in KitaMatch, und Sie können die Bewerberlisten zunächst auf Vollständigkeit und Plausibilität prüfen, bevor Sie diese den Kitaleitungen bereitstellen. Diese Bewerberlisten beruhen auf dem zugrunde gelegten Kriterienkatalog und die entsprechend ermittelten Punktwerte pro Kind. Bei Punktgleichheit sortiert das Programm automatisch das ältere Kind einen Platz vor dem anderen (jüngeren) Kind. 
 
 
 ---
@@ -91,9 +91,9 @@ Per Mausklick kann die Projektleitung bzw. das Jugendamt eine Excel-Liste generi
 
 Eine weitere hilfreiche, zu generierende Liste ist die mit den Kindern, die noch einen Platz benötigen und bisher unversorgt sind. Dies kann daran liegen, dass die Eltern zu wenig Alternativen ausgewählt haben. Demzufolge würden sie am liebsten in den angegebenen Wunscheinrichtungen einen Platz erhalten wollen und wenn das nicht klappt, lieber gar keinen anderen Platz („lieber *keinen* als einen anderen Platz“). 
 
-**Übersicht der Kitas bzw. FB KTP mit freien Plätzen**:
+**Übersicht der Kitas bzw. Fachberatung der Kindertagespflege mit freien Plätzen**:
 
-Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plätze haben. In diesem Fall hatten sie von Anfang zu wenig Bewerber/innen. Diese freien Plätze würden dann in der Praxis mit den Kindern belegt werden können, die im Matching keinen Platz erhalten haben und sich dann für diese Einrichtungen vormerken lassen. 
+Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plätze haben. In diesem Fall hatten sie von Anfang zu wenig Bewerber:innen. Diese freien Plätze würden dann in der Praxis mit den Kindern belegt werden können, die im Matching keinen Platz erhalten haben und sich dann für diese Einrichtungen vormerken lassen. 
  
 <small>Abbildung: Aktuelle Zuordnungen</small>
 
@@ -108,7 +108,7 @@ Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plät
 
 ### Bewerber
 
-Nach einem Klick auf “Bewerber“ landet man auf der Übersicht über alle Bewerber/Kinder, die in dem Verfahren teilnehmen.
+Nach einem Klick auf “Bewerber“ landet man auf der Übersicht über alle Bewerber/Kinder, die an dem Verfahren teilnehmen.
 
 Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei allen anderen “22“. Bei einem Klick auf “Einsehen“ erhält man weitere Information des jeweiligen Kindes. Hier möchten wir insbesondere auf die “Rangliste der Wunscheinrichtungen“ aufmerksam machen. Diese Rangliste beschreibt die von den Eltern abgegebenen Präferenzen über die Kitas.
  
@@ -182,7 +182,7 @@ Unten finden Sie dann 3 blaue Felder mit den unterschiedlichen Altersgruppen, au
 
 **Freie Plätze einpflegen**
 
-Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über die jeweilige Gruppe. Hier müssen Sie die freien Plätze einpflegen, die Sie in der jeweiligen Altersklasse zur Verfügung haben. Dazu geben Sie einfach die konkrete Zahl ein (im Beispiel unten also “9“), und klicken auf “Änderungen speichern“. Dies müssen Sie jeweils in jeder Altersgruppe einmal machen. Wichtig: Einmal eingepflegte Zahlen können nicht mehr reduziert werden, sondern nur noch erhöht[^4].
+Wenn Sie auf eine der Gruppen geklickt haben, erscheint eine Übersicht über die jeweilige Gruppe. Hier müssen Sie die freien Plätze einpflegen, die Sie in der jeweiligen Altersklasse zur Verfügung haben. Dazu geben Sie einfach die konkrete Zahl ein (im Beispiel unten also “9“), und klicken auf “Änderungen speichern“. Dies müssen Sie jeweils in jeder Altersgruppe einmal machen. Wichtig zu beachten ist, dass einmal eingepflegte Zahlen nicht mehr reduziert, sondern nur noch erhöht werden können.[^4].
 
 <small>Abbildung: Freie Plätze einpflegen</small>
 
@@ -197,15 +197,15 @@ In den folgenden 3 Kapiteln wird Ihnen vermittelt, was Sie auf dieser Seite vor 
 
 **Vor dem Matching Day**
 
-Die Seite ist prinzipiell so aufgebaut, dass oben die wichtigsten Informationen zusammengefasst werden, und unten gibt es 2 Tabellen. In der ersten Tabelle findet man eine Übersicht aller Kinder, denen man ein verbindliches Angebot gemacht hat. Diese ist vor der ersten Runde natürlich noch leer. Außerdem findet man unten eine Tabelle mit allen Bewerbern, die sich in der Kita in der jeweiligen Altersgruppe beworben haben. Die Kinder sind, falls es einen abgestimmten Kriterienkatalog in Ihrer Kommune gibt, bereits nach diesem Kriterienkatalog vorsortiert. Gibt es keinen abgestimmten Kriterienkatalog, erfolgt die Vorsortierung nach Alter, wobei die ältesten Kinder immer oben stehen. Sollten Sie an dieser Reihenfolge noch Veränderungen vornehmen wollen, können Sie auf “Manuelle Rangliste klicken“, und danach die Kinder manuell nach oben oder unten ziehen, indem Sie auf ein bestimmtes Kind klicken und währenddessen die Maus hoch oder runter bewegen. Eine Anpassung der Reihenfolge der Kinder auf der Liste bedeutet eine Abweichung vom Kriterienkatalog. Sicherlich gibt es in der Praxis Gründe, die dies erfordern. Letztlich ist es auch im Rahmen der Trägerautonomie das Recht der Träger, diese Änderungen vorzunehmen. Allerdings sollte dies im Lichte der Transparenz und Nachvollziehbarkeit nach Absprache mit dem Jugendamt erfolgen. 
+Die Seite ist prinzipiell so aufgebaut, dass oben die wichtigsten Informationen zusammengefasst werden, und unten 2 Tabellen aufbereitet sind. In der ersten Tabelle finde Sie eine Übersicht aller Kinder, denen ein verbindliches Angebot gemacht wurde. Diese ist vor der ersten Runde natürlich noch leer. Außerdem finden Sie unten eine Tabelle mit allen Bewerbern, die sich in der Kita in der jeweiligen Altersgruppe beworben haben. Die Kinder sind, falls es einen abgestimmten Kriterienkatalog in Ihrer Kommune gibt, bereits nach diesem Kriterienkatalog vorsortiert. Gibt es keinen abgestimmten Kriterienkatalog, erfolgt die Vorsortierung nach Alter, wobei die ältesten Kinder immer oben stehen. Sollten Sie an dieser Reihenfolge noch Veränderungen vornehmen wollen, können Sie auf “Manuelle Rangliste klicken“, und danach die Kinder manuell nach oben oder unten ziehen, indem Sie auf ein bestimmtes Kind klicken und währenddessen die Maus hoch oder runter bewegen. Eine Anpassung der Reihenfolge der Kinder auf der Liste bedeutet eine Abweichung vom Kriterienkatalog. Sicherlich gibt es in der Praxis Gründe, die dies erfordern. Letztlich ist es auch im Rahmen der Trägerautonomie das Recht der Träger, diese Änderungen vorzunehmen. Allerdings sollte dieser Schritt transparent und nachvollziehbar nach Absprache mit dem Jugendamt erfolgen. 
 
 <small>Abbildung: Vor dem Matching-Day</small>
 
 ![vor-matchingday.png](../../assets/images/vor-matchingday.png "Vor dem Matching-Day")
 
-**Während einer Runde**
+**Während einer Vergaberunde**
 
-Wenn der Matching Day durch die Projektmanagerin eingeläutet wurde, können Sie anfangen, den Kindern Angebote zu unterbreiten. Hierfür klicken Sie auf das blau hinterlegte “Angebot“ und bestätigen das jeweilige Angebot, indem Sie auf das ebenso blau hinterlegte “Q1, Ganztags“ klicken. 
+Wenn der Matching Day durch die Projektmanagerin eingeläutet wurde, können Sie anfangen, den Kindern Angebote zu unterbreiten. Hierfür klicken Sie auf das blau hinterlegte “Angebot“ Feld und bestätigen das jeweilige Angebot, indem Sie auf das ebenso blau hinterlegte “Q1, Ganztags“ Feld klicken. 
 
 <small>Abbildung: Angebote unterbreiten</small>
 
@@ -215,11 +215,11 @@ Dies wiederholen Sie so oft, bis Sie keine weiteren Platzangebote mehr vergeben 
 
 Dadurch rücken die Kinder, denen Sie ein Angebot gemacht haben, in die obere Tabelle, und sind vorerst blau hinterlegt. Diese Angebote lassen sich so lange zurücknehmen, bis der/die Projektmanager:in den zentralen “Vergabe starten Button“ geklickt hat. 
 
-Alle Kinder, denen Sie zu einem gewissen Zeitpunkt kein Angebot mehr machen können (zum Beispiel weil Sie zu diesem Zeitpunkt keine weiteren freien Plätze mehr haben), erscheinen rot.  
+Alle Kinder, denen Sie zu einem gewissen Zeitpunkt kein Angebot mehr machen können - zum Beispiel weil Sie zu diesem Zeitpunkt keine weiteren freien Plätze mehr haben - erscheinen rot.  
 
 Sofern die Einrichtung keine freien, zu belegenden Plätze hat, setzen Sie das Matching für diese Altersgruppe aus. 
 
-Falls Sie mehr freie, zu belegende Plätze als Bewerber/innen haben, können Sie kein Angebot abgeben, und die Plätze bleiben zunächst frei. Diese freien Plätze können im Nachgang des Matchings von den Kindern, die im Zuge des Matchings keinen Platz erhalten haben, oder neu angemeldeten Kindern belegt werden (Abstimmungsbedarf mit dem Jugendamt). 
+Falls Sie mehr freie, zu belegende Plätze als Bewerber:innen haben, können Sie kein Angebot abgeben, und die Plätze bleiben zunächst frei. Diese freien Plätze können im Nachgang des Matchings von den Kindern, die im Zuge des Matchings keinen Platz erhalten haben, oder von neu angemeldeten Kindern belegt werden (Abstimmungsbedarf mit dem Jugendamt). 
 
 <small>Abbildung: Während des Matching-Days</small>
 
@@ -228,14 +228,14 @@ Falls Sie mehr freie, zu belegende Plätze als Bewerber/innen haben, können Sie
 Wenn alle Kitaleitungen mit einer Runde fertig sind, klickt die Projektleiterin auf den zentralen, blau hinterlegten „Vergabe starten Button“ auf der Hauptseite. 
 
 
-**Nach einer Runde**
+**Nach einer Vergaberunde**
 
-Nachdem der/die Projektleiter:in den “Vergabe starten Button“ geklickt hat, müssen Sie zunächst die Seite aktualisieren. Hierfür klicken Sie auf „aktualisieren“ oben auf der Seite (in blauer Schrift), oder einfach die Tastenkombination “Strg“ und F5 auf Ihrer Tastatur. 
+Nachdem der/die Projektleiter:in den “Vergabe starten" Button geklickt hat, müssen Sie zunächst die Seite aktualisieren. Hierfür klicken Sie auf „aktualisieren“ oben auf der Seite (in blauer Schrift), oder einfach die Tastenkombination “Strg“ und "F5" auf Ihrer Tastatur. 
 
 Jetzt können Sie sehen, wie sich die Kinder, denen Sie in der vorigen Runde ein Angebot gemacht haben, entschieden haben. Prinzipiell gibt es 3 Möglichkeiten:
 
   1. Das Kind erscheint grün in der oberen Tabelle. Dies bedeutet, dass das Kind Ihr Angebot angenommen hat, und Sie sicher sein können, dass es im Laufe des Verfahrens auch bei Ihnen bleibt und keiner anderen Kita zusagt.
-  2. Das Kind erscheint blau in der oberen Tabelle. Dies bedeutet, dass das Kind Ihr Angebot vorläufig angenommen hat, aber noch nicht endgültig. Dies liegt daran, dass Sie nicht die erste Wahl des Kindes sind, und es entsprechend sein kann, dass das Kind in einer der nächsten Runden ein Angebot von seiner Erstwunschkita erhält. Die Erfahrung zeigt jedoch, dass ein Kind, das ein Angebot vorläufig annimmt, in ca. 90% der Fälle auch am Ende des Verfahrens Ihnen zugeordnet wird.
+  2. Das Kind erscheint blau in der oberen Tabelle. Dies bedeutet, dass das Kind Ihr Angebot vorläufig, aber noch nicht endgültig angenommen hat. Dies liegt daran, dass Sie nicht die erste Wahl des Kindes sind, und es entsprechend sein kann, dass das Kind in einer der nächsten Runden ein Angebot von seiner Erstwunschkita erhält. Die Erfahrung zeigt jedoch, dass ein Kind, das ein Angebot vorläufig annimmt, in ca. 90% der Fälle auch am Ende des Verfahrens Ihnen zugeordnet wird.
   3. Das Kind erscheint rot in der unteren Tabelle. Dies bedeutet, dass Sie dem Kind aktuell kein Angebot machen können, was an 2 Dingen liegen kann: Entweder Sie haben keine Kapazität (mehr), um dem Kind ein Angebot zu machen, oder das Kind hat ein Angebot einer Kita, zu der das Kind lieber gehen würde, erhalten. 
 
 <small>Abbildung: Verbindliche Angebote</small>
