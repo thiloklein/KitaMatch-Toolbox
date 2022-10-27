@@ -12,7 +12,9 @@ Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise drei v
 
 ---
 
-Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kitas den Bewerbern Angebote, die angenommen oder abgelehnt werden müssen. Es handelt sich hierbei nicht um einen Mechanismus, da die Zuteilung von den (strategischen) Entscheidungen der Bewerber abhängt --- ob sie ein Angebot annehmen oder ablehnen. Zusätzlich hat sich in der Praxis gezeigt, dass dieses Verfahren zu langen Wartezeiten führt, da es oft im besten Interesse der Bewerber ist, abzuwarten, ob noch ein präferiertes Angebot unterbreitet wird, bevor sie eines der Angebote definitiv annehmen. Als nächstes folgen zwei Beispiele, im Ersten führt eine Annahme zum Verpassen eines besseren Angebots während im Zweiten das Ablehnen eines Angebots zum Verpassen eine Betreuungsplatzes führt:
+Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kitas den Bewerbern Angebote, die angenommen oder abgelehnt werden müssen. Es handelt sich hierbei nicht um einklar definiertes Verfahren - d.h. selbst unter identischen Prioritäten und Präferenzen können sich verschiedene Zuteilungen ergeben, da die Zuteilung von den (strategischen) Entscheidungen der Bewerber abhängt.
+
+Es hat sich in der Praxis gezeigt, dass dieses Verfahren zu langen Wartezeiten führt, da es oft im besten Interesse der Bewerber ist, abzuwarten, ob noch ein präferiertes Angebot unterbreitet wird, bevor sie eines der Angebote definitiv annehmen. Als nächstes folgen zwei Beispiele, im Ersten führt eine Annahme zum Verpassen eines besseren Angebots während im Zweiten das Ablehnen eines Angebots zum Verpassen eine Betreuungsplatzes führt:
 
 **1.** Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot ihrer „Lieblingskita“ und nimmt deshalb direkt Kita 1 an und lehnt Kita 2 ab. Mia muss warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai sich entschieden hat das Angebot von Kita 3 anzunehmen. 
 
@@ -41,6 +43,8 @@ Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kita
 
 ---
 
+Nachdem wir nun ein Beispiel besprochen haben, bei dem die verfrühte Annahme eines Angebots zum Verpassen eines besseren Angebots führt, besprechen wir nun ein zweites Beispiel, bei dem  das Ablehnen eines Angebots zum Verpassen eine Betreuungsplatzes führt. 
+  
 **1.** Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot ihrer „Lieblingskita“ und nimmt deshalb direkt Kita 1 an und lehnt Kita 2 ab. Mia muss warten da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai sich entschieden hat das Angebot von Kita 3 abzulehnen. 
 
 <small>Abbildung: Unkoordiniertes Verfahren II - Schritt 1<small>
@@ -66,7 +70,7 @@ Bei dem, was wir als unkoordiniertes Verfahren bezeichnen, unterbreiten die Kita
 > **Nicht Strategie-Sicher**: Statt das Angebot von Kita 3 abzulehnen, um auf ein präferiertes zu spekulieren, wäre es in dem Fall besser gewesen, es anzunehmen.
  
 
-Obwohl es bei einer unkoordinierten Vergabe nicht klar ist, welche Verteilung entstehen wird, ist dieser Vergabeprozess problematisch, da die entsprechende Verteilung stark von den strategischen Entscheidungen der Bewerber (Angebote anzunehmen oder abzulehnen) abhängt und oft zu instabilen Verteilungen führen kann. 
+Obwohl es bei einer unkoordinierten Vergabe nicht klar ist, welche Verteilung entstehen wird, ist dieser Vergabeprozess unter anderem problematisch, da die entsprechende Zuteilung stark von den strategischen Entscheidungen der Bewerber (Angebote  zu einem bestimmten Zeitpunkt anzunehmen oder abzulehnen) abhängt und oft zu instabilen Verteilungen führen kann. 
 
 
 
