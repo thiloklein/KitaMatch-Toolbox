@@ -31,11 +31,11 @@ Für das Funktionieren des Verfahrens werden deshalb drei Angaben der Beteiligte
   
   **A)** Falls ein Bewerber eine oder mehrere Kitas nicht auflistet, können diese Kitas diesem Bewerber während der Vergabe nicht zugeteilt werden. 
   
-  **B)** Eine ehrliche Angabe der Präferenzen/Rankings ist im besten Interesse aller Bewerber — ein wichtiger Vorteil des Gale-Shapley Verfahrens gegenüber anderer Verteilungsverfahren.
+  **B)** Eine ehrliche Angabe der Präferenzen/Rankings ist im besten Interesse aller Bewerber — ein wichtiger Vorteil des Gale-Shapley Verfahrens gegenüber anderen Verteilungsverfahren.
  
 - Für jede Kita eine **Priorität über die Bewerber**:
   
-  Prioritäten der Kitas bilden das Gegenstück zu den Rankings der Bewerber. Je höher die Priorität eines Bewerbers/Kindes an einer bestimmten Kita, desto besser seine Chancen, in dieser Kita einen Platz zu bekommen. Zum Beispiel, wenn eine Kita nur einen Platz für mehrere Bewerber hat, dann erhält das Kind mit der höchsten Priorität (= höchsten Punktezahl dem Prioritätenkatalog folgend) den Betreuungsplatz. Wie bei den Rankings der Bewerber kann grundsätzlich jede Kita eine eigene Prioritätsreihenfolge haben.
+  Prioritäten der Kitas bilden das Gegenstück zu den Rankings der Bewerber. Je höher die Priorität eines Bewerbers/Kindes für eine bestimmten Kita, desto besser seine Chancen, in dieser Kita einen Platz zu bekommen. Wenn eine Kita zum Beispiel nur einen Platz für mehrere Bewerber hat, dann erhält das Kind mit der höchsten Priorität, d.h. der höchsten Punktezahl dem Prioritätenkatalog folgend, den Betreuungsplatz. Wie bei den Rankings der Bewerber kann grundsätzlich jede Kita eine eigene Prioritätsreihenfolge haben.
   
   Weitere Infos zum Kriterienkatalog finden Sie unter [Kriterienkatalog erstellen](/docs/Kriterienkatalog-Erstellen).
   
