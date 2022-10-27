@@ -37,7 +37,7 @@ Der Prozess sollte von der [Projektleitung](/docs/Andere-Themen/Projektmanagemen
 
 Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden Varianten zeigen: 
 
-- Die beteiligten Kitaleitungen bzw. FB KTP treffen sich vor Ort in einem (nicht virtuellen) Raum. Jedem/r Teilnehmer/in sollte ein PC mit gesicherter Internetverbindung fürs KitaMatch-Programm zur Verfügung stehen. Die Moderation sollte ebenfalls über einen PC verfügen und die Hauptseite des KitaMatch-Programms über einen Beamer an die Leinwand projektieren. Auf diese Weise können alle Beteiligten den Matchingprozess verfolgen und sich besser im Programm orientieren (ähnlich wie ein Schulungsszenario).
+- Die beteiligten Kitaleitungen bzw. FB KTP treffen sich vor Ort in einem (nicht virtuellen) Raum. Jedem/r Teilnehmer/in sollte ein PC mit gesicherter Internetverbindung fürs KitaMatch-Programm zur Verfügung stehen. Die Moderation sollte ebenfalls über einen PC verfügen und die Hauptseite des KitaMatch-Programms über einen Beamer an die Leinwand projektieren. Auf diese Weise können alle Beteiligten den Matchingprozess verfolgen und sich besser im Programm orientieren, ähnlich wie in einem Schulungsszenario.
 - Das Matching ist auch online durchführbar. Dies setzt neben der moderierenden Person eine weitere Person voraus, die bei Bedarf die Prozessbeteiligten (technisch) unterstützen kann. In diesem Fall sind zwei Endgeräte (PC, tablet, Smartphone etc.) pro Teilnehmer/in  zu empfehlen, damit die Beteiligten auf dem einen Gerät das Geschehen im Rahmen einer Videokonferenz verfolgen und auf dem anderen Gerät das Matching-Tool nutzen können. 
 - Eine Alternative ist die Durchführung des Matchings in z.B. fünf aufeinanderfolgenden Tagen.  Dies erfordert weitreichendere Erfahrungen und/oder intensivere Begleitung durch die moderierende Person. Sicherlich ist es erstrebenswert, diese Variante langfristig in den Praxisalltag zu integrieren, da der eigentliche Aufwand für die Kitaleitung bzw. FB KTP sehr gering ist.
 
@@ -54,8 +54,8 @@ Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden
 {: .note-title}
 > Wichtig
 > 
-> - Insbesondere für die Einführung des Matchings ist ein Treffen mit den beteiligten Kitaleitungen bzw. FB KTP in Präsenz sinnvoll, damit Fragen, Unsicherheiten direkt vor Ort geklärt werden können.
-> - IT-Ausstattung mit gesicherter LAN-Verbindung für das Matching-Tool pro TeilnehmerIn
+> - Insbesondere für die Einführung des Matchings ist ein Treffen mit den beteiligten Kitaleitungen bzw. FB KTP in Präsenz sinnvoll, damit Fragen und Unsicherheiten direkt vor Ort geklärt werden können.
+> - IT-Ausstattung mit gesicherter LAN-Verbindung für das Matching-Tool pro Teilnehmer:in ist elementar für den Erfolg der Vergabe
 > - Moderation, Projektleitung und Projektbegleitung durch das Jugendamt sind zwingend notwendig.
 
 ---
