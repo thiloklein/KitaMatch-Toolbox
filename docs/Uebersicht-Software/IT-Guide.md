@@ -127,7 +127,7 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 >
 > Das Paket “<tt>bcrypt</tt>” kann Probleme verursachen. Diese werden normalerweise durch das Deinstallieren und Installieren dieses Pakets behoben. Außerdem muss das Paket “<tt>PasswordGen</tt>” separat installiert werden. Eine Anleitung dazu finden Sie unter <mark>https://github.com/mpascariu/PasswordGen</mark>
 
-**6.** Wenn alle benötigten Pakete installiert sind, kann das R-Skript ausgeführt werden. Markieren Sie den gesamten Code mithilfe “<tt>STRG+A</tt>” und drücken Sie auf “<tt>Run</tt>” im oberen Menübereich (alternativ “<tt>STRG+Enter</tt>”). Es kann nun einige Momente dauern, bis das Skript vollständig ausgeführt wurde. Die durch das Skript produzierten CSV-Dateien werden im Verzeichnis gespeichert, das als Working Directory ausgewählt wurde. Folgende Dateien werden generiert:
+**6.** Wenn alle benötigten Pakete installiert sind, kann das R-Skript ausgeführt werden. Markieren Sie den gesamten Code mithilfe von “<tt>STRG+A</tt>” und drücken Sie auf “<tt>Run</tt>” im oberen Menübereich (alternativ “<tt>STRG+Enter</tt>”). Es kann nun einige Momente dauern, bis das Skript vollständig ausgeführt wurde. Die durch das Skript produzierten CSV-Dateien werden im Verzeichnis gespeichert, das als Working Directory ausgewählt wurde. Folgende Dateien werden generiert:
 
   - <tt>applicants.csv</tt>
     - Allgemeine Informationen der Bewerber wie Name, Geburtsdatum, Erwerbsumfang der Eltern…
