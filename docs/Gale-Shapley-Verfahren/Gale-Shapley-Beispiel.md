@@ -26,7 +26,7 @@ Wie in den vorangegangenen  Beispielen dargestellt wurde, hängt die Problematik
 
 ![DA2.jpg](../../assets/images/DA2.jpg "Gale-Shapley Verfahren - Schritt 2"){:height="500px" width="500px"}
 
-**3.** Kitas deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 3 ein neues Angebot an Mia welche dies hält.
+**3.** Kitas deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 3 ein neues Angebot an Mia welche diese hält.
 
 <small>Abbildung: Gale-Shapley Verfahren - Schritt 3<small>
 
