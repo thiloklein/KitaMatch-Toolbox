@@ -14,13 +14,13 @@ Vor einer Kita-Vergabe einigen sich Kitas auf einen oder mehrere Kriterienkatalo
 
 Die Akzeptanz einer stabilen Zuteilung hängt direkt von der Akzeptanz der Kriterienkataloge ab — Stabilität ist nur so gut wie der Kriterienkatalog. Wenn Bewerber die Kriterien als unfair empfinden, werden die Bewerber die daraus resultierende stabile Zuteilung auch für unfair halten.
 
-Für eine gerechte und akzeptable Kitavergabe ist deshalb ein gut designter Kriterienkatalogunabdingbar. In diesem Zusammenhang sei erwähnt, dass dies einhergeht mit einer klarenund transparenten Kommunikation der angewendeten Kriterien gegenüber den Bewerbern.Dies ermöglicht eine nachvollziehbare Begründung für die Ablehnung eines Bewerbers.
+Für eine gerechte und akzeptable Kitaplatzvergabe ist deshalb ein gut designter Kriterienkatalog unabdingbar. In diesem Zusammenhang sei erwähnt, dass dies einhergeht mit einer klarenund transparenten Kommunikation der angewendeten Kriterien gegenüber den Bewerbern.Dies ermöglicht eine nachvollziehbare Begründung für die Ablehnung eines Bewerbers.
 
 ---
 
 ## Anzahl Plätze
 
-Der Vollständigkeit halber sei hier erwähnt, dass — natürlich — kein Zuteilungsverfahren mehr Plätze vergeben kann, als Plätze vorhanden sind. Die Adaption des Gale-Shapley Verfahrens hilft dabei, die vorhandenen Plätze möglichst fair zu verteilen — gegeben, dass der Kriterienkatalog fair gestaltet ist. Langfristig kann die Kitavergabe vor allem durch einen Ausbau von Plätzen verbessert werden.
+Der Vollständigkeit halber sei hier erwähnt, dass — natürlich — kein Zuteilungsverfahren mehr Plätze vergeben kann, als Plätze vorhanden sind. Die Adaption des Gale-Shapley Verfahrens hilft dabei, die vorhandenen Plätze möglichst fair zu verteilen — gegeben, dass der Kriterienkatalog fair gestaltet ist. Langfristig kann die Kitaplatzvergabe vor allem durch einen Ausbau von Plätzen verbessert werden.
 
 ## Geschwisterkinder
 
