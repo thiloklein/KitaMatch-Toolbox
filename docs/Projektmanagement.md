@@ -69,7 +69,7 @@ Zu den weiteren Vorteilen, die kommuniziert werden können, gehören:
 > Wichtig
 > 
 > - Die Akteure sensibilisieren, „Abholen und Mitnehmen“
-> - Nach innen und nach außen kommunizieren (z.B. Gespräche mit den Beteiligten sowie dem Jugendamtselternbeirat o.ä. sowie Elternbriefe bzw. Pressemitteilungen)
+> - Nach innen und nach außen kommunizieren. Das impliziert Gespräche mit den Beteiligten sowie dem Jugendamtselternbeirat. Genauso können Elternbriefe und Pressemitteilungen ein adäquates Kommunikationsmittel sein.
 > - Vorteile des Programms verdeutlichen
 > - Einverständnis aller Beteiligten einholen
 
@@ -154,4 +154,4 @@ Schließlich können die tatsächlichen Vergaben der Betreuungsplätze erfolgen 
 
 **Reflexion des Matching Days**
 
-Im Nachgang des Matching-Days ist es wichtig, dass die Projektleitung mit den beteiligten Kitaleitungen bzw. FB KTP und dem Jugendamt ein Reflexionsgespräch moderiert. Hierbei sollen Vor- und Nachteile eruiert sowie (Verfahrens-)Optimierungen formuliert und geklärt werden, ob bzw. inwiefern das Verfahren beibehalten werden soll.
+Im Nachgang des Matching-Days ist es wichtig, dass die Projektleitung mit den beteiligten Kitaleitungen bzw. FB KTP und dem Jugendamt ein Reflexionsgespräch moderiert. Hierbei sollen Vor- und Nachteile eruiert sowie (Verfahrens-)Optimierungen formuliert und geklärt werden. Dies umfasst auch die Frage ob bzw. inwiefern das Verfahren beibehalten werden soll.
