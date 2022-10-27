@@ -6,10 +6,10 @@ has_toc: false
 permalink: /docs/Einfuehrung
 ---
 
-# Einführung
+# Einführung: eine transparente, faire und schnelle Kitaplatzvergabe
 {: .no_toc }
 
-Mit dem Ziel einer gerechteren und schnelleren Kitaplatzvergabe hat das ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung in den letzten fünf Jahren ein Verfahren entwickelt, das eine transparente, faire und schnelle Vergabe ermöglicht, bei der die Wünsche von Eltern und Kitas optimal zusammenkommen. Inzwischen wird das Verfahren in einigen Modellstädten erfolgreich und regelmäßig implementiert. Um dieses Verfahren deutschlandweit allen Städten und Gemeinden zugänglich zu machen, wurde die vorliegende **Best Practice Toolbox** entwickelt, mit der Anwender:innen das vom ZEW entwickelte Vergabeverfahren selbstständig umsetzen können.
+Mit dem Ziel einer gerechteren und schnelleren Kitaplatzvergabe hat das Leibniz-Zentrum für Europäische Wirtschaftsforschung (ZEW) in den letzten fünf Jahren ein Verfahren entwickelt, das eine transparente, faire und schnelle Vergabe ermöglicht, bei der die Wünsche von Eltern und Kitas optimal zusammenkommen. Inzwischen wird das Verfahren in einigen Modellstädten erfolgreich und regelmäßig implementiert. Um dieses Verfahren deutschlandweit allen Städten und Gemeinden zugänglich zu machen, wurde die vorliegende **Best Practice Toolbox** entwickelt, mit der Anwender:innen das vom ZEW entwickelte Vergabeverfahren selbstständig umsetzen können.
 {: .fs-6 .fw-300 }
 
 
@@ -34,7 +34,7 @@ Gerade der akute Mangel und die daraus resultierende Konkurrenz um Betreuungspl�
 
 ## Wie die algorithmusbasierte Kitaplatzvergabe funktioniert
 
-Das ZEW hat in Kooperation mit dem deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Städten und Gemeinden in Nordrhein-Westfalen und Rheinland-Pfalz ein Verfahren entwickelt, das die oben genannten Probleme und deren gesellschaftliche Folgen auflösen kann (Fugger/Klein/Riehm 2017). Dieses Verfahren wurde in Zusammenarbeit mit Eltern, Trägern, Kita-Leitungen und Kommunen entwickelt. Es umfasst einen mehrstufigen Prozess, der gemeinsam mit den Kitas und Kommunen durchgeführt wird.
+Das ZEW hat in Kooperation mit dem deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Städten und Gemeinden in Nordrhein-Westfalen und Rheinland-Pfalz ein Verfahren entwickelt, das die oben genannten Probleme und deren gesellschaftliche Folgen adressieren kann (Fugger/Klein/Riehm 2017). Dieses Verfahren wurde in Zusammenarbeit mit Eltern, Trägern, Kita-Leitungen und Kommunen entwickelt. Es umfasst einen mehrstufigen Prozess, der gemeinsam mit den Kitas und Kommunen durchgeführt wird.
 
 Dieser **Prozess** der Kitaplatzvergabe läuft folgendermaßen ab: 
 
@@ -53,7 +53,7 @@ Das Verfahren wurde inzwischen in fünf Pilotkommunen unterschiedlicher Größe 
 
 ## Mit der Best Practice Toolbox die algorithmusbasierte Kitaplatzvergabe selbstständig durchführen
 
-Nachdem in den letzten Jahren gezeigt wurde, dass das vom ZEW entwickelte Verfahren einen erheblichen Mehrwert für alle Beteiligten schafft, geht es nun darum, es den Kommunen und Kitas zur freien und selbständigen Nutzung bereitzustellen. Dadurch soll zum einen die Nutzung des Verfahrens unabhängig gemacht werden von der Beratungsleistung der ZEW Mitarbeiter:innen und zum anderen der Zugang zu Informationen und Anleitungen erleichtert werden. Hierfür hat das ZEW mit finanzieller Unterstützung der Bertelsmann Stiftung und Beratung durch Sylvia Greshake vom Jugendamt in Steinfurt diese **Best Practice Toolbox** aufgesetzt, welche **web-basiert** öffentlich für nicht-kommerzielle Nutzung zugänglich ist. Diese Toolbox besteht aus verschiedenen Dokumenten, die den gesamten Prozess der Platzvergabe abbilden und dabei die einzelnen Prozessschritte für jede der beteiligten Zielgruppen erläutern. Dazu wird der oben beschriebene Prozess (Schritte a-e) im Detail für die Zielgruppen Kitas, Träger/Jugendämter, und IT-Unterstützung dargestellt und relevante Dokumente bzw. die Programmiercodes werden bereitgestellt.
+Nachdem in den letzten Jahren gezeigt wurde, dass das vom ZEW entwickelte Verfahren einen erheblichen Mehrwert für alle Beteiligten schafft, geht es nun darum, es den Kommunen und Kitas zur freien und selbständigen Nutzung bereitzustellen. Dadurch soll zum einen die Nutzung des Verfahrens unabhängig gemacht werden von der Beratungsleistung der ZEW Mitarbeiter:innen und zum anderen der Zugang zu Informationen und Anleitungen erleichtert werden. Hierfür hat das ZEW mit finanzieller Unterstützung der Bertelsmann Stiftung und Beratung durch Sylvia Greshake vom Jugendamt in Steinfurt diese **Best Practice Toolbox** aufgesetzt, welche **web-basiert** öffentlich für nicht-kommerzielle Nutzung zugänglich ist. Diese Toolbox besteht aus verschiedenen Dokumenten, die den gesamten Prozess der Platzvergabe abbilden und dabei die einzelnen Prozessschritte für jede der beteiligten Zielgruppen erläutern. Dazu wird der oben beschriebene Prozess (Schritte a-e) im Detail für die Zielgruppen Kitas, Träger/Jugendämter, und IT-Unterstützung dargestellt. Gleichzeitig werden relevante Dokumente bzw. die Programmiercodes werden bereitgestellt.
 
 
 ## Bisherige Ergebnisse
