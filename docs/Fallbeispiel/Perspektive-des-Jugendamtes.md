@@ -172,15 +172,11 @@ In den Kommunen wird einmal im Jahr gematcht, sodass es umso wichtiger ist, die 
  
 **Grenzen des Verfahrens**
 
-Besonders im Zuge der Reflexion ist es wichtig, sich das Verfahren im Hinblick auf Nachteile zu hinterfragen und ggfs. Schwachstellen zu erkennen, zu besprechen und Lösungsansätze zu entwickeln:
-
-- Nicht in jedem Fall ist es möglich, dass die Kinder ihren Erst-Wunsch bekommen.
-- Die Frage, wie man am besten mit den Nachmeldungen (Meldungen nach dem Stichtag) verfährt, ist auch über dieses Verfahren schwierig zu beantworten.
-- Die Eltern müssen frühzeitig informiert werden, dass es wichtig ist, idealerweise fünf Prioritäten ihrer Wunscheinrichtungen anzugeben. Sonst kann es passieren, dass sie zunächst unversorgt bleiben.
+Besonders im Zuge der Reflexion ist es wichtig, sich das Verfahren im Hinblick auf Nachteile zu hinterfragen und ggfs. Schwachstellen zu erkennen, zu besprechen und Lösungsansätze zu entwickeln. Zu den Grenzen des Verfahrens, die sich im Prozess der Implementierung herauskristallisiert haben zählt, dass es nicht in jedem Fall möglich ist, dass die Erst-Wunsch-Kita zugeteilt wird. Zudem ist die Frage, wie man am besten mit den Nachmeldungen, d.h. den Meldungen nach dem Stichtag, verfährt auch über dieses Verfahren schwierig zu beantworten ist. Abschließend müssen Eltern frühzeitig informiert werden, dass es wichtig ist, idealerweise fünf Prioritäten ihrer Wunscheinrichtungen anzugeben. Sonst kann es passieren, dass sie zunächst unversorgt bleiben.
 
 
 ---
 
-## Fazit
+## Fazit zur Kitaplatzvergabe mit dem KitaMatch Verfahren im Landkreis Steinfurt
 
-Insgesamt ist festzuhalten, dass das Matching ein transparentes, schnelles und faires Vergabeverfahren für die Kommunen im Kreisjugendamtsbezirk Steinfurt ist. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses (vgl. B 040/2020) für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor. Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matching-Verfahren. Es kann sicherlich einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu schaffen.
+Insgesamt ist festzuhalten, dass das Matching ein transparentes, schnelles und faires Vergabeverfahren für die Kommunen im Kreisjugendamtsbezirk Steinfurt ist. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses (vgl. B 040/2020) für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor. Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matching-Verfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu garantieren.
