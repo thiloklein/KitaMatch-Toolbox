@@ -51,11 +51,11 @@ Sie sehen nun in der oberen Übersicht, welche Arten von Plätzen Sie vergeben, 
 ![übersicht-vor-matchingday.png](../../assets/images/übersicht-vor-matchingday.png "Vor dem Matching-Day")
 
 
-### Während einer Runde
+### Während einer Vergaberunde
 
 Wenn Sie nun ein Betreuungsangebot machen, müssen Sie sich entscheiden, welche Art von Platz Sie einem Kind anbieten. Wir empfehlen hier den Kindern immer zuerst den von ihnen gewünschten Platz anzubieten, und man nur für den Fall, dass man einen solchen Platz nicht mehr vergeben kann, dem Kind einen anderen Platz anbietet.
 
 
-### Nach einer Runde
+### Nach einer Vergaberunde
 
 Zusätzlich zu den oben genannten Fällen kann es nun auch sein, dass ein Kind einfach wieder “weiß“ in Ihrer Bewerberliste erscheint. Dies passiert, falls das Kind zwar ein besseres Angebot bekommen hat, Sie aber dem Kind prinzipiell noch ein passenderes Angebot machen können, zum Beispiel zum gewünschten Betreuungsbeginn. 
