@@ -7,7 +7,7 @@ permalink: /docs/Kriterienkatalog-Erstellen
 
 # Die Erstellung des Kriterienkatalogs
 {: .no_toc }
-Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sind](/docs/Fallbeispiel/Perspektive-des-Jugendamtes#erstellung-der-aufnahmekriterien). Daher ist ein Kriterienkatalog fürs Matching zu empfehlen. Im Folgenden werden die Grundlagen für die Erstellung eines Kriterienkatalogs vorgestellt. Zunächst wird erklärt, was es für die Vorbereitung und den Prozess der Erstellung bedarf. Zudem werden lokale sowie globale Kriterien unterschieden und die Gewichtung der Kriterien anhand eines Fallbeispiels erläutert.
+Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sind](/docs/Fallbeispiel/Perspektive-des-Jugendamtes#erstellung-der-aufnahmekriterien). Daher ist ein Kriterienkatalog für das Matching zu empfehlen. Im Folgenden werden die Grundlagen für die Erstellung eines Kriterienkatalogs vorgestellt. Zunächst wird erklärt, was es für die Vorbereitung und den Prozess der Erstellung bedarf. Zudem werden lokale sowie globale Kriterien unterschieden und die Gewichtung der Kriterien anhand eines Fallbeispiels erläutert.
 {: .fs-6 .fw-300 }
 
 ---
@@ -22,7 +22,7 @@ Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sin
 
 ##  Die Vorbereitung 
 
-Sicherlich ist es bei der Erstellung des Kriterienkatalogs hilfreich, wenn ein/e Moderator/in (z.B. die Projektleiterin in Absprache mit der/m Bedarfsplaner/in des zuständigen Jugendamtes) diesen Prozess neutral begleitet, Gedanken aufgreift, Diskussionen anregt, Ergebnisse zusammenfasst, offen, transparent ebenso ergebnisorientiert und zielstrebig agiert. Es ist zu überlegen, ob die Moderator/in die hiesige Kitalandschaft bzw. Trägerstruktur kennen sollte oder nicht. Kenntnisse über Besonderheiten und Anforderungen eines Katalogs von Aufnahmekriterien wären sicherlich von Vorteil.  
+Bei der Erstellung des Kriterienkatalogs ist es hilfreich, wenn ein/e Moderator/in (z.B. die Projektleiterin in Absprache mit der/m Bedarfsplaner/in des zuständigen Jugendamtes) diesen Prozess neutral begleitet, Gedanken aufgreift, Diskussionen anregt, Ergebnisse zusammenfasst, offen, transparent ebenso ergebnisorientiert und zielstrebig agiert. Es ist zu überlegen, ob die Moderator/in die hiesige Kitalandschaft bzw. Trägerstruktur kennen sollte oder nicht. Kenntnisse über Besonderheiten und Anforderungen eines Katalogs von Aufnahmekriterien wären sicherlich von Vorteil.  
 
 Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere über die Erstellung des dafür notwendigen Kriterienkatalogs zu informieren, ist eine Auftaktveranstaltung mit **allen** beteiligten Trägern, Kitaleitungen und FB KTP sinnvoll. Dabei sollte das Ziel sein, möglichst viele Informationen zu streuen, Verständnis und Akzeptanz zu schaffen, sodass die Beteiligten letztlich ihr Einverständnis für die Umsetzung des Projektes geben. 
 
@@ -39,7 +39,7 @@ Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere
 
 ## Die Ausgangslage 
 
-Es gibt verschiedene Möglichkeiten, einen gemeinsamen Kriterienkatalog zu entwickeln. Während in einer Kommune auf einem „weißen, leeren Blatt“ angefangen werden kann, ist es ebenso möglich, vorhandene Kriterienkataloge zusammenzutragen und diese zur Diskussion zu stellen. An welcher Stelle der Prozess ansetzt, ist sicherlich abhängig von den Erfahrungen und dem Vertrauensverhältnis der Beteiligten. Ziel sollte sein, einen ersten Entwurf eines solchen Kriterienkatalogs zu verschriftlichen (eine Art „gemeinsamer Nenner“). Im Folgenden werden drei Fallkonstellationen vorgestellt:
+Es gibt verschiedene Möglichkeiten, einen gemeinsamen Kriterienkatalog zu entwickeln. Während in einer Kommune auf einem „weißen, leeren Blatt“ angefangen werden kann, ist es ebenso möglich, vorhandene Kriterienkataloge zusammenzutragen und diese zur Diskussion zu stellen. An welcher Stelle der Prozess ansetzt, ist sicherlich abhängig von den Erfahrungen und dem Vertrauensverhältnis der Beteiligten. Ziel sollte sein, einen ersten Entwurf eines solchen Kriterienkatalogs zu verschriftlichen, als eine Art „gemeinsamer Nenner“. Im Folgenden werden drei Fallkonstellationen vorgestellt:
 
 **Fall a: Es liegen konkrete Kriterienkataloge vor**
 
@@ -60,7 +60,7 @@ Sofern ein einheitlicher Kriterienkatalog nicht gewünscht wird, ist das Matchin
 
 ## Der erste Entwurf eines gemeinsamen Kriterienkatalogs
 
-Sicherlich gibt es neben den gesetzlichen Kriterien auch Kriterien, die Kita/KTP-übergreifend gelten. Dieser „gemeinsame Nenner“ von Aufnahmekriterien wird in diesem Schritt von allen Beteiligten kritisch hinterfragt und genau formuliert. Dabei ist es ebenso wichtig, neue Kriterien in Erwägung zu ziehen, zu diskutieren und ggfls. mit aufzunehmen. In diesem Zusammenhang ist es von Vorteil, beim jeweiligen Kriterium eine Definition oder Beschreibung zu ergänzen, das heißt, das Kriterium auszuformulieren. Dies führt zu einem besseren, einheitlichen Verständnis unter den Beteiligten, nicht nur im Rahmen des Entwicklungsprozesses, sondern auch in einer späteren Projektphase, z.B. im Gespräch mit den Eltern. 
+Neben den gesetzlichen Kriterien gibt es auch Kriterien, die Kita/KTP-übergreifend gelten. Dieser „gemeinsame Nenner“ von Aufnahmekriterien wird in diesem Schritt von allen Beteiligten kritisch hinterfragt und genau formuliert. Dabei ist es ebenso wichtig, neue Kriterien in Erwägung zu ziehen, zu diskutieren und gegebenenfalls mit aufzunehmen. In diesem Zusammenhang ist es von Vorteil, beim jeweiligen Kriterium eine Definition oder Beschreibung zu ergänzen, das heißt, das Kriterium auszuformulieren. Dies führt zu einem besseren, einheitlichen Verständnis unter den Beteiligten, nicht nur im Rahmen des Entwicklungsprozesses, sondern auch in einer späteren Projektphase, z.B. im Gespräch mit den Eltern. 
 
 Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet. Gleichwohl ist (insbesondere in den Folgejahren) eine (Weiter-)Entwicklung des einheitlichen Kriterienkatalogs auch online über eine Videokonferenz möglich. 
 
