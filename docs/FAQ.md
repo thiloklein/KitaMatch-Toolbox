@@ -13,7 +13,7 @@ Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
 
 <details>
     <summary><b>Welche Altersgruppen werden berücksichtigt?</b></summary>
-    Zu empfehlen ist eine Differenzierung nach dem jeweils geltenden Gesetz. In Nordrhein-Westfalen beispielsweise sind es gemäß dem Kinderbildungsgesetz unter 2-jährige, 2-jährige und über 3-Jährige.
+    Es empfiehlt sich eine Orientierung am jeweils geltenden Recht. In Nordrhein-Westfalen beispielsweise sind es gemäß dem Kinderbildungsgesetz unter 2-jährige, 2-jährige und über 3-Jährige.
 </details>
 <p> </p>
 <details>
