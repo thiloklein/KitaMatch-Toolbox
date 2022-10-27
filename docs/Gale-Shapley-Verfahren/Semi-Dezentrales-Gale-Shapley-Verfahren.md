@@ -8,9 +8,9 @@ permalink: /docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren
 
 # Semi-Dezentrales Gale-Shapley Verfahren für KitaMatch
 
-Das Gale-Shapley Verfahren ist ein von David Gale und Lloyd Shapley entwickeltes Zuteilungsverfahren (Gale and Shapley, 1962). Die Autoren beschrieben, wie mit Hilfe des Gale-Shapley Verfahrens eine stabile Zuteilung von Schülern auf Schulen erreicht werden kann. Das ZEW hat in Kooperation mit dem deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Kommunen in Nordrhein-Westfalen und Rheinland-Pfalz das Gale-Shapley Verfahren unter Berücksichtigung von praktischen Problemen auf die koordinierte Vergabe von Kitaplätzen angepasst.
+Das Gale-Shapley Verfahren ist ein von David Gale und Lloyd Shapley entwickeltes Zuteilungsverfahren (Gale and Shapley, 1962). Die Autoren beschrieben, wie mit Hilfe dieses Verfahrens eine stabile Zuteilung von Schülern auf Schulen erreicht werden kann. Das ZEW hat in Kooperation mit dem deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Kommunen in Nordrhein-Westfalen und Rheinland-Pfalz das Gale-Shapley Verfahren unter Berücksichtigung von praktischen Problemen auf die koordinierte Vergabe von Kitaplätzen angepasst.
 
-An dieser Stelle beschreiben wir das Gale-Shapley Verfahren in seiner grundlegenden Art — ohne zusätzliche Anpassungen — erklärt. Grundsätzlich lässt sich der Mechanismus  relativ einfach auf komplexere Situationen — zum Beispiel Kitas mit unterschiedlichen Betreuungsplätzen bedingt durch heterogene Betreuungsumfänge und Alterskategorien — anpassen. 
+An dieser Stelle beschreiben wir das Gale-Shapley Verfahren in seiner grundlegenden Art — ohne zusätzliche Anpassungen. Grundsätzlich lässt sich der Mechanismus  relativ einfach auf komplexere Situationen — zum Beispiel Kitas, deren Betreuungsplätze voneinander abweichen da unterschiedliche Betreuungsumfänge und Alterskategorien vorherrschen — anpassen. 
 
 **Zentrale Durchführung**: Eigentlich wird das Gale-Shapley Verfahren zentral durchgeführt. D.h. Prioritäten der Kitas und Präferenzen/Rankings der Bewerber werden zentral gesammelt, und anschließend wird eine Zuteilung via Gale-Shapley Verfahren direkt ermittelt. Dies ist jedoch im Hinblick auf die Trägerautonomie oftmals so nicht umzusetzen. 
 
@@ -44,7 +44,7 @@ An dieser Stelle beschreiben wir das Gale-Shapley Verfahren in seiner grundlegen
   
   2. **Bewerber Annahmen**: 
      
-     Bewerber, welche zusätzlich Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Danach erteilen sie allen anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben,  eine definitive Absage.
+     Bewerber, welche zusätzliche Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Danach erteilen sie allen anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben,  eine definitive Absage.
   
   3. **Ende**: 
      
