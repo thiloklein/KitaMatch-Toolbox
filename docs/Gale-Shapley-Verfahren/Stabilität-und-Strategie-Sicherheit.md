@@ -35,7 +35,7 @@ Für das Funktionieren des Verfahrens werden deshalb drei Angaben der Beteiligte
  
 - Für jede Kita eine **Priorität über die Bewerber**:
   
-  Prioritäten der Kitas bilden das Gegenstück zu den Rankings der Bewerber. Je höher die Priorität eines Bewerbers/Kindes für eine bestimmten Kita, desto besser seine Chancen, in dieser Kita einen Platz zu bekommen. Wenn eine Kita zum Beispiel nur einen Platz für mehrere Bewerber hat, dann erhält das Kind mit der höchsten Priorität, d.h. der höchsten Punktezahl dem Prioritätenkatalog folgend, den Betreuungsplatz. Wie bei den Rankings der Bewerber kann grundsätzlich jede Kita eine eigene Prioritätsreihenfolge haben.
+  Prioritäten der Kitas bilden das Gegenstück zu den Rankings der Bewerber. Je höher die Priorität eines Bewerbers/Kindes für eine bestimmte Kita, desto besser seine Chancen, in dieser Kita einen Platz zu bekommen. Wenn eine Kita zum Beispiel nur einen Platz für mehrere Bewerber hat, dann erhält das Kind mit der höchsten Priorität, d.h. der höchsten Punktezahl dem Prioritätenkatalog folgend, den Betreuungsplatz. Wie bei den Rankings der Bewerber kann grundsätzlich jede Kita eine eigene Prioritätsreihenfolge haben.
   
   Weitere Infos zum Kriterienkatalog finden Sie unter [Kriterienkatalog erstellen](/docs/Kriterienkatalog-Erstellen).
   
@@ -48,17 +48,13 @@ Als nächstes werden die theoretischen  Merkmale und Stärken des Gale-Shapley V
 
 - **Stabilität**:
   
-  Das Gale-Shapley Verfahren führt zu einer stabilen Zuteilung. Stabilität ist wichtig für die Akzeptanz und Legitimierung einer Zuteilung — vgl. Rechtlicher Rahmen — Münster Urteil. Im spezifischen gilt folgendes für eine stabile Zuteilung:
-  
-  **Bewerber-Sicht**: 
-  
-  Jede Kita, die von einem Bewerber — nennen wir ihn ,,Bewerber A” — höher gerankt wurde als die ihm zugeteilte Kita, ist
-  1. voll belegt und
-  2. jeder dort (bei einer von ,,Bewerber A” höher gerankten Kita) zugeteilte Bewerber hat eine höhere Priorität als ,,Bewerber A”.
-  
-  **Kita-Sicht**:
-  
-  Jeder Bewerber, der nicht einer Kita zugeteilt wurde —nennen wir sie ,,Kita B” — und eine höhere ,,Kita B”-Priorität aufweist als der Bewerber mit der tiefsten ,,Kita B”-Priorität bei ”Kita B” — also gewissermaßen von Kita-B bevorzugt, ist einer Kita zugeteilt, die er höher gerankt hat/präferiert.
+Stabilität hat zwei Komponenten:
+
+ 1. Kein Bewerber kann einer höher gerankten Kita zugeteilt werden:  Falls “Bewerber A” eine Kita höher gerankt hat als die ihm zugeteilte Kita,  dann ist diese Kita voll belegt , und jeder dort zugeteilte Bewerber hat eine höhere Priorität  als  ,,Bewerber A”.
+ 2. Keiner Kita könne höher priorisierte Bewerber zugeteilt werden:  Falls “Kita B” ein oder mehrere Bewerber nicht zugeteilt wurden, welche über höhere Prioritäten verfügen als mindestens einer der dort zugeteilten Bewerber, dann wurden diese Bewerber anderen Kitas zugeteilt, welche diese Bewerber höher gerankt haben. 
+
+Das Gale-Shapley Verfahren führt zu einer stabilen Zuteilung.  
+
  
 - **Strategie-Sicherheit**:
   
