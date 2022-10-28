@@ -79,7 +79,7 @@ permalink: /
   .navigation-manual{
     position: absolute;
     width: 100%;
-    margin-top: -40px;
+    margin-top: -5%;
     display: flex;
     justify-content: center;
   }
@@ -120,7 +120,7 @@ permalink: /
     display: flex;
     width: 100%;
     justify-content: center;
-    margin-top: 460px;
+    margin-top: 50%;
   }
   .navigation-auto div{
     width: 50px;
