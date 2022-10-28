@@ -115,9 +115,9 @@ Die Eltern haben - nach wie vor - gemäß § 5 Sozialgesetzbuch VIII (SGB VIII) 
 {: .note-title}
 > Erfahrungen in Kürze
 > 
-> - Frühzeitige, umfassende Information an die Eltern
+> - Frühzeitige, umfassende Information an die Eltern war sinnvoll
 > - Keine strategischen Überlegungen mehr
-> - Durch Priorisierung der Wunscheinrichtungen gilt das Wunsch- und Wahlrecht
+> - Durch Priorisierung der Wunscheinrichtungen wird das Wunsch- und Wahlrecht berücksichtigt
 > - Transparentes und nachvollziehbares Vergabeverfahren
 > - Das Matchingergebnis ist das für sie fairste Resultat.
 
@@ -137,7 +137,7 @@ Indem die Kitaleitungen bzw. FB KTP dem jeweiligen Kind von der Bewerberliste ei
 > 
 > - „Erleichterung“, „gutes Gefühl“
 > - Wahrung der Trägerautonomie
-> - Flexibilität bei der Entscheidung über die angemeldeten Kinder, denen sie ein Angebot machen möchten
+> - ausreichende Flexibilität bei der Entscheidung über die angemeldeten Kinder, denen sie ein Angebot machen möchten
 > - Reduzierter Aufwand
 
  
@@ -154,17 +154,16 @@ Auch das Kreisjugendamt verzeichnet nach Anwendung des Matchings eine Zeiterspar
 {: .note-title}
 > Erfahrungen in Kürze
 > 
-> - Legitimation durch die Politik entscheidend
-> - Einverständnis der beteiligten Kitas/Träger/FB KTP
-> - Kommunikation von Anfang wichtig – mit allen Prozessbeteiligten
+> - umfassende Information an die Politik war sinnvoll, um die Legitimation zu erhalten
+> - das Gespräch bzw. Einverständnis der beteiligten Kitas/Träger/FB KTP war wichtig
+> - Kommunikation mit allen Prozessbeteiligten war von Anfang an entscheidend
 > - mehr Transparenz
-> - zeitsparend, da direkte Datenexporte von (un)versorgten Kindern möglich
-> - Exportmöglichkeit der Listen von versorgten bzw. unversorgten Kindern bzw. Übersichtslisten von den Einrichtungen
+> - zeitsparend, da direkte Datenexporte von (un)versorgten Kindern möglich sind
 
 
 **Weitere Erkenntnisse**
 
-Das Matching nach dem Gale-Shapley-Verfahren löst nicht das Problem des oftmals vorherrschenden Platzmangels. Es kann aber wie die Erfahrungen im Kreisjugendamtsbezirk Steinfurt zeigen ein wichtiger Baustein sein, um die Platzvergabe transparenter und fairer durchzuführen.
+Das Matching nach dem Gale-Shapley-Verfahren löst nicht das Problem des oftmals vorherrschenden Platzmangels. Es kann aber, wie die Erfahrungen im Kreisjugendamtsbezirk Steinfurt zeigen, ein wichtiger Baustein sein, um die Platzvergabe transparenter und fairer durchzuführen.
 
 Den Beteiligten ist bewusst geworden, dass es ein mehrjähriger Prozess ist. Es braucht Zeit, bis die Kita-Leitungen bzw. FB KTP dem neuen Verfahren „vertrauen" und verstehen, was wann passiert. Es braucht ebenso Zeit, bis die Eltern dem neuen Verfahren „vertrauen" und ihre wahren Präferenzen angeben.
 
