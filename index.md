@@ -54,13 +54,11 @@ permalink: /
     
   .slideshow{
     width: 100%;
-    height: 500px;
     border-radius: 10px;
     overflow: hidden;
   }
   .slides{
     width: 500%;
-    height: 500px;
     display: flex;
   } 
   .slides input{
@@ -71,15 +69,14 @@ permalink: /
     transition: 1s;
   } 
   .slide img{
-    width: 800px;
-    height: 500px;
+    width: 100%;
   }
   
   /*css for manual slide navigation*/
   
   .navigation-manual{
     position: absolute;
-    width: 800px;
+    width: 100%;
     margin-top: -40px;
     display: flex;
     justify-content: center;
@@ -119,7 +116,7 @@ permalink: /
   .navigation-auto{
     position: absolute;
     display: flex;
-    width: 800px;
+    width: 100%;
     justify-content: center;
     margin-top: 460px;
   }
