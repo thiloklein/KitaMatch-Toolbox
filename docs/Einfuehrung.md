@@ -55,13 +55,6 @@ Das Verfahren wurde inzwischen in fünf Pilotkommunen unterschiedlicher Größe 
 
 Nachdem in den letzten Jahren gezeigt wurde, dass das vom ZEW entwickelte Verfahren einen erheblichen Mehrwert für alle Beteiligten schafft, geht es nun darum, es den Kommunen und Kitas zur freien und selbständigen Nutzung bereitzustellen. Dadurch soll zum einen die Nutzung des Verfahrens unabhängig gemacht werden von der Beratungsleistung der ZEW Mitarbeiter:innen und zum anderen der Zugang zu Informationen und Anleitungen erleichtert werden. Hierfür hat das ZEW mit finanzieller Unterstützung der Bertelsmann Stiftung und Beratung durch Sylvia Greshake vom Jugendamt in Steinfurt diese **Best Practice Toolbox** aufgesetzt, welche **web-basiert** öffentlich für nicht-kommerzielle Nutzung zugänglich ist. Diese Toolbox besteht aus verschiedenen Dokumenten, die den gesamten Prozess der Platzvergabe abbilden und dabei die einzelnen Prozessschritte für jede der beteiligten Zielgruppen erläutern. Dazu wird der oben beschriebene Prozess (Schritte a-e) im Detail für die Zielgruppen Kitas, Träger/Jugendämter, und IT-Unterstützung dargestellt. Gleichzeitig werden relevante Dokumente bzw. die Programmiercodes bereitgestellt.
 
-
-## Bisherige Ergebnisse
-
-
-...
-
-
 ---
 
 [^1]: siehe beispielsweise das [OVG-Urteil in Münster vom 18.12.2017](http://www.justiz.nrw.de/nrwe/ovgs/ovg_nrw/j2017/12_B_930_17_Beschluss_20171218.html)
