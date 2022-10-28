@@ -219,7 +219,7 @@ Alle Kinder, denen Sie zu einem gewissen Zeitpunkt kein Angebot mehr machen kön
 
 Sofern die Einrichtung keine freien, zu belegenden Plätze hat, setzen Sie das Matching für diese Altersgruppe aus. 
 
-Falls Sie mehr freie, zu belegende Plätze als Bewerber:innen haben, können Sie kein Angebot abgeben, und die Plätze bleiben zunächst frei. Diese freien Plätze können im Nachgang des Matchings von den Kindern, die im Zuge des Matchings keinen Platz erhalten haben, oder von neu angemeldeten Kindern belegt werden (Abstimmungsbedarf mit dem Jugendamt). 
+Falls Sie mehr freie, zu belegende Plätze als Bewerber:innen haben, können Sie kein Angebot abgeben, und die Plätze bleiben zunächst frei. Diese freien Plätze können im Nachgang des Matchings von den Kindern, die im Zuge des Matchings keinen Platz erhalten haben, oder von neu angemeldeten Kindern belegt werden. 
 
 <small>Abbildung: Während des Matching-Days</small>
 
