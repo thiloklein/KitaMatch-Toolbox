@@ -54,6 +54,7 @@ permalink: /
     
   .slideshow{
     width: 100%;
+    height: 100%;
     border-radius: 10px;
     overflow: hidden;
   }
@@ -70,6 +71,7 @@ permalink: /
   } 
   .slide img{
     width: 100%;
+    height: 100%;
   }
   
   /*css for manual slide navigation*/
