@@ -89,7 +89,7 @@ Per Mausklick kann die Projektleitung bzw. das Jugendamt eine Excel-Liste generi
 
 **Liste der unversorgten Kinder**: 
 
-Eine weitere hilfreiche, zu generierende Liste ist die mit den Kindern, die noch einen Platz benötigen und bisher unversorgt sind. Dies kann daran liegen, dass die Eltern zu wenig Alternativen ausgewählt haben. Demzufolge würden sie am liebsten in den angegebenen Wunscheinrichtungen einen Platz erhalten wollen und wenn das nicht klappt, lieber gar keinen anderen Platz („lieber *keinen* als einen anderen Platz“). 
+Eine weitere hilfreiche, zu generierende Liste ist die mit den Kindern, die noch einen Platz benötigen und bisher unversorgt sind. Dies kann daran liegen, dass die Eltern zu wenig Alternativen ausgewählt haben. Demzufolge würden sie am liebsten in den angegebenen Wunscheinrichtungen einen Platz erhalten wollen und wenn das nicht klappt, lieber gar keinen anderen Platz. 
 
 **Übersicht der Kitas bzw. Fachberatung der Kindertagespflege mit freien Plätzen**:
 
