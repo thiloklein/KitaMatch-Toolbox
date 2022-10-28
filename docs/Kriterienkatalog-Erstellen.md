@@ -39,7 +39,7 @@ Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere
 
 ## Die Ausgangslage 
 
-Es gibt verschiedene Möglichkeiten, einen gemeinsamen Kriterienkatalog zu entwickeln. Während in einer Kommune auf einem „weißen, leeren Blatt“ angefangen werden kann, ist es ebenso möglich, vorhandene Kriterienkataloge zusammenzutragen und diese zur Diskussion zu stellen. An welcher Stelle der Prozess ansetzt, ist sicherlich abhängig von den Erfahrungen und dem Vertrauensverhältnis der Beteiligten. Ziel sollte sein, einen ersten Entwurf eines solchen Kriterienkatalogs zu verschriftlichen, als eine Art „gemeinsamer Nenner“. Im Folgenden werden drei Fallkonstellationen vorgestellt:
+Es gibt verschiedene Möglichkeiten, einen gemeinsamen Kriterienkatalog zu entwickeln. Während in einer Kommune auf einem „weißen, leeren Blatt“ angefangen werden kann, ist es ebenso möglich, vorhandene Kriterienkataloge zusammenzutragen und diese zur Diskussion zu stellen. An welcher Stelle der Prozess ansetzt, ist abhängig von den Erfahrungen und dem Vertrauensverhältnis der Beteiligten. Ziel sollte sein, einen ersten Entwurf eines solchen Kriterienkatalogs zu verschriftlichen, als eine Art „gemeinsamer Nenner“. Im Folgenden werden drei Fallkonstellationen vorgestellt:
 
 **Fall a: Es liegen konkrete Kriterienkataloge vor**
 
@@ -62,7 +62,7 @@ Sofern ein einheitlicher Kriterienkatalog nicht gewünscht wird, ist das Matchin
 
 Neben den gesetzlichen Kriterien gibt es auch Kriterien, die Kita/KTP-übergreifend gelten. Dieser „gemeinsame Nenner“ von Aufnahmekriterien wird in diesem Schritt von allen Beteiligten kritisch hinterfragt und genau formuliert. Dabei ist es ebenso wichtig, neue Kriterien in Erwägung zu ziehen, zu diskutieren und gegebenenfalls mit aufzunehmen. In diesem Zusammenhang ist es von Vorteil, beim jeweiligen Kriterium eine Definition oder Beschreibung zu ergänzen, das heißt, das Kriterium auszuformulieren. Dies führt zu einem besseren, einheitlichen Verständnis unter den Beteiligten, nicht nur im Rahmen des Entwicklungsprozesses, sondern auch in einer späteren Projektphase, z.B. im Gespräch mit den Eltern. 
 
-Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet. Gleichwohl ist (insbesondere in den Folgejahren) eine (Weiter-)Entwicklung des einheitlichen Kriterienkatalogs auch online über eine Videokonferenz möglich. 
+Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet. Gleichwohl ist insbesondere in den Folgejahren eine (Weiter-)Entwicklung des einheitlichen Kriterienkatalogs auch online über eine Videokonferenz möglich. 
 
 **Feedback-Schleife: Diskutieren des Entwurfs im jeweiligen Kita-Gremium bzw. KTP**
 
@@ -78,7 +78,7 @@ Bei einem weiteren Treffen der Kitaleitungen und FB KTP werden mit entsprechende
 
 ## Verabschiedung des Katalogs
 
-Die Kitaleitungen und FB KTP legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kita-Gremium vor, um die Kriterien zu diskutieren und letztlich zu verabschieden (vgl. § 10 VI KiBiZ). 
+Die Kitaleitungen und FB KTP legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kita-Gremium zur Anhörung vor, um die Kriterien zu diskutieren und letztlich zu verabschieden (vgl. § 10 IV KiBiz NRW siehe externer <mark>Link</mark>). 
 
 Je nach Anzahl der beteiligten Kitas bzw. FB KTP und in Abhängigkeit der Trägerstruktur der Kitalandschaft können mehrere Feedback-Schleifen entstehen. Dies sollte in der Zeitplanung berücksichtigt werden. 
 
@@ -173,10 +173,7 @@ In der Pilotkommune gelten demzufolge folgende „globale“ Kriterien, die für
 - Hilfen vom Jugendamt/Hilfen zur Erziehung. 
 
 
-Zu den lokalen Kriterien, die nur in der Einrichtung berücksichtigt werden, für die das jeweilige Kriterium auch zutrifft, gehören in diesem Beispiel:
-
-- Geschwisterkinder
-  - In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres Geschwisterkind in die Schule wechselt bzw. in der Einrichtung betreut wurde (nicht zeitgleiche Betreuung). 
+Zu den lokalen Kriterien, die nur in einer bestimmten Einrichtung berücksichtigt werden, gehören in diesem Beispiel die Geschwisterkinder. In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres Geschwisterkind in die Schule wechselt bzw. in der Einrichtung betreut wurde (nicht zeitgleiche Betreuung). 
 
 Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen Punktewert haben, der prinzipiell für alle Einrichtungen gilt. Dieser Punktewert wird in der Excel Liste unter “Punkte” eingepflegt, siehe auch die [Abbildung " Beispiel eines vollständigen Datensatzes"](/docs/Uebersicht-Software/Der-Standardfall#welche-daten-benötigt-kitamatch)   Die lokalen Kriterien sorgen dann dafür, dass ein Kind in einer bestimmten Einrichtung Zusatzpunkte bekommt, zum Beispiel wenn ein Geschwisterkind schon in der Einrichtung betreut wird. 
 
