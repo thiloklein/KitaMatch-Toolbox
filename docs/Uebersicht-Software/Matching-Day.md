@@ -58,8 +58,3 @@ Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden
 > - IT-Ausstattung mit gesicherter LAN-Verbindung für das Matching-Tool pro Teilnehmer:in ist elementar für den Erfolg der Vergabe
 > - Moderation, Projektleitung und Projektbegleitung durch das Jugendamt sind zwingend notwendig.
 
----
-
-## Das Matching
-Zunächst ist zu prüfen, ob die Teilnehmer:innen die [technischen Voraussetzungen erfüllen](/docs/Uebersicht-Software/Der-Standardfall#systemzugang), sich mit ihren Login-Daten im KitaMatch-Programm einloggen und ihre Bewerberlisten einsehen können. 
-
