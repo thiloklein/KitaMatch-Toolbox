@@ -39,16 +39,10 @@ Das Jugendamt muss sich bereits im Vorfeld über Vor- und Nachteile des Matching
 - Eine Reflexion des bisherigen Verfahrens ist der grundlegende, erste Schritt, um die IST-Situation zu beschreiben. Erst im Anschluss ist es sinnvoll, dass die Beteiligten Wünsche und Ziele eines neuen Verfahrens (das Gale Shapley Verfahren) formulieren.  
 - Ein weiterer Meilenstein ist die Information und Legitimation durch die Politik, damit das neue Verfahren eingeführt werden kann. Darüber hinaus sollten die Vertretungen von Träger, Kitas, die Fachberatungen der Kindertagespflege, die Kindertagespflegepersonen sowie die Eltern informiert und sensibilisiert werden. 
 - Neben einer klaren und transparenten Kommunikation unter den Beteiligten ist die Bereitschaft, etwas Neues zu wagen, ebenso wichtig. Dabei spielt lösungsorientiertes, gemeinschaftliches Handeln im Rahmen der Verantwortungsgemeinschaft, die die Beteiligten bilden, eine große Rolle.
-- Sowohl die frühzeitige Information an die Verfahrensbeteiligten als auch eine intensive Presse- und Öffentlichkeitsarbeit tragen zum Gelingen des Projektes bei. Hierzu zählen insbesondere Informationsgespräche mit den politischen Vertretungen, Trägern/Kitaleitungen, Fachberatungen der Kindertagespflege, Kindertagespflegepersonen und ebenso Elternbriefe mit konkreten Hinweisen, intensive Pressearbeit. In diesem Zuge ist es sicherlich sinnvoll, beispielsweise erfahrene Kitaleitungen als Ansprechpartner:Innen bzw. Multiplikatoren einzusetzen.  
+- Sowohl die frühzeitige Information an die Verfahrensbeteiligten als auch eine intensive Presse- und Öffentlichkeitsarbeit tragen zum Gelingen des Projektes bei. Hierzu zählen insbesondere Informationsgespräche mit den politischen Vertretungen, Trägern/Kitaleitungen, Fachberatungen der Kindertagespflege, Kindertagespflegepersonen und ebenso Elternbriefe mit konkreten Hinweisen, intensive Pressearbeit. In diesem Zuge ist es sinnvoll, beispielsweise erfahrene Kitaleitungen als Ansprechpartner:Innen bzw. Multiplikatoren einzusetzen.  
 - Für eine erfolgreiche Implementierung ist es ebenso wichtig, die Regelungen des Datenschutzes einzuhalten. Denn die notwendigen Daten zählen zu dem persönlichen und damit zu schützenden Datengut.
   Damit einher geht die Notwendigkeit, dass die erforderlichen Daten (z.B. Angaben der Eltern, Anzahl der freien Plätze) vollständig und wahrheitsgetreu sind. 
 - Sowohl nach der Implementierung als auch im Rahmen der Verstetigung ist eine regelmäßige Reflexion mit den Beteiligten sinnvoll, sodass etwaige Optimierungen   umgesetzt werden können. 
-
-
-
----
-
-## Die Einführung
 
 Sofern ein entsprechender politischer Beschluss für die Einführung des Matchingverfahrens vorliegt, ist es wichtig, alle Beteiligten frühzeitig mit einzubinden. Dazu zählen insbesondere die Träger-, Kitavertretungen, Fachberatungen der Kitas und Kindertagespflege ebenso die Eltern.
 
