@@ -119,7 +119,7 @@ permalink: /
     display: flex;
     width: 100%;
     justify-content: center;
-    margin-top: 50%;
+    margin-top: 55%;
   }
   .navigation-auto div{
     width: 50px;
