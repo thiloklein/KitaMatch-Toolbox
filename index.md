@@ -81,6 +81,7 @@ permalink: /
     width: 100%;
     display: flex;
     justify-content: center;
+    margin-top: 50%;
   }
   .manual-btn{
     width: 50px;
@@ -119,7 +120,7 @@ permalink: /
     display: flex;
     width: 100%;
     justify-content: center;
-    margin-top: 55%;
+    margin-top: 50%;
   }
   .navigation-auto div{
     width: 50px;
@@ -194,7 +195,6 @@ permalink: /
       <div class="auto-btn5"></div>
     </div>
     <!--automatic navigation end-->
-  </div>
   <!--manual navigation start-->
   <div class="navigation-manual">
     <label for="radio1" class="manual-btn"></label>
@@ -202,6 +202,7 @@ permalink: /
     <label for="radio3" class="manual-btn"></label>
     <label for="radio4" class="manual-btn"></label>
     <label for="radio5" class="manual-btn"></label>
+  </div>
   </div>
   <!--manual navigation end-->
 </div>
