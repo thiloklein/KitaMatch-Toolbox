@@ -86,7 +86,7 @@ permalink: /
   .manual-btn{
     width: 50px;
     height: 10px;
-    border: 2px solid rgb(0, 0, 0);
+    border: 2px solid grey;
     margin: 6px;
     cursor: pointer;
   }
