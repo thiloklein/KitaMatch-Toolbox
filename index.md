@@ -310,7 +310,9 @@ Entwickelt von einem Team...
 
 ---
 
-[PDF-Download](){: .btn .btn-purple }
+[PDF-Download](){: .btn .btn-purple } 
+[Fact Sheet - Kitas](){: .btn .btn-purple } 
+[Fact Sheet - Jugendamt](){: .btn .btn-purple }
 
 ---
 
