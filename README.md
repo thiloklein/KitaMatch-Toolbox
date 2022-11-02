@@ -31,7 +31,8 @@ Besonders die Startseite (**_index.md_**) beinhaltet einige dynamische/graphisch
 
 ### Download-Buttons
 
-Buttons [Button](Link){: .btn .btn-purple } können durch den Befehl  
+Buttons können durch den Befehl  
+
 ```markdown
 [Link button](http://example.com/){: .btn .btn-purple }
 ```
@@ -40,10 +41,6 @@ erstellt werden.
 ### Wichtig-Boxen
 
 Solche Boxen, die wichtige Inhalte hervorheben, können durch den Befehl
-
-> Überschrift der Box
->
-> Inhalt der Box.
 
 ```markdown
 {: .note-title}
@@ -54,9 +51,6 @@ Solche Boxen, die wichtige Inhalte hervorheben, können durch den Befehl
 erzeugt werden. Hierbei steht in der ersten Zeile immer die "Überschrift der Box".
 
 Soll es keine Übeschrift geben, verwendet man den Befehl
-
-{: .highlight}
-> Inhalt der Box
 
 ```markdown
 {: .highlight}
