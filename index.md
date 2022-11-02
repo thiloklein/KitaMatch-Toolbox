@@ -88,6 +88,7 @@ permalink: /
     border: 2px solid grey;
     margin: 6px;
     cursor: pointer;
+    margin-left: 5%;
   }
   .manual-btn:hover{
     background: purple;
@@ -124,6 +125,8 @@ permalink: /
     cursor: pointer;
     border: 2px solid grey;
     transition: 0.5s;
+    margin-left: 5%;
+
   } 
   
   #radio1:checked ~ .navigation-auto .auto-btn1{
