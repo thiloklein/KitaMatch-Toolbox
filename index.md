@@ -152,7 +152,7 @@ permalink: /
     
 </style>
 
-[![assets/images/banner.PNG](assets/images/banner.PNG "Zum Kontaktieren hier klicken")](mailto:thilo.klein@zew.de)
+[![assets/images/banner2.PNG](assets/images/banner2.PNG "Zum Kontaktieren hier klicken")](mailto:thilo.klein@zew.de)
 
 
 ---
