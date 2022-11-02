@@ -78,7 +78,7 @@ Bei einem weiteren Treffen der Kitaleitungen und FB KTP werden mit entsprechende
 
 ## Verabschiedung des Katalogs
 
-Die Kitaleitungen und FB KTP legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kita-Gremium zur Anhörung vor, um die Kriterien zu diskutieren und letztlich zu verabschieden (vgl. § 10 IV KiBiz NRW siehe externer <mark>Link</mark>). 
+Die Kitaleitungen und FB KTP legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kita-Gremium zur Anhörung vor, um die Kriterien zu diskutieren und letztlich zu verabschieden ([vgl. § 10 IV KiBiz NRW](https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=6&vd_id=18135&vd_back=N894&sg=0&menu=1)). 
 
 Je nach Anzahl der beteiligten Kitas bzw. FB KTP und in Abhängigkeit der Trägerstruktur der Kitalandschaft können mehrere Feedback-Schleifen entstehen. Dies sollte in der Zeitplanung berücksichtigt werden. 
 
