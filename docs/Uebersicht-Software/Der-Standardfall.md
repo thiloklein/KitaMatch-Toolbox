@@ -133,7 +133,7 @@ Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle 
 
 ---
 
-## KitaMatch/Das Vergabeverfahren aus Sicht der Kita-Leitungen 
+## KitaMatch aus Sicht der Kita-Leitungen 
 
 Dieses Kapitel richtet sich an die Leitungen von Kitas oder Trägern, welche an dem Verfahren teilnehmen. 
 
