@@ -80,7 +80,6 @@ permalink: /
     position: absolute;
     width: 100%;
     display: flex;
-    justify-content: center;
     margin-top: 50%;
   }
   .manual-btn{
@@ -90,9 +89,6 @@ permalink: /
     margin: 6px;
     cursor: pointer;
   }
-  .manual-btn:not(:last-child){
-    margin-right: 40px;
-  } 
   .manual-btn:hover{
     background: purple;
   }
@@ -119,7 +115,6 @@ permalink: /
     position: absolute;
     display: flex;
     width: 100%;
-    justify-content: center;
     margin-top: 50%;
   }
   .navigation-auto div{
@@ -130,9 +125,6 @@ permalink: /
     border: 2px solid grey;
     transition: 0.5s;
   } 
-  .navigation-auto div:not(:last-child){
-    margin-right: 40px;
-  }
   
   #radio1:checked ~ .navigation-auto .auto-btn1{
     background: purple;
