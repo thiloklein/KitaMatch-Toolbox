@@ -79,7 +79,6 @@ permalink: /
   .navigation-manual{
     position: absolute;
     width: 100%;
-    margin-top: -5%;
     display: flex;
     justify-content: center;
   }
@@ -94,7 +93,7 @@ permalink: /
     margin-right: 40px;
   } 
   .manual-btn:hover{
-    background: #000000;
+    background: purple;
   }
   
   #radio1:checked ~ .first{
@@ -127,7 +126,7 @@ permalink: /
     height: 10px;
     margin: 6px;
     cursor: pointer;
-    border: 2px solid #000000;
+    border: 2px solid grey;
     transition: 0.5s;
   } 
   .navigation-auto div:not(:last-child){
@@ -135,19 +134,19 @@ permalink: /
   }
   
   #radio1:checked ~ .navigation-auto .auto-btn1{
-    background: #000000;
+    background: purple;
   }
   #radio2:checked ~ .navigation-auto .auto-btn2{
-    background: #000000;
+    background: purple;
   }
   #radio3:checked ~ .navigation-auto .auto-btn3{
-    background: #000000;
+    background: purple;
   }
   #radio4:checked ~ .navigation-auto .auto-btn4{
-    background: #000000;
+    background: purple;
   }
   #radio5:checked ~ .navigation-auto .auto-btn5{
-    background: #000000;
+    background: purple;
   }    
     
 </style>
