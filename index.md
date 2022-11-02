@@ -171,19 +171,19 @@ permalink: /
     <!--radio buttons end-->
     <!--slide images start-->
     <div class="slide first">
-      <img src="assets/images/1_Screen.png" alt="">
+      <img src="assets/images/1_Screen.PNG" alt="">
     </div>
     <div class="slide">
-      <img src="assets/images/2_Screen.png" alt="">
+      <img src="assets/images/2_Screen.PNG" alt="">
     </div>
     <div class="slide">
-      <img src="assets/images/3_Screen.png" alt="">
+      <img src="assets/images/3_Screen.PNG" alt="">
     </div>
     <div class="slide">
-      <img src="assets/images/4_Screen.png" alt="">
+      <img src="assets/images/4_Screen.PNG" alt="">
     </div>
     <div class="slide">
-      <img src="assets/images/5_Screen.png" alt="">
+      <img src="assets/images/5_Screen.PNG" alt="">
     </div>
     <!--slide images end-->
     <!--automatic navigation start-->
