@@ -314,12 +314,6 @@ Entwickelt von einem Team...
 ## Gefördert durch
 
 {:style="text-align:center;"}
-[![bertelsmann_small.JPG](assets/images/bertelsmann_small.JPG){:height="200px" width="200px"}](https://www.bertelsmann-stiftung.de/de/startseite)
-[![Leibniz_small.JPG](assets/images/Leibniz_small.JPG){:height="200px" width="200px"}](https://www.leibniz-gemeinschaft.de/)
-[![ZEW_small.JPG](assets/images/ZEW_small.JPG){:height="200px" width="200px"}](https://www.zew.de/)
-
-
-{:style="text-align:center;"}
 [![bertelsmann_small.JPG](assets/images/bertelsmann_small.JPG){:width="30%"}](https://www.bertelsmann-stiftung.de/de/startseite)
 [![Leibniz_small.JPG](assets/images/Leibniz_small.JPG){:width="30%"}](https://www.leibniz-gemeinschaft.de/)
 [![ZEW_small.JPG](assets/images/ZEW_small.JPG){:width="30%"}](https://www.zew.de/)
