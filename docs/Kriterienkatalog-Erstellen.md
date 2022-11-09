@@ -22,7 +22,7 @@ Das Matching funktioniert - so gut wie die [Kriterien formuliert und konkret sin
 
 ##  Die Vorbereitung 
 
-Bei der Erstellung des Kriterienkatalogs ist es hilfreich, wenn ein/e Moderator/in (z.B. die Projektleiterin in Absprache mit der/m Bedarfsplaner/in des zuständigen Jugendamtes) diesen Prozess neutral begleitet, Gedanken aufgreift, Diskussionen anregt, Ergebnisse zusammenfasst, offen, transparent ebenso ergebnisorientiert und zielstrebig agiert. Es ist zu überlegen, ob die Moderator/in die hiesige Kitalandschaft bzw. Trägerstruktur kennen sollte oder nicht. Kenntnisse über Besonderheiten und Anforderungen eines Katalogs von Aufnahmekriterien wären sicherlich von Vorteil.  
+Bei der Erstellung des Kriterienkatalogs ist es hilfreich, wenn ein/e Moderator/in (z.B. die Projektleitung oder Bedarfsplanung des zuständigen Jugendamtes) diesen Prozess neutral begleitet, Gedanken aufgreift, Diskussionen anregt, Ergebnisse zusammenfasst, offen, transparent ebenso ergebnisorientiert und zielstrebig agiert. Es ist zu überlegen, ob die Moderator/in die hiesige Kitalandschaft bzw. Trägerstruktur kennen sollte oder nicht. Kenntnisse über Besonderheiten und Anforderungen eines Katalogs von Aufnahmekriterien wären sicherlich von Vorteil.  
 
 Um die beteiligten Kitaleitungen bzw. FB KTP über das Matching und insbesondere über die Erstellung des dafür notwendigen Kriterienkatalogs zu informieren, ist eine Auftaktveranstaltung mit **allen** beteiligten Trägern, Kitaleitungen und FB KTP sinnvoll. Dabei sollte das Ziel sein, möglichst viele Informationen zu streuen, Verständnis und Akzeptanz zu schaffen, sodass die Beteiligten letztlich ihr Einverständnis für die Umsetzung des Projektes geben. 
 
