@@ -38,7 +38,7 @@ Ein weiterer Grund für die Einführung war der Wunsch nach Arbeitserleichterung
 
 **Gerechterer Zugang zu Betreuungsplätzen**
 
-Darüber hinaus war das Ziel, dass die Eltern keine strategischen Überlegungen mehr anstellen sollten. Die Entscheidung über die Platzvergabe ist streng persönlich und höchst sensibel, da viele Eltern die beste frühkindliche Bildung und Betreuung für ihr Kind wünschen. Daher ist es plausibel, dass sie einiges unternehmen, um den bestmöglichen Betreuungsplatz zu erhalten. Hierbei haben besser informierte Eltern sicherlich einen Vorteil und ggfs. bessere Chancen auf den Wunschplatz. Vor diesem Hintergrund war ein weiteres Ziel, den Zugang zur frühkindlichen Bildung für alle Kinder gleichermaßen zu ermöglichen.
+Darüber hinaus war das Ziel, dass die Eltern keine strategischen Überlegungen mehr anstellen sollten. Die Entscheidung über die Platzvergabe ist streng persönlich und höchst sensibel, da viele Eltern die beste frühkindliche Bildung und Betreuung für ihr Kind wünschen. Daher ist es plausibel, dass sie einiges unternehmen, um ihren Wunschplatz zu erhalten. Hierbei haben besser informierte Eltern sicherlich einen Vorteil und ggfs. bessere Chancen auf den Wunschplatz. Vor diesem Hintergrund war ein weiteres Ziel, den Zugang zur frühkindlichen Bildung für alle Kinder gleichermaßen zu ermöglichen.
 
 
 ---
@@ -87,7 +87,7 @@ In Vorbereitung auf das Matching haben die Kitaleitungen (i.d.R. der Erstwunsche
 
 Auf Basis dieser Bepunktung wurde in Anlehnung an das Kinderbildungsgesetz NRW eine Bewerberliste für drei Altersgruppen pro  Einrichtung erstellt: unter 2-jährige, 2-jährige und 3- bis 6-jährige (in Anlehnung an das Kinderbildungsgesetz NRW). Diese Bewerberliste hat die jeweilige Kitaleitung bzw. Fachberatung der Kindertagespflege in dem KitaMatch-Programm auf  [Vollständigkeit und Plausibilität](/docs/Uebersicht-Software/Der-Standardfall#welche-daten-benötigt-kitamatch) geprüft. Ferner hatte das Jugendamt die Aufgabe, im Vorfeld des Matchings die [Zahl der freien Plätze](/docs/Uebersicht-Software/Der-Standardfall) (in Abstimmung mit den beteiligten Trägervertretungen, Kitaleitungen bzw. Fachberatung der Kindertagespflege) in den jeweiligen Altersgruppen [festzulegen](/docs/Uebersicht-Software/Der-Standardfall).
 
-Ebenso war das Jugendamt aufgefordert, zu entscheiden, **welche Kinder gematcht** werden sollen. In der Pilotkommune wurden die Betreuungswünsche für einen Zeitpunkt zwischen dem 1. August  und  30. November 2019 berücksichtigt.
+Ebenso war das Jugendamt aufgefordert, zu entscheiden, **welche Kinder gematcht** werden sollen. In der Pilotkommune wurden die Betreuungswünsche für einen Zeitpunkt zwischen dem 1. August und 30. November 2019 berücksichtigt.
 
 Eine weitere wichtige Aufgabe in Vorbereitung auf das Matching ist die Prüfung von besonderen Konstellationen. Dazu gehören beispielsweise die **Wechselkinder**; also die Kinder, die bereits einen Platz in einer Betreuungseinrichtung haben, aber wechseln möchten. Für diese Fälle sind bedarfsplanungsrechtliche Lösungen mit den hiesigen Trägern, Kitaleitungen und Fachberatung der Kindertagespflege  zu erarbeiten.
 
