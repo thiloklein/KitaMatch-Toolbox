@@ -32,7 +32,7 @@ Sobald der erforderliche politische Beschluss und idealerweise das Einverständn
 
 ## Die Projektleitung und die Rolle des Jugendamtes
 
-Eine Projektleitung ist für das Gelingen zwingend erforderlich. Sie sollte über die erforderlichen kommunikativen und projektorientierten Skills und Ressourcen verfügen, das Matchingverfahren und die Zusammenhänge verstehen und eng mit dem Jugendamt agieren. Sofern die Kommune eigene Kitas betreibt, sollte sich die Projektleitung dieser besonderen Stellung bewusst sein. Dies sollte bei der Besetzung/Auswahl der Projektleitung berücksichtigt werden. 
+Eine Projektleitung ist für das Gelingen zu empfehlen. Sie kann extern beauftragt oder ein/e Mitarbeiter/in des Jugendamtes sein und sollte über die erforderlichen kommunikativen und projektorientierten Skills und Ressourcen verfügen, das Matchingverfahren und die Zusammenhänge verstehen und eng mit dem Jugendamt agieren. Sofern die Kommune eigene Kitas betreibt, sollte sich die Projektleitung dieser besonderen Stellung bewusst sein. Dies sollte bei der Besetzung/Auswahl der Projektleitung berücksichtigt werden. 
 
 Das Jugendamt muss sich bereits im Vorfeld über Vor- und Nachteile des Matchingverfahrens bewusst sein – ebenso über den Aufwand, das neue Verfahren einzuführen, und über den Mehrwert, wenn sich das Verfahren verstetigt. Sicherlich sind mit der Einführung eines solchen neuen Verfahrens ein Risiko und eine gewisse Skepsis verbunden. Umso wichtiger sind folgende Erfolgsfaktoren und Aufgaben:
 
@@ -127,7 +127,7 @@ Aus Erfahrung heraus ist es sinnvoll, die freien Plätze im Vorfeld mit der Kita
 
 Ähnlich verhält es sich bei den Kindern, die vor dem Kitajahr-Beginn aufgenommen werden.
 
-Zu den weiteren Aufgaben der Projektleitung in Vorbereitung auf den Matching-Day gehört, dass sie besondere Konstellationen erkennt  (z.B. Wechselkinder), das Jugendamt entsprechend informiert und bedarfsplanungsrechtliche Lösungen erhält. Dies bezieht sich auch auf die Sicherung der Datenqualität. Es ist wichtig, dass die Daten der Eltern, die für das Ausfüllen des Kriterienkatalogs notwendig sind, auch vollständig vorliegen. Ebenso ist sicherzustellen, dass nur die Kinder auf der Bewerberliste stehen, die einen Platz suchen; nicht, dass noch Kinder gelistet sind, die zwischenzeitlich einen Platz erhalten haben oder verzogen sind o.ä.
+Zu den weiteren Aufgaben der Projektleitung in Vorbereitung auf den Matching-Day gehört, dass sie besondere Konstellationen erkennt (z.B. Wechselkinder), das Jugendamt entsprechend informiert und bedarfsplanungsrechtliche Lösungen erhält. Dies bezieht sich auch auf die Sicherung der Datenqualität. Es ist wichtig, dass die Daten der Eltern, die für das Ausfüllen des Kriterienkatalogs notwendig sind, auch vollständig vorliegen. Ebenso ist sicherzustellen, dass nur die Kinder auf der Bewerberliste stehen, die einen Platz suchen; nicht, dass noch Kinder gelistet sind, die zwischenzeitlich einen Platz erhalten haben oder verzogen sind o.ä.
 
 
 {: .note-title}
@@ -138,7 +138,7 @@ Zu den weiteren Aufgaben der Projektleitung in Vorbereitung auf den Matching-Day
 
 **Die Durchführung des Matching-Days**
 
-Zum sogenannten „Matching-Day“ kommen die beteiligten Kitaleitungen, Trägervertretungen und die Fachberatung der Kindertagespflege mit Unterstützung der Projektleitung (und des Jugendamtes) in einem IT-Schulungsraum der Kommune zusammen, um den Eltern über das KitaMatch-Programm virtuelle Platzangebote zu machen. Auf Basis der Wunsch-Reihenfolge der Eltern nimmt das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern an oder lehnt sie ab – und zwar solange, bis alle Plätze vergeben sind bzw. bis sich die BewerberInnen nicht mehr besserstellen können. Mehr zu den [konkreten Aufgaben der Projektleitung](/docs/Uebersicht-Software/Vergabetag) während des Matching-Days.
+Zum sogenannten „Matching-Day“ kommen die beteiligten Kitaleitungen, Trägervertretungen und die Fachberatung der Kindertagespflege mit Unterstützung der Projektleitung (und des Jugendamtes) bestenfalls in einem IT-Schulungsraum der Kommune zusammen, um den Eltern über das KitaMatch-Programm virtuelle Platzangebote zu machen. Auf Basis der Wunsch-Reihenfolge der Eltern nimmt das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern an oder lehnt sie ab – und zwar solange, bis alle Plätze vergeben sind bzw. bis sich die BewerberInnen nicht mehr besserstellen können. Mehr zu den [konkreten Aufgaben der Projektleitung](/docs/Uebersicht-Software/Vergabetag) während des Matching-Days.
 
 Das Matching kann aber auch online durchgeführt werden. Hierfür bedarf es aber sowohl technische als auch [organisatorische Hilfestellung](/docs/Uebersicht-Software/Matching-Day#das-matching) (z.B. jeweils zwei Endgeräte für die Kitaleitungen bzw. FB KTP, mit denen sie für eine bessere Übersicht das Matching verfolgen bzw. das Matching-Tool bedienen können)).
 
