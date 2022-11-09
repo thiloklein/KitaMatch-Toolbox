@@ -46,7 +46,7 @@ Der Matching-Day kann sowohl in Präsenz oder online erfolgen, wie die folgenden
 
 ## Die Ausstattung
 
-- Der Moderationsplatz sollte mit einem PC und Beamer/Leinwand ausgestattet sein. 
+- Der Moderationsplatz sollte idealerweise mit einem PC und Beamer/Leinwand ausgestattet sein. 
 - Pro Teilnehmer:in sollte ein PC mit gesicherter Internetverbindung und Zugang zum KitaMatch-Programm zur Verfügung gestellt werden. 
 - Für eine angenehme Arbeitsatmosphäre können Kaffee- und Kaltgetränke als Serviceleistung bereitgestellt werden. 
 
