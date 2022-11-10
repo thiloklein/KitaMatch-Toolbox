@@ -80,19 +80,19 @@ permalink: /docs/Referenzen
 
 <div class="slider">
     <div class="slide active">
-       <img src="1_Screen.png" alt="">
+       <img src="../1_Screen.png" alt="">
     </div>
     <div class="slide">
-        <img src="2_Screen.png" alt="">
+        <img src="../2_Screen.png" alt="">
     </div>
     <div class="slide">
-        <img src="3_Screen.png" alt="">
+        <img src="../3_Screen.png" alt="">
     </div>
     <div class="slide">
-        <img src="4_Screen.png" alt="">
+        <img src="../4_Screen.png" alt="">
     </div>
     <div class="slide">
-        <img src="5_Screen.png" alt="">
+        <img src="../5_Screen.png" alt="">
     </div>
 
     <div class="navigation">
