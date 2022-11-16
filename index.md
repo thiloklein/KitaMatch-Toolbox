@@ -151,11 +151,13 @@ permalink: /
 .tooltip-wrap .tooltip-content {
   display: none;
   position: absolute;
-  bottom: 5%;
-  left: 30%;
+  bottom: 7%;
+  left: 50%;
   right: 5%;
   background-color: rgb(122, 61, 122);
-  padding: .5em;
+  color: white;
+  font-size: small;
+  padding: 0.5%;
 }
 .tooltip-wrap:hover .tooltip-content {
   display: block;
