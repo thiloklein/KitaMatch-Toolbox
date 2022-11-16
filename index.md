@@ -144,8 +144,32 @@ permalink: /
   #radio5:checked ~ .navigation-auto .auto-btn5{
     background: purple;
   }    
-    
+  
+.tooltip-wrap {
+  position: relative;
+}
+.tooltip-wrap .tooltip-content {
+  display: none;
+  position: absolute;
+  bottom: 5%;
+  left: 30%;
+  right: 5%;
+  background-color: rgb(122, 61, 122);
+  padding: .5em;
+}
+.tooltip-wrap:hover .tooltip-content {
+  display: block;
+}
 </style>
+
+<div class="tooltip-wrap">
+  <a href="mailto:thilo.klein@zew.de"><img src="assets/images/banner2.PNG" alt="Banner" /></a>
+<div class="tooltip-content">
+  Zum Kontaktieren hier klicken!<br>
+  <br>
+  Bildnachweis: iStock.com/Kamaga
+</div> 
+</div> 
 
 [![assets/images/banner2.PNG](assets/images/banner2.PNG "Zum Kontaktieren hier klicken")](mailto:thilo.klein@zew.de)
 
