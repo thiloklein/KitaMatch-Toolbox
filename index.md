@@ -152,8 +152,9 @@ permalink: /
   display: none;
   position: absolute;
   bottom: 7%;
-  left: 50%;
+  left: 60%;
   right: 5%;
+  text-align: right;
   background-color: rgb(122, 61, 122);
   color: white;
   font-size: small;
