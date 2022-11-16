@@ -152,10 +152,10 @@ permalink: /
   display: none;
   position: absolute;
   bottom: 7%;
-  left: 60%;
+  left: 65%;
   right: 5%;
   text-align: right;
-  background-color: rgb(122, 61, 122);
+  background-color: rgb(137, 69, 137);
   color: white;
   font-size: small;
   padding: 0.5%;
@@ -166,10 +166,8 @@ permalink: /
 </style>
 
 <div class="tooltip-wrap">
-  <a href="mailto:thilo.klein@zew.de"><img src="assets/images/banner2.PNG" alt="Banner" /></a>
+  <a href="mailto:thilo.klein@zew.de"><img src="assets/images/banner2.PNG" alt="Banner" title="Zum Kontaktieren hier klicken" /></a>
 <div class="tooltip-content">
-  Zum Kontaktieren hier klicken!<br>
-  <br>
   Bildnachweis: iStock.com/Kamaga
 </div> 
 </div> 
