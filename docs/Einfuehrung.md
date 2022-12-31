@@ -57,5 +57,5 @@ Nachdem in den letzten Jahren gezeigt wurde, dass das vom ZEW entwickelte Verfah
 
 ---
 
-[^1]: Siehe beispielsweise das [Urteil des OVG Münster vom 18.12.2017]: (http://www.justiz.nrw.de/nrwe/ovgs/ovg_nrw/j2017/12_B_930_17_Beschluss_20171218.html)
+[^1]: Siehe beispielsweise das [Urteil des OVG Münster vom 18.12.2017](http://www.justiz.nrw.de/nrwe/ovgs/ovg_nrw/j2017/12_B_930_17_Beschluss_20171218.html)
 
