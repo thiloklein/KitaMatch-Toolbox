@@ -96,35 +96,35 @@ Eine weitere wichtige Aufgabe in Vorbereitung auf das Matching ist die Prüfung 
 
 Für die Platzvergabe des Kitajahres 2020/21 kamen die beteiligten Kitaleitungen, Trägervertretungen und die Fachberatung der Kindertagespflege im Januar 2020 zum sogenannten „Matching Day“ im IT-Schulungsraum des Kreises zusammen, um den Eltern über das [KitaMatch-Programm](/docs/Uebersicht-Software) **virtuelle Platzangebote** zu machen. Auf Basis der Wunschreihenfolge der Eltern hat das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern angenommen oder abgelehnt – und zwar solange, bis alle Plätze vergeben waren bzw. bis sich die Bewerber:innen nicht mehr besserstellen können. 
 
-Das Matching kann aber auch online durchgeführt werden. Hierfür bedarf es sowohl technische als auch organisatorische Hilfestellung (z.B. jeweils zwei Endgeräte für die Kitaleitungen bzw. Fachberatung der Kindertagespflege, mit denen sie zum einen per Videokonferenz das Matching verfolgen und zum anderen das KitaMatch-Programm bedienen können).
+Das Matching kann aber auch online durchgeführt werden. Hierfür bedarf es sowohl technischer als auch organisatorischer Hilfestellung (z.B. jeweils zwei Endgeräte für die Kitaleitungen bzw. die Fachberatung der Kindertagespflege, mit der sie zur besseren Übersicht das Matching verfolgen bzw. das Matching-Tool bedienen können).
 
-Im Februar 2020 schließlich schickten die Kitaleitungen bzw. Fachberatung der Kindertagespflege, genau wie ihre Kollegen und Kolleginnen in den anderen Orten des Jugendamtsbezirks, den Eltern über das Kreis STeinfurt ElternPortal - STEP **tatsächlich** eine Zusage bzw. Absage.
+Im Februar 2020 schließlich schickten die Kitaleitungen bzw. die Fachberatung der Kindertagespflege, genau wie ihre Kolleg:innen in den anderen Orten des Jugendamtsbezirks, den Eltern über das Kreis **ST**einfurt **E**ltern**P**ortal - STEP **tatsächlich** eine verbindliche Zusage bzw. Absage.
 
 
 ---
 
-## Das Matching aus Sicht der Eltern, der Kita-Leitungen und des Jugendamtes
+## Das Matching aus Sicht der Eltern, der Kitaleitungen und des Jugendamtes
 
 
-In der Pilotkommune wurde das neuartige Verfahren mit den beteiligten Kitaleitungen bzw. FB KTP ein paar Wochen nach dem Matching-Day reflektiert, Schwachstellen im Verfahrensablauf aufgedeckt und Optimierungen formuliert. Im Ergebnis waren sich alle Beteiligten schnell einig: das Matching soll auf jeden Fall beibehalten werden, da es sehr transparent, fair und zeitsparend ist. Die wesentlichen Erfahrungen drei zentralen Akteursgruppen Eltern, Kitaleitungen und Jugendämtern werden im Folgenden aufgeführt:
+In der Pilotkommune Saerbeck haben die beteiligten Kitaleitungen/Trägervertretungen bzw. die Fachberatung der Kindertagespflege mit Vertreter:innen des Jugendamts ein paar Wochen nach dem Matching Day das neuartige Verfahren reflektiert, Schwachstellen im Verfahrensablauf aufgedeckt und Optimierungen formuliert. Im Ergebnis waren sich alle Beteiligten schnell einig: Das Matching soll auf jeden Fall beibehalten werden, da es sehr transparent, fair und zeitsparend ist. Die wesentlichen Erfahrungen drei zentralen Akteursgruppen Eltern, Kitaleitungen/Trägervertretungen und Jugendämtern werden im Folgenden aufgeführt:
 
 **Aus Sicht der Eltern**
 
-Die Eltern haben - nach wie vor - gemäß § 5 Sozialgesetzbuch VIII (SGB VIII) ihr Wunsch- und Wahlrecht, das für ein gelungenes Matchingverfahren zwingend notwendig ist. Sie sind gehalten, ihre wahren Prioritäten anzugeben. Je mehr Wünsche sie angeben, desto besser. Eltern müssen keine strategischen Abwägungen mehr machen, wie sie sich besserstellen können. Mögliche, strategische Überlegungen von Eltern bei den Angaben der Prioritäten, die es sicherlich im bisherigen First-Preference-First Verfahren gegeben hat, sind hinfällig. Denn die Eltern können sicher sein, dass es grundsätzlich „stabile Entscheidungen“ gibt: sie bekommen bei einer ihrer ausgewählten Wunscheinrichtung einen Platz, weil sie dort eine höhere Priorität gemäß dem Kriterienkatalog haben als die Eltern, die keinen Platz in dieser Einrichtung erhalten. Durch höhere Kriterientreue wird die Kitaplatzvergabe fairer. Die Eltern können besser nachvollziehen, warum sie (k)einen Platz bekommen haben. Denn die Kriterien und das Vergabeverfahren sind transparenter.
+Die Eltern haben nach wie vor gemäß §5 Achtes Buch Sozialgesetzbuch (SGB VIII) ihr Wunsch- und Wahlrecht, das für ein gelungenes Matchingverfahren zwingend notwendig ist. Sie sind gehalten, ihre **wahren** Prioritäten anzugeben. Je mehr Wünsche sie angeben, desto besser. Eltern müssen nicht mehr strategisch abwägen, wie sie sich besser stellen können. Mögliche, strategische Überlegungen von Eltern bei den Angaben der Prioritäten, die es sicherlich im bisherigen **First-Preference-First-Verfahren** gegeben hat, sind hinfällig. Denn die Eltern können sicher sein, dass es grundsätzlich **stabile Entscheidungen** gibt: Sie bekommen bei einer von ihren ausgewählten Wunscheinrichtung einen Platz, weil sie dort eine höhere Priorität gemäß dem Kriterienkatalog haben als die Eltern, die in dieser Einrichtung leer ausgehen. Durch höhere Kriterientreue wird die Kitaplatzvergabe fairer. Die Eltern können besser nachvollziehen, warum sie (k)einen Platz bekommen haben, weil die Kriterien und das Vergabeverfahren transparenter sind.
 
 {: .note-title}
-> Erfahrungen in Kürze
+> Kurz & bündig:
 > 
-> - Frühzeitige, umfassende Information an die Eltern war sinnvoll
-> - Keine strategischen Überlegungen mehr
+> - Es empfiehlt sich eine frühzeitige, umfassende Information an die Eltern.
+> - Strategischen Überlegungen werden überflüssig.
 > - Durch Priorisierung der Wunscheinrichtungen wird das Wunsch- und Wahlrecht berücksichtigt
-> - Transparentes und nachvollziehbares Vergabeverfahren
-> - Das Matchingergebnis ist das für sie fairste Resultat.
+> - Das Vergabeverfahren ist transparent und nachvollziehbar.
+> - Das Matchingergebnis ist das fairste Resultat für die Bewerber.
 
 
-**Aus Sicht der Kitaleitungen**
+**Aus Sicht der Kitaleitungen/Trägervertreungen**
 
-Nach Aussagen der Kitaleitungen ist es gut, sich bewusst nochmal über die Aufnahmekriterien und deren Gewichtung auszutauschen. Sie kamen zur Erkenntnis, dass „man gar nicht so weit voneinander entfernt liegt“ und durchaus in der Lage sei, einen gemeinsamen Kriterienkatalog zu entwickeln. Es sei optimal, dass die Kriterientreue grundsätzlich durch das Matching garantiert wird. Das Matchingverfahren sei „eine Art Erleichterung, da die Kinder sachlich, neutral sortiert und ausgewählt werden.“ Dies zeigt, wie groß der Erklärungs- und Rechtfertigungsdruck im Rahmen des anderen Verfahrens war. Scheinbar erleben sie eine emotionale und organisatorische Erleichterung, die sie motiviert, das Matchingverfahren beizubehalten.
+Nach Aussagen der Kitaleitungen/Trägervertretungen ist es gut, wenn sich die beteiligten Akteure noch einmal bewusst über die Aufnahmekriterien und deren Gewichtung austauschen. Sie kamen zur Erkenntnis, dass „man gar nicht so weit voneinander entfernt [liege; Anm. d. Verf.]“ und durchaus in der Lage sei, einen gemeinsamen Kriterienkatalog zu entwickeln. Es sei optimal, dass die Kriterientreue grundsätzlich durch das Matching garantiert wird. Das Matchingverfahren sei „eine Art Erleichterung, da die Kinder sachlich, neutral sortiert und ausgewählt werden.“ Dies zeigt, wie groß der Erklärungs- und Rechtfertigungsdruck im Rahmen des anderen Verfahrens war. Scheinbar erleben sie eine emotionale und organisatorische Erleichterung, die sie motiviert, das Matchingverfahren beizubehalten.
 
 Ein weiterer Vorteil ist aus ihrer Sicht die Wahrung der gesetzlich verankerten Trägerautonomie (vgl. § 47 SGB VIII). Denn die Leitungen bzw. FB KTP haben in jeder Altersgruppe die Möglichkeit, aus „gutem Grund“ eine Abweichung von der eigentlichen Bewerberliste vorzunehmen. Dies sei für sie eine Erleichterung, weil die teilweise plötzlich eintretenden, schwierigen Lebenssituationen der Familien flexibles und unkompliziertes Handeln und Entscheiden erfordern.
 
