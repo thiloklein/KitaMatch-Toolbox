@@ -25,11 +25,11 @@ Um das oben beschriebene Verfahren umsetzen zu können, benötigt die Software d
 
 ![Datensatz.jpg](../../assets/images/Datensatz.jpg "Beispiel eines vollständigen Datensatzes")
 
-Ein Beispiel für einen vollständigen Datensatz finden Sie oben in der Grafik sowie als Excel hier: <mark>Link</mark>
+Ein Beispiel für einen vollständigen Datensatz finden Sie oben in der Grafik sowie als Excel unter: <mark>Link</mark>
 
-Obligatorische Angaben sind Name, Geburtsdatum, Alterskohorte und die von den Eltern geäußerten Wunscheinrichtungen (1. bis 12. Wunscheinrichtung[^3]). Wichtig hierbei ist, dass ein Dropdown Menü für die Namen der Einrichtungen verwendet wird. Auch kleinste Abweichungen in der Schreibweise interpretiert die Software so, als ob es sich um eine weitere Kita handelt. Optional können zudem noch eine ID und das Geschlecht in KitaMatch angezeigt werden. Wenn Sie einen Kriterienkatalog in Ihrer Kommune haben, können Sie zudem in der Spalte „Rangordnungspunkte“ die resultierenden Punktewerte pro Kind angeben. Zusätzlich gibt es noch die Möglichkeit, bis zu 6 Zusatzkriterien zu definieren, für die Kinder nur in bestimmten Kitas Zusatzpunkte erhalten. Hierfür schreiben Sie in die jeweilige Zelle einfach den Namen der Kita, in der das Kind jeweils Zusatzpunkte bekommen soll. In Zeile 8 müssen Sie zudem jeweils definieren, wie viele Zusatzpunkte das jeweilige Zusatzkriterium wert ist. Im Beispieldatensatz ist “Zusatzkriterium 1“ genau 1 Punkt wert. Entsprechend erhält beispielsweise Ivy Linnea Mayer (Zeile 34) im Kath. Kindergarten 1 Zusatzpunkt.
+Obligatorische Angaben sind Name, Geburtsdatum, Alterskohorte und die von den Eltern geäußerten Wunscheinrichtungen (erste bis zwölfte Wunscheinrichtung[^1]). Wichtig hierbei ist, dass ein Dropdown-Menü für die Namen der Einrichtungen verwendet wird. Auch kleinste Abweichungen in der Schreibweise interpretiert die Software so, als ob es sich um eine zusätzliche Kita handelt. Optional können zudem noch eine Identifikation (ID) und das Geschlecht in KitaMatch angezeigt werden. Wenn Sie einen Kriterienkatalog in Ihrer Kommune haben, können Sie zudem in der Spalte „Rangordnungspunkte“ die resultierenden Punktewerte pro Kind angeben. Zusätzlich gibt es noch die Möglichkeit, bis zu sechs Zusatzkriterien zu definieren, für die Kinder nur in bestimmten Kitas Zusatzpunkte erhalten. Hierfür schreiben Sie in die jeweilige Zelle einfach den Namen der Kita, in der das Kind jeweils Zusatzpunkte bekommen soll. In Zeile 8 müssen Sie zudem jeweils definieren, wie viele Zusatzpunkte das jeweilige Zusatzkriterium wert ist. Im Beispieldatensatz ist “Zusatzkriterium 1“ genau einen Punkt wert. Entsprechend erhält beispielsweise Ivy Linnea Mayer (Zeile 34) im Katholischen Kindergarten einen Zusatzpunkt.
 
-Wenn Sie Ihrem Systemadministrator diese Daten zur Verfügung gestellt haben, erstellt dieser die entsprechende „Umgebung“ in KitaMatch, also die auf Ihre Kommune zugeschnittene Webseite. Dann können Sie die Bewerberlisten zunächst auf Vollständigkeit und Plausibilität prüfen, bevor Sie diese den Kitaleitungen bereitstellen. Diese Bewerberlisten beruhen auf dem zugrunde gelegten Kriterienkatalog und die entsprechend ermittelten Punktwerte pro Kind. Bei Punktgleichheit sortiert das Programm automatisch das ältere Kind einen Platz vor dem anderen (jüngeren) Kind. 
+Wenn Sie der Systemadministration diese Daten zur Verfügung gestellt haben, erstellt dieser die entsprechende „Umgebung“ in KitaMatch, also die auf Ihre Kommune zugeschnittene Webseite. Dann können Sie die Bewerberlisten zunächst auf Vollständigkeit und Plausibilität prüfen, bevor Sie diese den Kitaleitungen bereitstellen. Diese Bewerberlisten beruhen auf dem zugrunde gelegten Kriterienkatalog und den entsprechend ermittelten Punktwerten pro Kind. Bei Punktgleichheit sortiert das Programm automatisch das ältere Kind einen Platz vor dem anderen (jüngeren) Kind. 
 
 
 ---
@@ -41,14 +41,14 @@ Um das System zuverlässig nutzen zu können, empfehlen wir die neueste Version 
   1. Einen Link zur Website
   2. Die Login-Informationen (E-Mail-Adresse und Passwort)
 
-Diese erhalten Sie vom Systemadministrator.
+Diese erhalten Sie von der Systemadministration.
 
 
 ---
 
 ## Systemzugang
 
-Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse und Passwort einzugeben. Nutzen Sie dafür bitte die vom Systemadministrator zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf Login.
+Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse und Passwort einzugeben. Nutzen Sie dafür bitte die von der Systemadministration zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf "Login".
 
 <small>Abbildung: Login-Menü</small>
   
@@ -56,7 +56,7 @@ Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse un
 
 
 - Vergessenes Passwort zurücksetzen:
-  Falls Sie das Passwort oder die E-Mail-Adresse verloren oder vergessen haben, kontaktieren Sie bitte den Administrator.
+  Falls Sie das Passwort oder die E-Mail-Adresse verloren oder vergessen haben, kontaktieren Sie bitte die Administration.
 
 
 --- 
@@ -65,10 +65,10 @@ Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse un
 
 Sie können die KitaMatch-Umgebung über die permanente Navigationsleiste oben auf der Benutzeroberfläche und über die Buttons auf der Übersichtsseite navigieren.
 
-- Durch Klicken der KitaMatch-Fläche links  in der Leiste gelangen sie zur Übersichtsseite.
-- Hier haben Sie direkten Zugang zum Zuteilungsverfahren (Zuteilung), zur Bewerberliste (Bewerber) und zur Liste aller Kitagruppen (Kitagruppen).
-- Die letzteren zwei Seiten erreichen Sie auch direkt durch Klicken der Felder Kitagruppen und Bewerber in der Navigationsleiste.
-- Rechts in der Leiste kommen sie zu dem Dropdown-Menü “Benutzer”. Hierüber können Sie einsehen mit welcher Benutzer-Email-Adresse Sie eingeloggt sind, ihr Passwort ändern und sich abmelden.
+- Per Mausklick der KitaMatch-Fläche links  in der Leiste gelangen Sie zur Übersichtsseite.
+- Hier haben Sie direkten Zugang zum Zuteilungsverfahren ("Zuteilung"), zur Bewerberliste ("Bewerber") und zur Liste aller Kitagruppen ("Kitagruppen").
+- Die letzteren zwei Seiten erreichen Sie auch direkt durch Klicken der Felder "Kitagruppen" und "Bewerber" in der Navigationsleiste.
+- Rechts in der Leiste kommen sie zu dem Dropdown-Menü “Benutzer”. Hierüber können Sie einsehen, mit welcher Benutzer-E-Mail-Adresse Sie eingeloggt sind, ihr Passwort ändern und sich abmelden.
 
 <small>Abbildung: Übersichtsseite</small>
   
@@ -77,15 +77,15 @@ Sie können die KitaMatch-Umgebung über die permanente Navigationsleiste oben a
 
 ### Zuteilung
 
-Auf der Startseite (bzw. nach Klicken auf “Zuteilung“) sehen Sie eine Übersicht der aktuellen Zuordnungen im Verfahren. Bevor das Verfahren startet, ist diese Liste noch leer. Dann gibt es, wie in der obigen Abbildung "Übersichtsseite", logischerweise noch 0 Zuordnungen. 
+Auf der Startseite (bzw. nach Mausklick auf “Zuteilung“) sehen Sie eine Übersicht der aktuellen Zuordnungen im Verfahren. Bevor das Verfahren startet, ist diese Liste noch leer. Dann gibt es, wie in der obigen Abbildung "Übersichtsseite", logischerweise noch "0 Zuordnungen". 
 
-Während des Verfahrens sehen Sie hingegen eine Liste mit den aktuellen Zuordnungen, sowie weiter unten eine Liste aller Kinder, die aktuell noch nicht zugeordnet sind. 
+Während des Verfahrens sehen Sie hingegen eine Liste mit den aktuellen Zuordnungen sowie weiter unten eine Liste aller Kinder, die aktuell noch nicht zugeordnet sind.
 
-Bei den Zuordnungen gibt es 2 Möglichkeiten: “Finale Zuordnung“ bedeutet, dass das jeweilige Kind seiner Erstwunschkita zugeordnet wurde, und entsprechend keine Möglichkeit besteht, dass das Kind im Laufe des Verfahrens noch ein besseres Angebot bekommt. Im Gegensatz dazu bedeutet “Gehaltenes Angebot“, dass das Kind aktuell der jeweiligen Kita vorläufig zugesagt hat, es aber prinzipiell sein kann, dass das Kind im Laufe des Verfahrens noch ein “besseres“ Angebot bekommt, und deshalb das aktuell gehaltene Angebot noch ablehnen könnte. Diese beiden Listen von versorgten und bisher unversorgten Kindern können jeweils über den Export Button in ein Excel Dokument überführt werden. 
+Bei den Zuordnungen gibt es zwei Möglichkeiten: “Finale Zuordnung“ bedeutet, dass das jeweilige Kind seiner Erstwunschkita zugeordnet wurde, und entsprechend keine Möglichkeit besteht, dass es im Laufe des Verfahrens noch ein besseres Angebot bekommt. Im Gegensatz dazu bedeutet “Gehaltenes Angebot“, dass das Kind aktuell der jeweiligen Kita vorläufig zugesagt hat, es aber prinzipiell im Laufe des Verfahrens noch ein “besseres“ Angebot bekommen kann und deshalb das aktuell gehaltene Angebot noch ablehnen könnte. Diese beiden Listen von versorgten und bisher unversorgten Kindern können jeweils über den "Export"-Button in ein Excel-Dokument überführt werden. 
 
-**Liste der gematchten Kindern**:
+**Liste der gematchten Kinder**:
 
-Per Mausklick kann die Projektleitung bzw. das Jugendamt eine Excel-Liste generieren mit der Übersicht, welches Kind in welcher Kita bzw. FB KTP einen Platz erhält. Auf dieser Basis können die Verantwortlichen nun die „tatsächlichen“ Zu- und Absagen in der Praxis (z.B. über ein Anmeldeportal) erteilen. 
+Per Mausklick kann die Projektleitung bzw. das Jugendamt eine Excel-Liste generieren mit der Übersicht, welches Kind in welcher Kita bzw. FB KTP einen Platz erhält. Auf dieser Basis können die Verantwortlichen nun die „tatsächlichen“ Zu- und Absagen in der Praxis (z. B. über ein Anmeldeportal) erteilen. 
 
 **Liste der unversorgten Kinder**: 
 
@@ -93,7 +93,7 @@ Eine weitere hilfreiche, zu generierende Liste ist die mit den Kindern, die noch
 
 **Übersicht der Kitas bzw. Fachberatung der Kindertagespflege mit freien Plätzen**:
 
-Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plätze haben. In diesem Fall hatten sie von Anfang zu wenig Bewerber:innen. Diese freien Plätze würden dann in der Praxis mit den Kindern belegt werden können, die im Matching keinen Platz erhalten haben und sich dann für diese Einrichtungen vormerken lassen. 
+Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plätze haben. In diesem Fall hatten sie von Anfang zu wenig Bewerber:innen. Diese freien Plätze würden dann in der Praxis mit den Kindern belegt werden können, die im Matching keinen Platz erhalten und sich dann für diese Einrichtungen vormerken lassen haben. 
  
 <small>Abbildung: Aktuelle Zuordnungen</small>
 
@@ -106,11 +106,11 @@ Es kann auch sein, dass Kitas bzw. FB KTP am Ende des Matchings noch freie Plät
 
 
 
-### Bewerber
+### Bewerber/Kinder
 
-Nach einem Klick auf “Bewerber“ landet man auf der Übersicht über alle Bewerber/Kinder, die an dem Verfahren teilnehmen.
+Nach einem Klick auf “Bewerber“ landet man auf der Übersicht über alle an dem Verfahren teilnehmenden Bewerber/Kinder.
 
-Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei allen anderen “22“. Bei einem Klick auf “Einsehen“ erhält man weitere Information des jeweiligen Kindes. Hier möchten wir insbesondere auf die “Rangliste der Wunscheinrichtungen“ aufmerksam machen. Diese Rangliste beschreibt die von den Eltern abgegebenen Präferenzen über die Kitas.
+Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei allen anderen “22“. Bei einem Mausklick auf “Einsehen“ erhält man weitere Information über das jeweilige Kind. Hier möchten wir insbesondere auf die “Rangliste der Wunscheinrichtungen“ aufmerksam machen. Diese Rangliste beschreibt die von den Eltern den Kitas zugeordneten Präferenzen.
  
 <small>Abbildung: Übersicht aller Bewerber/Kinder, die am Verfahren teilnehmen</small>
 
@@ -124,7 +124,7 @@ Der “Status“ ist bei allen final zugeordneten Kindern “26“, und bei alle
 
 ### Kitagruppen
 
-Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle Kitagruppen. Durch Klicken auf die jeweilige Kita (bzw. die einzelne Alterskohorte einer Kita) kommen Sie zu der Ansicht, die die Kitaleitung während des Verfahrens haben. Dieser Teil der Software wird im nächsten Kapitel erklärt, der sowohl die Projektmanagerin als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen.
+Per Mausklick auf “Kitagruppen“ landet man auf der Übersicht über alle Kitagruppen. Per Mausklick auf die jeweilige Kita (bzw. die einzelne Alterskohorte einer Kita) kommen Sie zu der Ansicht, die die Kitaleitung während des Verfahrens hat. Dieser Teil der Software, der sowohl den/die Projektmanager:in als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen, wird im nächsten Abschnitt erklärt.
 
 <small>Abbildung: Liste aller Kitagruppen</small>
 
@@ -135,23 +135,23 @@ Nach einem Klick auf “Kitagruppen“ landet man auf der Übersicht über alle 
 
 ## KitaMatch aus Sicht der Kita-Leitungen 
 
-Dieses Kapitel richtet sich an die Leitungen von Kitas oder Trägern, welche an dem Verfahren teilnehmen. 
+Dieses Kapitel richtet sich an die an dem Verfahren teilnehmenden Leitungen von Kitas oder Trägern und den/die Projektmanager:in.
 
 
 ### Systemanforderungen
 
-Um das System zuverlässig nutzen zu können, empfehlen wir die neueste Version von Google Chrome, Firefox oder Microsoft Edge zu verwenden. Um sich im System einzuloggen benötigen Sie folgende Informationen:
+Um das System zuverlässig nutzen zu können, empfehlen wir, die neueste Version von Google Chrome, Firefox oder Microsoft Edge zu verwenden. Um sich im System einzuloggen, benötigen Sie folgende Informationen:
 
   1. Einen Link zur Website
   2. Die Login-Informationen (E-Mail-Adresse und Passwort)
 
-Diese erhalten Sie von der Projektmanagerin Ihrer Kommune.  [Weitere Informationen zum Projektmanagement](/docs/Andere-Themen/Projektmanagement)
+Diese erhalten Sie vom/von der Projektmanager:in Ihrer Kommune.  [Weitere Informationen zum Projektmanagement](/docs/Andere-Themen/Projektmanagement)
 
 
 ### Systemzugang
 
 - Login-Menü:
-  Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, E-Mail-Adresse und Passwort einzugeben. Nutzen Sie dafür bitte die vom Systemadministrator zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf Login.
+  Wenn Sie den Link zum System öffnen, werden Sie aufgefordert, "E-Mail-Adresse" und "Passwort" einzugeben. Nutzen Sie dafür bitte die von der Systemadministration zur Verfügung gestellten Login-Daten. Anschließend drücken Sie auf "Login".
 
 <small>Abbildung: Login-Menü aus Sicht der Kitaleitungen</small>
 
@@ -252,7 +252,7 @@ Nachdem die Projektleiterin auf den “Vergabe starten Button“ geklickt hat, t
 
 ---
 
-[^3]: Wenn weniger als 12 Wünsche geäußert werden, müssen Sie die weiteren Zellen einfach leer lassen.
+[^1]: Wenn weniger als zwölf Wünsche geäußert werden, müssen Sie die weiteren Zellen einfach leer lassen.
 
 [^4]: Falls eine Reduzierung doch einmal notwendig sein sollte, kontaktieren Sie bitte die Kommune bzw. den Systemadministrator.
 
