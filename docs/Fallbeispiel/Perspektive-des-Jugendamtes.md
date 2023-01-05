@@ -124,58 +124,61 @@ Die Eltern haben nach wie vor gemäß §5 Achtes Buch Sozialgesetzbuch (SGB VIII
 
 **Aus Sicht der Kitaleitungen/Trägervertreungen**
 
-Nach Aussagen der Kitaleitungen/Trägervertretungen ist es gut, wenn sich die beteiligten Akteure noch einmal bewusst über die Aufnahmekriterien und deren Gewichtung austauschen. Sie kamen zur Erkenntnis, dass „man gar nicht so weit voneinander entfernt [liege; Anm. d. Verf.]“ und durchaus in der Lage sei, einen gemeinsamen Kriterienkatalog zu entwickeln. Es sei optimal, dass die Kriterientreue grundsätzlich durch das Matching garantiert wird. Das Matchingverfahren sei „eine Art Erleichterung, da die Kinder sachlich, neutral sortiert und ausgewählt werden.“ Dies zeigt, wie groß der Erklärungs- und Rechtfertigungsdruck im Rahmen des anderen Verfahrens war. Scheinbar erleben sie eine emotionale und organisatorische Erleichterung, die sie motiviert, das Matchingverfahren beizubehalten.
+Nach Aussagen der Kitaleitungen/Trägervertretungen ist es gut, wenn sich die beteiligten Akteure noch einmal bewusst über die Aufnahmekriterien und deren Gewichtung austauschen. Sie kamen zur Erkenntnis, dass „man gar nicht so weit voneinander entfernt [liege; Anm. d. Verf.]“ und durchaus in der Lage sei, einen gemeinsamen Kriterienkatalog zu entwickeln. Es sei optimal, dass die Kriterientreue grundsätzlich durch das Matching garantiert wird. Das Matchingverfahren sei „eine Art Erleichterung, da die Kinder sachlich, neutral sortiert und ausgewählt werden“. Dies zeige, wie groß der Erklärungs- und Rechtfertigungsdruck im Rahmen des anderen Verfahrens war. Die Kitaleitungen erleben scheinbar eine emotionale und organisatorische Erleichterung, die sie motiviert, das Matchingverfahren beizubehalten.
 
-Ein weiterer Vorteil ist aus ihrer Sicht die Wahrung der gesetzlich verankerten Trägerautonomie (vgl. § 47 SGB VIII). Denn die Leitungen bzw. FB KTP haben in jeder Altersgruppe die Möglichkeit, aus „gutem Grund“ eine Abweichung von der eigentlichen Bewerberliste vorzunehmen. Dies sei für sie eine Erleichterung, weil die teilweise plötzlich eintretenden, schwierigen Lebenssituationen der Familien flexibles und unkompliziertes Handeln und Entscheiden erfordern.
+Ein weiterer Vorteil ist aus ihrer Sicht die Wahrung der gesetzlich verankerten Trägerautonomie (vgl. §47 SGB VIII). Denn die Leitungen bzw. Fachberatunfg der Kindertagespflege haben in jeder Altersgruppe die Möglichkeit, aus „gutem Grund“ eine Abweichung von der eigentlichen Bewerberliste vorzunehmen. Dies sei für sie eine Erleichterung, weil die teilweise plötzlich eintretenden, schwierigen Lebenssituationen der Familien flexibles und unkompliziertes Handeln und Entscheiden erfordern.
 
-Insgesamt stellen die Kitaleitungen und FB KTP einen reduzierten Aufwand fest: Durch das Programm erhalten sie alle für sie relevanten Anmeldungen (egal, ob 1., 2. oder 5. Wunsch). Darüber hinaus werden alle für die Anmeldung relevanten Daten der Kinder verarbeitet und keine Daten übersehen. Im Matchingverfahren zeigt das Programm in jeder Runde immer nur die angemeldeten Kinder, die nicht bereits ein Angebot von einer höher präferierter Kita/KTP erhalten haben. Dies erleichtert die Abwicklung, insbesondere bei Kitas mit sehr vielen Anmeldungen.
+Insgesamt stellen die Kitaleitungen und die Fachberatung der Kindertagespflege einen reduzierten Aufwand fest: Durch das Programm erhalten sie alle für sie relevanten Anmeldungen (egal, ob erster, zweiter oder fünfter Wunsch). Darüber hinaus werden alle für die Anmeldung relevanten Daten der Kinder verarbeitet und keine Daten übersehen. Im Matchingverfahren zeigt das Programm in jeder Runde immer nur die angemeldeten Kinder, die nicht bereits ein Angebot von einer höher präferierter Kita/Kindertagespflege erhalten haben. Dies erleichtert die Abwicklung, insbesondere bei Kitas mit sehr vielen Anmeldungen.
 
-Indem die Kitaleitungen bzw. FB KTP dem jeweiligen Kind von der Bewerberliste ein Angebot machen, klicken sie “bewusst” und überlassen es nicht ausschließlich dem Computer. Sie finden es überaus effizient, dass fast alle Kinder durch die Koordinierungsrunden im Rahmen des „Matching-Days“ direkt einen (zunächst virtuellen) Platz erhalten und am Ende des Matchings deutlich wird, welche Kinder die Kita bzw. KTP aufnimmt.
+Indem die Kitaleitungen bzw. die Fachberatung der Kindertagespflege dem jeweiligen Kind von der Bewerberliste ein Angebot machen, klicken sie “bewusst” und überlassen es nicht ausschließlich dem Computer. Sie finden es überaus effizient, dass fast alle Kinder durch die Koordinierungsrunden im Rahmen des Matching Days direkt einen (zunächst virtuellen) Platz erhalten und am Ende des Matchings deutlich wird, welche Kinder die Kita bzw. die Kindertagespflege aufnimmt.
 
 {: .note-title}
-> Erfahrungen in Kürze
+> Kurz & bündig:
 > 
-> - „Erleichterung“, „gutes Gefühl“
-> - Wahrung der Trägerautonomie
-> - ausreichende Flexibilität bei der Entscheidung über die angemeldeten Kinder, denen sie ein Angebot machen möchten
-> - Reduzierter Aufwand
+> - Das überwiegende Empfinden der Beteiligten nach dem Matching ist: „Erleichterung“ und ein „gutes Gefühl“.
+> - Die Trägerautonomie bleibt gewahrt.
+> - Die Flexibilität der Einrichtung bei der Entscheidung über die angemeldeten Kinder, denen sie ein Angebot machen möchten, bleibt gewahrt.
+> - Das Verfahren erfordert weniger Aufwand.
 
  
 **Aus Sicht des Jugendamtes**
 
 Grundsätzlich hat das Jugendamt die Pflicht, ein bedarfsgerechtes Angebot vorzuhalten. Dabei ist es wünschenswert, dass die Eltern möglichst den Wunschplatz erhalten bzw. nachvollziehen können, warum sie diesen (nicht) bekommen haben. Höhere Transparenz ist ebenso ein Ziel wie Fairness und Nachvollziehbarkeit.
 
-Grundlegende Voraussetzung für das Matchingverfahren war jedoch zunächst die Legitimation durch die Politik. Es war sinnvoll und erforderlich, sie von Anfang an mit einzubinden und fortlaufend zu informieren. Dadurch konnten eine breite Akzeptanz und eine vielversprechende (Vertrauens-)Basis für dieses algorithmusbasierte Vergabeverfahren geschaffen werden.
+Grundlegende Voraussetzung für das Matchingverfahren war jedoch zunächst die Legitimation durch die Politik. Es war sinnvoll und erforderlich, sie von Anfang an mit einzubinden und fortlaufend zu informieren. Dadurch konnten eine breite Akzeptanz und eine vielversprechende (Vertrauens)Basis für dieses algorithmusbasierte Vergabeverfahren geschaffen werden.
 
-Nicht weniger wichtig war das offene und vertrauensvolle Gespräch mit allen Prozessbeteiligten. Es war ein entscheidender Faktor für den Erfolg des Matchings. Dabei spielten das Jugendamt und die Projektleitung eine besondere Lenkungs- und Kommunikationsrolle.
+Nicht weniger wichtig war das offene und vertrauensvolle Gespräch mit allen Prozessbeteiligten. Dies war ein entscheidender Faktor für den Erfolg des Matchings. Dabei spielten das Jugendamt und die Projektleitung eine besondere Lenkungs- und Kommunikationsrolle.
 
-Auch das Kreisjugendamt verzeichnet nach Anwendung des Matchings eine Zeitersparnis. Denn die Bedarfsplaner:innen erhalten aufgrund des KitaMatch-Programms schneller und einfacher eine Übersicht, welches Kind in welcher Einrichtung einen Platz (nicht) erhält. Gleichzeitig wird deutlich, welche Kinder noch keinen Platz erhalten und zunächst unversorgt sind. Für diese Kinder konnten dann rechtzeitig in der Praxis Alternativangebote in den Einrichtungen mit freien Kapazitäten geschaffen werden.
+Auch das Kreisjugendamt verzeichnet nach Anwendung des Matchings eine Zeitersparnis. Denn die Bedarfsplaner:innen erhalten aufgrund des KitaMatch-Programms schneller und einfacher eine Übersicht, welches Kind in welcher Einrichtung einen Platz (nicht) erhält. Gleichzeitig wird deutlich, welche Kinder noch keinen Platz erhalten haben und zunächst unversorgt sind. Für diese Kinder konnten dann rechtzeitig in der Praxis Alternativangebote in den Einrichtungen mit freien Kapazitäten geschaffen werden.
 
 {: .note-title}
-> Erfahrungen in Kürze
+> Kurz & bündig:
 > 
-> - umfassende Information an die Politik war sinnvoll, um die Legitimation zu erhalten
-> - das Gespräch bzw. Einverständnis der beteiligten Kitas/Träger/FB KTP war wichtig
-> - Kommunikation mit allen Prozessbeteiligten war von Anfang an entscheidend
-> - mehr Transparenz
-> - zeitsparend, da direkte Datenexporte von (un)versorgten Kindern möglich sind
+> - Die umfassende Information an die Politik war sinnvoll, um die Legitimation für dieses Verfahren zu erhalten.
+> - Die Gespräche bzw. Einverständnisse der beteiligten Kitas, Träger und Fachberatungen der Kindertagespflege erwiesen sich als wichtig.
+> - Die Kommunikation mit allen am Matching Beteiligten war von Anfang an entscheidend.
+> - Dieses Verfahren führte zu mehr Transparenz.
+> - Die direkten Datenexporte von (un)versorgten Kindern führten zu Zeitersparnis.
 
 
 **Weitere Erkenntnisse**
 
 Das Matching nach dem Gale-Shapley-Verfahren löst nicht das Problem des oftmals vorherrschenden Platzmangels. Es kann aber, wie die Erfahrungen im Kreisjugendamtsbezirk Steinfurt zeigen, ein wichtiger Baustein sein, um die Platzvergabe transparenter und fairer durchzuführen.
 
-Den Beteiligten ist bewusst geworden, dass es ein mehrjähriger Prozess ist. Es braucht Zeit, bis die Kita-Leitungen bzw. FB KTP dem neuen Verfahren „vertrauen" und verstehen, was wann passiert. Es braucht ebenso Zeit, bis die Eltern dem neuen Verfahren „vertrauen" und ihre wahren Präferenzen angeben.
+Den Beteiligten ist bewusst geworden, dass die Verstetigung dieses Matchingverfahrens ein mehrjähriger Prozess ist. Es braucht Zeit, bis die Kitaleitungen/Trägervertretungen bzw. die Fachberatung der Kindertagespflege dem neuen Verfahren „vertrauen" und verstehen, was wann passiert. Es braucht ebenso Zeit, bis die Eltern diesem Matching „vertrauen" und ihre wahren Präferenzen ohne taktische Überlegungen angeben.
 
 In den Kommunen wird einmal im Jahr gematcht, sodass es umso wichtiger ist, die Erfahrungen zeitnah schriftlich festzuhalten, mit den Beteiligten im Gespräch zu bleiben und das Verfahren stets zu reflektieren und weiterzuentwickeln.
  
 **Grenzen des Verfahrens**
 
-Besonders im Zuge der Reflexion ist es wichtig, das Verfahren im Hinblick auf Nachteile zu hinterfragen und ggfs. Schwachstellen zu erkennen, zu besprechen und Lösungsansätze zu entwickeln. Zu den Grenzen des Verfahrens, die sich im Prozess der Implementierung herauskristallisiert haben zählt, dass es nicht in jedem Fall möglich ist, dass die Erst-Wunsch-Kita zugeteilt wird. Zudem ist die Frage, wie man am besten mit den Nachmeldungen, d.h. den Meldungen nach dem Stichtag, verfährt auch über dieses Verfahren schwierig zu beantworten ist. Abschließend müssen Eltern frühzeitig informiert werden, dass es wichtig ist, idealerweise fünf Prioritäten ihrer Wunscheinrichtungen anzugeben. Sonst kann es passieren, dass sie zunächst unversorgt bleiben.
+Besonders im Zuge der Reflexion ist es wichtig, das KitaMatch-Verfahren im Hinblick auf seine Nachteile zu hinterfragen und gegebenenfalls Schwachstellen zu erkennen, zu besprechen und Lösungsansätze zu entwickeln. Zu den Grenzen des Verfahrens, die sich im Prozess der Implementierung herauskristallisiert haben zählt, dass es nicht in jedem Fall möglich ist, dass die Erstwunscheinrichtung zugeteilt wird. Zudem ist die Frage, wie man am besten mit den Nachmeldungen, das heißt den Meldungen nach dem Stichtag, verfährt auch über dieses Verfahren schwierig zu beantworten ist. Abschließend müssen Eltern frühzeitig darüber informiert werden, dass es wichtig ist, idealerweise fünf Prioritäten ihrer Wunscheinrichtungen anzugeben. Sonst kann es passieren, dass sie zunächst unversorgt bleiben.
 
 
 ---
 
 ## Fazit zur Platzvergabe mit dem KitaMatch Verfahren im Landkreis Steinfurt
 
-Insgesamt ist festzuhalten, dass das Matching ein transparentes, schnelles und faires Vergabeverfahren für die Kommunen im Kreisjugendamtsbezirk Steinfurt ist. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses (vgl. B 040/2020) für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor. Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matching-Verfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu garantieren.
+Insgesamt ist festzuhalten, dass das Matching ein transparentes, schnelles und faires Vergabeverfahren für die Kommunen im Kreisjugendamtsbezirk Steinfurt ist. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses (vgl. B 040/2020[^1]) für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor. Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu garantieren.
+
+
+[^1]: Link: [https://sessionnet.krz.de/kreis_steinfurt/bi/vo0050.asp?__kvonr=8545](https://sessionnet.krz.de/kreis_steinfurt/bi/vo0050.asp?__kvonr=8545)
