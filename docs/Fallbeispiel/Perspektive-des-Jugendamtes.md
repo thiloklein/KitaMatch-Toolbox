@@ -181,4 +181,6 @@ Besonders im Zuge der Reflexion ist es wichtig, das KitaMatch-Verfahren im Hinbl
 Insgesamt ist festzuhalten, dass das Matching ein transparentes, schnelles und faires Vergabeverfahren für die Kommunen im Kreisjugendamtsbezirk Steinfurt ist. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses (vgl. B 040/2020[^1]) für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor. Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu garantieren.
 
 
+---
+
 [^1]: Link: [https://sessionnet.krz.de/kreis_steinfurt/bi/vo0050.asp?__kvonr=8545](https://sessionnet.krz.de/kreis_steinfurt/bi/vo0050.asp?__kvonr=8545)
