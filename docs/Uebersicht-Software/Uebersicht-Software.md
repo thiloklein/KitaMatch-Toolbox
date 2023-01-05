@@ -29,3 +29,4 @@ Prinzipiell kann auch eine Person beide Rollen übernehmen, dafür muss diese je
 - [Der Standardfall](/docs/Uebersicht-Software/Der-Standardfall)
 - [Vergabetag](/docs/Uebersicht-Software/Vergabetag)
 - [Mögliche Erweiterungen](/docs/Uebersicht-Software/Moegliche-Erweiterungen)
+- [IT-Guide](/docs/Uebersicht-Software/IT-Guide)
