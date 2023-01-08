@@ -11,7 +11,7 @@ permalink: /docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit
 
 An dieser Stelle werden grundlegende Begriffe eingeführt und erklärt, insbesondere wird auf die Begriffe der Stabilität und Strategiesicherheit eingegangen. 
 
-Das Gale-Shapley Verfahren dient der Koordination von Präferenzen und Prioritäten von:
+Das Gale-Shapley-Verfahren dient der Koordination von Präferenzen und Prioritäten von:
 
 - **Bewerbern**: 
 
@@ -31,7 +31,7 @@ Für das Funktionieren des Verfahrens werden deshalb drei Angaben der Beteiligte
   
   **A)** Vom Bewerber nicht auflistete Kitas können diesem während der Vergabe nicht zugeteilt werden. 
   
-  **B)** Eine ehrliche Angabe der Präferenzen/Rankings ist im besten Interesse aller Bewerber — ein wichtiger Vorteil des Gale-Shapley Verfahrens gegenüber anderen Verteilungsverfahren.
+  **B)** Eine ehrliche Angabe der Präferenzen/Rankings ist im besten Interesse aller Bewerber — ein wichtiger Vorteil des Gale-Shapley-Verfahrens gegenüber anderen Verteilungsverfahren.
  
 - Für jede Kita eine **Priorität über die Bewerber**:
   
