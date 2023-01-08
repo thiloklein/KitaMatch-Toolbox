@@ -163,7 +163,7 @@ Auch das Kreisjugendamt verzeichnet nach Anwendung des Matchings eine Zeiterspar
 
 **Weitere Erkenntnisse**
 
-Das Matching nach dem Gale-Shapley-Verfahren löst nicht das Problem des oftmals vorherrschenden Platzmangels. Es kann aber, wie die Erfahrungen im Kreisjugendamtsbezirk Steinfurt zeigen, ein wichtiger Baustein sein, um die Platzvergabe transparenter und fairer durchzuführen.
+Das Matching nach dem Gale-Shapley-Verfahren löst **nicht** das Problem des oftmals vorherrschenden Platzmangels. Es kann aber, wie die Erfahrungen im Kreisjugendamtsbezirk Steinfurt zeigen, ein wichtiger Baustein sein, um die Platzvergabe transparenter und fairer durchzuführen.
 
 Den Beteiligten ist bewusst geworden, dass die Verstetigung dieses Matchingverfahrens ein mehrjähriger Prozess ist. Es braucht Zeit, bis die Kitaleitungen/Trägervertretungen bzw. die Fachberatung der Kindertagespflege dem neuen Verfahren „vertrauen" und verstehen, was wann passiert. Es braucht ebenso Zeit, bis die Eltern diesem Matching „vertrauen" und ihre wahren Präferenzen ohne taktische Überlegungen angeben.
 
@@ -176,7 +176,7 @@ Besonders im Zuge der Reflexion ist es wichtig, das KitaMatch-Verfahren im Hinbl
 
 ---
 
-## Fazit zur Platzvergabe mit dem KitaMatch Verfahren im Landkreis Steinfurt
+## Fazit zur Platzvergabe mit dem KitaMatch-Verfahren im Landkreis Steinfurt
 
 Insgesamt ist festzuhalten, dass das Matching ein transparentes, schnelles und faires Vergabeverfahren für die Kommunen im Kreisjugendamtsbezirk Steinfurt ist. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses (vgl. B 040/2020[^1]) für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor. Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu garantieren.
 
