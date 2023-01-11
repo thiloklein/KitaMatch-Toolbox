@@ -9,7 +9,7 @@ permalink: /docs/Uebersicht-Software/IT-Guide
 # IT-Guide
 {: .no_toc }
 
-Das folgende Kapitel wendet sich an die Systemadministration einer Kommune. Die Beschreibungen unten befähigen diese Person mit starkem IT Background dazu, KitaMatch in einer bestimmten Kommune eigenständig umzusetzen.
+Das folgende Kapitel wendet sich an die Systemadministration einer Kommune. Die folgenden Beschreibungen befähigen diese Person mit starkem IT-Background dazu, KitaMatch in einer bestimmten Kommune eigenständig umzusetzen.
 
 
 ## Inhalt
@@ -46,9 +46,9 @@ Das folgende Kapitel wendet sich an die Systemadministration einer Kommune. Die 
 
 ## Erstellen einer neuen Umgebung für die Kommune
 
-Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguriert wird. Bei abweichender Serversoftware gehen Sie analog vor.
+Im Folgenden wird dargestellt, wie die KitaMatch-Umgebung mittels PHP konfiguriert wird. Bei abweichender Serversoftware gehen Sie analog vor.
 
-**1.** Erstellen Sie einen neuen mit Ordner mit dem Stadtnamen unter (<tt>/var/www/html</tt>):
+**1.** Erstellen Sie einen neuen Ordner mit dem Stadtnamen unter <tt>(/var/www/html)</tt>:
        
        $ mkdir {Stadtname}
 
@@ -60,27 +60,27 @@ Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguri
        
        $ git checkout uiFix
 
-**4.** Richten Sie die Umgebungsvariablen in der <tt>.env</tt> Datei ein:
+**4.** Richten Sie die Umgebungsvariablen in der <tt>.env</tt>-Datei ein:
        
-       $ Is -a        // Um versteckte Ordner zu sehen       
-       $ sudo nano .env
+       $ Is-a        // Um versteckte Ordner zu sehen       
+       $ sudo nano.env
        
-  Aktualisieren Sie <tt>APP_NAME</tt>, <tt>APP_URL</tt> & <tt>DB_DATABASE</tt>
+  Aktualisieren Sie <tt>APP_NAME</tt>, <tt>APP_URL</tt> & <tt>DB_DATABASE</tt>.
 
-**5.** Nehmen Sie die Kita-spezifischen Konfigurationen unter <tt>config/kitamatch_config.php</tt> vor:
+**5.** Nehmen Sie die kitaspezifischen Konfigurationen unter <tt>config/kitamatch_config.php</tt> vor:
        
        $ cd config/       
        $ sudo nano kitamatch_config.php
 
-  In dieser Datei finden Sie Konfigurationen bezüglich des Matching-Prozesses. Achten Sie hierbei insbesondere auf die Einstellungen des Betreuungsumfangs, des Betreuungsbeginns und der Alterskohorten. Zu Beginn des R-Skripts haben Sie die Option, folgende Parameter festzulegen:
+  In dieser Datei finden Sie den Matchingprozess betreffende Konfigurationen. Achten Sie hierbei insbesondere auf die Einstellungen des Betreuungsumfangs, des Betreuungsbeginns und der Alterskohorten. Zu Beginn des R-Skripts haben Sie die Option, folgende Parameter festzulegen:
 
       > levels_Betreuungsumfang <- c("Ganztags", "Halbtags")
       > levels_Betreuungsbeginn <- c("Q2", "Q3", "Q4", "Q1")
       > levels_Alterskohorte <- c("U2", "Ü2", "Ü3")
  
-  Diese Parameter finden Sie auch in der Datei <tt>itamatch_config.php</tt> (<tt>care_scopes</tt> = Betreuungsumfang, <tt>care_starts</tt> = Betreuungsbeginn, <tt>age_cohorts</tt> = Alterskohorten). Um die Umgebung korrekt vorzubereiten, stellen Sie sicher, dass die **Anzahl** und **Reihenfolge** dieser 3 Parameter mit den Einstellungen im R-Skript übereinstimmen. Nach dem obigen Beispiel müsste “<tt>care_starts</tt>” in der PHP-Konfigurationsdatei also mit “Q2” beginnen. Alternative Formate wie z. B. “2020-Q1” sind ebenfalls zulässig, solange Format und Reihenfolge im R-Skript und PHP-Konfigurationsdatei gleich sind. Ebenso kann auch nur ein Betreuungsumfang oder -beginn eingestellt werden (“<tt>single-scope</tt>”).
+  Diese Parameter finden Sie auch in der Datei <tt>kitamatch_config.php</tt> (<tt>care_scopes</tt> = Betreuungsumfang, <tt>care_starts</tt> = Betreuungsbeginn, <tt>age_cohorts</tt> = Alterskohorten). Um die Umgebung korrekt vorzubereiten, stellen Sie sicher, dass die **Anzahl** und **Reihenfolge** dieser drei Parameter mit den Einstellungen im R-Skript übereinstimmen. Nach dem obigen Beispiel müsste “<tt>care_starts</tt>” in der PHP-Konfigurationsdatei also mit “Q2” beginnen. Alternative Formate wie zum Beispiel “2020-Q1” sind ebenfalls zulässig, solange Format und Reihenfolge im R-Skript und in der PHP-Konfigurationsdatei gleich sind. Ebenso kann auch nur ein Betreuungsumfang oder -beginn eingestellt werden (“<tt>single-scope</tt>”).
 
-  Der Matching-Prozess der KitaMatch-Software basiert auf einem System, das Bewerbern Punkte zuordnet, wenn sie bestimmte Kriterien erfüllen. In der Konfigurationsdatei können bei Bedarf zusätzlich manuelle Kriterien festgelegt werden. Unter “<tt>additionalCriteriaBonus_x</tt>” kann das x-te Kiterium ein- oder ausgestellt werden. Zusätzlich kann manuell eine Punktezahl für jedes Kriterium festgelegt werden.
+  Der Matchingprozess der KitaMatch-Software basiert auf einem System, das Bewerbern Punkte zuordnet, wenn sie bestimmte Kriterien erfüllen. In der Konfigurationsdatei können bei Bedarf zusätzlich manuelle Kriterien festgelegt werden. Unter <tt>additionalCriteriaBonus_x</tt> kann das x-te Kiterium ein- oder ausgestellt werden. Zusätzlich kann manuell eine Punktezahl für jedes Kriterium festgelegt werden.
 
 **6.** Konfigurieren Sie die Stadt in <tt>/var/www/html/{Stadtname}/public/.htacces</tt>:
 
@@ -97,13 +97,13 @@ Im Folgenden wird dargestellt, wie die Kitamatch-Umgebung mithilfe PHP konfiguri
 
 ## Vorbereitung der Bewerberliste.xlsx
 
-Diese Datei wird zur Stadt geschickt und von dieser ausgefüllt. Diese trägt Informationen über die Bewerber ein. Die folgenden Schritte sind nötig, um die Daten in die Datenbank hochzuladen und das Matching vorzubereiten:
+Diese Datei wird der Stadt zugeschickt und von dieser ausgefüllt. Diese trägt die Informationen über die Bewerber ein. Die folgenden Schritte sind nötig, um die Daten in die Datenbank hochzuladen und das Matching vorzubereiten:
 
 **1.** Überprüfen Sie die Tabelle der Bewerberliste auf Korrektheit. Ist der Name einer Kita beispielsweise in einer Zeile fehlerhaft, behandelt das Programm den falsch geschriebenen Namen als eigene Kita. Datumsangaben sollten das richtige Format haben (**dd.mm.yyyy**).
 
-**2.** Kopieren Sie anschließend die gesamte Tabelle in eine leere Excel-Datei, sodass die Spaltennamen (ID, Nachname, Vorname…) in Zeile 1 stehen. Nutzen Sie die Funktion “Speichern unter…” um die Datei als <tt>CSV-Datei</tt> zu speichern. Geben Sie der Datei einen Namen und wählen Sie den Dateityp “<tt>CSV UTF-8</tt> (durch Trennzeichen getrennt)” aus.
+**2.** Kopieren Sie anschließend die gesamte Tabelle in eine leere Excel-Datei, sodass die Spaltennamen (ID, Nachname, Vorname …) in Zeile 1 stehen. Nutzen Sie die Funktion “Speichern unter …” um die Datei als <tt>CSV-Datei</tt> zu speichern. Geben Sie der Datei einen Namen und wählen Sie den Dateityp <tt>CSV UTF-8</tt> (durch Trennzeichen getrennt) aus.
 
-**3.** Abschließend müssen Sie die soeben erstellte CSV-Datei mit dem Text-Editor Notepad++ öffnen, um die Kodierung zu ändern. Öffnen Sie im Programm den Menüpunkt “Kodierung” (Encoding) und konvertieren Sie die Datei in das Format “<tt>UTF-8</tt>”. Dieser Schritt stellt sicher, dass Umlaute durch das R-Skript korrekt eingelesen werden. Speichern Sie nun die Datei mithilfe der Tastenkombination “<tt>Strg+S</tt>” oder im Menü unter “<tt>Datei (File) → Speichern (Save)</tt>”.
+**3.** Abschließend müssen Sie die soeben erstellte CSV-Datei mit dem Text-Editor Notepad++ öffnen, um die Kodierung zu ändern. Öffnen Sie im Programm den Menüpunkt “Kodierung” (Encoding) und konvertieren Sie die Datei in das Format <tt>UTF-8</tt>. Dieser Schritt stellt sicher, dass Umlaute durch das R-Skript korrekt eingelesen werden. Speichern Sie nun die Datei mithilfe der Tastenkombination “<tt>Strg+S</tt>” oder im Menü unter <tt>Datei (File) → Speichern (Save)</tt>.
 
 <small>Abbildung: Umlaute richtig einlesen</small>
 
@@ -114,27 +114,28 @@ Diese Datei wird zur Stadt geschickt und von dieser ausgefüllt. Diese trägt In
 
 ## Ausführung des R-Skripts
 
-Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skript ausgeführt. Das Skript generiert die Tabellen, die in die Datenbank des KitaMatch-Systems hochgeladen werden müssen. Damit die Dateien ordnungsgemäß erzeugt werden können, sind einige Schritte zu beachten, die in der folgenden Anleitung geschildert sind:
+Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skript ausgeführt. Dieses Skript generiert die Tabellen, die in die Datenbank des KitaMatch-Systems hochgeladen werden müssen. Damit die Dateien ordnungsgemäß erzeugt werden können, sind folgende Schritte zu beachten:
 
 **4.** Öffnen Sie die R-Datei im Programm RStudio. Im R-Skript muss das aktuelle Verzeichnis (in dem sich auch die CSV-Datei befindet) als “Working Directory” gesetzt werden. Dazu setzen Sie den Dateipfad des Verzeichnisses in den Befehl “<tt>setwd()</tt>” ein. Dieser befindet sich am Anfang des Skripts. Anschließend wird im Befehl “<tt>read.csv()</tt>” der Platzhalter durch den Namen der CSV-Datei aus Schritt 2 ersetzt. Stellen Sie sicher, dass die Option “<tt>encoding = “UTF-8”</tt>” ausgewählt ist.
 
       > rawtable = read.csv("Bewerberliste", header = TRUE, sep = ";", encoding = "UTF-8")
 
-**5.** Überprüfen Sie, ob die benötigten Pakete installiert sind. Eine Auflistung der benötigten Pakete und Installationen finden Sie am Anfang dieser Anleitung. Installieren Sie fehlende Pakete, indem Sie zum Menüpunkt “<tt>Tools → Install Packages…</tt>” navigieren und dort den Namen des Pakets eingeben.
+**5.** Überprüfen Sie, ob die benötigten Pakete installiert sind. Eine Auflistung der benötigten Pakete und Installationen finden Sie am Anfang dieser Anleitung. Installieren Sie fehlende Pakete, indem Sie zum Menüpunkt “<tt>Tools → Install Packages …</tt>” navigieren und dort den Namen des Pakets eingeben.
 
 {: .note-title}
 > Hinweis
 >
-> Das Paket “<tt>bcrypt</tt>” kann Probleme verursachen. Diese werden normalerweise durch das Deinstallieren und Installieren dieses Pakets behoben. Außerdem muss das Paket “<tt>PasswordGen</tt>” separat installiert werden. Eine Anleitung dazu finden Sie unter <mark>https://github.com/mpascariu/PasswordGen</mark>
+> Das Paket <tt>bcrypt</tt> kann Probleme verursachen. Diese werden normalerweise durch das Deinstallieren und Installieren dieses Pakets behoben. Außerdem muss das Paket <tt>PasswordGen</tt> separat installiert werden. Eine Anleitung dazu finden Sie unter [https://github.com/mpascariu/PasswordGen](https://github.com/mpascariu/PasswordGen)
 
-**6.** Wenn alle benötigten Pakete installiert sind, kann das R-Skript ausgeführt werden. Markieren Sie den gesamten Code mithilfe von “<tt>STRG+A</tt>” und drücken Sie auf “<tt>Run</tt>” im oberen Menübereich (alternativ “<tt>STRG+Enter</tt>”). Es kann nun einige Momente dauern, bis das Skript vollständig ausgeführt wurde. Die durch das Skript produzierten CSV-Dateien werden im Verzeichnis gespeichert, das als Working Directory ausgewählt wurde. Folgende Dateien werden generiert:
+
+**6.** Wenn alle benötigten Pakete installiert sind, kann das R-Skript ausgeführt werden. Markieren Sie den gesamten Code mithilfe von “<tt>STRG+A</tt>” und drücken Sie auf “<tt>Run</tt>” im oberen Menübereich (alternativ “<tt>STRG+Enter</tt>”). Es kann nun einige Momente dauern, bis das Skript vollständig ausgeführt wurde. Die durch das Skript produzierten CSV-Dateien werden in dem Verzeichnis gespeichert, das als Working Directory ausgewählt wurde. Folgende Dateien werden generiert:
 
   - <tt>applicants.csv</tt>
-    - Allgemeine Informationen der Bewerber wie Name, Geburtsdatum, Erwerbsumfang der Eltern…
+    - Allgemeine Informationen der Bewerber wie Name, Geburtsdatum, Erwerbsumfang der Eltern …
   - <tt>users.csv</tt>
     - Hier werden Anmeldedaten für jeden Bewerber und jede Betreuungsgruppe erstellt.
   - <tt>providers.csv</tt>
-    - Allgemein Informationen der Kitas wie Telefonnummer, Adresse…
+    - Allgemeine Informationen der Kitas wie Telefonnummer, Adresse …
   - <tt>programs.csv</tt>
     - Übersicht der Betreuungsangebote. Hier finden Sie eine Auflistung jeder Altersgruppe der verschiedenen Kitas.
   - <tt>preferences.csv</tt>
@@ -142,7 +143,7 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
   - <tt>capacities.csv</tt>
     - Enthält Informationen über die verfügbaren Plätze der einzelnen Betreuungsangebote.
   - <tt>Passwortliste.xlsx</tt>
-    - Diese Tabelle enthält die Anmeldedaten, die die Kitas benötigen, um sich auf der Kitamatch-Plattform anzumelden.
+    - Diese Tabelle enthält die Anmeldedaten, die die Kitas benötigen, um sich auf der KitaMatch-Plattform anzumelden.
 
 
 {: .note-title}
@@ -154,7 +155,7 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 
 ## Hochladen der Tabellen in die Datenbank phpMyAdmin
 
-**7.** Öffnen Sie den folgenden Link in Ihrem Browser: https://kitamatch.de/phpmyadmin/. Melden Sie sich an und wählen Sie anschließend die gewünschte Datenbank/Stadt auf der linken Seite aus. Im Folgenden wird der Import der Tabellen anhand der fiktiven Datenbank “kita_test” demonstriert.
+**7.** Öffnen Sie den folgenden Link in Ihrem Browser: [https://kitamatch.de/phpmyadmin/](https://kitamatch.de/phpmyadmin/). Melden Sie sich an und wählen Sie anschließend die gewünschte Datenbank/Stadt auf der linken Seite aus. Im Folgenden wird der Import der Tabellen anhand der fiktiven Datenbank <tt>kita_test</tt> demonstriert.
 
 <small>Abbildung: Hochladen der Tabellen in die Datenbank phpMyAdmin</small>
 
