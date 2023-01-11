@@ -6,10 +6,10 @@ nav_order: 4
 permalink: /docs/Uebersicht-Software/IT-Guide
 ---
 
-# IT Guide
+# IT-Guide
 {: .no_toc }
 
-Das folgende Kapitel wendet sich an den Systemadministrator einer Kommune. Die Beschreibungen unten befähigen diese Person mit starkem IT Background dazu, KitaMatch in einer bestimmten Kommune eigenständig umzusetzen.
+Das folgende Kapitel wendet sich an die Systemadministration einer Kommune. Die Beschreibungen unten befähigen diese Person mit starkem IT Background dazu, KitaMatch in einer bestimmten Kommune eigenständig umzusetzen.
 
 
 ## Inhalt
