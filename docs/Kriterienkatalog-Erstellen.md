@@ -131,11 +131,11 @@ Absatz 3 beschreibt explizit:
 
 Die über dreijährigen Kinder haben demzufolge einen konkreten Anspruch auf eine Betreuung in einer Kindertageseinrichtung. 
 
-Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die Arbeitshilfe „[Aufnahmekriterien für Kindertageseinrichtungen](https://www.lvr.de/media/wwwlvrde/jugend/kinderundfamilien/tageseinrichtungenfrkinder/dokumente_88/Gemeinsame_Arbeitshilfe_KSV_und_LJAE.pdf)“ der Kommunalen Spitzenverbände und der Landesjugendämter in NRW sein. Auf Grundlage der Punkte 3 bis 5 dieser Arbeitshilfe können beispielsweise folgende Aufnahmekriterien herangezogen werden: 
+Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die Arbeitshilfe „[Aufnahmekriterien für Kindertageseinrichtungen](https://www.lvr.de/media/wwwlvrde/jugend/kinderundfamilien/tageseinrichtungenfrkinder/dokumente_88/Gemeinsame_Arbeitshilfe_KSV_und_LJAE.pdf)“ der Kommunalen Spitzenverbände und der Landesjugendämter in NRW (2017) sein. Auf Grundlage der Punkte 3 bis 5 unter "III mögliche Konsequenzen" in dieser Arbeitshilfe können beispielsweise folgende Aufnahmekriterien herangezogen werden: 
 
-- „Anzeige des Betreuungsbedarfs mind. 6 Monate vor der geplanten Aufnahme
+- „Anzeige des Betreuungsbedarfs mindestens 6 Monate vor der geplanten Aufnahme
 - Kinder aus dem Jugendamtsbezirk 
-- Kinder, die aufgrund einer persönlichen Notlage einen Kita-Platz benötigen
+- Kinder, die aufgrund einer persönlichen Notlage einen Kitaplatz benötigen
 - Kinder, deren Eltern einer Berufstätigkeit nachgehen, eine Ausbildung machen bzw. dem Arbeitsmarkt zur Verfügung stehen müssen
 - Ältere Kinder werden vorrangig aufgenommen; maßgeblich ist das Geburtsdatum
 - Zeitpunkt der Anmeldung des Betreuungsbedarfs
@@ -146,7 +146,7 @@ Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die 
 
 ### Lokale Kriterien
 
-Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lokale Kriterien einrichtungsspezifisch zu betrachten. Folgende Kriterien, die ebenso in der o.g. Arbeitshilfe genannt werden, zählen beispielsweise dazu: 
+Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lokale Kriterien einrichtungsspezifisch zu betrachten. Folgende Kriterien, die ebenso in der o.g. Arbeitshilfe in  Punkt 5 unter „III mögliche Konsequenzen“ genannt werden, zählen beispielsweise dazu: 
 
 - Kinder, deren Geschwister die Einrichtung zeitgleich besuchen
 - Öffnungszeit deckt den Betreuungsbedarf der Eltern ab.
