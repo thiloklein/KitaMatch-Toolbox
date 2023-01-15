@@ -12,9 +12,9 @@ Das Gale-Shapley-Verfahren ist ein von David Gale und Lloyd Shapley entwickeltes
 
 Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschrieben. Grundsätzlich lässt sich sein Mechanismus relativ einfach auf komplexere Situationen — zum Beispiel Kitas mit unterschiedlichen Betreuungsplätzen bedingt durch Betreuungsumfänge und Alterskategorien anpassen. 
 
-**Zentrale Durchführung**: Normalerweise wird das Gale-Shapley Verfahren zentral durchgeführt. Das heißt Prioritäten der Kitas und die Präferenzen bzw. Rankings der Bewerber werden zentral gesammelt, und anschließend wird mittels des Gale-Shapley-Verfahrens die Zuteilung direkt ermittelt. Dies ist jedoch nicht immer optimal, da beispielsweise die Trägerautonomie einschränkt wird, weil Kitas zu keiner Zeit von den festgelegten Prioritäten abweichen können. 
+**Zentrale Durchführung**: Normalerweise wird das Gale-Shapley Verfahren zentral durchgeführt. Das heißt Prioritäten der Kitas und die Präferenzen bzw. Rankings der Bewerber werden zentral gesammelt und anschließend wird mittels des Gale-Shapley-Verfahrens die Zuteilung direkt ermittelt. Dies ist jedoch nicht immer optimal, da beispielsweise die Trägerautonomie einschränkt wird, weil Kitas zu keiner Zeit von den festgelegten Prioritäten abweichen können. 
 
-**Semizentrale Durchführung**: Die koordinierte Vergabe von Kitaplätzen wird semi-zentral durchgeführt. In diesem Fall werden die Präferenzen bzw. Rankings der Bewerber zentral gesammelt, aber die Kitas nehmen dezentralisiert an der Vergabe teil, das heißt sie durchlaufen jeden Schritt der Vergabe einzeln. Dadurch ergibt sich die Möglichkeit, gegebenenfalls vom vorgegebenen Kriterienkatalog abzuweichen.  
+**Semizentrale Durchführung**: Die koordinierte Vergabe von Kitaplätzen wird semizentral durchgeführt. In diesem Fall werden die Präferenzen bzw. Rankings der Bewerber zentral gesammelt, aber die Kitas nehmen dezentralisiert an der Vergabe teil, das heißt sie durchlaufen jeden Schritt der Vergabe einzeln. Dadurch ergibt sich die Möglichkeit, gegebenenfalls vom vorgegebenen Kriterienkatalog abzuweichen.  
 
 {: .note-title}
 > Tipp:
@@ -24,7 +24,7 @@ Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschr
   
 ---   
   
-## Zentrales Gale-Shapley Verfahren:
+## Zentrales Gale-Shapley-Verfahren:
 
 **Schritt 1**.
 
@@ -36,7 +36,7 @@ Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschr
      
      Bewerber, die mindestens ein Angebot erhalten haben,  nehmen das beste Angebot automatisch innerhalb der Matching-Software vorläufig an und geben den anderen Kitas, die ihnen in dieser Runde ebenfalls ein Angebot gemacht haben, eine definitive Absage. 
 
-**Alle weiteren Schritte (2, 3, 4, …)**.
+**Alle weiteren Schritte (2, 3, 4, …):**
 
   1. **Kitaangebote**: 
      
@@ -44,7 +44,7 @@ Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschr
   
   2. **Bewerberannahmen**: 
      
-     Bewerber, die zusätzliche Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Danach erteilen sie allen anderen Kitas, die ihnen in der Runde ein Angebot gemacht haben,  eine definitive Absage.
+     Bewerber, die zusätzliche Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Danach erteilen sie allen anderen Kitas, die ihnen in dieser Runde ein Angebot gemacht haben,  eine definitive Absage.
   
   3. **Ende**: 
      
@@ -53,7 +53,7 @@ Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschr
  
 ---
 
-## Semizentrales Gale-Shapley Verfahren:
+## Semizentrales Gale-Shapley-Verfahren:
 
 **Schritt 1**.
 
