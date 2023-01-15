@@ -12,7 +12,7 @@ Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise drei v
 
 ---
 
-Wie in den vorangegangenen  Beispielen dargestellt wurde, hängt die Problematik von Instabilität und Strategiesicherheit mit der direkten Annahme zusammen. Das Gale-Shapley-Verfahren löst das Problem, indem er es Bewerbern erlaubt, das beste Angebot zu **halten**; sie aber nicht dazu zwingt, ein **Angebot direkt anzunehmen**: 
+Wie in den vorangegangenen Beispielen dargestellt wurde, hängt die Problematik von Instabilität und Strategiesicherheit mit der direkten Annahme zusammen. Das Gale-Shapley-Verfahren löst das Problem, indem er es Bewerbern erlaubt, das beste Angebot zu **halten**; sie aber nicht dazu zwingt, ein **Angebot direkt anzunehmen**: 
 
 **1.** Kitas machen Angebote ihrer Priorität folgend. Lea bekommt ein Angebot von Kita 1 und Kita 2 und lehnt Kita 2 ab (roter Pfeil). Das  Angebot von Kita 1 hält sie (grauer Pfeil). Mia muss warten, da ihr kein Angebot in dieser Runde unterbreitet wird, während Kai das Angebot von Kita 3 hält (grauer Pfeil) - im Gegenteil zum „unkoordinierten Verfahren“ muss sich Kai nicht entscheiden, ob er das Angebot annimmt oder ablehnt, und kann keinen „strategischen Fehler“ machen.
 
