@@ -14,7 +14,7 @@ Vor einer Kitavergabe einigen sich Kitas auf einen oder mehrere Kriterienkatalog
 
 Die Akzeptanz einer stabilen Zuteilung hängt direkt von der Akzeptanz der Kriterienkataloge ab — Stabilität ist nur so gut wie der Kriterienkatalog. Wenn Bewerber die Kriterien als unfair empfinden, werden sie die daraus resultierende stabile Zuteilung auch für unfair halten.
 
-Für eine gerechte und akzeptable Kitaplatzvergabe ist deshalb ein gut designter Kriterienkatalog unabdingbar. In diesem Zusammenhang sei erwähnt, dass dies einhergeht mit einer klarenund transparenten Kommunikation der angewendeten Kriterien gegenüber den Bewerbern.Dies ermöglicht eine nachvollziehbare Begründung für die Ablehnung eines Bewerbers.
+Für eine gerechte und akzeptable Kitaplatzvergabe ist deshalb ein gut designter Kriterienkatalog unabdingbar. In diesem Zusammenhang sei erwähnt, dass dies einhergeht mit einer klaren und transparenten Kommunikation der angewendeten Kriterien gegenüber den Bewerbern.Dies ermöglicht eine nachvollziehbare Begründung für die Ablehnung eines Bewerbers.
 
 ---
 
@@ -32,13 +32,13 @@ Gerade Bewerber, die mehrere Kinder gleichzeitig zuteilen möchten — zum Beisp
 
 Auch wenn die Kinder desselben Bewerbers gebündelt werden und nur zusammen angenommen werden können, ergeben sich Probleme für andere Bewerber. Generell wurde gezeigt, dass es bei solchen Wechselwirkungen kein Zuteilungsverfahren gibt, welches immer eine stabile Zuteilung findet.
 
-Hier hat sich die semi-zentrale Zuteilung bewährt. Da im System gekennzeichnet wird, welche Kinder Geschwister sind, können die Kitas koordinieren und so Geschwisterkindern jeweils ein Angebot derselben Kita unterbreiten, welche genügend Kapazität für beide hat. Dadurch können die oben erwähnten Probleme weitestgehend vermieden werden.
+Hier hat sich die **semizentrale Zuteilung** bewährt. Da im System gekennzeichnet wird, welche Kinder Geschwister sind, können die Kitas koordinieren und so Geschwisterkindern jeweils ein Angebot derselben Kita unterbreiten, welche genügend Kapazität für beide hat. Dadurch können die oben erwähnten Probleme weitestgehend vermieden werden.
 
 **Geschwisterkinder: Bereits in Betreuung**
 
 Das Problem bei Geschwisterkindern, bei denen sich ein Teil bereits in Betreuung bei einer Kita befindet, ist einfacher zu lösen. Grundsätzlich tritt hier kein Problem auf, wenn das nicht zugeteilte Geschwisterkind (die nicht zugeteilten Geschwisterkinder) eine so hohe Priorität hat, dass es sicher einen Platz in der Kita findet, in welcher sich seine Geschwister bereits zugeordnet sind.
 
-Dafür kann beispielsweise der Punkt ”Geschwisterkinder bei der Kita” in den Kriterienkatalog aufgenommen und genügend gewichtet werden. Auch hier hat sich die semi-zentrale Zuteilung bewährt. Falls dies nicht schon so im relevanten Kriterienkatalog vermerkt ist, können hier Kitas einem Kind, bei dem sie ein Geschwisterkind betreuen, ein Angebot unterbreiten und gegebenenfalls von der anfangs bestimmten Priorität abweichen. 
+Dafür kann beispielsweise der Punkt ”Geschwisterkinder bei der Kita” in den Kriterienkatalog aufgenommen und genügend gewichtet werden. Auch hier hat sich die semizentrale Zuteilung bewährt. Falls dies nicht schon so im relevanten Kriterienkatalog vermerkt ist, können hier Kitas einem Kind, bei dem sie ein Geschwisterkind betreuen, ein Angebot unterbreiten und gegebenenfalls von der anfangs bestimmten Priorität abweichen. 
 
 ---
 
@@ -46,5 +46,4 @@ Dafür kann beispielsweise der Punkt ”Geschwisterkinder bei der Kita” in den
 
 Bei der zentralen Durchführung des Gale-Shapley-Verfahrens werden Prioritäten der Kitas und Präferenzen bzw. Rankings der Bewerber zentral gesammelt, und anschließend wird eine Zuteilung direkt ermittelt. In diesem Fall ist es für Beteiligte oft schwer nachzuvollziehen, wie die Verteilung zustande gekommen ist.
 
-Auch hier hat es sich bewährt, die Verteilung - mindestens bei der Einführung des Gale-Shapley-Verfahrens, semi-zentral durchzuführen, damit die Kitas den Mechanismus  direkt ,,miterleben” können. Gerade bei Kommunen, die das Gale-Shapley-Verfahren  über mehrere Jahre adaptiert haben, hat sich ein Vertrauen und intuitives Verständnis gegenüber diesem gebildet.
-
+Auch hier hat es sich bewährt, die Verteilung - mindestens bei der Einführung des Gale-Shapley-Verfahrens - semizentral durchzuführen, damit die Kitas den Mechanismus  direkt "miterleben” können. Gerade bei Kommunen, die das Gale-Shapley-Verfahren über mehrere Jahre adaptiert haben, hat sich ein Vertrauen und intuitives Verständnis gegenüber diesem gebildet.
