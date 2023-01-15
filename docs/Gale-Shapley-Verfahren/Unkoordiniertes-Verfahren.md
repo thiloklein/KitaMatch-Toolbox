@@ -74,4 +74,5 @@ Obwohl es bei einer unkoordinierten Vergabe nicht klar ist, welche Verteilung en
 
 
 
+  
 
