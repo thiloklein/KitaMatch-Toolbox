@@ -8,7 +8,7 @@ permalink: /docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus
 
 # Beispiel: First-Preference-First Mechanismus
 
-Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise drei verschiedener Zuteilungsmethoden([First-Preference-First-Mechanismus](), [unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren) und [Gale-Shapley-Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel)) zu illustrieren, und intuitiv aufzuzeigen, weshalb das Gale-Shapley-Verfahren als einziges Zuteilungsverfahren sowohl stabil als auch strategiesicher ist.
+Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise drei verschiedener Zuteilungsmethoden([First-Preference-First-Mechanismus](), [unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren) und [Gale-Shapley-Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel)) zu illustrieren und intuitiv aufzuzeigen, weshalb das Gale-Shapley-Verfahren als einziges Zuteilungsverfahren sowohl stabil als auch strategiesicher ist.
 
 ---
 
