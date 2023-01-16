@@ -8,12 +8,16 @@ permalink: /docs/Referenzen
 
 # Referenzen
 
-Reischmann/Klein/Giegerich (2021). *An iterative deferred acceptance mechanism for decentralized, fast, and fair childcare assignment, Journal of Mechanism and Institution Design, volume 5. (im Erscheinen)*
+Reischmann, Tobias, Thilo Klein und Sven Giegerich (2021). *An iterative deferred acceptance mechanism for decentralized, fast, and fair childcare assignment, Journal of Mechanism and Institution Design. Mannheim*
 
-Gretschko/Klein/Wambach (2019). *Die Regeln machen den Unterschied: Marktdesign, Wirtschaftswissenschaftliches Studium, 48(4): 22-28.*
+Gretschko, Vitasli, Thilo Klein und Achim Wambach (2019). *Die Regeln machen den Unterschied: Marktdesign, Wirtschaftswissenschaftliches Studium (48)4. 22-28.*
 
-Fugger/Klein/Riehm (2017). Dezentrale Kitaplatzvergabe ohne Warteschlange: *Ein Leitfaden, ZEW policy brief no. 17-04.*
+Fugger, Nicholas, Thilo Klein und Tobis Riehm (2017). Dezentrale Kitaplatzvergabe ohne Warteschlange: *Ein Leitfaden, ZEW policy brief no. 17-04. Mannheim*
 
-Herzog/Klein (2017). Matching Practices for Childcare in Germany, *Matching-in-Practice Country Profile no. 26.*
+Herzog, S und Thilo Klein (2017). Matching Practices for Childcare in Germany, *Matching-in-Practice Country Profile no. 26.*
 
-Gale, David, and Lloyd S. Shapley. "College admissions and the stability of marriage." *The American Mathematical Monthly 69.1 (1962): 9-15.*
+Gale, David, and Lloyd S. Shapley (1962. „College admissions and the stability of marriage“. *The American Mathematical Monthly 69.1. 9–15.*
+
+Kommunale Spitzenverbände und Landesjugendämter in NRW (Hrsg.) (2017). „Aufnahmekriterien für Kindertageseinrichtungen“. [https://www.lvr.de/media/wwwlvrde/jugend/kinderundfamilien/tageseinrichtungenfrkinder/dokumente_88/Gemeinsame_Arbeitshilfe_KSV_und_LJAE.pdf (Download 8.11.2022)](https://www.lvr.de/media/wwwlvrde/jugend/kinderundfamilien/tageseinrichtungenfrkinder/dokumente_88/Gemeinsame_Arbeitshilfe_KSV_und_LJAE.pdf).
+
+Völker, Karin (2015). „Kita-Navigator mit Schwachstellen: ‚Vergabe-System ist intransparent‘“. Westfälische Nachrichten 7.3. [https://www.wn.de/muenster/vergabe-system-ist-intransparent-1854228 (Download 8.11.2022)](https://www.wn.de/muenster/vergabe-system-ist-intransparent-1854228).
