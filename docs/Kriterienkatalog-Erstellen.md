@@ -151,22 +151,22 @@ Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lo
 - Kinder, deren Geschwister die Einrichtung zeitgleich besuchen
 - Öffnungszeit deckt den Betreuungsbedarf der Eltern ab.
 
-Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Lokale Kriterien können auch nur in einzelnen Einrichtungen zutreffen, dann bekommt das Kind auch nur in der betreffenden Einrichtung die entsprechenden (Bonus-) Punkte.
+Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Da lokale Kriterien nur auf einzelne Einrichtungen zutreffen, bekommt das Kind auch nur in diesen die entsprechenden (Bonus)Punkte.
 
 
 {: .note-title}
 > Wichtig
 >
-> **Globale Kriterien**: Die Leitung bzw. FB KTP der Erstwunscheinrichtung wendet diese Kriterien an, und die Punkte zählen sowohl für die Erstwunscheinrichtung als auch für alle weiteren, angegebenen Wunscheinrichtungen.
+> **Globale Kriterien**: Die Leitung bzw. Fachberatung der Kindertagespflege der Erstwunscheinrichtung wendet diese Kriterien an und die Punkte zählen sowohl für diese als auch für alle weiteren, angegebenen Wunscheinrichtungen.
 > 
-> **Lokale Kriterien**: Diese Kriterien sind nicht in allen Einrichtungen für die Wunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die jeweilige Einrichtung, für die das Kriterium auch zutrifft.
+> **Lokale Kriterien**: Diese Kriterien sind nicht in allen Einrichtungen für die Wunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die Einrichtung, die die angegebenen Kriterien erfüllt.
 
 
 ---
 
 ## Beispiel eines Kriterienkatalogs
 
-Um einen ersten Eindruck zu erhalten, wie ein solcher Kriterienkatalog aussehen kann, wird an dieser Stelle ohne Anspruch auf Rechtmäßigkeit, Gerichtsbarkeit und Vollständigkeit - auf folgenden Auszug eines Kriterienkatalogs einer Pilotkommune verwiesen.
+Um einen ersten Eindruck zu erhalten, wie ein solcher Kriterienkatalog aussehen kann, wird an dieser Stelle ohne Anspruch auf Rechtmäßigkeit, Gerichtsbarkeit und Vollständigkeit - auf den Auszug eines Kriterienkatalogs einer Pilotkommune verwiesen.
 
 <small>Abbildung: Ein Beispielkatalog</small>
 
@@ -174,39 +174,31 @@ Um einen ersten Eindruck zu erhalten, wie ein solcher Kriterienkatalog aussehen 
 
 In der Pilotkommune gelten demzufolge folgende „globale“ Kriterien, die für **alle** ausgewählten Wunscheinrichtungen gleichermaßen gelten: 
 
-- Familienstand, wobei unterschieden wird zwischen “alleinlebend mit Kind” (die sorgeberechtigte Person lebt allein mit Kind(ern) und erhält keine weitere Unterstützung)  und “alleinerziehend” (die sorgeberechtigte Person wohnt mit mind. einer erwachsenen Person und dem Kind zusammen),  
-- Berufstätigkeit, die sowohl für die erste wie für die zweite sorgeberechtigte Person berücksichtigt wird und konkret “Berufstätigkeit/ Ausbildung/ Weiterbildung/ Schule /Studium (oder geplante Wiederaufnahme im Laufe des Kitajahres) bedeutet,
+- Familienstand, wobei unterschieden wird zwischen “alleinlebend mit Kind” (die sorgeberechtigte Person lebt allein mit Kind(ern) und erhält keine weitere Unterstützung)  und “alleinerziehend” (die sorgeberechtigte Person wohnt mit mindestens einer erwachsenen Person und dem Kind zusammen),  
+- Berufstätigkeit, die sowohl für die erste wie für die zweite sorgeberechtigte Person berücksichtigt wird und konkret “Berufstätigkeit/Ausbildung/Weiterbildung/Schule/Studium (oder geplante Wiederaufnahme im Laufe des Kitajahres)" bedeutet,
 - Inklusion, 
 - besondere familiäre Situation, dazu zählen beispielsweise Mehrkindfamilien (ab 3 Kinder), pflegebedürftige Personen im Haushalt, langzeit erkrankte Eltern/Behinderung mind. eines Elternteils),
 - Hilfen vom Jugendamt/Hilfen zur Erziehung. 
 
 
-Zu den lokalen Kriterien, die nur in einer bestimmten Einrichtung berücksichtigt werden, gehören in diesem Beispiel die Geschwisterkinder. In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres Geschwisterkind in die Schule wechselt bzw. in der Einrichtung betreut wurde (nicht zeitgleiche Betreuung). 
+Zu den lokalen Kriterien, die nur in einer bestimmten Einrichtung berücksichtigt werden, gehören in diesem Beispiel die Geschwisterkinder. In vielen Einrichtungen gilt der sogenannte „Geschwisterbonus“. Sofern ein älteres Geschwisterkind bereits in der Einrichtung betreut wird, wird das jüngere Kind vor Kindern, die keine Geschwisterkinder in der Einrichtung haben, bevorzugt (zeitgleiche Betreuung). Dies gilt auch für die Geschwisterkinder, deren älteres in die Schule wechselt bzw. in der Einrichtung betreut wurde (nicht zeitgleiche Betreuung). 
 
-Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen Punktewert haben, der prinzipiell für alle Einrichtungen gilt. Dieser Punktewert wird in der Excel Liste unter “Punkte” eingepflegt, siehe auch die [Abbildung " Beispiel eines vollständigen Datensatzes"](/docs/Uebersicht-Software/Der-Standardfall#welche-daten-benötigt-kitamatch)   Die lokalen Kriterien sorgen dann dafür, dass ein Kind in einer bestimmten Einrichtung Zusatzpunkte bekommt, zum Beispiel wenn ein Geschwisterkind schon in der Einrichtung betreut wird. 
+Dieser Katalog hat zur Folge, dass Kinder auf Basis der globalen Kriterien einen Punktewert haben, der prinzipiell für alle Einrichtungen gilt. Dieser Punktewert wird in der Excel-Liste unter “Punkte” eingepflegt, siehe auch die [Abbildung " Beispiel eines vollständigen Datensatzes"](/docs/Uebersicht-Software/Der-Standardfall#welche-daten-benötigt-kitamatch)   Die lokalen Kriterien sorgen dann dafür, dass ein Kind in einer bestimmten Einrichtung Zusatzpunkte bekommt, zum Beispiel wenn ein Geschwisterkind schon in der Einrichtung betreut wird. 
 
 
 ---
 
 ## Aufnahmekriterien gewichten
 
-Nachdem die beteiligten Trägervertretungen, Kitaleitungen und FB KTP den für sie relevanten Aufnahmekriterienkatalog formuliert haben, ist es wichtig, die einzelnen Kriterien zu gewichten. 
+Nachdem die beteiligten Trägervertretungen, Kitaleitungen und die Fachberatung der Kindertagespflege den für sie relevanten Aufnahmekriterienkatalog formuliert haben, ist es wichtig, die einzelnen Kriterien zu gewichten. 
 
-Ziel ist es, eine Einigung unter den Beteiligten zu finden, wie wichtig welches Kriterium für sie ist. Entscheidend ist, dass die Gewichtungen soweit im Verhältnis untereinander passen. Es ist ratsam, dass die Beteiligten die Kriterien und insbesondere die Gewichtungen anhand von Aufnahmeentscheidungen der vergangenen Jahre „durchspielen“. Dabei kann folgende Frage hilfreich sein: „Wie realistisch sind die Kriterien bzw. Gewichtungen?“ 
+Ziel ist es, eine Einigung unter den Beteiligten zu finden, wie wichtig welches Kriterium für sie ist. Entscheidend ist, dass die Gewichtungen im Verhältnis untereinander passen. Es ist ratsam, dass die Beteiligten die Kriterien und insbesondere die Gewichtungen anhand von Aufnahmeentscheidungen der vergangenen Jahre „durchspielen“. Dabei kann folgende Frage hilfreich sein: Wie realistisch sind die Kriterien bzw. Gewichtungen? 
 
-<div class="box">
-  <b>Wichtig:</b>
-  <ul>
-    <li>Ein Kriterienkatalog besteht grundsätzlich aus verschiedenen (globalen und/oder lokalen) Aufnahmekriterien.</li>
-    <li>Diese Kriterien werden von den beteiligten Trägervertretungen, Kitaleitungen und Fachberatung der Kindertagespflege gemeinsam formuliert, jährlich hinterfragt und ggfls. angepasst (und stets vom KitaRat verabschiedet).</li>
-    <li>Ebenso legen die Beteiligten die zu vergebenden Punkte fest, wenn ein Kriterium erfüllt wird. Dabei ist darauf zu achten, dass die Gewichtungen der Kriterien untereinander passen und realistisch sind.</li>
-  </ul>
-</div>
 
 {: .note-title}
 > Wichtig
 > 
 > - Ein Kriterienkatalog besteht grundsätzlich aus verschiedenen (globalen und/oder lokalen) Aufnahmekriterien.
-> - Diese Kriterien werden von den beteiligten Trägervertretungen, Kitaleitungen und Fachberatung der Kindertagespflege gemeinsam formuliert, jährlich hinterfragt und ggfls. angepasst (und stets vom KitaRat verabschiedet).
+> - Diese Kriterien werden von den beteiligten Trägervertretungen, Kitaleitungen und der Fachberatung der Kindertagespflege gemeinsam formuliert, jährlich hinterfragt und gegebenenfalls angepasst (und stets vom Kitarat verabschiedet).
 > - Ebenso legen die Beteiligten die zu vergebenden Punkte fest, wenn ein Kriterium erfüllt wird. Dabei ist darauf zu achten, dass die Gewichtungen der Kriterien untereinander passen und realistisch sind.
 
