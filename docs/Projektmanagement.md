@@ -7,7 +7,7 @@ permalink: /docs/Projektmanagement
 
 # Das Projektmanagement für die Platzvergabe
 {: .no_toc }
-Die Einführung des Matchingverfahrens ist grundsätzlich im Rahmen eines Projektmanagements umzusetzen. Im Folgenden werden in Anlehnung an die Umsetzung in der Pilotkommune Ideen und Vorschläge vorgestellt, die insbesondere für die Kommunen bzw. die Projektleitung hilfreich sind. 
+Die Einführung des Matchingverfahrens ist grundsätzlich im Rahmen eines Projektmanagements umzusetzen. Im Folgenden werden in Anlehnung an die Umsetzung in der Pilotkommune Saerbeck Ideen und Vorschläge vorgestellt, die insbesondere für die Kommunen bzw. die Projektleitung hilfreich sind. 
 
 ## Inhalt
 {: .no_toc .text-delta }
@@ -17,13 +17,13 @@ Die Einführung des Matchingverfahrens ist grundsätzlich im Rahmen eines Projek
 
 ---
 
-## Das 4-Phasenmodell
+## Das 4-Phasen-Modell
 
-Die Zeitplanung ist einer der entscheidenden Faktoren für ein erfolgreiches Projekt. Im Folgenden wird ein möglicher Zeitplan anhand eines 4-Phasenmodells vorgesschlagen, das natürlich auf Ihre Rahmenbedingungen und Ressourcen angepasst werden kann. 
+Die Zeitplanung ist einer der entscheidenden Faktoren für ein erfolgreiches Projekt. Im Folgenden wird ein möglicher Zeitplan anhand eines 4-Phasen-Modells vorgesschlagen, das natürlich auf Ihre Rahmenbedingungen und Ressourcen angepasst werden kann. 
 
-Sobald der erforderliche politische Beschluss und idealerweise das Einverständnis aller Beteiligten vorliegen, beginnt die Phase 1 mit der Erstellung eines (einheitlichen) Kriterienkatalogs. Anschließend wird in der Phase 2 der Kriterienkatalog von den zuständigen Gremien genehmigt  und die notwendigen Daten des angemeldeten Kindes bzw. dessen Eltern eingeholt. In der Phase 3 werden die Bewerberlisten zusammengestellt und im KitaMatch hochgeladen. Um sie dort prüfen zu können, erhalten die beteiligten Kitaleitungen bzw. Fachberatung der Kindertagespflege die von der Kommune erstellten Zugänge. Gleichzeitig berechnet das Jugendamt pro Einrichtung die freien Plätze in der jeweiligen Altersgruppe und hinterlegt diese Zahl im KitaMatch. Sobald der Matching-Day (Phase 4) stattgefunden hat, kann das Jugendamt eine Liste mit (un-)versorgten Kindern generieren, und die Kitaleitungen bzw. Fachberatung der Kindertagespflege können den Eltern tatsächlich eine Zu-  bzw. Absage erteilen. Somit schließt sich der Kreis, und die nächste Vergabephase beginnt mit der Reflexion bzw. möglichen Anpassung des bestehenden Kriterienkatalogs (Phase 1 usw.). 
+Sobald der erforderliche politische Beschluss und idealerweise das Einverständnis aller Beteiligten vorliegen, beginnt die Phase 1 mit der Erstellung eines (einheitlichen) Kriterienkatalogs. Anschließend wird in der Phase 2 der Kriterienkatalog von den zuständigen Gremien genehmigt und werden die notwendigen Daten des angemeldeten Kindes bzw. dessen Eltern eingeholt. In der Phase 3 werden die Bewerberlisten zusammengestellt und im KitaMatch hochgeladen. Um sie dort prüfen zu können, erhalten die beteiligten Kitaleitungen bzw. die Fachberatung der Kindertagespflege die von der Kommune erstellten Zugänge. Gleichzeitig berechnet das Jugendamt pro Einrichtung die freien Plätze in der jeweiligen Altersgruppe und hinterlegt diese Zahl im KitaMatch. Sobald der Matching-Day (Phase 4) stattgefunden hat, kann das Jugendamt eine Liste mit (un)versorgten Kindern generieren und die Kitaleitungen bzw. die Fachberatung der Kindertagespflege können den Eltern tatsächlich eine Zu-  bzw. Absage erteilen. Somit schließt sich der Kreis und die nächste Vergabephase beginnt mit der Reflexion bzw. möglichen Anpassung des bestehenden Kriterienkatalogs (Phase 1, Phase 2 usw.). 
 
-<small>Abbildung: Das 4-Phasenmodell</small>
+<small>Abbildung: Das 4-Phasen-Modell</small>
 
 ![zeitplan.png](../assets/images/zeitplan.png "Das 4-Phasenmodell")
 
