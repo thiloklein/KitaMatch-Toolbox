@@ -131,7 +131,7 @@ Absatz 3 beschreibt explizit:
 
 Die über dreijährigen Kinder haben demzufolge einen konkreten Anspruch auf eine Betreuung in einer Kindertageseinrichtung. 
 
-Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die Arbeitshilfe „[Aufnahmekriterien für Kindertageseinrichtungen](https://www.lvr.de/media/wwwlvrde/jugend/kinderundfamilien/tageseinrichtungenfrkinder/dokumente_88/Gemeinsame_Arbeitshilfe_KSV_und_LJAE.pdf)“ der Kommunalen Spitzenverbände und der Landesjugendämter in NRW (2017) sein. Auf Grundlage der Punkte 3 bis 5 unter "III mögliche Konsequenzen" in dieser Arbeitshilfe können beispielsweise folgende Aufnahmekriterien herangezogen werden: 
+Eine weitere Hilfestellung für die Erstellung eines Kriterienkatalogs kann die Arbeitshilfe „Aufnahmekriterien für Kindertageseinrichtungen“ der Kommunalen Spitzenverbände und der Landesjugendämter in NRW (2017) sein. Auf Grundlage der Punkte 3 bis 5 unter "III mögliche Konsequenzen" in dieser Arbeitshilfe können beispielsweise folgende Aufnahmekriterien herangezogen werden: 
 
 - „Anzeige des Betreuungsbedarfs mindestens 6 Monate vor der geplanten Aufnahme
 - Kinder aus dem Jugendamtsbezirk 
