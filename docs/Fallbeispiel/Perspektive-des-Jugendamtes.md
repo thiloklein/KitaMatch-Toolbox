@@ -98,7 +98,7 @@ Für die Platzvergabe des Kitajahres 2020/21 kamen die beteiligten Kitaleitungen
 
 Das Matching kann aber auch online durchgeführt werden. Hierfür bedarf es sowohl technischer als auch organisatorischer Hilfestellung (z.B. jeweils zwei Endgeräte für die Kitaleitungen bzw. die Fachberatung der Kindertagespflege, mit der sie zur besseren Übersicht das Matching verfolgen bzw. das Matching-Tool bedienen können).
 
-Im Februar 2020 schließlich schickten die Kitaleitungen bzw. die Fachberatung der Kindertagespflege, genau wie ihre Kolleg:innen in den anderen Orten des Jugendamtsbezirks, den Eltern über das Kreis **ST**einfurt **E**ltern**P**ortal (STEP) **tatsächlich** eine verbindliche Zusage bzw. Absage.
+Im Februar 2020 schließlich schickten die Kitaleitungen bzw. die Fachberatung der Kindertagespflege, genau wie ihre Kolleg:innen in den anderen Orten des Jugendamtsbezirks, den Eltern über das Kreis **ST**einfurt **E**ltern**P**ortal (STEP) eine verbindliche Zusage bzw. Absage.
 
 
 ---
@@ -178,9 +178,11 @@ Besonders im Zuge der Reflexion ist es wichtig, das KitaMatch-Verfahren im Hinbl
 
 ## Fazit zur Platzvergabe mit dem KitaMatch-Verfahren im Landkreis Steinfurt
 
-Insgesamt ist festzuhalten, dass das Matching ein transparentes, schnelles und faires Vergabeverfahren für die Kommunen im Kreisjugendamtsbezirk Steinfurt ist. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses (vgl. B 040/2020[^1]) für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor. Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu garantieren.
+Insgesamt ist festzuhalten, dass das Matching ein transparentes, schnelles und faires Vergabeverfahren für die Kommunen im Kreisjugendamtsbezirk Steinfurt ist. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor.[^2] Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu garantieren.
 
 
 ---
 
 [^1]: Link: [https://sessionnet.krz.de/kreis_steinfurt/bi/vo0050.asp?__kvonr=8545](https://sessionnet.krz.de/kreis_steinfurt/bi/vo0050.asp?__kvonr=8545)
+[^2]: Vgl. B 040/2020 unter SessionNet | Planung der Kindertagesbetreuung im Kreisjugendamtsbezirk Steinfurt für das Kindergartenjahr 2020/2021 (krz.de)
+
