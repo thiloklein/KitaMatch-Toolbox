@@ -27,23 +27,23 @@ Im Folgenden geben wir einen allgemeinen Überblick über den Status quo und die
 
 In Deutschland lassen sich zwei grundlegende Typen von Aufnahmeverfahren unterscheiden (Herzog und Klein, 2017). Diese werden in diesem Manual mit „First-Preference-First“ und „Unkoordiniertes Verfahren“ bezeichnet (siehe <mark>Kapitel 2</mark> für eine Diskussion der Eigenschaften). Die großen Anbieter für Kita-Software bieten den Kommunen meist eine Wahl zwischen beiden Verfahren an. Ein First-Preference-First Verfahren liegt in der Regel dann vor, wenn Eltern bei der Vormerkung eine Rangliste über ihre Wunschkitas angeben können. Andernfalls wird ein Unkoordiniertes Verfahren verwendet. Gemeinsam sind diesen Verfahren folgende Probleme, die an zwei Beispielen deutlich werden.
 
-Beispiel 1 (Unkoordiniertes Verfahren): Eine alleinerziehende Mutter mit einem Vollzeitjob hat Bedarf für einen Vollzeitbetreuungsplatz, erhält aber zunächst ein Angebot für eine Teilzeitbetreuung.
+Beispiel 1 (**Unkoordiniertes Verfahren**): Eine alleinerziehende Mutter mit einem Vollzeitjob hat Bedarf für einen Vollzeitbetreuungsplatz, erhält aber zunächst ein Angebot für eine Teilzeitbetreuung.
 
-1.	Problem: Strategische Unsicherheit.
+1.	Problem: **Strategische Unsicherheit**.
     Sofern die Mutter noch auf eine Rückmeldung zu einem Vollzeitplatz wartet, wird sie hier vor eine Entscheidung gestellt, die sie mit den momentan verfügbaren Informationen eigentlich nicht sicher treffen kann.
 
-2.	Problem: Verletzung der Vergabekriterien.
+2.	Problem: **Verletzung der Vergabekriterien**.
     Nimmt sie das Angebot an, kann es sein, dass sie später einen Vollzeitbetreuungsplatz angeboten bekommt. Damit hat sie „berechtigten Neid“ gegenüber einer anderen Familie, die den Vollzeitplatz stattdessen bekommt. Die Vergabe ist unfair bzw. instabil (<mark>siehe Kapitel 2</mark>), und damit anfechtbar[^1], wenn die Mutter als Alleinerziehende Vorrang vor der Familie hat (<mark>siehe Kapitel 4</mark>).
 
-3.	Problem: Lange Wartezeiten. 
+3.	Problem: **Lange Wartezeiten**. 
     Wenn sie das Angebot vorübergehend zurückhält, verlängert sie die Wartezeit der anderen Eltern, was zu Planungsunsicherheiten aufseiten der Eltern und Arbeitgeber führt.
 
-Beispiel 2 (First-Preference-First): Eine alleinerziehende Mutter gibt eine Rangliste über ihre Wunschkitas an.
+Beispiel 2 (**First-Preference-First**): Eine alleinerziehende Mutter gibt eine Rangliste über ihre Wunschkitas an.
 
-1.	Problem: Verletzung der Vergabekriterien.
+1.	Problem: **Verletzung der Vergabekriterien**.
     Im First-Preference-First Verfahren, werden in einem ersten Schritt alle Erstwünsche geprüft. Die alleinerziehende Mutter erhält bei ihrer Erstwunschkita keinen Platz, da sich dort beispielsweise mehr alleinerziehende Mütter bewerben als es Plätze gibt (und damit zum Beispiel das Geburtsdatum des Kindes als Entscheidungskriterium verwendet wird). In den nächsten Schritten werden die Zweit- und Drittwünsche etc. geprüft. Wenn es in den von der Mutter angegeben Kitas im ersten Schritt mehr Bewerber als Plätze gab, findet Sie keinen Betreuungsplatz. Damit hat sie „berechtigten Neid“ gegenüber einer anderen Familie, die den Platz in der Zweitwunscheinrichtung der Mutter bekommt. Die Vergabe ist unfair bzw. instabil, und damit nicht gerichtsfest, wenn die Mutter als Alleinerziehende Vorrang vor der Familie hat.
 
-2.	Problem: Strategische Unsicherheit.
+2.	Problem: **Strategische Unsicherheit**.
     Das Verfahren benachteiligt Bewerber, die wenige Informationen haben und sich nicht strategisch Verhalten. Die Mutter hätte ihren Zweitwunsch bekommen können, wenn sie gewusst hätte, dass ihre Erstwunschkita stark nachgefragt ist und sie stattdessen strategisch gehandelt und ihren Zweitwunsch als ihren Erstwunsch angegeben hätte.
 
 Natürlich kann kein Zuteilungsverfahren mehr Betreuungsplätze vergeben, als Betreuungsplätze vorhanden sind. Langfristig kann die Kitaplatzvergabe deshalb vor allem durch einen Ausbau von Betreuungsplätzen verbessert werden.
