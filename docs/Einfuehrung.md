@@ -9,8 +9,10 @@ permalink: /docs/Einfuehrung
 # Einführung: eine transparente, faire und schnelle Kitaplatzvergabe
 {: .no_toc }
 
-Mit dem Ziel einer gerechten und schnelleren Kitaplatzvergabe hat das ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung seit 2017 mit KitaMatch ein Verfahren entwickelt, das eine transparente, faire und schnelle Vergabe von Kita- und Tagespflegeplätzen ermöglicht, bei der die Wünsche von Eltern und Kitas optimal zusammenkommen. Inzwischen wird das Verfahren in mehreren Kommunen erfolgreich verwendet. Um dieses Verfahren deutschlandweit allen Städten und Gemeinden zugänglich zu machen, wurde das vorliegende **Manual** entwickelt, mit dem Anwender:innen das vom ZEW entwickelte Vergabeverfahren selbstständig umsetzen können.
-{: .fs-6 .fw-300 }
+Mit dem Ziel einer gerechten und schnelleren Kitaplatzvergabe hat das ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung seit 2017 mit KitaMatch ein Software-basiertes Verfahren entwickelt, das eine transparente, faire und schnelle Vergabe von Kita- und Tagespflegeplätzen ermöglicht, bei der die Wünsche von Eltern und Kitas optimal zusammenkommen. Inzwischen wird das Verfahren in mehreren Kommunen erfolgreich verwendet. Um dieses Verfahren deutschlandweit allen Städten und Gemeinden zugänglich zu machen, wurde das vorliegende **Manual** entwickelt, mit dem Anwender:innen das vom ZEW entwickelte Vergabeverfahren selbstständig umsetzen können. Dieses Manual besteht aus verschiedenen Dokumenten, die den gesamten Prozess der Platzvergabe abbilden und dabei die einzelnen Prozessschritte für jede der beteiligten Zielgruppen – Kitas/Trägervertretungen, Jugendämter, Eltern und IT-Unterstützung – erläutern. Gleichzeitig werden relevante Dokumente bzw. die Programmiercodes auf der Website kitamatch.com bereitgestellt.
+
+Im Folgenden geben wir einen allgemeinen Überblick über den Status quo und die Probleme der Kitaplatzvergabe in Deutschland, das in KitaMatch umgesetzte Vergabeverfahren und die Vorteile dieser Lösung.
+
 
 
 ## Inhalt
@@ -23,39 +25,78 @@ Mit dem Ziel einer gerechten und schnelleren Kitaplatzvergabe hat das ZEW – Le
 
 ## Status quo: Probleme bei der Kitaplatzvergabe
 
-In den meisten deutschen Kommunen führt die Vergabe von freien Plätzen in Kindertagesstätten und der Kindertagespflege zu Unmut bei Eltern und Kitas. Dies liegt daran, dass Kitas kein einheitliches, transparentes Verfahren nutzen und Eltern sich wiederum oft strategisch verhalten müssen, beispielsweise ob und wann sie sich in einer bestimmten Kita anmelden bzw. dieser zusagen. Diese unkoordinierten Verfahren haben allgemein folgende negative Eigenschaften (Herzog und Klein 2017).
+In Deutschland lassen sich zwei grundlegende Typen von Aufnahmeverfahren unterscheiden (Herzog und Klein, 2017). Diese werden in diesem Manual mit „First-Preference-First“ und „Unkoordiniertes Verfahren“ bezeichnet (siehe <mark>Kapitel 2</mark> für eine Diskussion der Eigenschaften). Die großen Anbieter für Kita-Software bieten den Kommunen meist eine Wahl zwischen beiden Verfahren an. Ein First-Preference-First Verfahren liegt in der Regel dann vor, wenn Eltern bei der Vormerkung eine Rangliste über ihre Wunschkitas angeben können. Andernfalls wird ein Unkoordiniertes Verfahren verwendet. Gemeinsam sind diesen Verfahren folgende Probleme, die an zwei Beispielen deutlich werden.
 
-- Verletzung der Vergabekriterien: Die von der Kommune bzw. den Trägern festgelegten, verbindlichen Aufnahmekriterien für die Platzvergabe werden nachweisbar verletzt.
-- Kitawahl als Pokerspiel: Die notwendigen strategischen Abwägungen bei der Angabe der Wunscheinrichtungen und der Platzwahl werden zurzeit von vielen Eltern als „Pokerspiel“ wahrgenommen.
-- Lange Wartezeiten: Unkoordinierte Verfahren führen teilweise dazu, dass einige Eltern mehrere Angebote gleichzeitig erhalten. Damit werden Kitaplätze für andere Eltern blockiert und es entstehen lange Warteschlangen.
+Beispiel 1 (Unkoordiniertes Verfahren): Eine alleinerziehende Mutter mit einem Vollzeitjob hat Bedarf für einen Vollzeitbetreuungsplatz, erhält aber zunächst ein Angebot für eine Teilzeitbetreuung.
 
-Gerade der akute Mangel und die daraus resultierende Konkurrenz um Betreuungsplätze machen eine gerechte und effiziente Platzvergabe notwendig. Die gesellschaftlichen Folgen, die sich aus oben genannten Problemen ergeben, sind vielfältig: lange Wartezeiten für Eltern - gekoppelt mit beruflicher Planungsunsicherheit, ein unnötig hoher Verwaltungsaufwand für das Kita- und Trägerpersonal, ein Potenzial für Klagen von Seiten der Eltern[^1], sowie eine Benachteiligung von schlecht informierten Eltern. 
+1.	Problem: Strategische Unsicherheit.
+    Sofern die Mutter noch auf eine Rückmeldung zu einem Vollzeitplatz wartet, wird sie hier vor eine Entscheidung gestellt, die sie mit den momentan verfügbaren Informationen eigentlich nicht sicher treffen kann.
+
+2.	Problem: Verletzung der Vergabekriterien.
+    Nimmt sie das Angebot an, kann es sein, dass sie später einen Vollzeitbetreuungsplatz angeboten bekommt. Damit hat sie „berechtigten Neid“ gegenüber einer anderen Familie, die den Vollzeitplatz stattdessen bekommt. Die Vergabe ist unfair bzw. instabil (<mark>siehe Kapitel 2</mark>), und damit anfechtbar[^1], wenn die Mutter als Alleinerziehende Vorrang vor der Familie hat (<mark>siehe Kapitel 4</mark>).
+
+3.	Problem: Lange Wartezeiten. 
+    Wenn sie das Angebot vorübergehend zurückhält, verlängert sie die Wartezeit der anderen Eltern, was zu Planungsunsicherheiten aufseiten der Eltern und Arbeitgeber führt.
+
+Beispiel 2 (First-Preference-First): Eine alleinerziehende Mutter gibt eine Rangliste über ihre Wunschkitas an.
+
+1.	Problem: Verletzung der Vergabekriterien.
+    Im First-Preference-First Verfahren, werden in einem ersten Schritt alle Erstwünsche geprüft. Die alleinerziehende Mutter erhält bei ihrer Erstwunschkita keinen Platz, da sich dort beispielsweise mehr alleinerziehende Mütter bewerben als es Plätze gibt (und damit zum Beispiel das Geburtsdatum des Kindes als Entscheidungskriterium verwendet wird). In den nächsten Schritten werden die Zweit- und Drittwünsche etc. geprüft. Wenn es in den von der Mutter angegeben Kitas im ersten Schritt mehr Bewerber als Plätze gab, findet Sie keinen Betreuungsplatz. Damit hat sie „berechtigten Neid“ gegenüber einer anderen Familie, die den Platz in der Zweitwunscheinrichtung der Mutter bekommt. Die Vergabe ist unfair bzw. instabil, und damit nicht gerichtsfest, wenn die Mutter als Alleinerziehende Vorrang vor der Familie hat.
+
+2.	Problem: Strategische Unsicherheit.
+    Das Verfahren benachteiligt Bewerber, die wenige Informationen haben und sich nicht strategisch Verhalten. Die Mutter hätte ihren Zweitwunsch bekommen können, wenn sie gewusst hätte, dass ihre Erstwunschkita stark nachgefragt ist und sie stattdessen strategisch gehandelt und ihren Zweitwunsch als ihren Erstwunsch angegeben hätte.
+
+Natürlich kann kein Zuteilungsverfahren mehr Betreuungsplätze vergeben, als Betreuungsplätze vorhanden sind. Langfristig kann die Kitaplatzvergabe deshalb vor allem durch einen Ausbau von Betreuungsplätzen verbessert werden.
+Mittelfristig macht der in vielen Kommunen bestehende Mangel und die daraus resultierende Konkurrenz um Betreuungsplätze jedoch eine transparente, faire und schnelle Platzvergabe notwendig. 
+
 
 
 ## Wie die algorithmusbasierte Kitaplatzvergabe funktioniert
 
-Das ZEW hat in Kooperation mit dem Deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Städten und Gemeinden in Nordrhein-Westfalen und Rheinland-Pfalz ein Verfahren entwickelt, das die oben genannten Probleme und deren gesellschaftliche Folgen auflösen kann (Fugger, Klein und Riehm 2017). Dieses Verfahren wurde in Zusammenarbeit mit Eltern, Trägern, Kitaleitungen und Kommunen entwickelt. Es umfasst einen mehrstufigen Prozess, der gemeinsam mit den Kitas und Kommunen durchgeführt wird.
+Das ZEW hat in Kooperation mit dem Deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Städten und Gemeinden in Nordrhein-Westfalen und Rheinland-Pfalz ein Verfahren entwickelt, das die oben genannten Probleme und deren gesellschaftliche Folgen auflösen kann (Reischmann, Klein und Giegerich, 2021). Dieses Verfahren wurde in Zusammenarbeit mit Eltern, Trägern, Kitaleitungen und Kommunen entwickelt und basiert auf dem sogenannten Gale-Shapley Verfahren (<mark>siehe Kapitel 2</mark> für Details). Das Gale-Shapley Verfahren hat sich bereits in der Schul- und Studienplatzvergabe bewährt, u.a. in New York, London und Paris. Für die zugrundeliegende Theorie wurden Alvin Roth und Lloyd Shapley 2012 mit dem Nobelpreis „für die Theorie stabiler Verteilungen und die Praxis des Marktdesigns“ ausgezeichnet. 
 
-Dieser **Prozess** der Kitaplatzvergabe läuft folgendermaßen ab: 
+Das Gale-Shapley Verfahren ist ein Algorithmus mit sogenannter „verzögerter Annahme“. Nachdem die Eltern ihre Präferenzen angegeben haben, machen Kitas/Trägervertretungen im Rahmen der KitaMatch-Software den angemeldeten Kindern Angebote und Bewerber:innen können sie halten und abwarten, ob sie in einer späteren Runde ein besseres Angebot bekommen. Eine finale Annahme der gehaltenen Angebote erfolgt erst, wenn Kitas keine neuen Angebote mehr machen können. Die Zuteilung ist strategiesicher (es schadet nicht eine frühe Platzzusage einer Kita anzunehmen, da man den Platz immer noch durch ein späteres Platzangebot der Wunschkita ersetzen kann),  verletzt keine Vergabekriterien, und kann innerhalb kürzester Zeit durchgeführt werden. 
 
-- Eine Kommune und die ihr angeschlossenen Kitas einigen sich auf **objektive Aufnahmekriterien**, nach denen die Plätze vergeben werden. Dabei kann der Kriterienkatalog entweder für alle Kitas der Kommune gleich sein oder Kitas legen der Vergabe unterschiedliche Kriterien und/oder Gewichtungen zugrunde. 
-- Kommune und Kitaleitungen erklären den Eltern das neue Vergabeverfahren. Hierbei wird insbesondere auf die Tatsache hingewiesen, dass die Eltern **keine strategischen Abwägungen** mehr treffen müssen. 
-- Eltern reichen bei der Kommune (oder in ihrer Erstwunsch-Kita) einen Papier- oder Onlineanmeldebogen mit ihren persönlichen Daten und einer **Liste der für sie akzeptablen Kitas** geordnet nach ihren Präferenzen ein.
-- Die Kitas/Kommune erstellen auf Basis der in Schritt a) festgelegten Kriterien die Reihenfolgen, nach denen die Kitas den Eltern Platzangebote wollen. Hierbei entsteht für jede Kita (und Alterskohorte) eine **sortierte Liste von Kindern**, die in die ZEW-Software eingepflegt wird.
-- Am Vergabetag, dem sogenannten "Matching Day", treffen sich die Kitaleitungen, um die Plätze zunächst intern zu vergeben. Die Vergabe läuft über das eigens hierfür entwickelte **dezentrale Gale-Shapley-Verfahren**, und dauert je nach Größe der Kommune zwischen einer Stunde und vier Stunden. Das Matching kann prinzipiell auch online (etwa über Zoom, Skype o.Ä.) stattfinden. Im Anschluss können die Kitaleitungen den Eltern "tatsächlich" eine Zu- bzw. Absage erteilen.
+Die Umsetzung des Verfahrens für die Kitaplatzvergabe umfasst einen mehrstufigen Prozess, der gemeinsam mit den Kitas/Trägervertretungen, Eltern und Kommunen durchgeführt wird. Dieser **Prozess** der Kitaplatzvergabe läuft folgendermaßen ab: 
 
-Nachdem die Angaben der Kitas und der Eltern in die ZEW-Software eingelesen wurden, trafen sich die Verantwortlichen zum Matching-Day, um die Vergabe innerhalb kürzester Zeit durchzuführen. Das Feedback der Trägerleitungen und der Verantwortlichen der Kommune war hierbei durchweg positiv und der praktische Nutzen des neuen Verfahrens wurde mehrfach bestätigt. Insbesondere haben sich alle Pilotkommunen unabhängig voneinander dafür entschieden, das Verfahren auch in den kommenden Jahren durchzuführen und damit ihre alten Verfahren zu ersetzen.
-
-Die Vorteile des Verfahrens entstehen durch die koordinierte Vergabe, die sich erwiesenermaßen innerhalb kürzester Zeit einfach und effizient durchführen lässt. Die gesellschaftlichen Vorteile ergeben sich insbesondere aus den objektiven Kriterien, die die Vergabe transparenter und gerecht machen. Diese Vorteile lassen sich nur mit einem Gale-Shapley-Verfahren realisieren, welches sicherstellt, dass Kriterien auch umgesetzt werden. 
-
-Das Verfahren wurde inzwischen in fünf Pilotkommunen unterschiedlicher Größe (7.000 bis 100.000 Einwohner:innen) in Nordrhein-Westfalen und Rheinland-Pfalz erfolgreich implementiert.
+1. Eine Kommune und die ihr angeschlossenen Kitas einigen sich auf **objektive Aufnahmekriterien**, nach denen die Plätze vergeben werden. Dabei kann der Kriterienkatalog entweder für alle Kitas der Kommune gleich sein oder Kitas legen der Vergabe unterschiedliche Kriterien und/oder Gewichtungen zugrunde.
+2. Kommune und Kitaleitungen kommunizieren den Eltern das neue Vergabeverfahren. Hierbei wird insbesondere auf die Tatsache hingewiesen, dass die Eltern **keine strategischen Abwägungen** mehr treffen müssen. 
+3. Eltern reichen bei der Kommune einen Papier- oder Onlineanmeldebogen mit ihren persönlichen Daten und einer **Liste ihrer Wunscheinrichtungen** geordnet nach ihren Präferenzen ein.
+4. Auf Basis der in Schritt a) festgelegten Kriterien wird eine Liste der zu matchenden Kinder in der Reihenfolge erstellt, wonach die Kitas/Trägervertretungen den Eltern Platzangebote machen wollen. Hierbei entsteht für jede Kita (und Alterskohorte) eine **sortierte Liste von Kindern**, die in die KitaMatch Software eingepflegt wird.
+5. Am Vergabetag, dem sogenannten „Matching-Day“, treffen sich die Kitaleitungen/Trägervertretungen, um die Platzangebote zunächst in der Software zu machen. Dieser Prozess läuft über das eigens hierfür entwickelte **dezentrale Gale-Shapley-Verfahren** und dauert je nach Größe der Kommune zwischen einer Stunde und vier Stunden. Das Matching kann alternativ auch online (etwa über Zoom, Skype o.Ä.) stattfinden oder als „Matching-Woche“ organisiert werden, in der Kitas täglich ohne zeitliche Einschränkung Platzangebote machen können. Am Ende des Matching-Days können die Kitaleitungen den Eltern dann basierend auf der so gefundenen Zuordnung „tatsächlich“ eine Zu- bzw. Absage erteilen. 
 
 
-## Mit dem KitaMatch-Manual die algorithmusbasierte Kitaplatzvergabe selbstständig durchführen
 
-Nachdem in den letzten Jahren gezeigt wurde, dass das vom ZEW entwickelte Verfahren einen erheblichen Mehrwert für alle Beteiligten schafft, geht es nun darum, es den Kommunen und Kitas zur freien und selbstständigen Nutzung bereitzustellen. Dadurch soll zum einen die Nutzung des Verfahrens von der Beratungsleistung der ZEW-Mitarbeiter:innen unabhängig gemacht und zum anderen der Zugang zu Informationen und Anleitungen erleichtert werden. Hierfür hat das ZEW mit finanzieller Unterstützung der Bertelsmann Stiftung und Beratung durch Sylvia Greshake vom Jugendamt in Steinfurt dieses **Manual** aufgesetzt, welche **webbasiert** öffentlich für nicht kommerzielle Nutzung zugänglich ist. Dieses Manual besteht aus verschiedenen Dokumenten, die den gesamten Prozess der Platzvergabe abbilden und dabei die einzelnen Prozessschritte für jede der beteiligten Zielgruppen erläutern. Dazu wird der oben beschriebene Prozess (Schritte a) bis e)) im Detail für die Zielgruppen Kitas, Träger/Jugendämter, und IT-Unterstützung dargestellt. Gleichzeitig werden relevante Dokumente bzw. die Programmiercodes bereitgestellt.
+## Die Vorteile der algorithmusbasierten Kitaplatzvergabe
+
+Vorteile für **Jugendämter**:
+
+-	Transparenz: Das Jugendamt kann sicher sein, dass alle Kitaplätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kitas höher priorisiert waren als abgelehnte Kinder.
+-	Fairness: Das Gale-Shapley Verfahren ermöglicht eine gerichtsfeste Platzvergabe.
+-	Open-Source: Es fallen keine Lizenzkosten an. Es entsteht kein Lock-in Effekt wie bei proprietärer Software.
+
+Vorteile für **Kitas/Trägervertretungen**: 
+
+-	Transparenz: Die Ablehnung eines Kindes kann damit begründet werden, dass alle vergebenen Plätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kita höher priorisiert waren.
+-	Fairness: Die Vorsortierung der Bewerber nach den Kriterien des Kriterienkatalogs erleichtert die gerichtsfeste Vergabe für Kitas.
+-	Flexibilität: Die dezentrale Vergabe wahrt die Trägerautonomie und erlaubt Flexibilität, z.B. bezüglich Geschlechts- und Altersstruktur der Gruppen.
+
+Vorteile für **Eltern**: 
+
+-	Transparenz: Die Ablehnung durch eine Kita ist damit nachzuvollziehen, dass alle vergebenen Plätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kita höher priorisiert waren als das eigene Kind.
+-	Fairness: Die Vergabe erfüllt die gesetzlichen Vorgaben, sodass es sich nicht lohnt, darüber nachzudenken einen Kitaplatz einzuklagen.
+-	Schnelligkeit: Zu Platzvergabe erfolgt zwei Wochen nach dem Stichtag für die Vormerkung. Danach können Eltern mit einer Zu- oder Absage innerhalb einer Woche rechnen.
+-	Strategiesicherheit: Viele Kitas in der Vormerkung anzugeben, bedeutet keinen Nachteil, sondern erhöht die Chance, einen Platz zu erhalten. Darüber hinaus lohnt es sich, die Wunsch-Kita auf Platz eins anzugeben. Es sind also keine strategischen Erwägungen notwendig.
+
+
+
+## Kindertagespflege
+
+Die KitaMatch-Software ist nicht nur für die Vergabe von Betreuungsplätzen in Kindertageseinrichtungen geeignet, sondern auch in der Kindertagespflege. Wie diese Form der Betreuung organisiert ist, hängt u.a. von den rechtlichen Vorschriften und Möglichkeiten des jeweiligen Bundeslandes ab. In Nordrhein-Westfalen beispielsweise gilt die Kindertagespflege gem. dem Kinderbildungsgesetz NRW als gleichrangiges Angebot, und die Fachberatungs- und Vermittlungsstelle für Kindertagespflege wirkt trotz der Selbstständigkeit der Kindertagespflegeperson an dem gesamten Verfahren mit. Daher wird die Kindertagespflege im Folgenden zwar berücksichtigt, aber wegen der besseren Lesbarkeit durch „Kitaleitungen“ implizit dargestellt und nicht immer explizit erwähnt. 
+
+
 
 ---
 
-[^1]: Siehe beispielsweise das [Urteil des OVG Münster vom 18.12.2017](http://www.justiz.nrw.de/nrwe/ovgs/ovg_nrw/j2017/12_B_930_17_Beschluss_20171218.html)
+[^1]: Siehe beispielsweise das [Urteil des OVG Münster vom 18.12.2017](http://www.justiz.nrw.de/nrwe/ovgs/ovg_nrw/j2017/12_B_930_17_Beschluss_20171218.html). Der Fall lässt sich wie folgt zusammenfassen: Die Eltern erhalten eine Platzzusage für eine Tagespflegeeinrichtung, hätten aber einen Platz in einer Kita bevorzugt. Daraufhin fordern sie einen Kitaplatz für ihr Kind ein. Die Stadt lehnt das ab und verweist auf die bereits erteilte Platzzusage für eine Tagespflegeeinrichtung. Die Eltern reichen Klage ein. Laut OVG-Urteil ist der Anspruch der Eltern auf einen Kitaplatz nicht zu beanstanden. In der Begründung heißt es, dass die Stadt nicht nachweisen konnte, dass alle Plätze in öffentlichen Kitas an Kinder vergeben wurden, die bezüglich der Aufnahmekriterien der Kitas höher priorisiert waren als das Kind der Antragstellenden. Das OVG bemängelt also das Vergabeverfahren als nicht „ordnungsgemäß“, da es zu einer instabilen Zuordnung führt.
 
