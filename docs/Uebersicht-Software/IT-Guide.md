@@ -9,7 +9,7 @@ permalink: /docs/Uebersicht-Software/IT-Guide
 # IT-Guide
 {: .no_toc }
 
-Das folgende Kapitel wendet sich an die Systemadministration einer Kommune. Die folgenden Beschreibungen befähigen diese Person mit starkem IT-Background dazu, KitaMatch in einer bestimmten Kommune eigenständig umzusetzen.
+Das folgende Kapitel wendet sich an die Systemadministration einer Kommune, und setzt gewisse IT-Kenntnisse voraus. Es wird das Set-Up der KitaMatch Software für eine neue Kommune beschrieben.
 
 
 ## Inhalt
@@ -46,7 +46,7 @@ Das folgende Kapitel wendet sich an die Systemadministration einer Kommune. Die 
 
 ## Erstellen einer neuen Umgebung für die Kommune
 
-Im Folgenden wird dargestellt, wie die KitaMatch-Umgebung mittels PHP konfiguriert wird. Bei abweichender Serversoftware gehen Sie analog vor.
+Im Folgenden wird dargestellt, wie die KitaMatch-Umgebung mittels PHP konfiguriert wird. Bei abweichender Serversoftware kann analog vorgegangen werden.
 
 **1.** Erstellen Sie einen neuen Ordner mit dem Stadtnamen unter <tt>(/var/www/html)</tt>:
        
@@ -80,7 +80,7 @@ Im Folgenden wird dargestellt, wie die KitaMatch-Umgebung mittels PHP konfigurie
  
   Diese Parameter finden Sie auch in der Datei <tt>kitamatch_config.php</tt> (<tt>care_scopes</tt> = Betreuungsumfang, <tt>care_starts</tt> = Betreuungsbeginn, <tt>age_cohorts</tt> = Alterskohorten). Um die Umgebung korrekt vorzubereiten, stellen Sie sicher, dass die **Anzahl** und **Reihenfolge** dieser drei Parameter mit den Einstellungen im R-Skript übereinstimmen. Nach dem obigen Beispiel müsste “<tt>care_starts</tt>” in der PHP-Konfigurationsdatei also mit “Q2” beginnen. Alternative Formate wie zum Beispiel “2020-Q1” sind ebenfalls zulässig, solange Format und Reihenfolge im R-Skript und in der PHP-Konfigurationsdatei gleich sind. Ebenso kann auch nur ein Betreuungsumfang oder -beginn eingestellt werden (“<tt>single-scope</tt>”).
 
-  Der Matchingprozess der KitaMatch-Software basiert auf einem System, das Bewerbern Punkte zuordnet, wenn sie bestimmte Kriterien erfüllen. In der Konfigurationsdatei können bei Bedarf zusätzlich manuelle Kriterien festgelegt werden. Unter <tt>additionalCriteriaBonus_x</tt> kann das x-te Kiterium ein- oder ausgestellt werden. Zusätzlich kann manuell eine Punktezahl für jedes Kriterium festgelegt werden.
+  Der Matchingprozess der KitaMatch-Software basiert auf einem System, das Bewerbern Punkte zuordnet, wenn diese bestimmte Kriterien erfüllen. In der Konfigurationsdatei können bei Bedarf zusätzlich manuelle Kriterien festgelegt werden. Unter <tt>additionalCriteriaBonus_x</tt> kann das x-te Kriterium ein- oder ausgestellt werden. Zusätzlich kann manuell eine Punktezahl für jedes Kriterium festgelegt werden.
 
 **6.** Konfigurieren Sie die Stadt in <tt>/var/www/html/{Stadtname}/public/.htacces</tt>:
 
