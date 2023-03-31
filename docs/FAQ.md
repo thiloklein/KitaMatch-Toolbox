@@ -12,8 +12,8 @@ Wichtige Fragen, die im Rahmen des Matchings regelmäßig auftauchen (können)
 
 
 <details>
-    <summary><b>Welche Altersgruppen werden berücksichtigt?</b></summary>
-Es empfiehlt sich eine Orientierung am jeweils geltenden Recht. In Nordrhein-Westfalen beispielsweise sind es gemäß dem Kinderbildungsgesetz unter Zweijährige, Zweijährige und über Dreijährige. 
+    <summary><b>Welche Altersgruppen werden beim Matching berücksichtigt?</b></summary>
+Es empfiehlt sich eine Orientierung am jeweils geltenden Recht. In Nordrhein-Westfalen beispielsweise sind es gemäß dem Kinderbildungsgesetz unter Zweijährige, Zweijährige und über Dreijährige. Für diese jeweilige Altersgruppe wird das Matchingverfahren einzeln durchgeführt. 
 </details>
 <p> </p>
 <details>
@@ -27,7 +27,7 @@ Es empfiehlt sich eine Orientierung am jeweils geltenden Recht. In Nordrhein-Wes
 </details>
 <p> </p>
 <details>
-    <summary><b>Welcher Betreuungszeitpunkt wird berücksichtigt?</b></summary>
+    <summary><b>Welcher gewünschter Betreuungszeitpunkt wird berücksichtigt?</b></summary>
     Die Eltern geben einen gewünschten Betreuungsbeginn an. Die Kommune legt dann in Absprache mit den Kitaleitungen/Trägervertretungen bzw. Fachberatung der Kindertagespflege fest, welcher Zeitraum für die aktuelle Vergabe berücksichtigt werden soll. Beispielsweise bis Dezember. 
 </details>
 <p> </p>
