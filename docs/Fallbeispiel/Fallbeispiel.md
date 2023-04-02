@@ -342,5 +342,5 @@ Insgesamt ist festzuhalten, dass das Matching im Kreisjugendamtsbezirk Steinfurt
 
 ---
 
-[^5]: Vgl. B 040/2020 unter SessionNet | Planung der Kindertagesbetreuung im Kreisjugendamtsbezirk Steinfurt für das Kindergartenjahr 2020/2021 (krz.de)
+[^5]: Vgl. B 040/2020 unter SessionNet - Planung der Kindertagesbetreuung im Kreisjugendamtsbezirk Steinfurt für das Kindergartenjahr 2020/2021 (krz.de)
 
