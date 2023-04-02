@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Das Gale-Shapley Verfahren
+title: Gale-Shapley Verfahren
 has_children: true
 nav_order: 3
 has_toc: false
