@@ -27,15 +27,15 @@ Es empfiehlt sich eine Orientierung am jeweils geltenden Recht. In Nordrhein-Wes
 </details>
 <p> </p>
 <details>
-    <summary><b>Welcher gewünschter Betreuungszeitpunkt wird berücksichtigt?</b></summary>
-    Die Eltern geben einen gewünschten Betreuungsbeginn an. Die Kommune legt dann in Absprache mit den Kitaleitungen/Trägervertretungen bzw. Fachberatung der Kindertagespflege fest, welcher Zeitraum für die aktuelle Vergabe berücksichtigt werden soll. Beispielsweise bis Dezember. 
+    <summary><b>Welcher gewünschter Betreuungsbeginn wird berücksichtigt?</b></summary>
+    Die Eltern geben einen gewünschten Betreuungsbeginn an. Die Kommune legt dann in Absprache mit den Kitaleitungen/Trägervertretungen fest, welcher Zeitraum für die aktuelle Vergabe berücksichtigt werden soll. Beispielsweise bis Dezember. 
 </details>
 <p> </p>
 <details>
     <summary><b>Was bedeuten die einzelnen Farben, die ein Kind im Rahmen des Matchings erhalten kann?</b></summary>
 Falls ein Kind nach einer Matchingrunde „grün“ hinterlegt ist, bedeutet das, dass es das Angebot endgültig angenommen hat. In diesem Fall bleibt es im Laufe der weiteren Matchingrunden bei der Einrichtung und kann keiner anderen Kita mehr zusagen.
 
-    Falls ein Kind nach einer Matchingrunde „blau“ hinterlegt ist, bedeutet das, dass es das Angebot vorläufig angenommen hat, aber noch nicht endgültig. Es kann sein, dass es in einer der nächsten Runden ein Angebot von seiner Erstwunscheinrichtung erhält. 
+    Falls ein Kind nach einer Matchingrunde „blau“ hinterlegt ist, bedeutet das, dass es das Angebot vorläufig angenommen hat, aber noch nicht endgültig. Es kann sein, dass es in einer der nächsten Runden ein Angebot von einer höher präferierten Einrichtung erhält. 
 
     Falls ein Kind „rot“ hinterlegt ist, bedeutet das, dass die Einrichtung ihm aktuell kein Angebot machen kann. Entweder hat die Einrichtung keine Kapazität (mehr), um dem Kind ein Angebot zu machen, oder es hat ein Angebot einer Kita, zu der es lieber gehen würde, erhalten. 
 </details>
@@ -46,22 +46,26 @@ Im Zuge des Matchings kann es sein, dass ein Kind das Angebot einer Einrichtung 
 </details>
 <p> </p>
 <details>
-    <summary><b>Was muss beachtet werden, wenn Kinder, die bereits betreut werden, die Kita/Kindertagespflege wechseln wollen, aber im Rahmen des Matchings nicht die erste Wunscheinrichtung erhalten?</b></summary>
+    <summary><b>Was muss beachtet werden, wenn Kinder, die bereits betreut werden, die Kita wechseln wollen, aber im Rahmen des Matchings nicht die erste Wunscheinrichtung erhalten?</b></summary>
     Im Fall eines Wechselwunsches kann der Name der abgebenden Einrichtung als letztgenannte Wunscheinrichtung eingetragen werden. Dies führt in der Regel dazu, dass das Wechselkind nicht den Betreuungsplatz verliert.  
 </details>
 <p> </p>
 <details>
-    <summary><b>Kann die Kitaleitung bzw. die Fachberatung der Kindertagespflege sehen, in welcher Kita/Kindertagespflege ein von ihr abgelehntes Kind einen Platz erhält?</b></summary>
-Nach dem Matching¬-Day besteht die Möglichkeit für das Jugendamt, einen Datenexport mit den versorgten und unversorgten Kindern zu generieren. Inwiefern die Kitaleitungen bzw. die Fachberatung der Kindertagespflege entsprechende Infos erhalten, obliegt dem jeweiligen Jugendamt und ist datenschutzrechtlich fraglich.  
+    <summary><b>Kann die Kitaleitung sehen, in welcher Kita/Kindertagespflege ein von ihr abgelehntes Kind einen Platz erhält?</b></summary>
+Nach dem Matching¬-Day besteht die Möglichkeit für das Jugendamt, einen Datenexport mit den versorgten und unversorgten Kindern zu generieren. Inwiefern die Kitaleitungen entsprechende Infos erhalten, obliegt dem jeweiligen Jugendamt und ist datenschutzrechtlich fraglich.  
 </details>
 <p> </p>
 <details>
-    <summary><b>Was passiert, wenn eine Kitaleitung bzw. Fachberatung der Kindertagespflege nach dem Matching noch freie Plätze hat?</b></summary>
+    <summary><b>Was passiert, wenn eine Kitaleitung nach dem Matching noch freie Plätze hat?</b></summary>
     Da das Matching “intern” erfolgt und die Eltern erstmal nicht informiert werden, ist die tatsächliche Vergabe (Zu-/Absage) zwingend erforderlich. Sofern es in diesem Zuge noch unversorgte Kinder gibt, können sich diese in den Einrichtungen mit freien Plätzen melden. 
 </details>
 <p> </p>
 <details>
-    <summary><b>Wie gehen die Kitaleitungen bzw. Fachberatung der Kindertagespflege mit den Kindern vor, die sich nach dem Matching-Day dort anmelden?</b></summary>
+    <summary><b>Wie gehen die Kitaleitungen mit den Kindern vor, die sich nach dem Matching-Day dort anmelden?</b></summary>
     Dies ist abhängig von dem Vorgehen in den einzelnen Kommunen. Falls das Matching beispielsweise nur einmal im Jahr für die Hauptvergabe zum 1. August des neuen Kitajahres erfolgt, sind die Kinder, die sich nach dem Matching-Day anmelden, wie unterjährige Anmeldungen zu betrachten. 
 </details>
-
+<p> </p>
+<details>
+    <summary><b>Können Kinder, die für einen Platz in der Kindertagespflege angemeldet wurden, auch mit der KitaMatchSoftware gematcht werden?</b></summary>
+    Ja, auch die Kinder, die für einen Platz in der Kindertagespflege angemeldet wurden, können mit diesem Programm am Vergabeverfahren teilnehmen; auch die, die eine Anmeldung für die Kindertagespflege und als Alternative die Kindertageseinrichtung (oder andersherum) angegeben haben.  
+</details>
