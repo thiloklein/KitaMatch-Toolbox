@@ -335,7 +335,7 @@ Besonders im Zuge der Reflexion ist es wichtig, das KitaMatch-Verfahren im Hinbl
 
 ## Fazit zur Platzvergabe mit dem KitaMatch-Verfahren im Landkreis Steinfurt
 
-Insgesamt ist festzuhalten, dass das Matching im Kreisjugendamtsbezirk Steinfurt als transparentes, schnelles und faires Verfahren für die Kommunen wahrgenommen wurde. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor.  Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu geben, sofern genügend Plätze zur Verfügung stehen.. 
+Insgesamt ist festzuhalten, dass das Matching im Kreisjugendamtsbezirk Steinfurt als transparentes, schnelles und faires Verfahren für die Kommunen wahrgenommen wurde. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor.[^5] Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu geben, sofern genügend Plätze zur Verfügung stehen.. 
 
 
 
