@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Fallbeispiel
-nav_order: 3
-has_children: true
+nav_order: 7
+has_children: false
 has_toc: false
 permalink: /docs/Fallbeispiel
 ---
