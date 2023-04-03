@@ -28,7 +28,7 @@ Um das oben beschriebene Verfahren umsetzen zu können, benötigt die Software d
 
 Obligatorische Angaben sind Name, Geburtsdatum, Alterskohorte und die von den Eltern geäußerten Wunscheinrichtungen (erste bis maximal zwölfte Wunscheinrichtung). Wichtig hierbei ist, dass ein Dropdown-Menü für die Namen der Einrichtungen verwendet wird. Optional können zudem noch eine Identifikation (ID) und das Geschlecht in KitaMatch angezeigt werden. In der Spalte „Rangordnungspunkte“ werden, basierend auf dem gewählten Kriterienkatalog, die resultierenden Punktewerte pro Kind angegeben. Zusätzlich gibt es noch die Möglichkeit, bis zu sechs Zusatzkriterien zu definieren, für die Kinder nur in bestimmten Kitas Zusatzpunkte erhalten. Hierfür werden in der jeweilige Zelle einfach der Namen der Kita, in der das Kind jeweils Zusatzpunkte bekommen soll, erfasst. Zusätzlich muss jeweils definiert werden, wie viele Zusatzpunkte das jeweilige Zusatzkriterium wert ist. 
 
-Nachdem diese Daten zur Verfügung gestellt sind, müssen diese von der Systemadministration in die KitaMatch Software eingepflegt werden (<mark>Kapitel 3.4</mark>). Wir empfehlen die Bewerberlisten zunächst auf Vollständigkeit und Plausibilität zu prüfen, bevor diese den Kitaleitungen bereitgestellt werden. Diese Bewerberlisten beruhen auf dem zugrunde gelegten Kriterienkatalog und den entsprechend ermittelten Punktwerten pro Kind. Bei Punktgleichheit sortiert das Programm automatisch das ältere Kind einen Platz vor dem anderen (jüngeren) Kind. 
+Nachdem diese Daten zur Verfügung gestellt sind, müssen diese von der [Systemadministration in die KitaMatch Software eingepflegt werden](/docs/Uebersicht-Software/IT-Guide). Wir empfehlen die Bewerberlisten zunächst auf Vollständigkeit und Plausibilität zu prüfen, bevor diese den Kitaleitungen bereitgestellt werden. Diese Bewerberlisten beruhen auf dem zugrunde gelegten Kriterienkatalog und den entsprechend ermittelten Punktwerten pro Kind. Bei Punktgleichheit sortiert das Programm automatisch das ältere Kind einen Platz vor dem anderen (jüngeren) Kind. 
 
 
 ---
@@ -40,7 +40,7 @@ Um das System zuverlässig nutzen zu können, empfehlen wir die neueste Version 
   1. Einen Link zur Website
   2. Die Login-Informationen (E-Mail-Adresse und Passwort)
 
-Diese Daten werden von der Systemadministration bereitgestellt (<mark>Kapitel 3.4</mark>).
+Diese Daten werden von der [Systemadministration](/docs/Uebersicht-Software/IT-Guide) bereitgestellt.
 
 
 ---
@@ -125,7 +125,7 @@ Unter „Rangliste der Wunscheinrichtungen“ kann man insbesondere die Präfere
 
 ### Kitagruppen
 
-Unter „Kitagruppen“ findet  man die Übersicht über alle Kitagruppen. Unter der jeweilige Kita (bzw. der einzelnen Alterskohorte einer Kita) kommt man zu der Ansicht, die die jeweilige Kitaleitung während des Verfahrens hat. Dieser Teil der Software, der sowohl den/die Projektmanager:in als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen, wird im nächsten <mark>Kapitel 3.1.5</mark> erklärt.
+Unter „Kitagruppen“ findet  man die Übersicht über alle Kitagruppen. Unter der jeweilige Kita (bzw. der einzelnen Alterskohorte einer Kita) kommt man zu der Ansicht, die die jeweilige Kitaleitung während des Verfahrens hat. Dieser Teil der Software, der sowohl den/die Projektmanager:in als auch die Kitaleitungen adressiert, die an dem Verfahren teilnehmen, wird im nächsten [Kapitel 3.1.5](/docs/Uebersicht-Software/Der-Standardfall#kitamatch-aus-sicht-der-kitaleitungen) erklärt.
 
 <small>Abbildung: Liste aller Kitagruppen</small>
 
@@ -146,7 +146,7 @@ Um das System zuverlässig nutzen zu können, wird empfohlen, die neueste Versio
   1. Einen Link zur Website
   2. Die Login-Informationen (E-Mail-Adresse und Passwort)
 
-Diese erhalten die Kitaleitungen von der/dem verantwortlichen Projektmanager:in (<mark>Kapitel 5</mark>). 
+Diese erhalten die Kitaleitungen von der/dem verantwortlichen [Projektmanager:in](/docs/Projektmanagement). 
 
 
 ### Systemzugang
@@ -216,7 +216,7 @@ Hat der/die Projektmanager:in den Matching-Day eingeläutet, können Kitas, den 
 
 Diesen Schritt kann jede Kita beliebig oft wiederholen, bis die Anzahl der eingepflegten Betreuungsplätze erreicht wird. 
 
-Dadurch rücken die Kinder, denen ein Angebot gemacht wurde, in die obere Tabelle und sind vorerst blau hinterlegt. Diese Angebote lassen sich so lange zurücknehmen, bis der/die Projektmanager:in den zentralen „Vergabe starten“-Button betätigt hat <mark>(siehe Abbildung 16)</mark>. 
+Dadurch rücken die Kinder, denen ein Angebot gemacht wurde, in die obere Tabelle und sind vorerst blau hinterlegt. Diese Angebote lassen sich so lange zurücknehmen, bis der/die Projektmanager:in den zentralen „Vergabe starten“-Button betätigt hat (siehe [Abbildung Übersichtsseite](/docs/Uebersicht-Software/Der-Standardfall#navigation)). 
 
 Alle Kinder, denen eine Kita zu einem gewissen Zeitpunkt gerade kein Angebot machen kann – zum Beispiel weil zu diesem Zeitpunkt keine weiteren freien Plätze mehr vorhanden sind –, erscheinen rot. 
 
@@ -245,7 +245,7 @@ Das Kind erscheint rot in der unteren Tabelle („Kein Angebot verfügbar“). D
 
 ![nach-runde.png](../../assets/images/nach-runde.png "Verbindliche Angebote")
 
-Dieser Vergabeschritt wird so lange wiederholt, bis alle Kitas entweder keine freien Plätze oder keine Kinder mehr in ihrer Liste haben, denen sie noch Angebote unterbreiten können (<mark>Siehe Kapitel 2</mark> für eine Erklärung des Vergabeverfahrens).
+Dieser Vergabeschritt wird so lange wiederholt, bis alle Kitas entweder keine freien Plätze oder keine Kinder mehr in ihrer Liste haben, denen sie noch Angebote unterbreiten können (Siehe [Kapitel 2](/docs/Das-Gale-Shapley-Verfahren) für eine Erklärung des Vergabeverfahrens).
 
 
 **Ende des Verfahrens**
