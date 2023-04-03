@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stabilität und Strategiesicherheit
-parent: Das Gale-Shapley Verfahren
+parent: Gale-Shapley Verfahren
 nav_order: 1
 permalink: /docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit
 ---
