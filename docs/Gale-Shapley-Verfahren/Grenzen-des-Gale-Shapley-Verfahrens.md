@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grenzen des Gale-Shapley-Verfahrens
-parent: Das Gale-Shapley Verfahren
+parent: Gale-Shapley Verfahren
 nav_order: 6
 permalink: /docs/Gale-Shapley-Verfahren/Grenzen-des-Gale-Shapley-Verfahrens
 ---
