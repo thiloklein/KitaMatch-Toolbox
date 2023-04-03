@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beispiel - Gale-Shapley-Verfahren
-parent: Das Gale-Shapley Verfahren
+parent: Gale-Shapley Verfahren
 nav_order: 5
 permalink: /docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel
 ---
