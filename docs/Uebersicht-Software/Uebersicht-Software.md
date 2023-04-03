@@ -27,6 +27,6 @@ Prinzipiell kann auch eine Person beide Rollen übernehmen, dafür muss diese je
 {: .no_toc }
 
 - [Der Standardfall](/docs/Uebersicht-Software/Der-Standardfall)
-- [Matching-Day](/docs/Uebersicht-Software/Vergabetag)
+- [Matching-Day](/docs/Uebersicht-Software/Matching-Day)
 - [Mögliche Erweiterungen](/docs/Uebersicht-Software/Moegliche-Erweiterungen)
 - [IT-Guide](/docs/Uebersicht-Software/IT-Guide)
