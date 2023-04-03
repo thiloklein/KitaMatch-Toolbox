@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beispiel - Unkoordiniertes Verfahren
-parent: Das Gale-Shapley Verfahren
+parent: Gale-Shapley Verfahren
 nav_order: 4
 permalink: /docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren
 ---
