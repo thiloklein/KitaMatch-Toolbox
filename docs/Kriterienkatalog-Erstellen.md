@@ -157,9 +157,7 @@ Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lo
 Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Da lokale Kriterien nur auf einzelne Einrichtungen zutreffen, bekommt das Kind auch nur in diesen die entsprechenden (Bonus)Punkte.
 
 
-{: .note-title}
-> 
->
+{: .highlight}
 > **Globale Kriterien**: Die Kitaleitung bzw. Trägervertretung der Erstwunscheinrichtung wendet diese Kriterien an und die Punkte zählen sowohl für diese als auch für alle weiteren, angegebenen Wunscheinrichtungen.
 > 
 > **Lokale Kriterien**: Diese Kriterien sind nicht in allen Einrichtungen für die Wunscheinrichtung relevant. Die ermittelten Punkte sind somit einrichtungsspezifisch und gelten nur für die Einrichtung, die die angegebenen Kriterien erfüllt.
