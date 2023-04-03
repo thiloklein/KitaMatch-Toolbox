@@ -24,7 +24,7 @@ Abschließend werden im [Kapitel 2.4](/docs/Gale-Shapley-Verfahren/Grenzen-des-G
 {: .no_toc }
 
 - [Stabilität und Strategie-Sicherheit](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit)
-- [Semi-Dezentrales Gale-Shapley Verfahren für KitaMatch](/docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren)
+- [Gale-Shapley-Verfahren: Stabil und Strategie-Sicher](/docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren)
 - [Beispiel: First-Preference-First Mechanismus](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus)
 - [Beispiel: Unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren)
 - [Beispiel: Gale-Shapley Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel)
