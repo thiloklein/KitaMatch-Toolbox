@@ -23,7 +23,7 @@ Der sogenannte „Matching-Day“ ist der Termin, an dem die beteiligten Kitalei
 ---
 
 ## Die Moderation
-Der Prozess sollte von der <mark>Kapitel</mark> [Projektleitung](/docs/Andere-Themen/Projektmanagement#die-projektleitung-und-die-rolle-des-jugendamtes) moderiert und begleitet werden. Dabei sollte die Person das Matchingverfahren kennen und mögliche Fragen der Beteiligten beantworten können. Darüber hinaus ist es ihre Aufgabe, im Rahmen des Matching-Days sicherzustellen, dass alle Kitaleitungen bzw. Trägervertretungen wissen, wann welche Verfahrensschritte anstehen. 
+Der Prozess sollte von der [Projektleitung](/docs/Projektmanagement#die-projektleitung-und-die-rolle-des-jugendamtes) moderiert und begleitet werden. Dabei sollte die Person das Matchingverfahren kennen und mögliche Fragen der Beteiligten beantworten können. Darüber hinaus ist es ihre Aufgabe, im Rahmen des Matching-Days sicherzustellen, dass alle Kitaleitungen bzw. Trägervertretungen wissen, wann welche Verfahrensschritte anstehen. 
 
 
 {: .note-title}
