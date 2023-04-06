@@ -83,5 +83,7 @@ Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschr
 
 
 
+---
+
 [^1]: Das Gale-Shapley-Verfahren, bei welchem Kitas Angebote unterbreiten, ist immun gegen Änderungen der Rankingliste, aber nicht gegen deren Verkürzen. In der Praxis ist aber das Risiko durch Verkürzens der Rangliste keiner Kita zugeteilt zu werden, viel höher als der potenzielle Gewinn bei einer erfolgreichen Manipulation. So gesehen ist für Bewerber in jedem Fall von Vorteil, ihre Präferenzen/Rankings wahrheitsgetreu anzugeben. Das Gale-Shapley-Verfahren, bei welchem Eltern Angebote unterbreiten, ist komplett strategy-sicher.
 
