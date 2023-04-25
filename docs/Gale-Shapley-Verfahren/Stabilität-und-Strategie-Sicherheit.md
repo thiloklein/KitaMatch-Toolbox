@@ -30,7 +30,8 @@ Für das Funktionieren des Verfahrens werden deshalb drei Angaben der Beteiligte
  
 - Für jede Kita eine **Priorität über die Bewerber**:
   
-  Prioritäten der Kitas bilden das Gegenstück zu den Rankings der Bewerber. Je höher die Priorität eines Bewerbers/Kindes für eine bestimmte Kita ist, desto besser sind seine Chancen, in dieser Kita einen Platz zu bekommen. Wenn eine Kita zum Beispiel nur einen Platz für mehrere Bewerber hat, dann erhält das Kind mit der höchsten Priorität, das heißt der höchsten Punktezahl dem [Kriterienkatalog](/docs/Kriterienkatalog-Erstellen) folgend, den Betreuungsplatz. Analog zu den Rankings der Bewerber kann grundsätzlich auch jede Kita ihre eigene Prioritätsreihenfolge haben.
+  Prioritäten der Kitas bilden das Gegenstück zu den Rankings der Bewerber. Je höher die Priorität eines Bewerbers/Kindes für eine bestimmte Kita ist, das heißt die Punktzahl nach dem [Kriterienkatalog](/docs/Kriterienkatalog-Erstellen), desto besser sind seine Chancen, in dieser Kita einen Platz zu bekommen. Wenn eine Kita zum Beispiel nur einen Platz für mehrere Bewerber hat, dann erhält das Kind mit der höchsten Priorität den Betreuungsplatz. Analog zu den Rankings der Bewerber kann grundsätzlich auch jede Kita ihre eigene Prioritätsreihenfolge haben. 
+
   
   Weitere Infos zum Kriterienkatalog finden Sie unter [Kriterienkatalog erstellen](/docs/Kriterienkatalog-Erstellen).
   
