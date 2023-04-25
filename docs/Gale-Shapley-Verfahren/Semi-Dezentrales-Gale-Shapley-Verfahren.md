@@ -8,16 +8,17 @@ permalink: /docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren
 
 # Gale-Shapley-Verfahren: Stabil und Strategie-Sicher
 
-Das Gale-Shapley-Verfahren ist ein von David Gale und Lloyd Shapley entwickeltes Zuteilungsverfahren (Gale and Shapley 1962). Das Gale-Shapley-Verfahren ist das einzige Vergabeverfahren, welches sowohl stabil als auch strategie-sicher ist.[^1]
+Das Gale-Shapley-Verfahren ist ein von David Gale und Lloyd Shapley entwickeltes Zuteilungsverfahren (Gale and Shapley 1962). Es ist das einzige Vergabeverfahren, welches sowohl stabil als auch strategie-sicher ist.[^1]
 
 {: .note-title}
 > Hinweis:
 >
-> Für ein einfaches Beispiel des Gale-Shapley-Verfahrens — im Vergleich mit den herkömmlichen Verfahren — siehe <a href="/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel">Beispiel: Gale-Shapley Verfahren</a>, <a href="/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus">Beispiel: First-Preference-First Mechanismus</a> und <a href="/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren">Beispiel: Unkoordiniertes Verfahren</a>. In diesem Kapitel wird außerdem aufgezeigt dass die alternativen Vergabeverfahren nicht Stabil und\oder Strategie-Sicher sind.  
+> Für ein einfaches Beispiel des Gale-Shapley-Verfahrens — im Vergleich mit den herkömmlichen Verfahren — siehe <a href="/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel">Beispiel: Gale-Shapley Verfahren</a>, <a href="/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus">Beispiel: First-Preference-First Mechanismus</a> und <a href="/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren">Beispiel: Unkoordiniertes Verfahren</a>. In diesem Kapitel wird außerdem aufgezeigt dass die alternativen Vergabeverfahren nicht stabil und\oder strategiesicher sind.
+
 
 Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschrieben. Grundsätzlich lässt sich sein Mechanismus relativ einfach auf komplexere Situationen — zum Beispiel Kitas mit unterschiedlichen Betreuungsplätzen bedingt durch Betreuungsumfänge und Alterskategorien anpassen. 
 
-**Zentrale Durchführung**: Normalerweise wird das Gale-Shapley Verfahren zentral durchgeführt. Das heißt, Prioritäten der Kitas und die Präferenzen bzw. Rankings der Bewerber werden zentral gesammelt und anschließend wird mittels des Gale-Shapley-Verfahrens die Zuteilung direkt ermittelt. Dies ist jedoch nicht immer optimal, da beispielsweise die Trägerautonomie einschränkt wird, weil Kitas zu keiner Zeit von den festgelegten Prioritäten abweichen können. 
+**Zentrale Durchführung**: Normalerweise wird das Gale-Shapley Verfahren zentral durchgeführt. Das heißt, die Prioritäten der Kitas und die Präferenzen bzw. Rankings der Bewerber werden zentral gesammelt und anschließend wird mittels des Gale-Shapley-Verfahrens die Zuteilung direkt ermittelt. Dies ist jedoch nicht immer optimal, weil Kitas zu beispielsweise zu keiner Zeit von den festgelegten Prioritäten abweichen können und damit die Trägerautonomie einschränkt wird. 
 
 **Semizentrale Durchführung**: Die koordinierte Vergabe von Kitaplätzen wird semizentral durchgeführt. In diesem Fall werden die Präferenzen bzw. Rankings der Bewerber zentral gesammelt, aber die Kitas nehmen dezentralisiert an der Vergabe teil, das heißt sie durchlaufen jeden Schritt der Vergabe einzeln. Dadurch ergibt sich die Möglichkeit, gegebenenfalls vom vorgegebenen Kriterienkatalog abzuweichen.  
 
@@ -73,7 +74,7 @@ Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschr
 
   1. Kitas, die mindestens eine Absage erhalten haben,  machen ein neues Angebot pro Absage  Kitas, bei denen kein einziges Angebot abgelehnt worden ist, machen kein weiteres Angebot. 
 
-     **Dezentral: Auch in jedem dieser Schritte können Kitas bei Bedarf von dem Kriterienkatalog/Prioritäten abweichen.**
+     **Dezentral: Auch in jedem dieser Schritte können Kitas bei Bedarf von dem Kriterienkatalog/den Prioritäten abweichen.**
   
   2. Bewerber, die zusätzlich Angebote erhalten, können entweder ein neues Angebot vorläufig annehmen oder ihr derzeit gehaltenes Angebot beibehalten. Dann erteilen sie allen anderen Kitas eine definitive Absage. 
 
