@@ -3,7 +3,7 @@ layout: default
 title: Gale-Shapley-Verfahren
 parent: Mechanismus hinter KitaMatch
 nav_order: 2
-permalink: /docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren
+permalink: /docs/Gale-Shapley-Verfahren/Gale-Shapley-Verfahren
 ---
 
 # Gale-Shapley-Verfahren: Stabil und Strategie-Sicher
