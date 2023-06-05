@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beispiel - Unkoordiniertes Verfahren
-parent: Gale-Shapley Verfahren
+parent: Mechanismus hinter KitaMatch
 nav_order: 4
 permalink: /docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren
 ---
