@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stabilität und Strategiesicherheit
-parent: Gale-Shapley Verfahren
+parent: Mechanismus hinter KitaMatch
 nav_order: 1
 permalink: /docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit
 ---
