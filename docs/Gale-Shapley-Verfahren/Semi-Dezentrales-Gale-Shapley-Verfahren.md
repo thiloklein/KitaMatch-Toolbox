@@ -3,7 +3,7 @@ layout: default
 title: Gale-Shapley-Verfahren
 parent: Gale-Shapley Verfahren
 nav_order: 2
-permalink: /docs/Gale-Shapley-Verfahren/Gale-Shapley-Verfahren
+permalink: /docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren
 ---
 
 # Gale-Shapley-Verfahren: Stabil und Strategie-Sicher
