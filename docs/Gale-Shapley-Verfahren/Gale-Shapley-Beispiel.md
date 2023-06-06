@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beispiel - Gale-Shapley-Verfahren
-parent: Mechanismus hinter KitaMatch
+parent: Gale-Shapley Verfahren
 nav_order: 5
 permalink: /docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel
 ---
@@ -18,25 +18,25 @@ Wie in den vorangegangenen Beispielen dargestellt wurde, hängt die Problematik 
 
 <small>Abbildung: Gale-Shapley-Verfahren - Schritt 1<small>
   
-![DA1.jpg](../../assets/images/DA1.jpg "Gale-Shapley-Verfahren - Schritt 1"){:height="500px" width="500px"}
+![DA1.jpg](../../assets/images/infographics/Kita_Infografik_Gale-Shapely-01.svg "Gale-Shapley-Verfahren - Schritt 1"){:height="500px" width="700px"}
 
 **2.** Kitas, deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 2 ein neues Angebot an Kai, welcher dieses hält und Kita 3 eine Absage erteilt. 
 
 <small>Abbildung: Gale-Shapley-Verfahren - Schritt 2<small>
 
-![DA2.jpg](../../assets/images/DA2.jpg "Gale-Shapley-Verfahren - Schritt 2"){:height="500px" width="500px"}
+![DA2.jpg](../../assets/images/infographics/Kita_Infografik_Gale-Shapely-02.svg "Gale-Shapley-Verfahren - Schritt 2"){:height="500px" width="700px"}
 
 **3.** Kitas, deren Angebote gehalten werden, machen in dieser Runde jeweils keine neuen Angebote. Deshalb macht nur Kita 3 ein neues Angebot an Mia, welche dieses hält.
 
 <small>Abbildung: Gale-Shapley-Verfahren - Schritt 3<small>
 
-![DA3.jpg](../../assets/images/DA3.jpg "Gale-Shapley-Verfahren - Schritt 3"){:height="500px" width="500px"}
+![DA3.jpg](../../assets/images/infographics/Kita_Infografik_Gale-Shapely-03.svg "Gale-Shapley-Verfahren - Schritt 3"){:height="500px" width="700px"}
 
 **4.** Wenn keine Kita mehr ein neues Angebot machen kann, werden die gehaltenen Angebote angenommen und eine finale Zuteilung ist erreicht (grüne Pfeile). 
 
 <small>Abbildung: Gale-Shapley-Verfahren - Schritt 4<small>
 
-![DA4.jpg](../../assets/images/DA4.jpg "Gale-Shapley-Verfahren - Schritt 4"){:height="500px" width="500px"}
+![DA4.jpg](../../assets/images/infographics/Kita_Infografik_Gale-Shapely-04.svg "Gale-Shapley-Verfahren - Schritt 4"){:height="500px" width="700px"}
 
 
 {: .highlight}
