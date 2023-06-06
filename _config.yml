@@ -11,7 +11,7 @@
 plugins:
   - jekyll-remote-theme
   
-theme: just-the-docs
+remote_theme: just-the-docs
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
