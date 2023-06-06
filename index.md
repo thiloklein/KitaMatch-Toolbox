@@ -3,345 +3,172 @@ layout: default
 title: Startseite
 nav_order: 1
 permalink: /
----
-
-<style type="text/css">
-    
-    .breakline {
-        clear: both;
-    }
-    
-    .row {
-        width: 100%;
-    }
-    .columnleft {
-        width: 50%;
-        float: left;
-    }
-    .columnright {
-        width: 50%;
-        float: right;
-    }
-    .imgicon {
-        width: 15%;
-        float: left;
-        text-align: center;
-    }
-    .texticon {
-        width: 85%;
-        float: right;
-    }
-    
-  
-    
-        .presse {
-        width: 100%;
-    }
-    .zeitung {
-        width: 10%;
-        float: left;
-        text-align: center;
-    }
-    .date {
-        width: 25%;
-        float: left;
-    }
-    .articlelink {
-        width: 65%;
-        float: right;
-    }
-    
-    
-  .slideshow{
-    width: 100%;
-    height: 100%;
-    border-radius: 10px;
-    overflow: hidden;
-  }
-  .slides{
-    width: 500%;
-    display: flex;
-  } 
-  .slides input{
-    display: none;
-  } 
-  .slide{
-    width: 20%;
-    transition: 1s;
-  } 
-  .slide img{
-    width: 100%;
-    height: 100%;
-  }
-  
-  /*css for manual slide navigation*/
-  
-  .navigation-manual{
-    position: absolute;
-    width: 100%;
-    display: flex;
-    margin-top: 50%;
-  }
-  .manual-btn{
-    width: 50px;
-    height: 10px;
-    border: 2px solid grey;
-    margin: 6px;
-    cursor: pointer;
-    margin-left: 5%;
-  }
-  .manual-btn:hover{
-    background: purple;
-  }
-  
-  #radio1:checked ~ .first{
-    margin-left: 0;
-  }
-  #radio2:checked ~ .first{
-    margin-left: -20%;
-  }
-  #radio3:checked ~ .first{
-    margin-left: -40%;
-  }
-  #radio4:checked ~ .first{
-    margin-left: -60%;
-  }
-  #radio5:checked ~ .first{
-    margin-left: -80%;
-  }
-
-  /*css for automatic navigation*/
-
-  .navigation-auto{
-    position: absolute;
-    display: flex;
-    width: 100%;
-    margin-top: 50%;
-  }
-  .navigation-auto div{
-    width: 50px;
-    height: 10px;
-    margin: 6px;
-    cursor: pointer;
-    border: 2px solid grey;
-    transition: 0.5s;
-    margin-left: 5%;
-
-  } 
-  
-  #radio1:checked ~ .navigation-auto .auto-btn1{
-    background: purple;
-  }
-  #radio2:checked ~ .navigation-auto .auto-btn2{
-    background: purple;
-  }
-  #radio3:checked ~ .navigation-auto .auto-btn3{
-    background: purple;
-  }
-  #radio4:checked ~ .navigation-auto .auto-btn4{
-    background: purple;
-  }
-  #radio5:checked ~ .navigation-auto .auto-btn5{
-    background: purple;
-  }    
-  
-.tooltip-wrap {
-  position: relative;
-}
-.tooltip-wrap .tooltip-content {
-  display: none;
-  position: absolute;
-  bottom: 7%;
-  left: 65%;
-  right: 5%;
-  text-align: right;
-  background-color: rgb(137, 69, 137);
-  color: white;
-  font-size: small;
-  padding: 0.5%;
-}
-.tooltip-wrap:hover .tooltip-content {
-  display: block;
-}
-</style>
-
-<div class="tooltip-wrap">
-  <a href="mailto:thilo.klein@zew.de"><img src="assets/images/banner2.PNG" alt="Banner" title="Zum Kontaktieren hier klicken" /></a>
-<div class="tooltip-content">
-  Bildnachweis: iStock.com/Kamaga
-</div> 
-</div> 
 
 ---
 
-## Kitaplatzvergabe in 5 Schritten
+<section class="km-opening km-text-lead">
+KitaMatch ist ein Verfahren zur fairen, schnellen und transparenten Vergabe von Kitaplätzen, das Eltern und Kitas bei der Vergabe von Betreuungsplätzen optimal miteinander verbindet.
+</section>
 
-<!--image slider start-->
-<div class="slideshow">
-  <div class="slides">
-    <!--radio buttons start-->
-    <input type="radio" name="radio-btn" id="radio1">
-    <input type="radio" name="radio-btn" id="radio2">
-    <input type="radio" name="radio-btn" id="radio3">
-    <input type="radio" name="radio-btn" id="radio4">
-    <input type="radio" name="radio-btn" id="radio5">
-    <!--radio buttons end-->
-    <!--slide images start-->
-    <div class="slide first">
-      <img src="assets/images/1_Screen.PNG" alt="">
+<img src="assets/images/KitaMatch_Matchmaking.svg" alt="Das Kitamatch Matchmaking">
+
+## Das Problem
+
+In den meisten deutschen Kommunen führt die Vergabe von freien Plätzen in Kindertagesstätten und der Kindertagespflege zu **Unmut bei Eltern und Kitas**. Dies liegt daran, dass Kitas **kein einheitliches, transparentes Verfahren** nutzen und Eltern sich wiederum oft strategisch verhalten müssen, beispielsweise ob und wann sie sich in einer bestimmten Kita anmelden bzw. dieser zusagen.
+
+## Die Lösung
+
+Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätzen mit den verfügbaren Plätzen von Kitas. Anhand von definierten Vergabekriterien werden so Eltern und Kitas miteinander **gematcht**. [Die Vorteile](http://localhost:4000/docs/Einfuehrung/#die-vorteile-der-algorithmusbasierten-kitaplatzvergabe) sind Fairness, Effizienz, Transparenz und dass die Lösung Open Source ist.
+
+<h2 class="text-center fw-700 fs-5 mb-5">Erfahren Sie hier mehr zum Ablauf</h2>
+<div class="d-flex flex-justify-around mb-10">
+  <a href="/docs/Einfuehrung/" class="btn btn-purple text-center">Zum Ablauf</a>
+</div>
+
+<section class="mb-7">
+  <h2 class="text-center">Vorteile</h2>
+  <div class="km-benefits__wrapper">
+    <div class="km-benefits__item">
+      <img src="/assets/images/icons/Kita_Icon_Fair.svg" alt="Eine Waage"/>
+      <span>Fair</span>
     </div>
-    <div class="slide">
-      <img src="assets/images/2_Screen.PNG" alt="">
+    <div class="km-benefits__item">
+      <img src="/assets/images/icons/Kita_Icon_Schnell.svg" alt="Eine Waage"/>
+      <span>Schnell</span>
     </div>
-    <div class="slide">
-      <img src="assets/images/3_Screen.PNG" alt="">
+    <div class="km-benefits__item">
+      <img src="/assets/images/icons/Kita_Icon_Analyse.svg" alt="Eine Waage"/>
+      <span>Transparent</span>
     </div>
-    <div class="slide">
-      <img src="assets/images/4_Screen.PNG" alt="">
+    <div class="km-benefits__item">
+      <img src="/assets/images/icons/Kita_Icon_Flexibel.svg" alt="Eine Waage"/>
+      <span>Flexibel</span>
     </div>
-    <div class="slide">
-      <img src="assets/images/5_Screen.PNG" alt="">
+    <div class="km-benefits__item">
+      <img src="/assets/images/icons/Kita_Icon_Einfach.svg" alt="Eine Waage"/>
+      <span>Einfach</span>
     </div>
-    <!--slide images end-->
-    <!--automatic navigation start-->
-    <div class="navigation-auto">
-      <div class="auto-btn1"></div>
-      <div class="auto-btn2"></div>
-      <div class="auto-btn3"></div>
-      <div class="auto-btn4"></div>
-      <div class="auto-btn5"></div>
+    <div class="km-benefits__item">
+      <img src="/assets/images/icons/Kita_Icon_Open-Source.svg" alt="Eine Waage"/>
+      <span>Open Source</span>
     </div>
-    <!--automatic navigation end-->
-  <!--manual navigation start-->
-  <div class="navigation-manual">
-    <label for="radio1" class="manual-btn"></label>
-    <label for="radio2" class="manual-btn"></label>
-    <label for="radio3" class="manual-btn"></label>
-    <label for="radio4" class="manual-btn"></label>
-    <label for="radio5" class="manual-btn"></label>
   </div>
+</section>
+
+<section>
+
+<!-- Vorteile für Kitas -->
+  <div class="km-benefits__details-wrapper">
+    <img src="/assets/images/icons/Kita_Icon_Kita.svg" als="Ein Kitagebäude" />
+    <div class="km-benefits__details-card">
+      <h3 class="fw-700 mt-0">Vorteile für Kitas:</h3>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Analyse.svg"/>
+        <p class="mt-0"> Die Ablehnung eines Kindes kann damit begründet werden, dass alle vergebenen Plätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kita höher priorisiert waren.</p>
+      </div>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Fair.svg"/>
+        <p class="mt-0"> Die Vorsortierung der Bewerber nach den Kriterien des Kriterienkatalogs erleichtert die gerichtsfeste Vergabe für Kitas.</p>
+      </div>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Flexibel.svg"/>
+        <p class="mt-0"> Die dezentrale Vergabe wahrt die Trägerautonomie und erlaubt Flexibilität, z.B. bezüglich Geschlechts- und Altersstruktur der Gruppen.</p>
+      </div>
+      <p class="fw-700">Weitere Informationen</p>
+      <a href="/docs/Einfuehrung/" class="mb-1 km-link-hover">Allgemeine Einführung</a>
+      <a href="#">Factsheet Kitas</a>
+    </div>
   </div>
-  <!--manual navigation end-->
-</div>
-<!--image slider end-->
-
-<script type="text/javascript">
-var counter = 1;
-setInterval(function(){
-  document.getElementById('radio' + counter).checked = true;
-  counter++;
-  if(counter > 5){
-    counter = 1;
-  }
-}, 5000);
-</script>
-
-
-
----
-
-## Vorteile im Überblick
-<div class="row">
-    <div class="columnleft">
-        <div class="imgicon">
-            <img src="assets/images/icon_schnell.png" alt="dvsbadfy" width="45%">
-        </div>
-        <div class="texticon">
-            <b>SCHNELL</b><br>
-            Platzvergabe erfolgt in wenigen Stunden. Unnötige Wartezeiten werden eliminiert.
-            <p></p>
-        </div>
+  
+<!-- Vorteile für Jugendämter -->
+  <div class="km-benefits__details-wrapper mt-10">
+    <img src="/assets/images/icons/Kita_Icon_Kommune.svg" als="Ein öffentliches Gebäude" />
+    <div class="km-benefits__details-card">
+      <h3 class="fw-700 mt-5">Vorteile für Jugendämter:</h3>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Analyse.svg"/>
+        <p class="mt-0"> Das Jugendamt kann sicher sein, dass alle Kitaplätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kitas höher priorisiert waren als abgelehnte Kinder.</p>
+      </div>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Fair.svg"/>
+        <p class="mt-0">Das Gale-Shapley Verfahren ermöglicht eine gerichtsfeste Platzvergabe.
+</p>
+      </div>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Open-Source.svg"/>
+        <p class="mt-0">Es fallen keine Lizenzkosten an. Es entsteht kein Lock-in Effekt wie bei proprietärer Software.</p>
+      </div>
+      <p class="fw-700">Weitere Informationen</p>
+      <a href="/docs/Einfuehrung/" class="mb-1 km-link-hover">Allgemeine Einführung</a>
+      <a href="#">Factsheet Jugendämter</a>
     </div>
-    <div class="columnright">
-        <div class="imgicon">
-            <img src="assets/images/icon_sparen.png" alt="dvsbadfy" width="45%">
-        </div>
-        <div class="texticon">
-            <b>RESSOURCEN-SPAREND</b><br>
-            Effiziente und vereinfachte Prozesse sparen Kosten und Personalaufwand bei Kitas und Jugendamt.
-            <p></p>
-        </div>
+  </div>
+
+  <!-- Vorteile für Eltern -->
+
+  <div class="km-benefits__details-wrapper  mt-10">
+    <img src="/assets/images/icons/Kita_Icon_Eltern.svg" als="Ein Haus mit einem Baum" />
+    <div class="km-benefits__details-card">
+      <h3 class="fw-700 mt-0">Vorteile für Eltern:</h3>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Analyse.svg"/>
+        <p class="mt-0">
+          Die Ablehnung durch eine Kita ist damit nachzuvollziehen, dass alle vergebenen Plätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kita höher priorisiert waren als das eigene Kind.
+        </p>
+      </div>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Schnell.svg"/>
+        <p class="mt-0">Zu Platzvergabe erfolgt zwei Wochen nach dem Stichtag für die Vormerkung. Danach können Eltern mit einer Zu- oder Absage innerhalb einer Woche rechnen.</p>
+      </div>
+      <div>
+        <img src="/assets/images/icons/Kita_Icon_Einfach.svg"/>
+        <p class="mt-0">Viele Kitas in der Vormerkung anzugeben, bedeutet keinen Nachteil, sondern erhöht die Chance, einen Platz zu erhalten. Darüber hinaus lohnt es sich, die Wunsch-Kita auf Platz eins anzugeben. Es sind also keine strategischen Erwägungen notwendig.</p>
+      </div>
+      <p class="fw-700">Weitere Informationen</p>
+      <a href="/docs/Einfuehrung/">Allgemeine Einführung</a>
     </div>
-</div>
+  </div>
 
-<div class="breakline"></div>
+</section>
 
-<div class="row">
-    <div class="columnleft">
-        <div class="imgicon">
-            <img src="assets/images/icon_fair.png" alt="dvsbadfy" width="45%">
-        </div>
-        <div class="texticon">
-            <b>FAIR</b><br>
-            Eltern werden strategische Abwegungen erspart. Damit entstehen keine unfairen Nachteile für schlechter informierte Eltern.
-            <p></p>
-        </div>
+<section>
+  <h2 class="text-center">Wer steckt dahinter?</h2>
+  <div class="km-flex-around">
+    <a href="https://www.zew.de/">
+      <img src="/assets/images/ZEW_Logo_RGB.png">
+    </a>
+    <a href="https://www.leibniz-gemeinschaft.de/">
+      <img src="/assets/images/Leibniz_Logo_DE_blau_schwarz_500px.png">
+    </a>
+  </div>
+  <h2 class="text-center">Unterstützt von</h2>
+  <div class="km-flex-around">
+    <a href="https://www.bertelsmann-stiftung.de/de/startseite">
+      <img src="/assets/images/bertelsmann_logo.png">
+    </a>
+  </div>
+
+
+  
+  <h2 class="text-center mb-6">Dokumente zum Download</h2>
+  <div class="d-flex flex-justify-around fw-700 mb-10">
+    <div class="d-flex km-download__item">
+      <span class="mb-3 fs-5">Manual</span>
+      <a href="#" class="btn btn-purple">Herunterladen</a>
     </div>
-    <div class="columnright">
-        <div class="imgicon">
-            <img src="assets/images/icon_individuell.png" alt="dvsbadfy" width="45%">
-        </div>
-        <div class="texticon">
-            <b>INDIVIDUALISIERBAR</b><br>
-            Jede Stadt ist anders. Unsere Lösungen passen sich Ihren Bedürfnissen an.
-            <p></p>
-        </div>
+    <div class="d-flex km-download__item" >
+      <span class="mb-3 fs-5">Wegweiser</span>
+      <a href="#" class="btn btn-purple">Herunterladen</a>
+      </div>
+  </div>
+  <h2 class="text-center">Kontakt</h2>
+  <div class="mb-10">
+    <div class="d-flex km-download__item">
+      <span class="mb-6 fs-5">Bei Fragen und Anmerkungen melden Sie sich gern beim KitaMatch-Team.</span>
+      <a href="mailto:thilo.klein@zew.de" class="btn btn-purple">E-Mail schreiben</a>
     </div>
-</div>
-
-<div class="breakline"></div>
-
-<div class="row">
-    <div class="columnleft">
-        <div class="imgicon">
-            <img src="assets/images/icon_transparenz.png" alt="dvsbadfy" width="45%">
-        </div>
-        <div class="texticon">
-            <b>TRANSPARENT</b><br>
-            Bestehende Vergabekriterien werden respektiert. Es ist klar nachvollziehbar wer wo warum einen Platz bekommen hat - und wer nicht.
-            <p></p>
-        </div>
-    </div>
-    <div class="columnright">
-        <div class="imgicon">
-            <img src="assets/images/icon_open-source.png" alt="dvsbadfy" width="45%">
-        </div>
-        <div class="texticon">
-            <b>OPEN SOURCE</b><br>
-            Software-Lösung ist frei Nutzbar und Modifizierbar. Komplementär zu bestehenden Kita-Verwaltungsplattformen.
-            <p></p>
-        </div>
-    </div>
-</div>
-
-<div class="breakline"></div>
-
----
-
-## Was zeichnet KitaMatch aus?
-
-Entwickelt von einem Team...
- - mit über 10 Jahren Erfahrung mit Platzvergabeverfahren im Bildungsbereich
- - sehr gutem Verständnis für die Bedürfnisse von Eltern, Kitas und Jugendämtern
- - an der Spitze der Forschung im Bereich Marktdesign und Matching-Märkte
- - mit einer Vielzahl erfolgreicher Projekte
-
----
-
-[PDF-Download](){: .btn .btn-purple } 
-[Fact Sheet - Kitas](){: .btn .btn-purple } 
-[Fact Sheet - Jugendamt](){: .btn .btn-purple }
-
----
-
-## Gefördert durch
-
-{:style="text-align:center;"}
-[![bertelsmann_small.JPG](assets/images/bertelsmann_small.JPG){:width="30%"}](https://www.bertelsmann-stiftung.de/de/startseite)
-[![Leibniz_small.JPG](assets/images/Leibniz_small.JPG){:width="30%"}](https://www.leibniz-gemeinschaft.de/)
-[![ZEW_small.JPG](assets/images/ZEW_small.JPG){:width="30%"}](https://www.zew.de/)
-
----
+  </div>
+</section>
 
 ## Unsere Projekte
 
@@ -349,89 +176,31 @@ Entwickelt von einem Team...
 [![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}](https://www.kreis-steinfurt.de/kv_steinfurt/Home/)
 [![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="150px" width="150px"}](https://www.kaiserslautern.de/)
 
-
----
-
 ## In der Presse
 
-<div class="presse">
-    <div class="zeitung">
-        <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="50%">
-    </div>
-    <div class="date">
-        <b>WirtschaftsWoche</b>
-    </div>
-    <div class="articlelink">
-        <a href="https://www.wiwo.de/politik/deutschland/hilfreiche-software-kita-match-ein-kitaplatz-per-algorithmus/27890190.html">„Kita-Match“: Ein Kitaplatz per Algorithmus</a>
-    </div>
-</div>
+<section>
+  <div class="km-press__wrapper">
+    <img src="assets/images/wiwo_logo.png" alt="Logo der Wirschaftswoche" >
+    <b>WirtschaftsWoche</b>
+    <a href="https://www.wiwo.de/politik/deutschland/hilfreiche-software-kita-match-ein-kitaplatz-per-algorithmus/27890190.html">„Kita-Match“: Ein Kitaplatz per Algorithmus</a>
 
-<div class="breakline"></div>
+    <img src="assets/images/wiwo_logo.png" alt="Logo der Wirschaftswoche" >
+    <b>WirtschaftsWoche</b>
+    <a href="https://www.wiwo.de/my/politik/konjunktur/vwl-marktdesign-oekonomie-ohne-elfenbeinturm/25470414.html?ticket=ST-14212654-6IVplpejhVf9Uz4Iv59q-ap1">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
+ 
+    <img src="assets/images/faz_logo.png" alt="Logo der FaZ" >
+    <b>FAZ</b>
+    <a href="https://www.faz.net/aktuell/wirtschaft/wie-ein-algorithmus-kitaplaetze-fairer-vergeben-soll-16510418.html">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
+ 
+    <img src="assets/images/faz_logo.png" alt="Logo der FaZ" >
+    <b>FAZ</b>
+    <a href="https://www.faz.net/aktuell/wirtschaft/kinderbetreuung-raus-aus-der-kita-warteschlange-15053793.html">Raus aus der Kita-Warteschlange</a>
+  </div>
+</section>
+<section class="text-center mt-10">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">
+  <img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" />
+</a>
+<br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>.
 
-<div class="presse">
-    <div class="zeitung">
-        <img src="assets/images/wiwo_logo.png" alt="dvsbadfy" width="50%">
-    </div>
-    <div class="date">
-        <b>WirtschaftsWoche</b>
-    </div>
-    <div class="articlelink">
-        <a href="https://www.wiwo.de/my/politik/konjunktur/vwl-marktdesign-oekonomie-ohne-elfenbeinturm/25470414.html?ticket=ST-14212654-6IVplpejhVf9Uz4Iv59q-ap1">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
-    </div>
-</div>
-
-<div class="breakline"></div>
-
-<div class="presse">
-    <div class="zeitung">
-        <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="30%">
-    </div>
-    <div class="date">
-        <b>FAZ</b>
-    </div>
-    <div class="articlelink">
-        <a href="https://www.faz.net/aktuell/wirtschaft/wie-ein-algorithmus-kitaplaetze-fairer-vergeben-soll-16510418.html">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
-    </div>
-</div>
-
-<div class="breakline"></div>
-
-<div class="presse">
-    <div class="zeitung">
-        <img src="assets/images/faz_logo.png" alt="dvsbadfy" width="30%">
-    </div>
-    <div class="date">
-        <b>FAZ</b>
-    </div>
-    <div class="articlelink">
-        <a href="https://www.faz.net/aktuell/wirtschaft/kinderbetreuung-raus-aus-der-kita-warteschlange-15053793.html">Raus aus der Kita-Warteschlange</a>
-    </div>
-</div>
-
-<div class="breakline"></div>
-
-
----
-
-## Aktuelles
-
-**ZEW Expertise:** [Können Algorithmen eine bessere Kitaplatzvergabe ermöglichen?](https://www.zew.de/das-zew/aktuelles/koennen-algorithmen-eine-bessere-kitaplatzvergabe-ermoeglichen)
-
-Im Interview erklärt Marktdesignexperte Prof. Dr. Thilo Klein ein neues Verfahren, das von Ökonomen des ZEW, der Universität Münster und der University of Oxford pilotiert wird, und eine schnelle, faire und transparente Platzvergabe möglich macht. 
-
-**ZEW Pressemitteilung:** [Kitaplätze schnell, fair und transparent mit einem dezentralen Mechanismus vergeben](https://www.zew.de/presse/pressearchiv/kitaplaetze-schnell-fair-und-transparent-mit-einem-dezentralen-mechanismus-vergeben)
-
-Ein akuter Mangel an Betreuungsplätzen in Kindertagesstätten in Deutschland, komplizierte Anmeldeverfahren und intransparente Vergabekriterien: Das führt zu beruflicher Planungsunsicherheit für Eltern und deren Arbeitgebern, zu Benachteiligungen bildungsferner Haushalte und zu vermeidbarem Verwaltungsaufwand für Kita-Personal.
-
-**ZEW Pressemitteilung:** [ZEW-Förderkreis vergibt erneut Wissenschaftspreise](https://www.zew.de/das-zew/aktuelles/zew-foerderkreis-vergibt-erneut-wissenschaftspreise)
-
-Der ZEW-Förderkreis Wissenschaft und Praxis e.V. zeichnet auch 2020/21 herausragende wissenschaftliche Leistungen und wirtschaftspolitische Beratungsprojekte am ZEW aus. Mit dem Preis für das beste wirtschaftspolitische Beratungsprojekt wurde „KitaMatch“ ausgezeichnet. Das Projektteam entwickelte eine Open Source-Software, um die Kitaplatzvergabe in Deutschland neu zu gestalten.
-
-**ZEW News:** [Wie Städte dem Ansturm auf Kindertagesstätten begegnen können](https://www.zew.de/das-zew/aktuelles/wie-staedte-dem-ansturm-auf-kindertagesstaetten-begegnen-koennen)
-
-In vielen deutschen Städten ist die Vergabe von freien Plätzen in Kindertagesstätten intransparent und mit erheblichen Kosten für Eltern und Kita-Personal verbunden. Neben dem aktuellen Mangel an Kita-Plätzen führen auch ineffiziente Vergabeverfahren dazu, dass der Mangel größer erscheint, als er tatsächlich ist. Eine Möglichkeit zur flächendeckenden Lösung des Problems wären zentrale Vergabesysteme, die gutes Marktdesign durch den Einsatz von bewährten Algorithmen liefern kann.
-
-
-
-
-
+</section>

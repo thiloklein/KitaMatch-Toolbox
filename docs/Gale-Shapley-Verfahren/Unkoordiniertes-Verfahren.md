@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beispiel - Unkoordiniertes Verfahren
-parent: Mechanismus hinter KitaMatch
+parent: Gale-Shapley Verfahren
 nav_order: 4
 permalink: /docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren
 ---
@@ -20,20 +20,20 @@ Es hat sich in der Praxis gezeigt, dass dieses Verfahren zu langen Wartezeiten f
 
 <small>Abbildung: Unkoordiniertes Verfahren I - Schritt 1<small>
   
-![D1.jpg](../../assets/images/D1.jpg "Unkoordiniertes Verfahren I - Schritt 1"){:height="500px" width="500px"}
+![D1.jpg](../../assets/images/infographics/Kita_Infografik_Unkoordiniertes-System01-01.svg "Unkoordiniertes Verfahren I - Schritt 1"){:height="500px" width="700px"}
 
 **2.** Da Kita 1 und 3 jeweils ihre Plätze gefüllt haben, macht nur noch Kita 2 ein Angebot an Kai. Dieser hat aber bereits einer anderen Kita zugesagt und kann das neue, präferierte Angebot nicht annehmen. 
 
 <small>Abbildung: Unkoordiniertes Verfahren I - Schritt 2<small>
   
-![D2.jpg](../../assets/images/D2.jpg "Unkoordiniertes Verfahren I - Schritt 2"){:height="500px" width="500px"}
+![D2.jpg](../../assets/images/infographics/Kita_Infografik_Unkoordiniertes-System01-02.svg "Unkoordiniertes Verfahren I - Schritt 2"){:height="500px" width="700px"}
 
 
 **3.** Kita 2 macht nun ein Angebot an Mia, welche dieses annimmt. 
 
 <small>Abbildung: Unkoordiniertes Verfahren I - Schritt 3<small>
   
-![D3.jpg](../../assets/images/D3.jpg "Unkoordiniertes Verfahren I - Schritt 3"){:height="500px" width="500px"}
+![D3.jpg](../../assets/images/infographics/Kita_Infografik_Unkoordiniertes-System01-03.svg "Unkoordiniertes Verfahren I - Schritt 3"){:height="500px" width="700px"}
 
 {: .highlight}
 > **Nicht stabil**: Kai würde lieber einen Platz bei Kita 2 haben und hat höhere Priorität als Mia.
@@ -49,19 +49,19 @@ Nachdem wir nun ein Beispiel besprochen haben, bei dem die verfrühte Annahme ei
 
 <small>Abbildung: Unkoordiniertes Verfahren II - Schritt 1<small>
   
-![D21.jpg](../../assets/images/D21.jpg "Unkoordiniertes Verfahren II - Schritt 1"){:height="500px" width="500px"}
+![D21.jpg](../../assets/images/infographics/Kita_Infografik_Unkoordiniertes-System02-01.svg "Unkoordiniertes Verfahren II - Schritt 1"){:height="500px" width="700px"}
 
 **2.** Sowohl Kita 2 als auch Kita 3 müssen neue Angebote machen. Kais Ablehnung des ersten Angebots macht sich bezahlt, da er jetzt ein präferiertes Angebot von Kita 2 annehmen kann. Mia entscheidet sich ebenfalls, das Angebot von Kita 3 abzulehnen, da sie auf ein präferiertes Angebot wartet (beachte, dass Mia nicht weiß, welche Kitas bereits Betreuungsplatzzusagen gemacht haben und welche ihr noch ein Angebot unterbreiten könnten).
 
 <small>Abbildung: Unkoordiniertes Verfahren II - Schritt 2<small>
 
-![D22.jpg](../../assets/images/D22.jpg "Unkoordiniertes Verfahren II - Schritt 2"){:height="500px" width="500px"}
+![D22.jpg](../../assets/images/infographics/Kita_Infografik_Unkoordiniertes-System02-02.svg "Unkoordiniertes Verfahren II - Schritt 2"){:height="500px" width="700px"}
 
 **3.** Kita 3 ist die einzig verbleibende Kita ohne Betreuungsplatzzusage. Da Kita 3 schon allen interessierten Bewerbern ein Angebot gemacht hat und die anderen Kitas ihre Betreuungsplätze gefüllt haben, bleibt Mia zumindest vorerst ohne Betreuungsplatz. 
 
 <small>Abbildung: Unkoordiniertes Verfahren II - Schritt 3<small>
 
-![D23.jpg](../../assets/images/D23.jpg "Unkoordiniertes Verfahren II - Schritt 3"){:height="500px" width="500px"}
+![D23.jpg](../../assets/images/infographics/Kita_Infografik_Unkoordiniertes-System02-03.svg "Unkoordiniertes Verfahren II - Schritt 3"){:height="500px" width="700px"}
 
     
 {: .highlight}
