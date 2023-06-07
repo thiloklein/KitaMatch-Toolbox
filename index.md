@@ -55,6 +55,8 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   </div>
 </section>
 
+<br>
+
 <section>
 
 <!-- Vorteile für Kitas -->
