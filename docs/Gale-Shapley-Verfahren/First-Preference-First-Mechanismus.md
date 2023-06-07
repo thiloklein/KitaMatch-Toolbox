@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beispiel - First-Preference-First-Mechanismus
-parent: Gale-Shapley Verfahren
+parent: Mechanismus hinter KitaMatch
 nav_order: 3
 permalink: /docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus
 ---
