@@ -25,7 +25,7 @@ Im Folgenden geben wir einen allgemeinen Überblick über den Status quo und die
 
 ## Status quo: Probleme bei der Kitaplatzvergabe
 
-In Deutschland lassen sich zwei grundlegende Typen von Aufnahmeverfahren unterscheiden (Herzog und Klein 2017). Diese werden in diesem Manual mit „[First Preference First](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus)“ und „[unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren)“ bezeichnet (siehe [Kapitel 2](/docs/Gale-Shapley-Verfahren) für eine Diskussion der Eigenschaften). Die großen Anbieter für Kitasoftware bieten den Kommunen meist eine Wahl zwischen beiden Verfahren an. Ein First-Preference-First-Verfahren liegt in der Regel dann vor, wenn Eltern bei der Vormerkung eine Rangliste über ihre Wunschkitas angeben können. Andernfalls wird ein Unkoordiniertes Verfahren verwendet. Gemeinsam sind diesen Verfahren folgende Probleme, die an zwei Beispielen deutlich werden.
+In Deutschland lassen sich zwei grundlegende Typen von Aufnahmeverfahren unterscheiden (Herzog und Klein 2017). Diese werden in diesem Manual mit „[First Preference First](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus)“ und „[unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren)“ bezeichnet (siehe [Kapitel 2](/docs/Gale-Shapley-Verfahren) für eine Diskussion der Eigenschaften). Die großen Anbieter für Kitasoftware bieten den Kommunen meist eine Wahl zwischen beiden Verfahren an. Ein First-Preference-First-Verfahren liegt in der Regel dann vor, wenn Eltern bei der Vormerkung eine Rangliste über ihre Wunschkitas angeben können. Andernfalls wird ein unkoordiniertes Verfahren verwendet. Gemeinsam sind diesen Verfahren folgende Probleme, die an zwei Beispielen deutlich werden.
 
 Beispiel 1 (**Unkoordiniertes Verfahren**): Eine alleinerziehende Mutter mit einem Vollzeitjob hat Bedarf für einen Vollzeitbetreuungsplatz, erhält aber zunächst ein Angebot für eine Teilzeitbetreuung.
 
@@ -33,36 +33,37 @@ Beispiel 1 (**Unkoordiniertes Verfahren**): Eine alleinerziehende Mutter mit ein
     Sofern die Mutter noch auf eine Rückmeldung zu einem Vollzeitplatz wartet, wird sie hier vor eine Entscheidung gestellt, die sie mit den momentan verfügbaren Informationen eigentlich nicht sicher treffen kann.
 
 2.	Problem: **Verletzung der Vergabekriterien**.
-    Nimmt sie das Angebot an, kann es sein, dass sie später einen Vollzeitbetreuungsplatz angeboten bekommt. Damit hat sie „berechtigten Neid“ gegenüber einer anderen Familie, die den Vollzeitplatz stattdessen bekommt. Die Vergabe ist [unfair bzw. instabil](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit), und damit anfechtbar[^1], wenn die Mutter als Alleinerziehende Vorrang vor der Familie hat (siehe [Kapitel 4](/docs/Kriterienkatalog-Erstellen)).
+    Nimmt sie das Angebot an, kann es sein, dass sie später einen Vollzeitbetreuungsplatz angeboten bekommt. Damit hat sie „berechtigten Neid“ gegenüber einer anderen Familie, die den Vollzeitplatz stattdessen bekommt. Die Vergabe ist [unfair bzw. instabil](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit) und damit anfechtbar[^1], wenn die Mutter als Alleinerziehende Vorrang vor der Familie hat (siehe [Kapitel 4](/docs/Kriterienkatalog-Erstellen)).
 
 3.	Problem: **Lange Wartezeiten**. 
     Wenn sie das Angebot vorübergehend zurückhält, verlängert sie die Wartezeit der anderen Eltern, was zu Planungsunsicherheiten aufseiten der Eltern und Arbeitgeber führt.
 
-Beispiel 2 (**First-Preference-First**): Eine alleinerziehende Mutter gibt eine Rangliste über ihre Wunschkitas an.
+Beispiel 2 (**First Preference First**): Eine alleinerziehende Mutter gibt eine Rangliste über ihre Wunschkitas an.
 
 1.	Problem: **Verletzung der Vergabekriterien**.
-    Im First-Preference-First Verfahren, werden in einem ersten Schritt alle Erstwünsche geprüft. Die alleinerziehende Mutter erhält bei ihrer Erstwunschkita keinen Platz, da sich dort beispielsweise mehr alleinerziehende Mütter bewerben als es Plätze gibt (und damit zum Beispiel das Geburtsdatum des Kindes als Entscheidungskriterium verwendet wird). In den nächsten Schritten werden die Zweit- und Drittwünsche etc. geprüft. Wenn es in den von der Mutter angegeben Kitas im ersten Schritt mehr Bewerber als Plätze gab, findet Sie keinen Betreuungsplatz. Damit hat sie „berechtigten Neid“ gegenüber einer anderen Familie, die den Platz in der Zweitwunscheinrichtung der Mutter bekommt. Die Vergabe ist unfair bzw. instabil, und damit nicht gerichtsfest, wenn die Mutter als Alleinerziehende Vorrang vor der Familie hat.
+    Im First-Preference-First-Verfahren werden in einem ersten Schritt alle Erstwünsche geprüft. Die alleinerziehende Mutter erhält bei ihrer Erstwunschkita keinen Platz, da sich dort beispielsweise mehr alleinerziehende Mütter bewerben, als es Plätze gibt (und damit zum Beispiel das Geburtsdatum des Kindes als Entscheidungskriterium verwendet wird). In den nächsten Schritten werden die Zweit- und Drittwünsche etc. geprüft. Wenn es in den von der Mutter angegeben Kitas im ersten Schritt mehr Bewerber:innen als Plätze gab, findet sie keinen Betreuungsplatz. Damit hat sie „berechtigten Neid“ gegenüber einer anderen Familie, die den Platz in der Zweitwunscheinrichtung der Mutter bekommt. Die Vergabe ist unfair bzw. instabil, und damit nicht gerichtsfest, wenn die Mutter als Alleinerziehende Vorrang vor der Familie hat.
 
 2.	Problem: **Strategische Unsicherheit**.
-    Das Verfahren benachteiligt Bewerber, die wenige Informationen haben und sich nicht strategisch Verhalten. Die Mutter hätte ihren Zweitwunsch bekommen können, wenn sie gewusst hätte, dass ihre Erstwunschkita stark nachgefragt ist und sie stattdessen strategisch gehandelt und ihren Zweitwunsch als ihren Erstwunsch angegeben hätte.
+    Das Verfahren benachteiligt Bewerber:innen, die wenige Informationen haben und sich nicht strategisch Verhalten. Die Mutter hätte ihren Zweitwunsch bekommen können, wenn sie gewusst hätte, dass ihre Erstwunschkita stark nachgefragt ist und sie stattdessen strategisch gehandelt und ihren Zweitwunsch als ihren Erstwunsch angegeben hätte.
 
 Natürlich kann kein Zuteilungsverfahren mehr Betreuungsplätze vergeben, als Betreuungsplätze vorhanden sind. Langfristig kann die Kitaplatzvergabe deshalb vor allem durch einen Ausbau von Betreuungsplätzen verbessert werden.
-Mittelfristig macht der in vielen Kommunen bestehende Mangel und die daraus resultierende Konkurrenz um Betreuungsplätze jedoch eine transparente, faire und schnelle Platzvergabe notwendig. 
+
+Mittelfristig machen der in vielen Kommunen bestehende Mangel und die daraus resultierende Konkurrenz um Betreuungsplätze jedoch eine transparente, faire und schnelle Platzvergabe notwendig. 
 
 
 
 ## Wie die algorithmusbasierte Kitaplatzvergabe funktioniert
 
-Das ZEW hat in Kooperation mit dem Deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Städten und Gemeinden in Nordrhein-Westfalen und Rheinland-Pfalz ein Verfahren entwickelt, das die oben genannten Probleme und deren gesellschaftliche Folgen auflösen kann (Reischmann, Klein und Giegerich, 2021). Dieses Verfahren wurde in Zusammenarbeit mit Eltern, Trägern, Kitaleitungen und Kommunen entwickelt und basiert auf dem sogenannten [Gale-Shapley Verfahren](/docs/Gale-Shapley-Verfahren). Das Gale-Shapley Verfahren hat sich bereits in der Schul- und Studienplatzvergabe bewährt, u.a. in New York, London und Paris. Für die zugrundeliegende Theorie wurden Alvin Roth und Lloyd Shapley 2012 mit dem Nobelpreis „für die Theorie stabiler Verteilungen und die Praxis des Marktdesigns“ ausgezeichnet. 
+Das ZEW hat in Kooperation mit dem Deutschen Städtetag, dem Landesjugendamt Baden-Württemberg und mehreren Städten und Gemeinden in Nordrhein-Westfalen und Rheinland-Pfalz ein Verfahren entwickelt, das die oben genannten Probleme und deren gesellschaftliche Folgen auflösen kann (Reischmann, Klein und Giegerich 2021). Dieses Verfahren wurde in Zusammenarbeit mit Eltern, Trägern, Kitaleitungen und Kommunen entwickelt und basiert auf dem sogenannten ["Gale-Shapley-Verfahren"](/docs/Gale-Shapley-Verfahren). Das Gale-Shapley-Verfahren hat sich bereits in der Schul- und Studienplatzvergabe bewährt, u.a. in New York, London und Paris. Für die zugrunde liegende Theorie wurden Alvin Roth und Lloyd Shapley 2012 mit dem Nobelpreis „für die Theorie stabiler Verteilungen und die Praxis des Marktdesigns“ ausgezeichnet. 
 
-Das Gale-Shapley Verfahren ist ein Algorithmus mit sogenannter „verzögerter Annahme“. Nachdem die Eltern ihre Präferenzen angegeben haben, machen Kitas/Trägervertretungen im Rahmen der KitaMatch-Software den angemeldeten Kindern Angebote. Bewerber:innen können sie halten und abwarten, ob sie in einer späteren Runde ein besseres Angebot bekommen. Eine finale Annahme der gehaltenen Angebote erfolgt erst, wenn Kitas keine neuen Angebote mehr machen können. Die Zuteilung ist strategiesicher (es schadet nicht eine frühe Platzzusage einer Kita anzunehmen, da der Platz immer noch durch ein späteres Platzangebot der Wunschkita ersetzt werden kann), verletzt keine Vergabekriterien, und kann innerhalb eines Tages durchgeführt werden. 
+Das Gale-Shapley-Verfahren ist ein Algorithmus mit sogenannter „verzögerter Annahme“. Nachdem die Eltern ihre Präferenzen angegeben haben, machen Kitas/Trägervertretungen im Rahmen der KitaMatch-Software den angemeldeten Kindern Angebote. Bewerber:innen können sie halten und abwarten, ob sie in einer späteren Runde ein besseres Angebot bekommen. Eine finale Annahme der gehaltenen Angebote erfolgt erst, wenn Kitas keine neuen Angebote mehr machen können. Die Zuteilung ist strategiesicher (es schadet nicht eine frühe Platzzusage einer Kita anzunehmen, da der Platz immer noch durch ein späteres Platzangebot der Wunschkita ersetzt werden kann), verletzt keine Vergabekriterien und kann innerhalb eines Tages durchgeführt werden. 
 
 Die Umsetzung des Verfahrens für die Kitaplatzvergabe umfasst einen mehrstufigen Prozess, der gemeinsam mit den Kitas/Trägervertretungen, Eltern und Kommunen durchgeführt wird. Dieser **Prozess** der Kitaplatzvergabe läuft folgendermaßen ab: 
 
 1. Eine Kommune und die ihr angeschlossenen Kitas einigen sich auf **objektive Aufnahmekriterien**, nach denen die Plätze vergeben werden. Dabei kann der Kriterienkatalog entweder für alle Kitas der Kommune gleich sein oder Kitas legen der Vergabe unterschiedliche Kriterien und/oder Gewichtungen zugrunde.
 2. Kommune und Kitaleitungen kommunizieren den Eltern das neue Vergabeverfahren. Hierbei wird insbesondere auf die Tatsache hingewiesen, dass die Eltern **keine strategischen Abwägungen** mehr treffen müssen. 
 3. Eltern reichen bei der Kommune einen Papier- oder Onlineanmeldebogen mit ihren persönlichen Daten und einer **Liste ihrer Wunscheinrichtungen** geordnet nach ihren Präferenzen ein.
-4. Auf Basis der in Schritt a) festgelegten Kriterien wird eine Liste der zu matchenden Kinder in der Reihenfolge erstellt, nach der die Kitas/Trägervertretungen den Eltern Platzangebote machen wollen. Hierbei entsteht für jede Kita (und Alterskohorte) eine **sortierte Liste von Kindern**, die in die KitaMatch Software eingepflegt wird.
+4. Auf Basis der in Schritt a) festgelegten Kriterien wird eine Liste der zu matchenden Kinder in der Reihenfolge erstellt, nach der die Kitas/Trägervertretungen den Eltern Platzangebote machen wollen. Hierbei entsteht für jede Kita (und Alterskohorte) eine **sortierte Liste von Kindern**, die in die KitaMatch-Software eingepflegt wird.
 5. Am Vergabetag, dem sogenannten „Matching-Day“, treffen sich die Kitaleitungen/Trägervertretungen, um die Platzangebote zunächst in der Software zu machen. Dieser Prozess läuft über das eigens hierfür entwickelte **dezentrale Gale-Shapley-Verfahren** und dauert je nach Größe der Kommune zwischen einer Stunde und vier Stunden. Das Matching kann alternativ auch online (etwa über Zoom, Skype o.Ä.) stattfinden oder als „Matching-Woche“ organisiert werden, in der Kitas täglich ohne zeitliche Einschränkung Platzangebote machen können. Am Ende des Matching-Days können die Kitaleitungen den Eltern dann basierend auf der so gefundenen Zuordnung „tatsächlich“ eine Zu- bzw. Absage erteilen. 
 
 
@@ -72,21 +73,21 @@ Die Umsetzung des Verfahrens für die Kitaplatzvergabe umfasst einen mehrstufige
 Vorteile für **Jugendämter**:
 
 -	Transparenz: Das Jugendamt kann sicher sein, dass alle Kitaplätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kitas höher priorisiert waren als abgelehnte Kinder.
--	Fairness: Das Gale-Shapley Verfahren ermöglicht eine gerichtsfeste Platzvergabe.
--	Open-Source: Es fallen keine Lizenzkosten an. Es entsteht kein Lock-in Effekt wie bei proprietärer Software.
+-	Fairness: Das Gale-Shapley-Verfahren ermöglicht eine gerichtsfeste Platzvergabe.
+-	Open Source: Es fallen keine Lizenzkosten an. Es entsteht kein Lock-in-Effekt wie bei proprietärer Software.
 
 Vorteile für **Kitas/Trägervertretungen**: 
 
 -	Transparenz: Die Ablehnung eines Kindes kann damit begründet werden, dass alle vergebenen Plätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kita höher priorisiert waren.
--	Fairness: Die Vorsortierung der Bewerber nach den Kriterien des Kriterienkatalogs erleichtert die gerichtsfeste Vergabe für Kitas.
--	Flexibilität: Die dezentrale Vergabe wahrt die Trägerautonomie und erlaubt Flexibilität, z.B. bezüglich Geschlechts- und Altersstruktur der Gruppen.
+-	Fairness: Die Vorsortierung der Bewerber:innen nach den Kriterien des Kriterienkatalogs erleichtert die gerichtsfeste Vergabe für Kitas.
+-	Flexibilität: Die dezentrale Vergabe wahrt die Trägerautonomie und erlaubt Flexibilität, zum Beispiel bezüglich Geschlechts- und Altersstruktur der Gruppen.
 
 Vorteile für **Eltern**: 
 
 -	Transparenz: Die Ablehnung durch eine Kita ist damit nachzuvollziehen, dass alle vergebenen Plätze mit Kindern besetzt wurden, die bezüglich der Aufnahmekriterien der Kita höher priorisiert waren als das eigene Kind.
--	Fairness: Die Vergabe erfüllt die gesetzlichen Vorgaben, sodass es sich nicht lohnt, darüber nachzudenken einen Kitaplatz einzuklagen.
+-	Fairness: Die Vergabe erfüllt die gesetzlichen Vorgaben, sodass es sich nicht lohnt, darüber nachzudenken, einen Kitaplatz einzuklagen.
 -	Schnelligkeit: Zu Platzvergabe erfolgt zwei Wochen nach dem Stichtag für die Vormerkung. Danach können Eltern mit einer Zu- oder Absage innerhalb einer Woche rechnen.
--	Strategiesicherheit: Viele Kitas in der Vormerkung anzugeben, bedeutet keinen Nachteil, sondern erhöht die Chance, einen Platz zu erhalten. Darüber hinaus lohnt es sich, die Wunsch-Kita auf Platz eins anzugeben. Es sind also keine strategischen Erwägungen notwendig.
+-	Strategiesicherheit: Viele Kitas in der Vormerkung anzugeben, bedeutet keinen Nachteil, sondern erhöht die Chance, einen Platz zu erhalten. Darüber hinaus lohnt es sich, die Wunschkita auf Platz eins anzugeben. Es sind also keine strategischen Erwägungen notwendig.
 
 
 
