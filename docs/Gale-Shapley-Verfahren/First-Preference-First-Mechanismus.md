@@ -18,19 +18,19 @@ Beim First-Preference-First-Mechanismus machen Bewerber Angebote an die Kitas, w
 
 <small>Abbildung: First-Preference-First-Mechanismus - Schritt 1<small>
 
-![B1.jpg](../../assets/images/infographics/Kita_Infografik_FPFM-01.svg/ "First-Preference-First-Mechanismus - Schritt 1"){:height="500px" width="700px"}
+![B1.jpg](../../assets/images/infographics/Kita_Infografik_FPFM-01.svg "First-Preference-First-Mechanismus - Schritt 1"){:height="500px" width="700px"}
 
 **2.** In der zweiten Runde macht Kai seiner Zweitwahl-Kita ein Angebot, welches abgelehnt wird, da bereits in der vorherigen Runde Mias Angebot direkt angenommen wurde. 
 
 <small>Abbildung: First-Preference-First-Mechanismus - Schritt 2<small>
   
-![B2.jpg](../../assets/images/infographics/Kita_Infografik_FPFM-02.svg/ "First-Preference-First-Mechanismus - Schritt 2"){:height="500px" width="700px"}
+![B2.jpg](../../assets/images/infographics/Kita_Infografik_FPFM-02.svg "First-Preference-First-Mechanismus - Schritt 2"){:height="500px" width="700px"}
 
 **3.** In der dritten Runde macht Kai noch der letzten Kita ein Angebot, welches direkt angenommen wird. 
 
 <small>Abbildung: First-Preference-First-Mechanismus - Schritt 3<small>
   
-![B3.jpg](../../assets/images/infographics/Kita_Infografik_FPFM-03.svg/ "First-Preference-First-Mechanismus - Schritt 3"){:height="500px" width="700px"}
+![B3.jpg](../../assets/images/infographics/Kita_Infografik_FPFM-03.svg "First-Preference-First-Mechanismus - Schritt 3"){:height="500px" width="700px"}
 
 {: .highlight}
 > **Nicht Stabil**: Kai würde lieber einen Platz bei Kita 2 haben und hat eine höhere Priorität als Mia.
