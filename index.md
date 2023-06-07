@@ -177,8 +177,8 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
 ## Unsere Projekte
 
 {:style="text-align:center;"}
-[![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}](https://www.kreis-steinfurt.de/kv_steinfurt/Kreisverwaltung/%C3%84mter/Jugendamt/Kreis%20STEP/)
 [![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="150px" width="150px"}](https://www.kaiserslautern.de/buerger_rathaus_politik/medienportal/pressemitteilungen/060195/index.html.de)
+[![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}](https://www.kreis-steinfurt.de/kv_steinfurt/Kreisverwaltung/%C3%84mter/Jugendamt/Kreis%20STEP/)
 
 ## In der Presse
 
