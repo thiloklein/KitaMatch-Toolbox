@@ -18,7 +18,7 @@ remote_theme: just-the-docs/just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: KitaMatch-Manual
+title: KitaMatch
 
 description: Dokumentation für die KitaMatch Software
 #baseurl: "/KitaMatch-Toolbox" # the subpath of your site, e.g. /blog
