@@ -78,7 +78,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
       </div>
       <p class="fw-700">Weitere Informationen</p>
       <a href="/docs/Einfuehrung" class="mb-1 km-link-hover">Allgemeine Einführung</a>
-      <a href="#">Factsheet Kitas</a>
+      <a href="/assets/KitaMatch_Factsheet_Kitas.pdf">Factsheet Kitas</a>
     </div>
   </div>
   
@@ -102,7 +102,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
       </div>
       <p class="fw-700">Weitere Informationen</p>
       <a href="/docs/Einfuehrung" class="mb-1 km-link-hover">Allgemeine Einführung</a>
-      <a href="#">Factsheet Jugendämter</a>
+      <a href="/assets/KitaMatch_Factsheet_Jugendamt.pdf">Factsheet Jugendämter</a>
     </div>
   </div>
 
@@ -158,7 +158,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   <div class="d-flex flex-justify-around fw-700 mb-10">
     <div class="d-flex km-download__item">
       <span class="mb-3 fs-5">Manual</span>
-      <a href="#" class="btn btn-purple">Herunterladen</a>
+      <a href="/assets/KitaMatch_Manual.pdf" class="btn btn-purple">Herunterladen</a>
     </div>
     <div class="d-flex km-download__item" >
       <span class="mb-3 fs-5">Wegweiser</span>
