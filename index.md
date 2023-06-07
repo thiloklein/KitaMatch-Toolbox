@@ -187,6 +187,8 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
     <img src="assets/images/wiwo_logo.png" alt="Logo der Wirschaftswoche" >
     <b>WirtschaftsWoche</b>
     <a href="https://www.wiwo.de/politik/deutschland/hilfreiche-software-kita-match-ein-kitaplatz-per-algorithmus/27890190.html">„Kita-Match“: Ein Kitaplatz per Algorithmus</a>
+    
+    <p></p>
 
     <img src="assets/images/wiwo_logo.png" alt="Logo der Wirschaftswoche" >
     <b>WirtschaftsWoche</b>
