@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grenzen des Gale-Shapley-Verfahrens
-parent: Gale-Shapley Verfahren
+parent: Mechanismus hinter KitaMatch
 nav_order: 6
 permalink: /docs/Gale-Shapley-Verfahren/Grenzen-des-Gale-Shapley-Verfahrens
 ---
