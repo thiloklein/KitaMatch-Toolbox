@@ -55,7 +55,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   </div>
 </section>
 
-<br>
+<br><br>
 
 <section>
 
@@ -132,6 +132,8 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   </div>
 
 </section>
+
+<br><br>
 
 <section>
   <h2 class="text-center">Wer steckt dahinter?</h2>
