@@ -187,19 +187,16 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
     <img src="assets/images/wiwo_logo.png" alt="Logo der Wirschaftswoche" >
     <b>WirtschaftsWoche</b>
     <a href="https://www.wiwo.de/politik/deutschland/hilfreiche-software-kita-match-ein-kitaplatz-per-algorithmus/27890190.html">„Kita-Match“: Ein Kitaplatz per Algorithmus</a>
-
 <br />
     
     <img src="assets/images/wiwo_logo.png" alt="Logo der Wirschaftswoche" >
     <b>WirtschaftsWoche</b>
     <a href="https://www.wiwo.de/my/politik/konjunktur/vwl-marktdesign-oekonomie-ohne-elfenbeinturm/25470414.html?ticket=ST-14212654-6IVplpejhVf9Uz4Iv59q-ap1">Marktdesign: Ökonomie ohne Elfenbeinturm – der neue Kitaalgorithmus</a>
-    
  <br />
     
     <img src="assets/images/faz_logo.png" alt="Logo der FaZ" >
     <b>FAZ</b>
     <a href="https://www.faz.net/aktuell/wirtschaft/wie-ein-algorithmus-kitaplaetze-fairer-vergeben-soll-16510418.html">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
-    
  <br />
     
     <img src="assets/images/faz_logo.png" alt="Logo der FaZ" >
