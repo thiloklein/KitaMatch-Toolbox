@@ -20,13 +20,13 @@ Abschließend werden im [Kapitel 2.4](/docs/Gale-Shapley-Verfahren/Grenzen-des-G
 ---
 
 
-## Unterkapitel
-{: .no_toc }
+## Inhalt
+{: .no_toc .text-delta }
 
-- [Stabilität und Strategie-Sicherheit](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit)
-- [Gale-Shapley-Verfahren: Stabil und Strategie-Sicher](/docs/Gale-Shapley-Verfahren/Semi-Dezentrales-Gale-Shapley-Verfahren)
-- [Beispiel: First-Preference-First Mechanismus](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus)
-- [Beispiel: Unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren)
-- [Beispiel: Gale-Shapley Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel)
-- [Die Grenzen des Gale-Shapley Verfahrens](/docs/Gale-Shapley-Verfahren/Grenzen-des-Gale-Shapley-Verfahrens)
+1. [Stabilität und Strategiesicherheit](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit)
+2. [Gale-Shapley-Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Verfahren)
+3. [Beispiel: First-Preference-First Mechanismus](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus)<br>
+   [Beispiel: Unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren)<br>
+   [Beispiel: Gale-Shapley Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel)
+4. [Grenzen des Gale-Shapley-Verfahrens](/docs/Gale-Shapley-Verfahren/Grenzen-des-Gale-Shapley-Verfahrens)
 
