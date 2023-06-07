@@ -65,7 +65,7 @@ Sofern ein einheitlicher Kriterienkatalog nicht gewünscht wird, ist das Matchin
 Neben gesetzlichen Kriterien gibt es auch Kriterien, die einrichtungsübergreifend gelten. Dieser „gemeinsame Nenner“ von Aufnahmekriterien wird in diesem Schritt von allen Beteiligten kritisch hinterfragt und präzise formuliert. Dabei ist es ebenso wichtig, neue Kriterien in Erwägung zu ziehen, zu diskutieren und gegebenenfalls mit aufzunehmen. In diesem Zusammenhang ist es von Vorteil, diese Kriterien um eine Definition oder Beschreibung zu ergänzen, das heißt, sie auszuformulieren. Dies führt zu einem besseren, einheitlichen Verständnis unter den Beteiligten, nicht nur im Rahmen des Entwicklungsprozesses, sondern auch in einer späteren Projektphase, zum Beispiel im Gespräch mit den Eltern.
 
 Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet. Gleichwohl ist insbesondere in den Folgejahren eine (Weiter)Entwicklung des einheitlichen Kriterienkatalogs auch online über eine Videokonferenz möglich. Für die weitere Entwicklung des Kriterienkatalogs haben sich folgende Vorgehensweisen bewährt:
-
+ 
 **Feedbackschleife: Diskussion des Entwurfs im jeweiligen Kitagremium**
 
 Die Kitaleitungen/Trägervertretungen diskutieren im nächsten Schritt die im Plenum entworfenen Kriterien in ihrer jeweiligen Einrichtung und verschriftlichen evtl. Änderungswünsche. 
