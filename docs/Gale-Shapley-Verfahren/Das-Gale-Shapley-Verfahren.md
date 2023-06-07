@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gale-Shapley Verfahren
+title: Mechanismus hinter KitaMatch
 has_children: true
 nav_order: 3
 has_toc: false
