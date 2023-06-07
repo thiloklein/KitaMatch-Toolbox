@@ -171,7 +171,7 @@ Um einen ersten Eindruck zu erhalten, wie ein solcher Kriterienkatalog aussehen 
 
 <small>Abbildung: Ein Beispielkatalog</small>
 
-![konkretes-beispiel.png](../../assets/images/konkretes-beispiel.png)
+![konkretes-beispiel.png](../../assets/images/konkretes-beispiel_.png)
 
 In der Pilotkommune gelten demzufolge folgende „globale“ Kriterien, die für **alle** ausgewählten Wunscheinrichtungen gleichermaßen gelten: 
 
