@@ -22,7 +22,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
 
 <h2 class="text-center fw-700 fs-5 mb-5">Erfahren Sie hier mehr zum Ablauf</h2>
 <div class="d-flex flex-justify-around mb-10">
-  <a href="/docs/Einfuehrung/" class="btn btn-purple text-center">Zum Ablauf</a>
+  <a href="/docs/Einfuehrung" class="btn btn-purple text-center">Zum Ablauf</a>
 </div>
 
 <section class="mb-7">
@@ -75,7 +75,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
         <p class="mt-0"> Die dezentrale Vergabe wahrt die Trägerautonomie und erlaubt Flexibilität, z.B. bezüglich Geschlechts- und Altersstruktur der Gruppen.</p>
       </div>
       <p class="fw-700">Weitere Informationen</p>
-      <a href="/docs/Einfuehrung/" class="mb-1 km-link-hover">Allgemeine Einführung</a>
+      <a href="/docs/Einfuehrung" class="mb-1 km-link-hover">Allgemeine Einführung</a>
       <a href="#">Factsheet Kitas</a>
     </div>
   </div>
@@ -99,7 +99,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
         <p class="mt-0">Es fallen keine Lizenzkosten an. Es entsteht kein Lock-in Effekt wie bei proprietärer Software.</p>
       </div>
       <p class="fw-700">Weitere Informationen</p>
-      <a href="/docs/Einfuehrung/" class="mb-1 km-link-hover">Allgemeine Einführung</a>
+      <a href="/docs/Einfuehrung" class="mb-1 km-link-hover">Allgemeine Einführung</a>
       <a href="#">Factsheet Jugendämter</a>
     </div>
   </div>
@@ -125,7 +125,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
         <p class="mt-0">Viele Kitas in der Vormerkung anzugeben, bedeutet keinen Nachteil, sondern erhöht die Chance, einen Platz zu erhalten. Darüber hinaus lohnt es sich, die Wunsch-Kita auf Platz eins anzugeben. Es sind also keine strategischen Erwägungen notwendig.</p>
       </div>
       <p class="fw-700">Weitere Informationen</p>
-      <a href="/docs/Einfuehrung/">Allgemeine Einführung</a>
+      <a href="/docs/Einfuehrung">Allgemeine Einführung</a>
     </div>
   </div>
 
@@ -173,8 +173,8 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
 ## Unsere Projekte
 
 {:style="text-align:center;"}
-[![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}](https://www.kreis-steinfurt.de/kv_steinfurt/Home/)
-[![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="150px" width="150px"}](https://www.kaiserslautern.de/)
+[![kreis_steinfurt_logo.png](assets/images/kreis_steinfurt_logo.png){:height="200px" width="200px"}](https://www.kreis-steinfurt.de/kv_steinfurt/Kreisverwaltung/%C3%84mter/Jugendamt/Kreis%20STEP/)
+[![Stadt-Kaiserslautern_logo.png](assets/images/Stadt-Kaiserslautern_logo.png){:height="150px" width="150px"}](https://www.kaiserslautern.de/buerger_rathaus_politik/medienportal/pressemitteilungen/060195/index.html.de)
 
 ## In der Presse
 
