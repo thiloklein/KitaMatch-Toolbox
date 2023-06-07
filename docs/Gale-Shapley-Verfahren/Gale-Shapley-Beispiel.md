@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beispiel - Gale-Shapley-Verfahren
-parent: Gale-Shapley Verfahren
+parent: Mechanismus hinter KitaMatch
 nav_order: 5
 permalink: /docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel
 ---
