@@ -23,10 +23,11 @@ Prinzipiell kann auch eine Person beide Rollen übernehmen, dafür muss diese je
 
 ---
 
-## Unterkapitel
-{: .no_toc }
 
-- [Der Standardfall](/docs/Uebersicht-Software/Der-Standardfall)
-- [Matching-Day](/docs/Uebersicht-Software/Matching-Day)
-- [Mögliche Erweiterungen](/docs/Uebersicht-Software/Moegliche-Erweiterungen)
-- [IT-Guide](/docs/Uebersicht-Software/IT-Guide)
+## Inhalt
+{: .no_toc .text-delta }
+
+1. [Der Standardfall](/docs/Uebersicht-Software/Der-Standardfall)
+2. [Matching-Day](/docs/Uebersicht-Software/Matching-Day)
+3. [Mögliche Erweiterungen](/docs/Uebersicht-Software/Moegliche-Erweiterungen)
+4. [IT-Guide](/docs/Uebersicht-Software/IT-Guide)
