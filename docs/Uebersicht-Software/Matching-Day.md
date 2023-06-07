@@ -10,7 +10,6 @@ permalink: /docs/Uebersicht-Software/Matching-Day
 {: .no_toc }
 
 Der sogenannte „Matching-Day“ ist der Termin, an dem die beteiligten Kitaleitungen/Trägervertretungen den angemeldeten Kindern einen virtuellen Platz über das Tool „KitaMatch“ anbieten. Sie vergeben damit zunächst ihre freien Plätze im Rahmen des Matching-Tools; die tatsächliche Vergabe bzw. das Platzangebot an die Eltern erfolgt in der Praxis anschließend auf anderem Wege (z.B. über ein Anmeldeportal). 
-{: .fs-6 .fw-300 }
 
 ---
 
