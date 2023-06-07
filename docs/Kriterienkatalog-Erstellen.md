@@ -8,7 +8,7 @@ permalink: /docs/Kriterienkatalog-Erstellen
 # Die Erstellung des Kriterienkatalogs
 {: .no_toc }
 Das Matching funktioniert so gut wie die [Kriterien formuliert und konkret sind](/docs/Gale-Shapley-Verfahren/Grenzen-des-Gale-Shapley-Verfahrens#stabilität-ist-nur-so-gut-wie-der-kriterienkatalog). Daher empfiehlt sich ein Kriterienkatalog für das Matching. Im Folgenden werden die Grundlagen für die Erstellung eines Kriterienkatalogs vorgestellt. Zunächst wird erklärt, was für die Vorbereitung und den Prozess der Erstellung erforderlich ist. Zudem werden lokale sowie globale Kriterien unterschieden und die Gewichtung der Kriterien anhand eines Fallbeispiels erläutert.
-{: .fs-6 .fw-300 }
+
 
 ---
 
