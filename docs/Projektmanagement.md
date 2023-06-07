@@ -25,7 +25,7 @@ Sobald der erforderliche politische Beschluss und idealerweise das Einverständn
 
 <small>Abbildung: Das 4-Phasen-Modell</small>
 
-![zeitplan.png](../assets/images/zeitplan.png "Das 4-Phasenmodell")
+![zeitplan.png](../assets/images/zeitplan_.png "Das 4-Phasenmodell")
 
 
 ---
