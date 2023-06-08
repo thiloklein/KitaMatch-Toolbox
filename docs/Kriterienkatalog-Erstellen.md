@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Erstellung des Kriterienkatalog
+title: Erstellung des Kriterienkatalogs
 nav_order: 5
 permalink: /docs/Kriterienkatalog-Erstellen
 ---
