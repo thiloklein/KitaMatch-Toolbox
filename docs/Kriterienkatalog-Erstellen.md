@@ -102,7 +102,7 @@ Dieser gemeinsam erarbeitete und für alle Beteiligten gleich geltende Kriterien
 
 ## Die Kriterien 
 
-Welche Aufnahmekriterien gehören in einen Katalog? Diese Frage ist nicht einfach zu beantworten. Denn sowohl die trägerspezifischen als auch regionalen Unterschiede scheinen im Praxisalltag sehr groß zu sein. Zudem gibt es fortlaufend richterliche Entscheidungen, wie das <mark>Kapitel</mark> [Urteil vom Oberverwaltungsgericht (OVG) Münster](/docs/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen), die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. kitaspezifische Kriterien, die ebenso berücksichtigt werden sollten.
+Welche Aufnahmekriterien gehören in einen Katalog? Diese Frage ist nicht einfach zu beantworten. Denn sowohl die trägerspezifischen als auch regionalen Unterschiede scheinen im Praxisalltag sehr groß zu sein. Zudem gibt es fortlaufend richterliche Entscheidungen, wie das Urteil vom Oberverwaltungsgericht (OVG) Münster, die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. kitaspezifische Kriterien, die ebenso berücksichtigt werden sollten.
 
 Die Kriterien und deren konkrete Ausformulierungen werden von den beteiligten Trägervertretungen und Kitaleitungen erarbeitet. Dabei können die Kriterien in zwei Gruppen gegliedert werden: 
 
