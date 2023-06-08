@@ -10,7 +10,7 @@ permalink: /docs/Fallbeispiel
 # Fallbeispiel: Erfahrung im Landkreis Steinfurt
 {: .no_toc }
 
-Im Kreis Steinfurt, in der Gemeinde Saerbeck, wurde bei der Verteilung der Kinder auf die Betreuungsplätze erstmals zum Kitajahr 2019/20 das algorithmusbasierte Gale-Shapley-Verfahren angewendet. Rund 100 Kinder in drei Altersgruppen (unter Zweijährige, Zweijährige, über Dreijährige) wurden auf die zur Verfügung gestellten Plätze verteilt. An dem Verfahren haben sich sechs Kindertageseinrichtungen und die Fachberatung für Kindertagespflege, die im Auftrag des Jugendamtes die Vermittlung von Kindertagespflegen übernimmt, beteiligt.
+In der Gemeinde Saerbeck im Kreis Steinfurt wurde bei der Verteilung der Kinder auf die Betreuungsplätze erstmals zum Kitajahr 2019/20 das algorithmusbasierte Gale-Shapley-Verfahren angewendet. Rund 100 Kinder in drei Altersgruppen (unter Zweijährige, Zweijährige, über Dreijährige) wurden auf die zur Verfügung gestellten Plätze verteilt. An dem Verfahren haben sich sechs Kindertageseinrichtungen und die Fachberatung für Kindertagespflege, die im Auftrag des Jugendamtes die Vermittlung von Kindertagespflegen übernimmt, beteiligt.
 
 Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einrichtung entscheidet, obliegt die Entscheidung über die endgültige Aufnahme der Kinder der Einrichtung/dem Träger anhand der geltenden Kriterien. Bisher wurden die Plätze nach dem [First-Preference-First-Prinzip](/docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus) vergeben. Neben dem Urteil des Verwaltungsgerichts (VG) Münster ([siehe Kapitel 2.1](/docs/Gale-Shapley-Verfahren/Stabilität-und-Strategie-Sicherheit)) haben u. a. die im Folgenden beschriebenen Gründe die Politik bzw. die Verwaltung bewogen, gemeinsam mit den örtlichen Trägern das Pilotprojekt umzusetzen.
 
@@ -29,7 +29,7 @@ Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einric
 
 **Größere Transparenz bei der Vergabe von Betreuungsplätzen**	
 
-In den vergangenen Jahren stieg die Zahl der Nachfragen von Eltern, die eine Absage von ihrer Wunscheinrichtung erhalten haben, bei den Kindertageseinrichtungen. Ebenso kontaktierten Eltern vermehrt das Kreisjugendamt, um die für die Zu- bzw. Absage ausschlaggebenden Gründe zu erfahren. Das Kreisjugendamt verwies die Eltern in diesen Fällen an die entsprechenden Träger der Einrichtungen, die die Entscheidung über die Platzvergabe im Rahmen ihrer Trägerautonomie vertreten. Im Rahmen der Bedarfsplanung ist der Kreis Steinfurt als Träger der öffentlichen Jugendhilfe verantwortlich für die Bereitstellung der Plätze bzw. bedarfsgerechten Versorgung der Kinder. Daher war es dem Kreisjugendamt ein Anliegen, in enger Kooperation mit den Trägern mehr Transparenz bei der Vergabe der Betreuungsplätze zu schaffen. Damit verbunden war der Wunsch, dass die Eltern die Vergabe (insbesondere die Entscheidung für eine Absage) besser nachvollziehen können.
+In den vergangenen Jahren stieg die Zahl der Nachfragen von Eltern, die eine Absage von ihrer Wunscheinrichtung erhalten haben, bei den Kindertageseinrichtungen. Ebenso kontaktierten Eltern vermehrt das Kreisjugendamt, um die für die Zu- bzw. Absage ausschlaggebenden Gründe zu erfahren. Das Kreisjugendamt verwies die Eltern in diesen Fällen an die entsprechenden Träger der Einrichtungen, die die Entscheidung über die Platzvergabe im Rahmen ihrer Trägerautonomie vertreten. Im Rahmen der Bedarfsplanung ist der Kreis Steinfurt als Träger der öffentlichen Jugendhilfe verantwortlich für die Bereitstellung der Plätze bzw. die bedarfsgerechte Versorgung der Kinder. Daher war es dem Kreisjugendamt ein Anliegen, in enger Kooperation mit den Trägern mehr Transparenz bei der Vergabe der Betreuungsplätze zu schaffen. Damit verbunden war der Wunsch, dass die Eltern die Vergabe (insbesondere die Entscheidung für eine Absage) besser nachvollziehen können.
 
 Ein weiterer Grund für die Einführung war der Wunsch nach Arbeitserleichterung und Zeitersparnis für alle Prozessbeteiligten.
 
@@ -46,7 +46,7 @@ Im Zuge der Modernisierung und Digitalisierung der Kreisverwaltung Steinfurt hat
 
 ## Einführung des neuen Verfahrens 
 
-Dem Kreis Steinfurt war es von Anfang an ein Anliegen, alle Beteiligten in die Vergabe der Kitaplätze frühzeitig mit einzubinden. Für die Einführung dieses neuen Verfahrens zum Kitajahr 2019/20 informierte das Jugendamt das zuständige Gremium (Arbeitsgruppe nach § 78 SGB VIII) im Sommer/Herbst 2018, sodass Fragen der Träger- und Kitavertretungen undder Bürgermeister:innen beantwortet werden konnten. 
+Dem Kreis Steinfurt war es von Anfang an ein Anliegen, alle Beteiligten in die Vergabe der Kitaplätze frühzeitig mit einzubinden. Für die Einführung dieses neuen Verfahrens zum Kitajahr 2019/20 informierte das Jugendamt das zuständige Gremium (Arbeitsgruppe nach § 78 SGB VIII) im Sommer/Herbst 2018, sodass Fragen der Träger- und Kitavertretungen und der Bürgermeister:innen beantwortet werden konnten. 
 
 In der Pilotkommune Saerbeck hat die zuständige Bedarfsplanerin des Kreisjugendamtes ebenso frühzeitig den beteiligten Kitaleitungen, Trägervertretungen sowie dem Bürgermeister das neue Verfahren vorgestellt. Sie übernahm im Rahmen der Einführung die Aufgaben einer Projektleitung, die im [Kapitel 5](/docs/Projektmanagement) näher erläutert werden. 
 
@@ -69,7 +69,7 @@ Im Gespräch mit den Prozessbeteiligten war es dem Kreisjugendamt wichtig, dass 
 
 In der Pilotkommune Saerbeck hat das Jugendamt im Sommer 2019 die beteiligten Träger und Kitaleitungen frühzeitig zu einem gemeinsamen Gespräch eingeladen und die Erstellung eines einheitlichen Kriterienkatalogs für die Verteilung der Kinder auf die Betreuungsplätze moderiert. Da die Einrichtungen in der Vergangenheit oftmals nach denselben Aufnahmekriterien vorgingen, konnte schnell eine erste gemeinsame Basis gefunden werden, in der jede Einrichtung die für sie wichtigen Kriterien wiederfand.
 
-Es stellte sich als hilfreich heraus, den Beteiligten ein wenig Zeit zu geben, den Kriterienkatalog „reifen zu lassen“ und in einem weiteren Treffen erneut zu diskutieren und manche Begriffe, zum Beispiel „Härtefälle“, zu konkretisieren. Erst dann konnten mögliche Punktwerte pro Kriterium festgelegt werden. Beispielsweise könnte das Kind, das als Geschwisterkind in einer Einrichtung angemeldet wurde, 3 Punkte erhalten, während ein anderes Kind, das kein Geschwisterkind ist, 0 Punkte bekommt. Dabei wurden die Beteiligten gebeten, verschiedene Familienszenarien (zum Beispiel alleinerziehende Sorgeberechtigte oder Mehrlingsfamilien) möglichst praxisnah durchzuspielen. Der auf diese Weise entwickelte Katalog beinhaltete klare und eindeutige Formulierungen und wurde vom Rat der jeweiligen Kindertageseinrichtung verabschiedet. Im darauffolgenden Jahr haben die Verantwortlichen den ursprünglichen Kriterienkatalog auf Aktualität geprüft, gegebenenfalls angepasst und verabschiedet. Dieses Verfahren wird auch in Zukunft beibehalten, sodass der Kriterienkatalog – als Grundlage fürs Matching – stets hinterfragt und aktualisiert wird.
+Es stellte sich als hilfreich heraus, den Beteiligten ein wenig Zeit zu geben, den Kriterienkatalog „reifen zu lassen“ und in einem weiteren Treffen erneut zu diskutieren und manche Begriffe, zum Beispiel „Härtefälle“, zu konkretisieren. Erst dann konnten mögliche Punktwerte pro Kriterium festgelegt werden. Beispielsweise könnte das Kind, das als Geschwisterkind in einer Einrichtung angemeldet wurde, 3 Punkte erhalten, während ein anderes Kind, das kein Geschwisterkind ist, 0 Punkte bekommt. Dabei wurden die Beteiligten gebeten, verschiedene Familienszenarien (z.B. alleinerziehende Sorgeberechtigte oder Mehrlingsfamilien) möglichst praxisnah durchzuspielen. Der auf diese Weise entwickelte Katalog beinhaltete klare und eindeutige Formulierungen und wurde vom Rat der jeweiligen Kindertageseinrichtung verabschiedet. Im darauffolgenden Jahr haben die Verantwortlichen den ursprünglichen Kriterienkatalog auf Aktualität geprüft, bei Bedarf angepasst und verabschiedet. Dieses Verfahren wird auch in Zukunft beibehalten, sodass der Kriterienkatalog – als Grundlage fürs Matching – stets hinterfragt und aktualisiert wird.
 
 Wie ein solcher Kriterienkatalog entwickelt werden kann, beschreibt [Kapitel 4](/docs/Kriterienkatalog-Erstellen).
 
@@ -85,21 +85,21 @@ Wie ein solcher Kriterienkatalog entwickelt werden kann, beschreibt [Kapitel 4](
 
 ## Matching-Day
 
-In Vorbereitung auf das Matching haben die Kitaleitungen (i. d. R. der Erstwunscheinrichtung) jedes Kind, das die Einrichtung als erste Präferenz angegeben hat, bepunktet bzw. entschieden, ob das jeweilige Kriterium des Katalogs auf das Kind zutrifft oder nicht. Die hierfür erforderlichen Informationen haben die Eltern zunächst im Zuge des Anmeldeverfahrens im Online-Portal angegeben und Kitaleitungen im Rahmen eines Elterngesprächs ergänzt. 
+In Vorbereitung auf das Matching haben die Kitaleitungen (i. d. R. der Erstwunscheinrichtung) jedes Kind, das die Einrichtung als erste Präferenz angegeben hat, bepunktet bzw. entschieden, ob das jeweilige Kriterium des Katalogs auf das Kind zutrifft oder nicht. Die hierfür erforderlichen Informationen haben die Eltern zunächst im Zuge des Anmeldeverfahrens im Onlineportal angegeben und Kitaleitungen im Rahmen eines Elterngesprächs ergänzt. 
 
 Auf Basis dieser Bepunktung wurde in Anlehnung an das Kinderbildungsgesetz (KiBiz) NRW eine Bewerberliste für drei Altersgruppen pro Einrichtung erstellt: unter Zweijährige, Zweijährige und Drei- bis Sechsjährige. Diese Bewerberliste hat die jeweilige Kitaleitung in dem KitaMatch-Programm auf Vollständigkeit und Plausibilität geprüft (vgl. [Kapitel 3.1.5](/docs/Uebersicht-Software/Der-Standardfall#kitamatch-aus-sicht-der-kitaleitungen)). Die Leitungen bzw. Trägervertretungen hatten sodann im Rahmen ihrer Trägerautonomie die Möglichkeit, diese Liste nach Rücksprache mit dem Jugendamt aus „gutem Grund“ zu ändern. Ferner hatte das Jugendamt die Aufgabe, im Vorfeld des Matchings die **Zahl der freien Plätze** (in Abstimmung mit den beteiligten Trägervertretungen und Kitaleitungen) in den jeweiligen Altersgruppen festzulegen (siehe [Kapitel 3.1.5.3.1](/docs/Uebersicht-Software/Der-Standardfall#navigation-1)).
 
 Ebenso war das Jugendamt aufgefordert, zu entscheiden, welcher **Aufnahmezeitraum berücksichtigt** werden soll. In der Pilotkommune Saerbeck wurden die Betreuungswünsche für einen Zeitpunkt zwischen dem 1. August und 30. November 2019 berücksichtigt.
 
-Eine weitere wichtige Aufgabe in Vorbereitung auf das Matching war die Prüfung von besonderen Konstellationen. Dazu gehören beispielsweise die **Wechselkinder**; also diejenigen Kinder, die bereits einen Platz in einer Betreuungseinrichtung haben, aber wechseln möchten. Für diese Fälle wurden bedarfsplanungsrechtliche Lösungen mit den hiesigen Trägern und Kitaleitungen erarbeitet (vgl. [Kapitel 5.4](/docs/Projektmanagement#der-matching-day-phasen-3-und-4)).
+Eine weitere wichtige Aufgabe in Vorbereitung auf das Matching war die Prüfung von besonderen Konstellationen. Dazu gehören beispielsweise **Wechselkinder**, also diejenigen Kinder, die bereits einen Platz in einer Betreuungseinrichtung haben, aber wechseln möchten. Für diese Fälle wurden bedarfsplanungsrechtliche Lösungen mit den hiesigen Trägern und Kitaleitungen erarbeitet (vgl. [Kapitel 5.4](/docs/Projektmanagement#der-matching-day-phasen-3-und-4)).
 
 **Die Durchführung der Platzvergabe**
 
-Für die Platzvergabe des Kitajahres 2019/20 kamen die beteiligten Kitaleitungen und Trägervertretungen im Januar 2020 zum sogenannten „Matching-Day“ im IT-Schulungsraum des Kreises zusammen, um den Eltern über das KitaMatch-Programm (siehe [Kapitel 3](/docs/Uebersicht-Software)) **virtuelle Platzangebote** zu machen. Auf Basis der Wunschreihenfolge der Eltern hat das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern angenommen oder abgelehnt – und zwar so lange, bis alle Plätze vergeben waren bzw. bis sich die Bewerber nicht mehr besserstellen konnten. 
+Für die Platzvergabe des Kitajahres 2019/20 kamen die beteiligten Kitaleitungen und Trägervertretungen im Januar 2020 zum „Matching-Day“ im IT-Schulungsraum des Kreises zusammen, um den Eltern über das KitaMatch-Programm (siehe [Kapitel 3](/docs/Uebersicht-Software)) **virtuelle Platzangebote** zu machen. Auf Basis der Wunschreihenfolge der Eltern hat das KitaMatch-Programm daraufhin die Angebote im Namen der Eltern angenommen oder abgelehnt – und zwar so lange, bis alle Plätze vergeben waren bzw. bis sich die Bewerber nicht mehr besserstellen konnten. 
 
 Das Matching kann auch online durchgeführt werden. Hierfür bedarf es aber sowohl technischer als auch organisatorischer Hilfestellung (z. B. jeweils zwei Endgeräte für die Kitaleitungen, mit der sie zur besseren Übersicht das Matching verfolgen bzw. das Matching-Tool bedienen können).
 
-Im Februar 2020 schließlich schickten die Kitaleitungen genau wie ihre Kolleg:innen in den anderen Orten des Jugendamtsbezirks, den Eltern über das Kreis **ST**einfurt **E**ltern**P**ortal (STEP) eine verbindliche Zusage bzw. Absage.
+Im Februar 2020 schließlich schickten die Kitaleitungen genau wie ihre Kolleg:innen in den anderen Orten des Jugendamtsbezirks den Eltern über das Kreis **ST**einfurt **E**ltern**P**ortal (STEP) eine verbindliche Zusage bzw. Absage.
 
 
 
@@ -107,7 +107,7 @@ Im Februar 2020 schließlich schickten die Kitaleitungen genau wie ihre Kolleg:i
 
 ## Das Matching aus Sicht der Eltern, der Kitaleitungen/Trägervertretungen und des Jugendamtes
 
-In der Pilotkommune Saerbeck haben die beteiligten Kitaleitungen/Trägervertretungen mit Vertreter:innen des Jugendamts ein paar Wochen nach dem Matching Day das neuartige Verfahren reflektiert, Schwachstellen im Verfahrensablauf aufgedeckt und Optimierungen formuliert. Im Ergebnis waren sich alle Beteiligten schnell einig: Das Matching soll auf jeden Fall beibehalten werden, da es sehr transparent, fair und zeitsparend ist. Die wesentlichen Erfahrungen der drei zentralen Akteursgruppen Eltern, Kitaleitungen/Trägervertretungen und Jugendämtern werden im Folgenden aufgeführt:
+In der Pilotkommune Saerbeck haben die beteiligten Kitaleitungen/Trägervertretungen mit Vertreter:innen des Jugendamtes ein paar Wochen nach dem Matching-Day das neuartige Verfahren reflektiert, Schwachstellen im Verfahrensablauf aufgedeckt und Optimierungen formuliert. Im Ergebnis waren sich alle Beteiligten schnell einig: Das Matching soll auf jeden Fall beibehalten werden, da es sehr transparent, fair und zeitsparend ist. Die wesentlichen Erfahrungen der drei zentralen Akteursgruppen Eltern, Kitaleitungen/Trägervertretungen und Jugendämter werden im Folgenden aufgeführt:
 
 **Aus Sicht der Eltern**
 
@@ -116,8 +116,8 @@ Die Eltern haben – nach wie vor – gemäß § 5 Achtes Buch Sozialgesetzbuch 
 {: .note-title}
 > Hinweise
 > 
-> - Es empfiehlt sich eine frühzeitige, umfassende Information an die Eltern. 
-> - Es sollten genügend Informationen (zum Beispiel Geburtsdatum, ob es ein Geschwisterkind ist) über jedes angemeldete Kind vorliegen.
+> - Es empfiehlt sich eine frühzeitige, umfassende Information der Eltern. 
+> - Es sollten genügend Informationen (z.B. Geburtsdatum, ob es ein Geschwisterkind ist) über jedes angemeldete Kind vorliegen.
 > - Strategische Überlegungen werden überflüssig.
 > - Durch Priorisierung der Wunscheinrichtungen wird das Wunsch- und Wahlrecht berücksichtigt.
 > - Das Vergabeverfahren ist transparent und nachvollziehbar.
@@ -126,11 +126,11 @@ Die Eltern haben – nach wie vor – gemäß § 5 Achtes Buch Sozialgesetzbuch 
 
 **Aus Sicht der Kitaleitungen/Trägervertretungen**
 
-Nach Aussagen der Kitaleitungen/Trägervertretungen war es gut, wenn sich die beteiligten Akteure noch einmal bewusst über die Aufnahmekriterien und deren Gewichtung austauschen. Sie kamen zur Erkenntnis, dass „man gar nicht so weit voneinander entfernt [liege; Anm. d. Verf.]“ und durchaus in der Lage sei, einen gemeinsamen Kriterienkatalog zu entwickeln. Es sei optimal, dass die Kriterientreue grundsätzlich durch das Matching garantiert wird. Das Matchingverfahren sei „eine Art Erleichterung, da die Kinder sachlich, neutral sortiert und ausgewählt werden“. Dies zeige, wie groß der Erklärungs- und Rechtfertigungsdruck im Rahmen des anderen Verfahrens war. Die Kitaleitungen erleben scheinbar eine emotionale und organisatorische Erleichterung, die sie motiviert, das Matchingverfahren beizubehalten.
+Nach Aussagen der Kitaleitungen/Trägervertretungen war es von Vorteil, wenn sich die beteiligten Akteure noch einmal bewusst über die Aufnahmekriterien und deren Gewichtung austauschten. Sie kamen zur Erkenntnis, dass „man gar nicht so weit voneinander entfernt [liege; Anm. d. Verf.]“ und durchaus in der Lage sei, einen gemeinsamen Kriterienkatalog zu entwickeln. Es sei optimal, dass die Kriterientreue grundsätzlich durch das Matching garantiert wird. Das Matchingverfahren sei „eine Art Erleichterung, da die Kinder sachlich, neutral sortiert und ausgewählt werden“. Dies zeigt, wie groß der Erklärungs- und Rechtfertigungsdruck im Rahmen des anderen Verfahrens war. Die Kitaleitungen erlebten scheinbar eine emotionale und organisatorische Erleichterung, die sie motivierte, das Matchingverfahren beizubehalten.
 
-Ein weiterer Vorteil war aus ihrer Sicht die Wahrung der gesetzlich verankerten Trägerautonomie (vgl. § 47 SGB VIII). Denn die Leitungen bzw. Trägervertretungen haben in jeder Altersgruppe die Möglichkeit, aus „gutem Grund“ eine Abweichung von der eigentlichen Bewerberliste vorzunehmen. Dies sei für sie eine Erleichterung, weil die familiären Schicksale im Alltag flexibles und unkompliziertes Handeln und Entscheiden erfordern.
+Ein weiterer Vorteil war aus Sicht der Kitaleitungen/Trägervertretungen die Wahrung der gesetzlich verankerten Trägerautonomie (vgl. § 47 SGB VIII). Denn die Leitungen bzw. Trägervertretungen haben in jeder Altersgruppe die Möglichkeit, aus „gutem Grund“ eine Abweichung von der eigentlichen Bewerberliste vorzunehmen. Dies sei für sie eine Erleichterung, weil familiäre Schicksale im Alltag flexibles und unkompliziertes Handeln und Entscheiden erfordern.
 
-Insgesamt stellten die Kitaleitungen einen reduzierten Aufwand fest: Durch das Programm erhielten sie alle für sie relevanten Anmeldungen (egal, ob erster, zweiter oder fünfter Wunsch). Darüber hinaus wurden alle für die Anmeldung relevanten Daten der Kinder verarbeitet und keine Daten übersehen. Im Matchingverfahren zeigte das Programm in jeder Runde immer nur die angemeldeten Kinder, die nicht bereits ein Angebot von einer höher präferierter Einrichtung erhalten haben. Dies erleichtere die Abwicklung, insbesondere bei Kitas mit sehr vielen Anmeldungen.
+Insgesamt stellten die Kitaleitungen einen reduzierten Aufwand fest: Durch das Programm erhielten sie alle für sie relevanten Anmeldungen (egal, ob erster, zweiter oder fünfter Wunsch). Darüber hinaus wurden alle für die Anmeldung relevanten Daten der Kinder verarbeitet und keine Daten übersehen. Im Matchingverfahren zeigte das Programm in jeder Runde immer nur die angemeldeten Kinder, die nicht bereits ein Angebot von einer höher präferierter Einrichtung erhalten haben. Dies erleichterte die Abwicklung, insbesondere bei Kitas mit sehr vielen Anmeldungen.
 
 Zudem war es den Kitaleitungen wichtig, das Kind auf der Bewerberliste „bewusst“ im Programm anzuklicken und es nicht ausschließlich dem Computer zu überlassen. Sie fanden es überaus effizient, dass fast alle Kinder durch die Koordinierungsrunden im Rahmen des Matching-Days direkt einen (zunächst virtuellen) Platz erhalten haben und am Ende des Matchings deutlich wurde, welche Kinder die Einrichtung aufnimmt.
 
@@ -146,7 +146,7 @@ Zudem war es den Kitaleitungen wichtig, das Kind auf der Bewerberliste „bewuss
 
 Grundsätzlich hat das Jugendamt die Pflicht, ein bedarfsgerechtes Angebot vorzuhalten. Dabei ist es wünschenswert, dass die Eltern möglichst den Wunschplatz erhalten bzw. nachvollziehen können, warum sie diesen (nicht) bekommen haben. Höhere Transparenz ist ebenso ein Ziel wie Fairness und Nachvollziehbarkeit.
 
-Grundlegende Voraussetzung für das Matchingverfahren war jedoch zunächst die Legitimation durch die Politik. Es war sinnvoll und erforderlich, sie von Anfang an mit einzubinden und fortlaufend zu informieren. Dadurch konnten eine breite Akzeptanz und eine vielversprechende (Vertrauens)Basis für dieses algorithmusbasierte Vergabeverfahren geschaffen werden.
+Grundlegende Voraussetzung für das Matchingverfahren war jedoch zunächst die Legitimation durch die Politik. Es war sinnvoll und erforderlich, sie von Anfang an mit einzubinden und fortlaufend zu informieren. Dadurch konnten eine breite Akzeptanz und eine vielversprechende (Vertrauens)basis für dieses algorithmusbasierte Vergabeverfahren geschaffen werden.
 
 Nicht weniger wichtig war das offene und vertrauensvolle Gespräch mit allen Prozessbeteiligten. Dies war ein entscheidender Faktor für den Erfolg des Matchings. Dabei spielten das Jugendamt und die Projektleitung eine besondere Lenkungs- und Kommunikationsrolle.
 
@@ -157,7 +157,7 @@ Auch das Kreisjugendamt verzeichnet nach Anwendung des Matchings eine Zeiterspar
 > 
 > - Die umfassende Information an die Politik war notwendig, um die Legitimation für dieses Verfahren zu erhalten. 
 > - Die Gespräche bzw. Einverständnisse der beteiligten Kitas bzw. Trägervertretungen erwiesen sich als wichtig. 
-> - Die Kommunikation mit allen an dem Matching Beteiligten war von Anfang an entscheidend.
+> - Die Kommunikation mit allen an dem Matching-Beteiligten war von Anfang an entscheidend.
 > - Diese Vorgehensweise führte zu mehr Transparenz.
 > - Die direkten Datenexporte von (un)versorgten Kindern führten zu Zeitersparnis.
 
@@ -180,7 +180,7 @@ Besonders im Zuge der Reflexion ist es wichtig, das KitaMatch-Verfahren im Hinbl
 
 ## Fazit zur Platzvergabe mit dem KitaMatch-Verfahren im Landkreis Steinfurt
 
-Insgesamt ist festzuhalten, dass das Matching im Kreisjugendamtsbezirk Steinfurt als transparentes, schnelles und faires Verfahren für die Kommunen wahrgenommen wurde. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor.[^5] Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung, Erziehung zu geben, sofern genügend Plätze zur Verfügung stehen.. 
+Insgesamt ist festzuhalten, dass das Matching im Kreisjugendamtsbezirk Steinfurt als transparentes, schnelles und faires Verfahren für die Kommunen wahrgenommen wurde. Alle Beteiligten waren von dem Verfahren positiv überrascht und möchten es beibehalten bzw. ausweiten. Eine entsprechende Beschlussvorlage des Kreisjugendhilfeausschusses für die Ausweitung auf alle 20 Kommunen des Kreisjugendamtsbezirks liegt vor.[^5] Dabei ist der stetige Austausch mit allen Beteiligten ein entscheidender Baustein für ein erfolgreiches (algorithmusbasiertes) Matchingverfahren. Es kann einen Beitrag dazu leisten, jedem Kind eine faire Chance auf frühkindliche Betreuung, Bildung und Erziehung zu geben, sofern genügend Plätze zur Verfügung stehen.. 
 
 
 
