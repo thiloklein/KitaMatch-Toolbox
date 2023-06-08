@@ -9,7 +9,7 @@ permalink: /docs/Uebersicht-Software/IT-Guide
 # IT-Guide
 {: .no_toc }
 
-Das folgende Kapitel wendet sich an die Systemadministration einer Kommune, und setzt gewisse IT-Kenntnisse voraus. Es wird das Set-Up der KitaMatch Software für eine neue Kommune beschrieben.
+Das folgende Kapitel wendet sich an die Systemadministration einer Kommune und setzt gewisse IT-Kenntnisse voraus. Es wird das Set-up der KitaMatch-Software für eine neue Kommune beschrieben.
 
 
 ## Inhalt
@@ -46,7 +46,7 @@ Das folgende Kapitel wendet sich an die Systemadministration einer Kommune, und 
 
 ## Erstellen einer neuen Umgebung für die Kommune
 
-Im Folgenden wird dargestellt, wie die KitaMatch-Umgebung mittels PHP konfiguriert wird. Bei abweichender Serversoftware kann analog vorgegangen werden.
+Im Folgenden wird dargestellt, wie die KitaMatch-Umgebung mittels der Schriftsprache PHP konfiguriert wird. Bei abweichender Serversoftware kann analog vorgegangen werden.
 
 **1.** Erstellen Sie einen neuen Ordner mit dem Stadtnamen unter <tt>(/var/www/html)</tt>:
        
@@ -128,7 +128,7 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 > Das Paket <tt>bcrypt</tt> kann Probleme verursachen. Diese werden normalerweise durch das Deinstallieren und Installieren dieses Pakets behoben. Außerdem muss das Paket <tt>PasswordGen</tt> separat installiert werden. Eine Anleitung dazu finden Sie unter [https://github.com/mpascariu/PasswordGen](https://github.com/mpascariu/PasswordGen)
 
 
-**6.** Wenn alle benötigten Pakete installiert sind, kann das R-Skript ausgeführt werden. Markieren Sie den gesamten Code mithilfe von “<tt>STRG+A</tt>” und drücken Sie auf “<tt>Run</tt>” im oberen Menübereich (alternativ “<tt>STRG+Enter</tt>”). Es kann nun einige Momente dauern, bis das Skript vollständig ausgeführt wurde. Die durch das Skript produzierten CSV-Dateien werden in dem Verzeichnis gespeichert, das als Working Directory ausgewählt wurde. Folgende Dateien werden generiert:
+**6.** Wenn alle benötigten Pakete installiert sind, kann das R-Skript ausgeführt werden. Markieren Sie den gesamten Code mithilfe von “<tt>STRG+A</tt>” und drücken Sie auf “<tt>Run</tt>” im oberen Menübereich (alternativ “<tt>STRG+Enter</tt>”). Es kann nun einige Momente dauern, bis das Skript vollständig ausgeführt wurde. Die durch das Skript produzierten CSV-Dateien werden in dem Verzeichnis gespeichert, das als "Working Directory" ausgewählt wurde. Folgende Dateien werden generiert:
 
   - <tt>applicants.csv</tt>
     - Allgemeine Informationen der Bewerber wie Name, Geburtsdatum, Erwerbsumfang der Eltern …
@@ -178,7 +178,7 @@ Nachdem Sie die CSV-Datei vorbereitet haben, wird im nächsten Schritt das R-Skr
 
 ![Leeren.png](../../assets/images/Leeren.png "Leeren von Tabellen, um Datenimport vorzubereiten")
 
-**9.** Als Nächstes laden Sie die CSV-Dateien in die jeweiligen Tabellen hoch. Die Dateien für “<tt>applicants</tt>” und “<tt>users</tt>” müssen **jeweils als Erstes und als Zweites** hochgeladen werden. Danach spielt die Reihenfolge des Uploads keine Rolle. Um eine Datei zu importieren, wählen Sie die gewünschte Tabelle in der Datenbank aus und wählen Sie im oberen Menü die Übersicht “<tt>Importieren</tt>” aus. Das Feld “<tt>Datei auswählen</tt>” bietet Ihnen nun die Möglichkeit, die gleichnamige CSV-Datei auf Ihrem Rechner für den Upload auszuwählen. Bestätigen Sie die Auswahl mit dem Button “<tt>OK</tt>” am Ende der Seite, um den Upload abzuschließen. Sie erhalten eine Meldung, wenn der Upload fehlerfrei verlaufen ist. Verfahren Sie anschließend analog mit den anderen Dateien, die durch das R-Skript erzeugt wurden. 
+**9.** Als Nächstes laden Sie die CSV-Dateien in die jeweiligen Tabellen hoch. Die Dateien für “<tt>applicants</tt>” und “<tt>users</tt>” müssen **jeweils als Erstes und als Zweites** hochgeladen werden. Danach spielt die Reihenfolge des Uploads keine Rolle. Um eine Datei zu importieren, wählen Sie die gewünschte Tabelle in der Datenbank aus und wählen Sie im oberen Menü die Übersicht “<tt>Importieren</tt>” aus. Das Feld “<tt>Datei auswählen</tt>” bietet Ihnen nun die Möglichkeit, die gleichnamige CSV-Datei auf Ihrem Rechner für den Upload auszuwählen. Bestätigen Sie die Auswahl mit dem “<tt>OK</tt>”-Button am Ende der Seite, um den Upload abzuschließen. Sie erhalten eine Meldung, wenn der Upload fehlerfrei verlaufen ist. Verfahren Sie anschließend analog mit den anderen Dateien, die durch das R-Skript erzeugt wurden. 
 
 
 {: .note-title}
