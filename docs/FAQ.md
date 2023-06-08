@@ -35,9 +35,9 @@ Es empfiehlt sich eine Orientierung am jeweils geltenden Recht. In Nordrhein-Wes
     <summary><b>Was bedeuten die einzelnen Farben, die ein Kind im Rahmen des Matchings erhalten kann?</b></summary>
 Falls ein Kind nach einer Matchingrunde „grün“ hinterlegt ist, bedeutet das, dass es das Angebot endgültig angenommen hat. In diesem Fall bleibt es im Laufe der weiteren Matchingrunden bei der Einrichtung und kann keiner anderen Kita mehr zusagen.
 
-    Falls ein Kind nach einer Matchingrunde „blau“ hinterlegt ist, bedeutet das, dass es das Angebot vorläufig angenommen hat, aber noch nicht endgültig. Es kann sein, dass es in einer der nächsten Runden ein Angebot von einer höher präferierten Einrichtung erhält. 
+    Ist ein Kind nach einer Matchingrunde „blau“ hinterlegt, bedeutet das, dass es das Angebot vorläufig angenommen hat, aber noch nicht endgültig. Es kann sein, dass es in einer der nächsten Runden ein Angebot von einer höher präferierten Einrichtung erhält. 
 
-    Falls ein Kind „rot“ hinterlegt ist, bedeutet das, dass die Einrichtung ihm aktuell kein Angebot machen kann. Entweder hat die Einrichtung keine Kapazität (mehr), um dem Kind ein Angebot zu machen, oder es hat ein Angebot einer Kita, zu der es lieber gehen würde, erhalten. 
+    Falls ein Kind „rot“ hinterlegt ist, bedeutet das, dass die Einrichtung ihm aktuell kein Angebot machen kann. Entweder hat die Einrichtung keine Kapazität (mehr), um dem Kind ein Angebot zu machen, oder es hat ein Angebot einer Kita, zu der das Kind lieber gehen würde, erhalten. 
 </details>
 <p> </p>
 <details>
@@ -66,6 +66,6 @@ Nach dem Matching¬-Day besteht die Möglichkeit für das Jugendamt, einen Daten
 </details>
 <p> </p>
 <details>
-    <summary><b>Können Kinder, die für einen Platz in der Kindertagespflege angemeldet wurden, auch mit der KitaMatchSoftware gematcht werden?</b></summary>
+    <summary><b>Können Kinder, die für einen Platz in der Kindertagespflege angemeldet wurden, auch mit der KitaMatch-Software gematcht werden?</b></summary>
     Ja, auch die Kinder, die für einen Platz in der Kindertagespflege angemeldet wurden, können mit diesem Programm am Vergabeverfahren teilnehmen; auch die, die eine Anmeldung für die Kindertagespflege und als Alternative die Kindertageseinrichtung (oder andersherum) angegeben haben.  
 </details>
