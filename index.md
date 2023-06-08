@@ -148,7 +148,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   <h2 class="text-center">Unterstützt von</h2>
   <div class="km-flex-around">
     <a href="https://www.bertelsmann-stiftung.de/de/startseite">
-      <img src="/assets/images/bertelsmann_logo.png" style="width: 250px;">
+      <img src="/assets/images/bertelsmann_logo.png" style="width: 400px;">
     </a>
   </div>
 
