@@ -37,7 +37,7 @@ Für das Funktionieren des Verfahrens werden deshalb drei Angaben der Beteiligte
   
 - Für jede Kita die **Anzahl an verfügbaren Betreuungsplätzen**:
   
-  Betreuungsplätze bezeichnet die Anzahl an neuen Bewerbern, die eine Kita während der Zuteilung aufnehmen kann.
+  "Betreuungsplätze" bezeichnet die Anzahl an neuen Bewerbern, die eine Kita während der Zuteilung aufnehmen kann.
  
 
 Als Nächstes werden zwei theoretische Merkmale beschrieben, welche essenziel für ein erfolgreiches Zuteilungsverfahren sind. 
@@ -53,8 +53,8 @@ Stabilität hat zwei Komponenten:
  
 - **Strategiesicherheit**:
   
-  Die Strategiesicherheit der Bewerber hat zwei Komponenten.
+  Die Strategiesicherheit der Bewerber hat zwei Komponenten:
   1. Immunität gegen Verkürzen der Rankingliste: Ein Bewerber kann unter keinen Umständen eine bessere Kita zugeteilt bekommen, wenn er weniger Kitas auflistet. 
-  2. Immunität gegen Ändern der Rankingliste: Ein Bewerber kann unter keinen Umständen eine bessere Kita zugeteilt bekommen, wenn er seine Reihenfolge der aufgelisteten Kitas ändert (besser wird nach der originalen/wahrheitsgemäßen Reihenfolge definiert).
+  2. Immunität gegen Ändern der Rankingliste: Ein Bewerber kann unter keinen Umständen eine bessere Kita zugeteilt bekommen, wenn er seine Reihenfolge der aufgelisteten Kitas ändert ("besser" wird nach der originalen/wahrheitsgemäßen Reihenfolge definiert).
 
 
