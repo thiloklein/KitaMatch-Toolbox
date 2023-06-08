@@ -18,7 +18,7 @@ In den meisten deutschen Kommunen führt die Vergabe von freien Plätzen in Kind
 
 ## Die Lösung
 
-Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätzen mit den verfügbaren Plätzen von Kitas. Anhand von definierten Vergabekriterien werden so Eltern und Kitas miteinander **gematcht**. [Die Vorteile](http://localhost:4000/docs/Einfuehrung/#die-vorteile-der-algorithmusbasierten-kitaplatzvergabe) sind Fairness, Effizienz, Transparenz und dass die Lösung Open Source ist.
+Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätzen mit den verfügbaren Plätzen von Kitas. Anhand von definierten Vergabekriterien werden so Eltern und Kitas miteinander **gematcht**. [Die Vorteile](/docs/Einfuehrung/#die-vorteile-der-algorithmusbasierten-kitaplatzvergabe) sind Fairness, Effizienz, Transparenz und dass die Lösung Open Source ist.
 
 <h2 class="text-center fw-700 fs-5 mb-5">Erfahren Sie hier mehr zum Ablauf</h2>
 <div class="d-flex flex-justify-around mb-10">
