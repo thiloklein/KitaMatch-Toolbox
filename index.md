@@ -120,7 +120,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
       </div>
       <div>
         <img src="/assets/images/icons/Kita_Icon_Schnell.svg"/>
-        <p class="mt-0">Zu Platzvergabe erfolgt zwei Wochen nach dem Stichtag für die Vormerkung. Danach können Eltern mit einer Zu- oder Absage innerhalb einer Woche rechnen.</p>
+        <p class="mt-0">Die Platzvergabe erfolgt zwei Wochen nach dem Stichtag für die Vormerkung. Danach können Eltern mit einer Zu- oder Absage innerhalb einer Woche rechnen.</p>
       </div>
       <div>
         <img src="/assets/images/icons/Kita_Icon_Einfach.svg"/>
