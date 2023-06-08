@@ -6,7 +6,7 @@ has_toc: false
 permalink: /docs/Einfuehrung
 ---
 
-# Einführung: Eine transparente, faire und schnelle Kitaplatzvergabe
+# Einführung: Eine schnelle, faire und transparente Kitaplatzvergabe
 {: .no_toc }
 
 Mit dem Ziel einer gerechten und schnelleren Kitaplatzvergabe hat das ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung seit 2017 mit KitaMatch ein softwarebasiertes Verfahren entwickelt, das eine transparente, faire und schnelle Vergabe von Kita- und Tagespflegeplätzen ermöglicht, bei der die Wünsche von Eltern und Kitas optimal zusammenkommen. Inzwischen wird das Verfahren in mehreren Kommunen erfolgreich verwendet. Um dieses Verfahren deutschlandweit allen Städten und Gemeinden zugänglich zu machen, wurde das vorliegende **Manual** entwickelt, mit dem Anwender:innen das vom ZEW entwickelte Vergabeverfahren selbstständig umsetzen können. Dieses Manual besteht aus verschiedenen Dokumenten, die den gesamten Prozess der Platzvergabe abbilden und dabei die einzelnen Prozessschritte für jede der beteiligten Zielgruppen – Kitas/Trägervertretungen, Jugendämter, Eltern und IT-Unterstützung – erläutern. Gleichzeitig werden relevante Dokumente bzw. die Programmiercodes auf dieser Website bereitgestellt.
