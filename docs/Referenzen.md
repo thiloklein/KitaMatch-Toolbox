@@ -8,13 +8,13 @@ permalink: /docs/Referenzen
 
 # Referenzen
 
-Reischmann, Tobias, Thilo Klein und Sven Giegerich (2021). *An iterative deferred acceptance mechanism for decentralized, fast, and fair childcare assignment, Journal of Mechanism and Institution Design. Mannheim*
+Reischmann, Tobias, Thilo Klein und Sven Giegerich (2021). *An iterative deferred acceptance mechanism for decentralized, fast, and fair childcare assignment, Journal of Mechanism and Institution Design No. 21-095. Mannheim*
 
 Gretschko, Vitasli, Thilo Klein und Achim Wambach (2019). *Die Regeln machen den Unterschied: Marktdesign, Wirtschaftswissenschaftliches Studium (48)4. 22-28.*
 
-Fugger, Nicholas, Thilo Klein und Tobis Riehm (2017). Dezentrale Kitaplatzvergabe ohne Warteschlange: *Ein Leitfaden, ZEW policy brief no. 17-04. Mannheim*
+Fugger, Nicholas, Thilo Klein und Tobis Riehm (2017). Dezentrale Kitaplatzvergabe ohne Warteschlange: *Ein Leitfaden, ZEW policy brief 4. Mannheim*
 
-Herzog, S und Thilo Klein (2017). Matching Practices for Childcare in Germany, *Matching-in-Practice Country Profile no. 26.*
+Herzog, Sabrina, und Thilo Klein (2017). „Matching Practices for Childcare in German”. MiP Country Profile no. 26.*
 
 Gale, David, and Lloyd S. Shapley (1962. „College admissions and the stability of marriage“. *The American Mathematical Monthly 69.1. 9–15.*
 
