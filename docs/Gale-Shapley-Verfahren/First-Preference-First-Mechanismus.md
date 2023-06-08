@@ -8,7 +8,7 @@ permalink: /docs/Gale-Shapley-Verfahren/First-Preference-First-Mechanismus
 
 # Beispiel: First-Preference-First-Mechanismus
 
-Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise drei verschiedener Zuteilungsmethoden([First-Preference-First-Mechanismus](), [unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren) und [Gale-Shapley-Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel)) zu illustrieren und intuitiv aufzuzeigen, weshalb das Gale-Shapley-Verfahren als einziges Zuteilungsverfahren sowohl stabil als auch strategiesicher ist.
+Im Folgenden wird das exakt selbe Beispiel benutzt, um die Funktionsweise dreier verschiedener Zuteilungsmethoden([First-Preference-First-Mechanismus](), [unkoordiniertes Verfahren](/docs/Gale-Shapley-Verfahren/Unkoordiniertes-Verfahren) und [Gale-Shapley-Verfahren](/docs/Gale-Shapley-Verfahren/Gale-Shapley-Beispiel)) zu illustrieren und intuitiv aufzuzeigen, weshalb das Gale-Shapley-Verfahren als einziges Zuteilungsverfahren sowohl stabil als auch strategiesicher ist.
 
 ---
 
@@ -20,7 +20,7 @@ Beim First-Preference-First-Mechanismus machen Bewerber Angebote an die Kitas, w
 
 ![B1.jpg](../../assets/images/infographics/Kita_Infografik_FPFM-01.svg "First-Preference-First-Mechanismus - Schritt 1"){:height="500px" width="700px"}
 
-**2.** In der zweiten Runde macht Kai seiner Zweitwahl-Kita ein Angebot, welches abgelehnt wird, da bereits in der vorherigen Runde Mias Angebot direkt angenommen wurde. 
+**2.** In der zweiten Runde macht Kai seiner Zweitwahlkita ein Angebot, welches abgelehnt wird, da bereits in der vorherigen Runde Mias Angebot direkt angenommen wurde. 
 
 <small>Abbildung: First-Preference-First-Mechanismus - Schritt 2<small>
   
