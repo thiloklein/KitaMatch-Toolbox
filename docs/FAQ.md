@@ -61,7 +61,7 @@ Nach dem Matching-Day besteht die Möglichkeit für das Jugendamt, einen Datenex
 </details>
 <p> </p>
 <details>
-    <summary><b>Wie gehen die Kitaleitungen mit den Kindern vor, die sich nach dem Matching-Day dort anmelden?</b></summary>
+    <summary><b>Wie gehen die Kitaleitungen mit den Kindern um, die sich nach dem Matching-Day dort anmelden?</b></summary>
     Dies ist abhängig von dem Vorgehen in den einzelnen Kommunen. Falls das Matching beispielsweise nur einmal im Jahr für die Hauptvergabe zum 1. August des neuen Kitajahres erfolgt, sind die Kinder, die sich nach dem Matching-Day anmelden, wie unterjährige Anmeldungen zu betrachten. 
 </details>
 <p> </p>
