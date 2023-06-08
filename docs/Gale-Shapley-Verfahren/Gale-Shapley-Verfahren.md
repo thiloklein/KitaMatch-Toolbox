@@ -6,9 +6,9 @@ nav_order: 2
 permalink: /docs/Gale-Shapley-Verfahren/Gale-Shapley-Verfahren
 ---
 
-# Gale-Shapley-Verfahren: Stabil und Strategie-Sicher
+# Gale-Shapley-Verfahren: stabil und strategiesicher
 
-Das Gale-Shapley-Verfahren ist ein von David Gale und Lloyd Shapley entwickeltes Zuteilungsverfahren (Gale and Shapley 1962). Es ist das einzige Vergabeverfahren, welches sowohl stabil als auch strategie-sicher ist.[^1]
+Das Gale-Shapley-Verfahren ist ein von David Gale und Lloyd Shapley (1962) entwickeltes Zuteilungsverfahren. Es ist das einzige Vergabeverfahren, welches sowohl stabil als auch strategie-sicher ist.[^1]
 
 {: .note-title}
 > Hinweis:
@@ -18,7 +18,7 @@ Das Gale-Shapley-Verfahren ist ein von David Gale und Lloyd Shapley entwickeltes
 
 Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschrieben. Grundsätzlich lässt sich sein Mechanismus relativ einfach auf komplexere Situationen — zum Beispiel Kitas mit unterschiedlichen Betreuungsplätzen bedingt durch Betreuungsumfänge und Alterskategorien anpassen. 
 
-**Zentrale Durchführung**: Normalerweise wird das Gale-Shapley Verfahren zentral durchgeführt. Das heißt, die Prioritäten der Kitas und die Präferenzen bzw. Rankings der Bewerber werden zentral gesammelt und anschließend wird mittels des Gale-Shapley-Verfahrens die Zuteilung direkt ermittelt. Dies ist jedoch nicht immer optimal, weil Kitas zu beispielsweise zu keiner Zeit von den festgelegten Prioritäten abweichen können und damit die Trägerautonomie einschränkt wird. 
+**Zentrale Durchführung**: Normalerweise wird das Gale-Shapley Verfahren zentral durchgeführt. Das heißt, die Prioritäten der Kitas und die Präferenzen bzw. Rankings der Bewerber werden zentral gesammelt und anschließend wird mittels des Gale-Shapley-Verfahrens die Zuteilung direkt ermittelt. Dies ist jedoch nicht immer optimal, weil Kitas beispielsweise zu keiner Zeit von den festgelegten Prioritäten abweichen können und damit die Trägerautonomie einschränkt wird. 
 
 **Semizentrale Durchführung**: Die koordinierte Vergabe von Kitaplätzen wird semizentral durchgeführt. In diesem Fall werden die Präferenzen bzw. Rankings der Bewerber zentral gesammelt, aber die Kitas nehmen dezentralisiert an der Vergabe teil, das heißt sie durchlaufen jeden Schritt der Vergabe einzeln. Dadurch ergibt sich die Möglichkeit, gegebenenfalls vom vorgegebenen Kriterienkatalog abzuweichen.  
 
@@ -86,5 +86,5 @@ Im Folgenden wird das Gale-Shapley-Verfahren ohne spezifische Anpassungen beschr
 
 ---
 
-[^1]: Das Gale-Shapley-Verfahren, bei welchem Kitas Angebote unterbreiten, ist immun gegen Änderungen der Rankingliste, aber nicht gegen deren Verkürzen. In der Praxis ist aber das Risiko durch Verkürzens der Rangliste keiner Kita zugeteilt zu werden, viel höher als der potenzielle Gewinn bei einer erfolgreichen Manipulation. So gesehen ist für Bewerber in jedem Fall von Vorteil, ihre Präferenzen/Rankings wahrheitsgetreu anzugeben. Das Gale-Shapley-Verfahren, bei welchem Eltern Angebote unterbreiten, ist komplett strategy-sicher.
+[^1]: Das Gale-Shapley-Verfahren, bei welchem Kitas Angebote unterbreiten, ist immun gegen Änderungen der Rankingliste, aber nicht gegen deren Verkürzen. In der Praxis ist aber das Risiko, durch Verkürzen der Rangliste keiner Kita zugeteilt zu werden, viel höher als der potenzielle Gewinn bei einer erfolgreichen Manipulation. So gesehen ist für Bewerber in jedem Fall von Vorteil, ihre Präferenzen/Rankings wahrheitsgetreu anzugeben. Das Gale-Shapley-Verfahren, bei welchem Eltern Angebote unterbreiten, ist komplett strategy-sicher.
 
