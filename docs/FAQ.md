@@ -52,7 +52,7 @@ Im Zuge des Matchings kann es sein, dass ein Kind das Angebot einer Einrichtung 
 <p> </p>
 <details>
     <summary><b>Kann die Kitaleitung sehen, in welcher Kita/Kindertagespflege ein von ihr abgelehntes Kind einen Platz erhält?</b></summary>
-Nach dem Matching¬-Day besteht die Möglichkeit für das Jugendamt, einen Datenexport mit den versorgten und unversorgten Kindern zu generieren. Inwiefern die Kitaleitungen entsprechende Infos erhalten, obliegt dem jeweiligen Jugendamt und ist datenschutzrechtlich fraglich.  
+Nach dem Matching-Day besteht die Möglichkeit für das Jugendamt, einen Datenexport mit den versorgten und unversorgten Kindern zu generieren. Inwiefern die Kitaleitungen entsprechende Infos erhalten, obliegt dem jeweiligen Jugendamt und ist datenschutzrechtlich fraglich.  
 </details>
 <p> </p>
 <details>
