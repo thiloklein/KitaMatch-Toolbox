@@ -64,11 +64,11 @@ Sofern ein einheitlicher Kriterienkatalog nicht gewünscht wird, ist das Matchin
 
 Neben gesetzlichen Kriterien gibt es auch Kriterien, die einrichtungsübergreifend gelten. Dieser „gemeinsame Nenner“ von Aufnahmekriterien wird in diesem Schritt von allen Beteiligten kritisch hinterfragt und präzise formuliert. Dabei ist es ebenso wichtig, neue Kriterien in Erwägung zu ziehen, zu diskutieren und gegebenenfalls mit aufzunehmen. In diesem Zusammenhang ist es von Vorteil, diese Kriterien um eine Definition oder Beschreibung zu ergänzen, das heißt, sie auszuformulieren. Dies führt zu einem besseren, einheitlichen Verständnis unter den Beteiligten, nicht nur im Rahmen des Entwicklungsprozesses, sondern auch in einer späteren Projektphase, zum Beispiel im Gespräch mit den Eltern.
 
-Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet. Gleichwohl ist insbesondere in den Folgejahren eine (Weiter)Entwicklung des einheitlichen Kriterienkatalogs auch online über eine Videokonferenz möglich. Für die weitere Entwicklung des Kriterienkatalogs haben sich folgende Vorgehensweisen bewährt:
+Es ist sinnvoll, dass die Erstellung des ersten Entwurfs in Präsenz stattfindet. Gleichwohl ist insbesondere in den Folgejahren eine (Weiter)entwicklung des einheitlichen Kriterienkatalogs auch online über eine Videokonferenz möglich. Für die weitere Entwicklung des Kriterienkatalogs haben sich folgende Vorgehensweisen bewährt:
  
 **Feedbackschleife: Diskussion des Entwurfs im jeweiligen Kitagremium**
 
-Die Kitaleitungen/Trägervertretungen diskutieren im nächsten Schritt die im Plenum entworfenen Kriterien in ihrer jeweiligen Einrichtung und verschriftlichen evtl. Änderungswünsche. 
+Die Kitaleitungen/Trägervertretungen diskutieren im nächsten Schritt die im Plenum entworfenen Kriterien in ihrer jeweiligen Einrichtung und verschriftlichen eventuelle Änderungswünsche. 
 
 **Erneutes Treffen aller Beteiligten, um gegebenenfalls den Entwurf anzupassen**
 
@@ -79,7 +79,7 @@ Bei einem weiteren Treffen tragen die Kitaleitungen/Trägervertretungen mit ents
 
 ## Verabschiedung des Katalogs
 
-Die Kitaleitungen legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kitagremium zur Anhörung vor, um die Kriterien zu diskutieren und letztlich zu verabschieden. In Nordrhein-Westfalen beispielsweise wäre das der Kita-Rat.[^4] 
+Die Kitaleitungen legen diesen angepassten Entwurf des Kriterienkatalogs dem zuständigen Kitagremium zur Anhörung vor, um die Kriterien zu diskutieren und letztlich zu verabschieden. In Nordrhein-Westfalen beispielsweise wäre das der Kitarat.[^4] 
 
 Je nach Anzahl der beteiligten Kitas und in Abhängigkeit der Trägerstruktur der Kitalandschaft können mehrere Feedbackschleifen entstehen. Dies sollte in der Zeitplanung berücksichtigt werden. 
 
@@ -102,11 +102,11 @@ Dieser gemeinsam erarbeitete und für alle Beteiligten gleich geltende Kriterien
 
 ## Die Kriterien 
 
-Welche Aufnahmekriterien gehören in einen Katalog? Diese Frage ist nicht einfach zu beantworten. Denn sowohl die trägerspezifischen als auch regionalen Unterschiede scheinen im Praxisalltag sehr groß zu sein. Zudem gibt es fortlaufend richterliche Entscheidungen, wie das <mark>Kapitel</mark> [Urteil vom Oberverwaltungsgericht (OVG) Münster](/docs/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen), die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. Kitaspezifische Kriterien, die ebenso berücksichtigt werden sollten.
+Welche Aufnahmekriterien gehören in einen Katalog? Diese Frage ist nicht einfach zu beantworten. Denn sowohl die trägerspezifischen als auch regionalen Unterschiede scheinen im Praxisalltag sehr groß zu sein. Zudem gibt es fortlaufend richterliche Entscheidungen, wie das <mark>Kapitel</mark> [Urteil vom Oberverwaltungsgericht (OVG) Münster](/docs/Rechtlicher-Rahmen#urteil-des-ovg-münster-und-konsequenzen), die für die Berücksichtigung einzelner Kriterien von Bedeutung sind. Darüber hinaus gibt es, insbesondere bei Elterninitiativen, besondere Träger- bzw. kitaspezifische Kriterien, die ebenso berücksichtigt werden sollten.
 
 Die Kriterien und deren konkrete Ausformulierungen werden von den beteiligten Trägervertretungen und Kitaleitungen erarbeitet. Dabei können die Kriterien in zwei Gruppen gegliedert werden: 
 
-Zum einen gibt es die „globalen Kriterien“, die für alle ausgewählten Einrichtungen gelten. Diese sind in allen Kitas identisch und haben zur Folge, dass ein Kind in allen Einrichtungen einen bestimmten (Grund)Punktewert hat. Zum anderen beschreiben die „lokalen Kriterien“ die Kriterien, die nur in bestimmten Kitas relevant sind. Diese führen dazu, dass Kinder in manchen Kitas zusätzliche Punkte bekommen, weil sie die dort geltenden, lokalen Kriterien erfüllen.
+Zum einen gibt es die „globalen Kriterien“, die für alle ausgewählten Einrichtungen gelten. Diese sind in allen Kitas identisch und haben zur Folge, dass ein Kind in allen Einrichtungen einen bestimmten (Grund)punktewert hat. Zum anderen beschreiben die „lokalen Kriterien“ die Kriterien, die nur in bestimmten Kitas relevant sind. Diese führen dazu, dass Kinder in manchen Kitas zusätzliche Punkte bekommen, weil sie die dort geltenden lokalen Kriterien erfüllen.
 
 
 
@@ -154,7 +154,7 @@ Während globale Kriterien einen allgemeingültigen Charakter vorweisen, sind lo
 - Kinder, deren Geschwister die Einrichtung zeitgleich besuchen
 - Öffnungszeit deckt den Betreuungsbedarf der Eltern ab.
 
-Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Da lokale Kriterien nur auf einzelne Einrichtungen zutreffen, bekommt das Kind auch nur in diesen die entsprechenden (Bonus)Punkte.
+Sowohl globale als auch lokale Kriterien finden in einem Kriterienkatalog Berücksichtigung und werden mit einem Punktwert gewichtet. Wenn ein globales Kriterium für ein bestimmtes Kind zutrifft, gilt der entsprechende Punktwert für alle (!) von den Eltern ausgewählten Wunscheinrichtungen gleichermaßen. Da lokale Kriterien nur auf einzelne Einrichtungen zutreffen, bekommt das Kind auch nur in diesen die entsprechenden (Bonus)punkte.
 
 
 {: .highlight}
@@ -178,7 +178,7 @@ In der Pilotkommune gelten demzufolge folgende „globale“ Kriterien, die für
 - Familienstand, wobei unterschieden wird zwischen “alleinlebend mit Kind” (die sorgeberechtigte Person lebt allein mit Kind(ern) und erhält keine weitere Unterstützung)  und “alleinerziehend” (die sorgeberechtigte Person wohnt mit mindestens einer erwachsenen Person und dem Kind zusammen),  
 - Berufstätigkeit, die sowohl für die erste wie für die zweite sorgeberechtigte Person berücksichtigt wird und konkret “Berufstätigkeit/Ausbildung/Weiterbildung/Schule/Studium (oder geplante Wiederaufnahme im Laufe des Kitajahres)" bedeutet,
 - Inklusion, 
-- besondere familiäre Situation, dazu zählen beispielsweise Mehrkindfamilien (ab 3 Kinder), pflegebedürftige Personen im Haushalt, langzeit erkrankte Eltern/Behinderung mind. eines Elternteils),
+- besondere familiäre Situation, dazu zählen beispielsweise Mehrkindfamilien (ab 3 Kinder), pflegebedürftige Personen im Haushalt, langzeiterkrankte Eltern/Behinderung mindestens eines Elternteils),
 - Hilfen vom Jugendamt/Hilfen zur Erziehung. 
 
 
@@ -208,7 +208,7 @@ Ziel ist es, eine Einigung unter den Beteiligten zu finden, wie wichtig welches 
 
 ---
 
-[^4]: [vgl. § 10 IV KiBiz NRW](https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=6&vd_id=18135&vd_back=N894&sg=0&menu=1). 
+[^4]: [Vgl. § 10 IV KiBiz NRW](https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=6&vd_id=18135&vd_back=N894&sg=0&menu=1). 
 
 
 
