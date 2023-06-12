@@ -162,7 +162,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
     </div>
     <div class="d-flex km-download__item" >
       <span class="mb-3 fs-5">Wegweiser</span>
-      <a href="#" class="btn btn-purple">Herunterladen</a>
+      <a href="https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/die-kitamatch-software" target="_blank" rel="noopener noreferrer" class="btn btn-purple">Herunterladen</a>
       </div>
   </div>
   <h2 class="text-center">Kontakt</h2>
