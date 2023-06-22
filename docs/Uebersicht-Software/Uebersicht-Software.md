@@ -16,11 +16,11 @@ Dieses Kapitel gibt eine Übersicht über die entwickelte KitaMatch-Software. Zu
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img src="../../assets/images/1_Screen.png"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/2_Screen.png"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/3_Screen.png"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/4_Screen.png"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/5_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/1_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/2_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/3_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/4_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/5_Screen.png"/></div>
 </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>

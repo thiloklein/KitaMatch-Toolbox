@@ -17,11 +17,11 @@ In diesem Kapitel stellen wir das von David Gale und Lloyd Shapley (1962) entwic
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img src="../../assets/images/1_Karten.png"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/2_Karten.png"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/3_Karten.png"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/4_Karten.png"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/5_Karten.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/1_Karten.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/2_Karten.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/3_Karten.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/4_Karten.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/5_Karten.png"/></div>
 </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>
