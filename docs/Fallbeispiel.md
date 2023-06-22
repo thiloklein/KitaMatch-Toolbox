@@ -24,14 +24,15 @@ Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einric
 
 ---
 
-<!-- Slider main container -->
-<div class="swiper">
+
+
+<div class="swiper-container swiper">
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-02.svg"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-02.svg"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-02.svg"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-01.svg"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-01.svg"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-01.svg"/></div>
 </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>
@@ -41,28 +42,6 @@ Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einric
   <div class="swiper-button-next swiper-button-black"></div>
 
 </div>
-
-<script type="text/javascript">
-
-const swiper = new Swiper(".swiper", {
-    loop: true,
-    speed: 1000,
-  
-    autoplay: {
-    delay: 5000,
-    },
-
-
-    pagination: {
-        el: ".swiper-pagination",
-    },
-
-    navigation: {
-        nextEl: ".swiper-button-next",
-        prevEl: ".swiper-button-prev",
-    },
-});
-</script>
 
 ## Gründe für die Einführung
 
