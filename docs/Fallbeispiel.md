@@ -24,25 +24,6 @@ Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einric
 
 ---
 
-
-
-<div class="swiper-container swiper">
-  <!-- Additional required wrapper -->
-  <div class="swiper-wrapper">
-    <!-- Slides -->
-    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-01.svg"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-01.svg"/></div>
-    <div class="swiper-slide"><img src="../../assets/images/infographics/Kita_Infografik_Gale-Shapely-01.svg"/></div>
-</div>
-  <!-- If we need pagination -->
-  <div class="swiper-pagination"></div>
-
-  <!-- If we need navigation buttons -->
-  <div class="swiper-button-prev swiper-button-black"></div>
-  <div class="swiper-button-next swiper-button-black"></div>
-
-</div>
-
 ## Gründe für die Einführung
 
 **Größere Transparenz bei der Vergabe von Betreuungsplätzen**	
