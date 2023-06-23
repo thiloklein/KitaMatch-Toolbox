@@ -1,0 +1,13 @@
+{
+
+  "scripts": {
+    "build": "parcel build scripts/app.js --dist-dir assets/dist"
+  },
+  
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  },
+  "dependencies": {
+    "swiper": "^9.4.1"
+  }
+}

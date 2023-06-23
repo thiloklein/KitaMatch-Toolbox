@@ -24,7 +24,6 @@ Während das Kreisjugendamt über die Anzahl der Plätze pro Kitajahr und Einric
 
 ---
 
-
 ## Gründe für die Einführung
 
 **Größere Transparenz bei der Vergabe von Betreuungsplätzen**	

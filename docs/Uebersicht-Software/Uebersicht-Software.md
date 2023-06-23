@@ -11,6 +11,26 @@ permalink: /docs/Uebersicht-Software
 
 Dieses Kapitel gibt eine Übersicht über die entwickelte KitaMatch-Software. Zuerst wird der [Standardfall](/docs/Uebersicht-Software/Der-Standardfall) behandelt, bei dem alle zu vergebenden Plätze den gleichen Umfang haben und zum gleichen Zeitpunkt frei werden. Es können pro Einrichtung Plätze für bis zu drei Alterskohorten (z. B. unter Zweijährige, Zweijährige, über Dreijährige) vergeben werden, die in KitaMatch als „U2“, „Ü2“und „Ü3“ bezeichnet sind. In [Kapitel 3.3](/docs/Uebersicht-Software/Moegliche-Erweiterungen) gehen wir zudem auf die Möglichkeiten ein, Plätze für unterschiedliche Betreuungszeitpunkte und unterschiedliche Betreuungsarten mit KitaMatch zu vergeben.
 
+<!-- Slider main container -->
+<div class="swiper-container swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+    <div class="swiper-slide"><img src="../../assets/images/slides/1_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/2_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/3_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/4_Screen.png"/></div>
+    <div class="swiper-slide"><img src="../../assets/images/slides/5_Screen.png"/></div>
+</div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev swiper-button-black"></div>
+  <div class="swiper-button-next swiper-button-black"></div>
+
+</div>
+
 Um ein erfolgreiches Projekt umzusetzen, werden zwei Personen in der Verwaltung einer Kommune benötigt: 
 
   1. Ein/Eine Projektmanager:in, die vor der Vergabe die Kitaleitungen und alle anderen Beteiligten schult, die erforderlichen Daten im richtigen Format sammelt und am Vergabetag die Software anwendet. 

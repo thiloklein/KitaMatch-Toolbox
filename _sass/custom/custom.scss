@@ -1,6 +1,8 @@
 @import '../../assets/fonts/stylesheet.css';
 
-
+:root {
+    --swiper-theme-color: #7253ed !important;
+}
 .km-text-lead {
     font-size: $font-size-7;
 }
@@ -98,7 +100,6 @@ h2 {
 
     img {
         width: 200px;
-        height: fit-content;
     }
 }
 
@@ -168,4 +169,49 @@ h2 {
             grid-column: span 1;
         }
     }
+}
+
+.site-footer {
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 64px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    
+    a {
+        margin-right: 1rem; 
+        
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+    
+    img {
+        width: auto;
+        height: 50px;
+       
+        
+        @include mq(md) {
+            height: auto;
+        }
+
+        &:last-child {
+            margin-right: 0;
+        }
+        
+    }
+
+    @include mq(lg) {
+        padding-top: 0;
+        padding-bottom: 0;
+        height: 64px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    } 
+}
+
+.swiper {
+    height: fit-content;
 }
