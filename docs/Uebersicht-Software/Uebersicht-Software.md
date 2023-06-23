@@ -11,6 +11,8 @@ permalink: /docs/Uebersicht-Software
 
 Dieses Kapitel gibt eine Übersicht über die entwickelte KitaMatch-Software. Zuerst wird der [Standardfall](/docs/Uebersicht-Software/Der-Standardfall) behandelt, bei dem alle zu vergebenden Plätze den gleichen Umfang haben und zum gleichen Zeitpunkt frei werden. Es können pro Einrichtung Plätze für bis zu drei Alterskohorten (z. B. unter Zweijährige, Zweijährige, über Dreijährige) vergeben werden, die in KitaMatch als „U2“, „Ü2“und „Ü3“ bezeichnet sind. In [Kapitel 3.3](/docs/Uebersicht-Software/Moegliche-Erweiterungen) gehen wir zudem auf die Möglichkeiten ein, Plätze für unterschiedliche Betreuungszeitpunkte und unterschiedliche Betreuungsarten mit KitaMatch zu vergeben.
 
+Die Platzvergabe über die Software erfolgt in fünf einfachen Schritten, die nachfolgend graphisch dargestellt sind.
+
 <!-- Slider main container -->
 <div class="swiper-container swiper">
   <!-- Additional required wrapper -->
