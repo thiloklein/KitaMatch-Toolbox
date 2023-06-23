@@ -12,6 +12,8 @@ permalink: /docs/Das-Gale-Shapley-Verfahren
 
 In diesem Kapitel stellen wir das von David Gale und Lloyd Shapley (1962) entwickelte Zuteilungsverfahren (Mechanismus) vor, welches der Kitaplatzvergabe respektive der Software KitaMatch zugrunde liegt. Wir beschreiben, wie mit diesem Verfahren eine Zuteilung von Kindern auf die verfügbaren Kitaplätze basierend auf dem Kriterienkatalog bzw. den Prioritäten der Kitas und den Präferenzen der Eltern ermittelt wird. 
 
+Die Platzvergabe erfolgt in vier einfachen Schritten, die nachfolgend graphisch dargestellt sind.
+
 <!-- Slider main container -->
 <div class="swiper-container swiper">
   <!-- Additional required wrapper -->
