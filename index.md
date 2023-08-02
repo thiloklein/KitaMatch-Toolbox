@@ -204,6 +204,11 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
     <a href="https://www.faz.net/aktuell/wirtschaft/kinderbetreuung-raus-aus-der-kita-warteschlange-15053793.html">Raus aus der Kita-Warteschlange</a>
   </div>
 </section>
+
+## ZEW-Podcast
+
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://wirtschaft-forschung-debatten.podigee.io/36-auf-die-platze-fertig-los-so-gelingt-die-kitaplatzvergabe/embed?context=external"></script>
+
 <section class="text-center mt-10">
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">
   <img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/de/88x31.png" />
