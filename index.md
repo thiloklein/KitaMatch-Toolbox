@@ -205,9 +205,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   </div>
 </section>
 
-## ZEW-Podcast
-
-<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://wirtschaft-forschung-debatten.podigee.io/36-auf-die-platze-fertig-los-so-gelingt-die-kitaplatzvergabe/embed?context=external"></script>
+## License
 
 <section class="text-center mt-10">
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">
