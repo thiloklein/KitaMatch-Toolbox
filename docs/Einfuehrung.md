@@ -13,7 +13,7 @@ Mit dem Ziel einer gerechten und schnelleren Kitaplatzvergabe hat das ZEW – Le
 
 Im ZEW-Podcast "Wirtschaft - Forschung - Debatten" macht Marktdesign-Experte Thilo Klein deutlich, dass Kitaplätze effizienter als bisher verteilt werden können.
 
-<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://wirtschaft-forschung-debatten.podigee.io/36-auf-die-platze-fertig-los-so-gelingt-die-kitaplatzvergabe/embed?context=external"></script>
+
 
 Im Folgenden geben wir einen allgemeinen Überblick über den Status quo und die Probleme der Kitaplatzvergabe in Deutschland, das in KitaMatch umgesetzte Vergabeverfahren und die Vorteile dieser Lösung.
 
