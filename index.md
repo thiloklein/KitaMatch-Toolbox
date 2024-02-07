@@ -186,9 +186,14 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
 
 <section>
   <div class="km-press__wrapper">
+
+    <img src="assets/images/SZ-Logo.svg" alt="Logo der SZ" >
+    <b>Süddeutsche</b>
+    <a href="https://www.sueddeutsche.de/projekte/artikel/wirtschaft/buerokratie-olaf-scholz-verwaltung-e836159/">Bürokratie: Acht Verwaltungsregeln, die sofort weg können</a>
+    
     <img src="assets/images/tagesspiegel-icon.webp" alt="Icon des Tagesspiegels" >
     <b>Tagesspiegel</b>
-    <a href="https://background.tagesspiegel.de/smart-city/algorithmus-sucht-passenden-kitaplatz">Algorithmus sucht passenden Kitaplatz </a>
+    <a href="https://background.tagesspiegel.de/smart-city/algorithmus-sucht-passenden-kitaplatz">Algorithmus sucht passenden Kitaplatz</a>
     
     
     <img src="assets/images/wiwo_logo.png" alt="Logo der Wirschaftswoche" >
