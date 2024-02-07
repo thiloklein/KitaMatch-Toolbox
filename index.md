@@ -211,12 +211,12 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
  
     
     <img src="assets/images/faz_logo.png" alt="Logo der FaZ" >
-    <b>FAZ</b>
+    <b>F.A.Z.</b>
     <a href="https://www.faz.net/aktuell/wirtschaft/wie-ein-algorithmus-kitaplaetze-fairer-vergeben-soll-16510418.html">Gegen den Kita-Frust – wie ein Algorithmus Kitaplätze fairer vergeben soll</a>
 
     
     <img src="assets/images/faz_logo.png" alt="Logo der FaZ" >
-    <b>FAZ</b>
+    <b>F.A.Z.</b>
     <a href="https://www.faz.net/aktuell/wirtschaft/kinderbetreuung-raus-aus-der-kita-warteschlange-15053793.html">Raus aus der Kita-Warteschlange</a>
   </div>
 </section>
