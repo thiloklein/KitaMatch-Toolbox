@@ -212,7 +212,6 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   </div>
 </section>
 
-## License
 
 <section class="text-center mt-10">
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">
