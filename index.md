@@ -197,7 +197,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
     <a href="https://background.tagesspiegel.de/smart-city/algorithmus-sucht-passenden-kitaplatz">Algorithmus sucht passenden Kitaplatz</a>
     
     <img src="assets/images/die-zeit_Logo.svg" alt="Logo der ZEIT" >
-    <b>ZEIT</b>
+    <b>Die Zeit</b>
     <a href="https://www.zeit.de/2021/06/kuenstliche-intelligenz-kita-anwendung-regulierung-gesellschaft-technologie">Mit künstlicher Intelligenz zum Kitaplatz</a>
     
     <img src="assets/images/wiwo_logo.png" alt="Logo der Wirschaftswoche" >
