@@ -169,7 +169,7 @@ Das KitaMatch-Verfahren verbindet die Wünsche von Eltern nach Betreuungsplätze
   <div class="mb-10">
     <div class="d-flex km-download__item">
       <span class="mb-6 fs-5">Bei Fragen und Anmerkungen melden Sie sich gern beim KitaMatch-Team.</span>
-      <a href="mailto:thilo.klein@zew.de" class="btn btn-purple">E-Mail schreiben</a>
+      <a href="mailto:kontakt@kitamatch.com" class="btn btn-purple">E-Mail schreiben</a>
     </div>
   </div>
 </section>
